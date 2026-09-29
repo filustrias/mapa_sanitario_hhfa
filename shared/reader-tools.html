@@ -1,0 +1,81 @@
+<script>
+(function () {
+  var html = document.documentElement;
+  var pt = (html.lang || "pt").toLowerCase().indexOf("pt") === 0;
+  var L = pt
+    ? { font: "Tipo de letra", size: "Tamanho", sans: "Sans", serif: "Serifa", legible: "Legível",
+        smaller: "Diminuir letra", larger: "Aumentar letra", reset: "Tamanho normal",
+        lang: "Idioma", other: "English", otherTitle: "Read this page in English", tools: "Leitura" }
+    : { font: "Typeface", size: "Size", sans: "Sans", serif: "Serif", legible: "Legible",
+        smaller: "Smaller text", larger: "Larger text", reset: "Normal size",
+        lang: "Language", other: "Português", otherTitle: "Ler esta página em português", tools: "Reading" };
+
+  function get(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+  function set(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+
+  function el(tag, attrs, text) {
+    var n = document.createElement(tag);
+    for (var a in attrs) n.setAttribute(a, attrs[a]);
+    if (text) n.textContent = text;
+    return n;
+  }
+
+  // Counterpart page in the other language: same file name in the sibling folder.
+  function otherLangUrl() {
+    var from = pt ? "/pt/" : "/en/", to = pt ? "/en/" : "/pt/";
+    var p = location.pathname, i = p.lastIndexOf(from);
+    if (i < 0) return null;
+    return p.slice(0, i) + to + p.slice(i + from.length) + location.hash;
+  }
+
+  function build() {
+    var box = el("div", { "class": "reader-tools", role: "group", "aria-label": L.tools });
+
+    box.appendChild(el("span", { "class": "reader-label" }, L.font));
+    var fonts = el("div", { "class": "reader-group" });
+    var cur = get("reader-font") || "sans";
+    [["sans", L.sans], ["serif", L.serif], ["legible", L.legible]].forEach(function (f) {
+      var b = el("button", { type: "button", "aria-pressed": String(cur === f[0]) }, f[1]);
+      b.addEventListener("click", function () {
+        if (f[0] === "sans") html.removeAttribute("data-font"); else html.setAttribute("data-font", f[0]);
+        set("reader-font", f[0]);
+        fonts.querySelectorAll("button").forEach(function (x) {
+          x.setAttribute("aria-pressed", String(x === b));
+        });
+      });
+      fonts.appendChild(b);
+    });
+    box.appendChild(fonts);
+
+    box.appendChild(el("span", { "class": "reader-label" }, L.size));
+    var sizes = el("div", { "class": "reader-group" });
+    function size() { return parseInt(html.getAttribute("data-fontsize") || "0", 10); }
+    function applySize(n) {
+      n = Math.max(-1, Math.min(2, n));
+      if (n === 0) html.removeAttribute("data-fontsize"); else html.setAttribute("data-fontsize", String(n));
+      set("reader-fontsize", String(n));
+    }
+    [["A−", L.smaller, -1], ["A", L.reset, 0], ["A+", L.larger, 1]].forEach(function (s) {
+      var b = el("button", { type: "button", title: s[1], "aria-label": s[1] }, s[0]);
+      b.addEventListener("click", function () { applySize(s[2] === 0 ? 0 : size() + s[2]); });
+      sizes.appendChild(b);
+    });
+    box.appendChild(sizes);
+
+    var url = otherLangUrl();
+    if (url) {
+      box.appendChild(el("span", { "class": "reader-label" }, L.lang));
+      box.appendChild(el("a", { "class": "reader-lang", href: url, title: L.otherTitle, hreflang: pt ? "en" : "pt" }, L.other));
+    }
+    return box;
+  }
+
+  function mount() {
+    var host = document.querySelector("#quarto-sidebar .sidebar-menu-container");
+    if (!host) return;
+    host.parentNode.insertBefore(build(), host);
+  }
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", mount);
+  else mount();
+})();
+</script>

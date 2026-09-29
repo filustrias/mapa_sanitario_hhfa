@@ -1,0 +1,77 @@
+// Shared rules for both themes (imported by light.scss and dark.scss).
+
+:root {
+  --reader-font: "Source Sans 3", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+html[data-font="serif"] {
+  --reader-font: "Source Serif 4", Georgia, "Times New Roman", serif;
+}
+html[data-font="legible"] {
+  --reader-font: "Atkinson Hyperlegible", Verdana, sans-serif;
+}
+html[data-fontsize="-1"] { font-size: 93.75%; }
+html[data-fontsize="1"]  { font-size: 112.5%; }
+html[data-fontsize="2"]  { font-size: 125%; }
+
+body, .sidebar, .navbar, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6,
+.title, .quarto-title .title, #TOC, .sidebar-title {
+  font-family: var(--reader-font);
+}
+
+main p, main li { line-height: 1.65; }
+
+.chapter-lead {
+  font-size: 1.12em;
+  font-weight: 600;
+  line-height: 1.45;
+  margin-bottom: 1rem;
+}
+
+// The source texts use inline-styled boxes; give them breathing room.
+main :is(div, section)[style*="border"] { margin: 1.2rem 0; }
+main :is(div, section)[style*="border"] > :last-child { margin-bottom: 0; }
+main :is(div, section)[style*="border"] > :is(h2, h3, h4, h5):first-child { margin-top: 0; }
+
+// Wide questionnaire tables.
+main table { font-size: 0.92em; }
+main table td, main table th { vertical-align: top; }
+main.content, #quarto-document-content { min-width: 0; }
+@media (max-width: 767.98px) {
+  main table { display: block; max-width: 100%; overflow-x: auto; }
+  main table td, main table th { min-width: 9rem; }
+}
+
+// Reader tools (typeface, size, language) at the top of the sidebar.
+.reader-tools {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem;
+  align-items: center;
+  padding: .5rem 0 .75rem;
+}
+.reader-tools button, .reader-tools a.reader-lang {
+  font: inherit;
+  font-size: .8rem;
+  line-height: 1;
+  padding: .35rem .55rem;
+  border-radius: .4rem;
+  border: 1px solid var(--reader-border);
+  background: transparent;
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+.reader-tools button[aria-pressed="true"] {
+  background: var(--reader-accent);
+  border-color: var(--reader-accent);
+  color: #fff;
+}
+.reader-tools .reader-group { display: inline-flex; gap: .25rem; }
+.reader-tools .reader-label {
+  width: 100%;
+  font-size: .72rem;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  opacity: .7;
+  margin-top: .25rem;
+}

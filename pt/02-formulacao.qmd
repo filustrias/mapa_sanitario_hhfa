@@ -1,0 +1,240 @@
+# Nota sobre a formulação e apresentação das perguntas e opções de resposta
+
+::: {style="border-left:6px solid #0b6e99;background:#eaf4f9;padding:14px 18px;border-radius:6px;"}
+
+Análise da redação das perguntas e das opções de resposta da **Ficha do Mapa Sanitário** e do seu **Guião de Preenchimento** (versão 19_01, abril de 2019), comparada com a redação das perguntas do **Harmonized Health Facility Assessment** (HHFA, avaliação harmonizada de unidades sanitárias, da Organização Mundial da Saúde).
+
+O propósito é mostrar onde pequenos ajustes de redação tornam a Ficha do Mapa Sanitário mais precisa, sem mudar o seu âmbito nem alongar a visita.
+
+:::
+
+::: {style="border:3px solid #c0392b;background:#fdecea;padding:18px 20px;border-radius:8px;margin:18px 0;"}
+
+## ⚠ LEIA PRIMEIRO
+
+<p style="font-size:1.1em;line-height:1.55;margin:0 0 10px 0;"><strong style="color:#c0392b;">Este é o segundo de três documentos.</strong> O primeiro deu a panorâmica. Este trata da formulação e da apresentação das perguntas. O terceiro fará o panorama de cobertura, quesito a quesito.</p>
+
+<p style="font-size:1.05em;line-height:1.55;margin:0 0 10px 0;"><strong>Um achado que atravessa todo o documento:</strong> o Guião de Preenchimento é, em vários pontos, tão preciso quanto o HHFA. Define o que conta como consulta pré-natal completa, o que é um laboratório mínimo, o que é esterilização por método fiável e o que é uma cama. <strong style="color:#c0392b;">A precisão está no guião; o que se perde é o registo dela na Ficha do Mapa Sanitário</strong>, porque a resposta disponível é uma só caixa.</p>
+
+<p style="font-size:1.05em;line-height:1.55;margin:0;">Por isso, quase todos os ajustes propostos aqui não pedem perguntas novas. Pedem que a Ficha do Mapa Sanitário passe a registar aquilo que o guião já manda verificar.</p>
+
+:::
+
+::: {style="border-left:6px solid #1e8449;background:#eafaf1;padding:14px 18px;border-radius:6px;"}
+
+## O princípio: a pergunta decide o dado
+
+Cada pergunta de um inquérito decide três coisas ao mesmo tempo:
+
+1. **Quem responde** e com que conhecimento.
+2. **O que conta como "sim"**, ou seja, o critério.
+3. **A que momento se refere** a resposta.
+
+Quando uma dessas três coisas fica implícita, quem decide é o inquiridor, sozinho, à porta da sala, com o respondente à espera. E como a decisão não fica registada, ninguém depois consegue saber qual foi.
+
+**O teste que usamos em todo este documento** é sempre o mesmo: *perante uma situação intermédia, o que é que o inquiridor marca?* Se a ficha não responde a essa pergunta, a resposta varia de equipa para equipa, e essa variação entra nos resultados sem deixar rasto.
+
+:::
+
+## 1. Quem responde, e em que sala
+
+**Na Ficha do Mapa Sanitário.** O guião diz que a informação é obtida "mediante entrevista com o responsável da US ou o seu substituto, e a consulta com as estatísticas da US e outros documentos" (folha 3). O mesmo respondente responde por todas as secções, do laboratório às comissões hospitalares, e a ficha não indica onde cada pergunta deve ser feita.
+
+**No HHFA.** Cada bloco abre com uma instrução de encaminhamento, escrita em maiúsculas para o inquiridor:
+
+> "PEÇA PARA SER LEVADO AO LOCAL DA UNIDADE ONDE SÃO PRESTADOS OS SERVIÇOS DE DOENÇAS NÃO TRANSMISSÍVEIS. ENCONTRE A PESSOA QUE MAIS SABE SOBRE ESSES SERVIÇOS. APRESENTE-SE, EXPLIQUE O OBJETIVO DO INQUÉRITO E FAÇA AS PERGUNTAS SEGUINTES." (i1502)
+
+O laboratório, a farmácia, a maternidade e a urgência têm cada um o seu respondente e o seu local de verificação.
+
+**O dilema do inquiridor.** Pergunta-se ao diretor se há tiras de urina para cetonas. O diretor não é quem trabalha no laboratório. Se responder de boa-fé "sim, temos", a resposta descreve o que costuma haver. Ninguém abriu a gaveta.
+
+**Efeito na medição.** O viés é previsível e tem direção: as respostas obtidas longe do local tendem a descrever a situação normal e a sobrestimar a disponibilidade no dia.
+
+**Ajuste.** Uma linha de instrução por secção, dizendo onde ir e com quem falar. Nenhuma pergunta nova.
+
+## 2. A verificação que se faz e não se regista
+
+**Na Ficha do Mapa Sanitário.** A recolha já se faz em duas etapas: o responsável informa e a equipa verifica no local. Essa verificação não tem onde ser registada, porque a caixa é de sim ou não.
+
+**No HHFA.** A instrução de verificação está dentro da pergunta, e o resultado dela está dentro da resposta:
+
+> "As normas nacionais para o diagnóstico e manejo da diabetes estão disponíveis neste local de serviço hoje? **Se sim, pergunte: posso ver as normas?**"
+> Respostas: **1** sim, observado · **2** sim, referido, não visto · **3** não (Q1507)
+
+**O dilema do inquiridor.** O responsável diz que as normas existem, mas estão fechadas no armário e a chave está com o enfermeiro-chefe, que hoje não veio. Com duas opções, o inquiridor tem de escolher entre "sim", que apaga a dúvida, e "não", que é injusto com a unidade. Quase toda a gente escolhe "sim".
+
+**Efeito na medição.** As duas situações — norma vista e norma referida — passam a contar como iguais. É um viés para cima, e é sistemático, porque o inquiridor escolhe sempre do mesmo lado.
+
+**Ajuste.** Três respostas nos itens que se podem ver. O tempo de recolha não muda: a pergunta já é feita, só a resposta é que ganha uma casa.
+
+## 3. O momento a que a resposta se refere
+
+**Na Ficha do Mapa Sanitário.** As expressões usadas são "em funcionamento", "está a funcionar actualmente" (guião, folhas 10, 12, 14 e 15) e, na secção 9, "aparelhos médico-cirúrgicos **habitualmente** em funcionamento".
+
+**No HHFA.** Cada pergunta fixa o seu momento, e o momento muda conforme o que se quer saber:
+
+| Pergunta | Momento |
+|---|---|
+| "O incinerador está a funcionar hoje?" e "há combustível hoje?" (Q1219, Q1220) | hoje |
+| "Durante os últimos 7 dias houve eletricidade, da fonte principal ou de reserva, em todos os momentos em que a unidade esteve aberta?" (Q1209) | últimos 7 dias |
+| "Em algum momento dos últimos 3 meses o oxigénio esteve indisponível neste local, por qualquer razão?" (Q2653) | últimos 3 meses |
+| "O senhor, ou algum profissional deste serviço, recebeu formação em diagnóstico e manejo da diabetes nos últimos 2 anos?" (Q1509) | últimos 2 anos |
+
+**O dilema do inquiridor.** O ecógrafo avariou há três semanas e a peça foi encomendada. "Habitualmente em funcionamento" diz que sim. "A funcionar hoje" diz que não. As duas respostas estão certas, cada uma para a sua pergunta, mas a ficha não diz qual é a pergunta.
+
+**Efeito na medição.** Sem período fixado, cada equipa resolve à sua maneira e o resultado provincial mistura capacidade instalada com disponibilidade real. Como "habitualmente" é a leitura mais generosa, o viés é para cima.
+
+**Ajuste.** Escrever o período em cada pergunta. Onde interessa a capacidade instalada, dizer "habitualmente"; onde interessa a situação real, dizer "hoje".
+
+::: {style="border-left:6px solid #b7950b;background:#fdf6e3;padding:14px 18px;border-radius:6px;"}
+
+## 4. Conceitos compostos numa só caixa: onde se perde a especificidade
+
+Este é o ponto de maior perda de informação, e é também aquele em que o Guião de Preenchimento é mais rico do que a Ficha do Mapa Sanitário consegue registar.
+
+### 4.1 Laboratório
+
+**O que diz o guião (folha 12).** Laboratório: "realização no mínimo de gota espessa, hemoglobina ou hematócrito, e análises simples de fezes e urina".
+
+**O que a ficha oferece.** Uma caixa: 7.2.1 Laboratório, marcar se existe.
+
+**A situação real, que é a mais frequente.** A unidade faz gota espessa e hemoglobina. Não faz exame de fezes nem de urina, porque não há tiras. **O que se marca?**
+
+- Se o inquiridor marcar **sim**, a unidade entra no relatório ao lado de um laboratório completo.
+- Se marcar **não**, desaparece do mapa uma unidade que faz diagnóstico de malária e de anemia todos os dias.
+
+Nenhuma das duas respostas é verdadeira, e a ficha obriga a escolher uma. Na prática, a tendência é marcar "sim", porque o serviço existe e o inquiridor não quer prejudicar a unidade.
+
+**Como o HHFA resolve.** Não pergunta se há laboratório. Pergunta, teste a teste, se é feito no local, se a amostra é enviada para fora com devolução do resultado, ou se não é feito. Depois pergunta pelo equipamento e pelos reagentes correspondentes:
+
+> "Agora gostaria de saber se os seguintes exames estão disponíveis neste local hoje. Para cada um, por favor mostre-mo."
+> Respostas por item: **1** pelo menos um não expirado · **2** disponível mas expirado · **3** referido disponível, não visto · **4** não disponível hoje · **5** nunca disponível (Q2911)
+
+**O que se ganha.** A mesma unidade passa a aparecer como "faz malária e hemoglobina, não faz urina nem fezes". É uma frase que se pode usar para decidir o que comprar.
+
+### 4.2 Consulta pré-natal
+
+**O que diz o guião (folha 12).** Manda registar se a consulta é "completa, incompleta ou não é realizada", e define a completa por uma lista: cartão de grávida, anamnese, peso, edemas, fundo do útero, mucosas, tensão arterial e manobras de Leopold, mais tratamento intermitente da malária, vacinação, ferro e ácido fólico, desparasitação e aconselhamento.
+
+**O que a ficha oferece.** Uma caixa: 7.3.6 Consulta pré-natal.
+
+**A situação real.** A unidade pesa, mede a tensão e dá ferro, mas não tem esfigmomanómetro em três dos quatro gabinetes, não faz testagem de sífilis e está sem sulfadoxina-pirimetamina há dois meses. **O que se marca?** Marca-se "sim", e o relatório dirá que 96% das unidades oferecem consulta pré-natal — a mesma percentagem que teriam se todas fizessem a consulta completa.
+
+**Como o HHFA resolve.** A oferta é desdobrada por componente e a prontidão é verificada item a item: testagem de VIH e de sífilis na grávida, hemoglobina, análise de urina, ferro e ácido fólico, vacina antitetânica, tratamento intermitente da malária, cada um com a sua resposta.
+
+**O que se ganha.** Deixa de ser preciso escolher entre "tem" e "não tem". A unidade fica descrita pelo que faz e pelo que lhe falta.
+
+### 4.3 Parto: cuidados obstétricos básicos
+
+**O que a ficha oferece.** Duas caixas: 7.3.7.1 CONU-B e 7.3.7.2 CONU-C. O guião define o básico como antibiótico, ocitocina e anticonvulsivante parentéricos, remoção manual da placenta e remoção de restos ovulares.
+
+**A situação real.** A unidade faz tudo isso exceto o anticonvulsivante, porque não há sulfato de magnésio. **O que se marca?** A definição é um conjunto: falta um elemento, logo não é CONU-B. Mas marcar "não" iguala esta unidade a outra que não faz nenhuma das cinco funções.
+
+**Como o HHFA resolve.** Pergunta pelas sete funções-sinal uma a uma, e ainda verifica se o medicamento correspondente está no local e dentro da validade.
+
+**O que se ganha.** Sabe-se exatamente qual função falta, e se falta por falta de medicamento, de equipamento ou de formação. Uma unidade a quem só falta o sulfato de magnésio é um problema de compra; uma unidade a quem falta tudo é um problema de desenho da rede.
+
+### 4.4 Pequena cirurgia
+
+**O que diz o guião (folha 10).** "Cirurgia Menor (Curativos): são prestados serviços de tratamento de feridas e ferimentos, pensos e injecções."
+
+**O problema de especificidade.** A definição junta o penso simples, que qualquer posto faz, com a sutura e a drenagem de abcessos, que exigem material estéril, anestésico local e pessoal treinado. Com esta redação, quase todas as unidades marcam "sim", e a caixa deixa de distinguir seja o que for.
+
+**Como o HHFA resolve.** Lista os procedimentos: sutura de laceração, drenagem de abcesso, desbridamento de ferida, tratamento de queimadura aguda, colocação de dreno torácico, remoção de corpo estranho. E verifica o material: kit de pequena cirurgia, luvas estéreis, antisséptico, lidocaína, suturas.
+
+### 4.5 A regra geral que se pode tirar destes quatro casos
+
+Uma caixa única só funciona bem quando o conceito é indivisível. Quando o conceito é uma lista — e nestes quatro casos é —, a caixa única força o inquiridor a arredondar, e o arredondamento é quase sempre para cima. **O que se perde não é precisão decimal: é a capacidade de dizer o que falta.** E é exatamente isso que um plano de investimento precisa de saber.
+
+:::
+
+## 5. Existir e funcionar não são a mesma coisa
+
+**Na Ficha do Mapa Sanitário.** Para as comissões da secção 7.4 — ética, infeções hospitalares, óbitos, medicamentos, segurança no trabalho, disciplina e auditoria —, o guião diz apenas "indicar se existe". Para o núcleo de formação permanente, já acrescenta um critério temporal: "que tenha estado a funcionar nos últimos 6 meses" (folha 14).
+
+**No HHFA.** O critério é sempre o funcionamento: conselho de direção que reuniu nos últimos 6 meses (4.1.1.1.1), comité de gestão que reuniu nos últimos 3 (4.1.1.1.2), comité de finanças (4.1.1.1.3), e com que frequência o comité recorre ao plano de gestão nas suas decisões (Q509).
+
+**O dilema do inquiridor.** A comissão de infeções foi criada por despacho em 2019 e nunca se reuniu. Existe? No papel, existe.
+
+**Efeito na medição.** Mede-se a formalidade e não a prática, e o resultado não distingue a unidade que gere a infeção hospitalar daquela que apenas nomeou uma comissão.
+
+**Ajuste.** Estender às comissões o critério que o guião já aplica ao núcleo de formação permanente.
+
+## 6. Serviço regular e serviço irregular
+
+**Na Ficha do Mapa Sanitário.** O guião é explícito: "serviços oferecidos com carácter irregular devem ser devidamente identificados" (folha 10). E dá a regra: um serviço prestado só quando o médico está escalado é irregular, mas "será considerado regular se o médico pode ser chamado mesmo que não estiver presente na US".
+
+**O problema.** A ficha não tem campo para marcar a irregularidade, por isso a instrução não se pode cumprir. E a regra da chamada é generosa: basta existir alguém que possa ser chamado para o serviço contar como regular.
+
+**No HHFA.** A disponibilidade temporal é medida em perguntas próprias: horas por dia em que a unidade está aberta (Q1302), dias por semana (Q1304) e, na urgência, duas perguntas distintas — existe unidade de urgência dedicada 24 horas (3.5.1.1.2) e há pessoal médico e de enfermagem presente 24 horas (3.5.1.1.3).
+
+**O dilema do inquiridor.** O posto tem atendimento até às 15 horas e, à noite, uma enfermeira que mora ao lado e é chamada quando é preciso. Pela regra, é urgência regular. Na ficha, fica igual a um centro com equipa presente 24 horas.
+
+**Ajuste.** Uma coluna de frequência nos serviços em que isso muda a leitura: diário, semanal, mensal, por chamada.
+
+## 7. Zero, não sabe e não respondido
+
+**Na Ficha do Mapa Sanitário.** A população adstrita preenche-se "se é conhecida" (guião, folha 6); o ano de construção é "não obrigatório"; não existe opção de "não sabe" nas caixas de serviço.
+
+**No HHFA.** "Não sabe" é uma opção codificada em cerca de 70 perguntas, sobretudo nas de funcionamento de equipamento, e os valores desconhecidos têm um código próprio, distinto de zero.
+
+**O dilema do inquiridor.** Pergunta-se quantas camas de internamento há. O responsável não sabe ao certo e a enfermaria está fechada. Deixar em branco, ou escrever um número aproximado?
+
+**Efeito na medição.** Um campo vazio pode significar ausência, desconhecimento ou esquecimento. Na análise, o vazio tende a ser lido como ausência, e os itens com muitos vazios saem para baixo. O pior é que os três casos se tornam indistinguíveis depois da recolha.
+
+**Ajuste.** Acrescentar "não sabe" onde a resposta depende de memória, e usar um código distinto para o não preenchido.
+
+## 8. O que fica em texto livre
+
+**Na Ficha do Mapa Sanitário.** Os metros quadrados por estado de conservação — o dado que permite custear a obra — são registados no campo de observações da secção 5. As secções das camas, dos aparelhos e dos meios de transporte têm linhas livres para acrescentar itens não listados.
+
+**No HHFA.** As quantidades têm campo numérico próprio e as listas são fechadas, com a adaptação nacional feita antes do trabalho de campo, e não durante.
+
+**Efeito na medição.** Texto livre não se tabula sem codificação posterior, e itens acrescentados por cada equipa dificilmente são comparáveis entre municípios. O dado existe, mas não chega à tabela.
+
+**Ajuste.** Quatro campos numéricos para os metros quadrados por estado. Listas fechadas, revistas a cada edição.
+
+## 9. Listas longas sem pergunta de abertura
+
+**Na Ficha do Mapa Sanitário.** A secção 7.1 tem 36 caixas de especialidades clínicas e cirúrgicas, marcadas em sequência. Num posto de saúde, 33 delas são "não".
+
+**No HHFA.** Há uma pergunta de abertura por bloco, com salto: se a unidade não oferece serviços de doenças não transmissíveis, saltam-se todas as perguntas de diabetes, hipertensão e doença respiratória (Q1500). É isto que permite ao instrumento ser longo sem que cada unidade responda a tudo.
+
+**Efeito na medição.** Listas longas em que quase tudo é "não" cansam quem responde e quem regista. O erro concentra-se nas últimas linhas, e é sempre o mesmo tipo de erro: deixar por marcar o que existe.
+
+**Ajuste.** Perguntas de abertura por bloco, com salto sinalizado. Em suporte eletrónico, o salto é automático.
+
+## 10. Contar aparelhos ou medir disponibilidade
+
+**Na Ficha do Mapa Sanitário.** A secção 9 conta o número de aparelhos de cada tipo, para centros e postos de saúde. O relatório apresenta os totais provinciais, por exemplo 323 balanças de adulto.
+
+**No HHFA.** O indicador é a percentagem de unidades com o item disponível e funcional.
+
+**Efeito na medição.** O total provincial não diz quantas unidades têm pelo menos uma balança: uma unidade com cinco compensa cinco sem nenhuma. Para logística, o total é útil; para decidir onde investir, é a distribuição que conta.
+
+**Ajuste.** Manter a contagem e acrescentar no relatório a percentagem de unidades com pelo menos um item disponível e funcional. É uma mudança de análise, não de recolha.
+
+::: {style="border-left:6px solid #6c3483;background:#f4ecf7;padding:14px 18px;border-radius:6px;"}
+
+## Síntese dos ajustes propostos
+
+| Ajuste | Esforço na recolha | O HHFA já o faz? | O que melhora |
+|---|---|:--:|---|
+| Instrução de local e respondente por secção | Nenhum | Sim | Aproxima a resposta de quem sabe e do sítio onde o item está |
+| Três respostas em vez de sim/não nos itens verificáveis | Nenhum | Sim | Regista a verificação que já se faz |
+| Período de referência escrito em cada pergunta | Nenhum | Sim | Torna comparáveis unidades e edições |
+| Desdobrar as definições do guião em caixas | Algumas perguntas a mais | Sim | Permite dizer o que falta, e não só se tem ou não tem |
+| Critério temporal nas comissões e órgãos | Nenhum | Sim | Separa existir de funcionar |
+| Coluna de frequência nos serviços | Uma coluna | Sim | Concretiza a regra do regular e irregular que o guião já pede |
+| Opção "não sabe" e código para não preenchido | Nenhum | Sim | Evita ler vazio como ausência |
+| Campos numéricos para os metros quadrados por estado | Nenhum | Não | Permite custear obras diretamente da base de dados |
+| Perguntas de abertura com salto | Reduz o tempo | Sim | Menos cansaço, menos erro nas listas longas |
+| Percentagem de unidades com o item, no relatório | Nenhum na recolha | Sim | Mostra a distribuição, e não apenas o total |
+
+Nota sobre a coluna do meio: onde está "sim", o HHFA traz a solução já pronta na sua redação, e basta transpô-la. Onde está "não" — o caso dos metros quadrados por estado de conservação —, o HHFA não ajuda, porque não mede áreas. É informação que só existe do lado da Ficha do Mapa Sanitário e que convém preservar e estruturar melhor.
+
+Nenhum destes ajustes muda o propósito da Ficha do Mapa Sanitário nem o seu âmbito. A maior parte apenas dá lugar, na ficha, ao que o Guião de Preenchimento já manda fazer.
+
+No terceiro documento, estes pontos são levados ao detalhe, quesito a quesito, com a indicação de onde há sobreposição completa, sobreposição parcial e ausência de sobreposição entre os dois instrumentos.
+
+:::

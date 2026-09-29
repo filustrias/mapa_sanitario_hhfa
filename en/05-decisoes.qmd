@@ -1,0 +1,235 @@
+# Decisions we will need to take to move forward together {.unnumbered}
+
+::: {style="border-left:6px solid #0b6e99;background:#eaf4f9;padding:14px 18px;border-radius:6px;"}
+
+<p class="chapter-lead">Adapting the HHFA and enhancing the Health Map<br>Work agenda, pending decisions and calendar through December 2026</p>
+
+The four previous documents did the reading work: what each instrument captures, how the questions are worded, where coverage overlaps and which concrete enhancements are worth making. This document does something different — it sets out what remains to be **decided**, and proposes a way of working together so that those decisions are made in time.
+
+Nothing here is decided. What is set out is the list of what lies ahead, with a proposal for each point and a clear indication of when each decision can no longer wait.
+
+:::
+
+::: {style="border:3px solid #c0392b;background:#fdecea;padding:18px 20px;border-radius:8px;margin:18px 0;"}
+
+### ⚠ READ FIRST: the calendar is tight, and it is better to know it now
+
+<p style="font-size:1.1em;line-height:1.55;margin:0 0 10px 0;"><strong style="color:#c0392b;">Data collection is planned for November and December 2026. That leaves roughly five weeks of preparation.</strong></p>
+
+<p style="font-size:1.04em;line-height:1.5;margin:0 0 10px 0;">This is feasible, but with no margin to spare. The critical path is <strong>enumerator training</strong>, and training cannot begin before the instrument is finalised — which in turn cannot be drafted before we know which enhancements are included. Chained together, these three things take up virtually the whole of October.</p>
+
+<p style="font-size:1.04em;line-height:1.5;margin:0 0 10px 0;"><strong style="color:#c0392b;">The practical consequence:</strong> the decision on the package of enhancements — the first on the list — needs to be taken in the <strong>week of 5 to 9 October</strong>. Every week of delay in that decision pushes the start of data collection one week further out, and December is a wall.</p>
+
+<hr style="border:none;border-top:2px dashed #c0392b;margin:14px 0;">
+
+<p style="font-size:1.03em;line-height:1.5;margin:0 0 8px 0;"><strong>There is real slack in one place only: the size of the package.</strong> A smaller package means fewer questions to programme, fewer cases to test and fewer days of training. If the decision slips to mid-October, the right response is to <strong>reduce the package</strong>, never to compress the training — compressing the training is what destroys data quality, and a poorly trained collection costs more to correct than the saving it brought.</p>
+
+<p style="font-size:1.0em;line-height:1.45;margin:0;"><strong>The good news, and it is not a small one:</strong> a substantial part of the operational work does not need to be built. The HHFA brings it ready-made. The next section shows exactly what.</p>
+
+:::
+
+::: {style="border-left:6px solid #1e8449;background:#eafaf1;padding:16px 18px;border-radius:6px;"}
+
+## What is already settled and we do not need to build
+
+The HHFA is not just a questionnaire. It is a set of five pieces that work together, and four of them arrive ready to use.
+
+**1. The questionnaires.** They exist in two forms — the combined questionnaire, which brings the modules together in a single application, and the standalone questionnaires by module. In both forms, each question is classified as **core**, **additional** or **supplementary**, which means that the choice of depth is already structured: there is no need to decide question by question, only which layers apply.
+
+**2. The data collection application.** The HHFA provides the application in CSPro, already programmed, with conditional skips, filters and consistency checks built in. A question that applies only to facilities offering a given service never appears to those that do not offer it. This has a direct consequence for our case: **in digital data collection, adding questions costs far less than on paper**, because questions only appear to those who should answer them.
+
+**3. The indicator inventory.** Each indicator comes with its numerator, its denominator and the calculation rule written in code, linked to the questionnaire variables. We will not have to invent definitions or debate how something is calculated — the definition comes with the indicator, and it is the same one other countries use.
+
+**4. The analysis platform.** It takes the data in the application's output structure and produces the indicators. The work of programming the calculations is done.
+
+**5. The implementation guide.** It covers sample design, the profile and number of enumerators, the duration and structure of training, and field supervision procedures.
+
+### What remains with us
+
+What the HHFA does **not** bring — and cannot bring — is country adaptation. The instrument's own rules say so: the lists flagged for adaptation have to be replaced with national ones. These are the health facility types, the professional categories, the essential medicines list, the national guidelines and the priority programmes.
+
+**And this is precisely where the Health Map is irreplaceable.** Those lists exist, they are validated, they are used across the whole system and they are in the Form and in the Filling Guide. The adaptation work that takes months in other countries starts here from material that is already built.
+
+:::
+
+## Topic 1 — Operationalising the survey
+
+### What is at stake
+
+Who goes to the field, with what training, with what instrument in hand, and for how long.
+
+### What the HHFA already settles
+
+The implementation guide provides the enumerator profile, the supervision ratio, the structure of the training and the field quality control procedures. The CSPro application removes the need to programme the instrument and reduces completion error at source. Training materials exist and serve as a basis — we are not starting from a blank page.
+
+### What we have to decide
+
+**1.1 Who the enumerators are.** Three possible routes: the teams that already carry out the Health Map, the municipal supervisors, or recruiting dedicated enumerators. Our proposal is the first, for a fundamental reason — those teams already know the facilities, already know whom to speak to and already carry out verification in the field. What they lack is not experience, it is the formal recording of that verification, which is exactly what the enhancement proposes.
+
+**1.2 Paper or tablet.** This decision shapes the size of the package. On paper, every box added appears in every facility, including the health post that performs neither deliveries nor surgery. In digital collection, gateway questions mean that post never sees those blocks. **With a tablet, the same visit time accommodates a package around twice as large.** If equipment is available, this is the option we recommend; if it is not, the package should be designed for paper from the outset, and not adapted afterwards.
+
+**1.3 Duration and format of the training.** This depends on the package and the instrument. For a package limited to Types 1 and 2 of the catalogue, two days are enough. For a package that includes observation of items and validity scales, three to four days, with at least half a day in a real facility.
+
+**1.4 Formalising two-step verification.** The Health Map team already asks the person in charge and then confirms in the field. That practice is exactly the HHFA's logic. The decision is simple and the gain is large: start recording in the response what was observed and what was reported, instead of leaving it in the memory of whoever collected it.
+
+### What we need to know
+
+These questions shape the decisions above and we would like to raise them together, at the first meeting.
+
+- How many people currently carry out Health Map data collection, and in which provinces is there an on-site visit?
+- What training do they currently receive, and for how long?
+- How long does a visit to a facility currently take, on average?
+- Are tablets or smartphones available, or planned?
+
+## Topic 2 — Data management
+
+### What is at stake
+
+The Health Map is stored in Excel. The HHFA brings a system of its own. The question is not which is better in the abstract — it is how to move from one to the other without interrupting what already works.
+
+### The principle we propose
+
+**The collection format and the storage format are two separate decisions, and it is worth keeping them separate.**
+
+It is perfectly possible to collect in CSPro and continue to deliver to the GEPE an Excel file with the usual structure. The application exports in a defined structure, and converting to the current format is a transformation step, not a migration. Separating the two decisions greatly reduces risk: we can modernise data collection without touching what circulates today between the provinces and the GEPE.
+
+### What Excel does well, and is worth preserving
+
+It opens on any computer, requires no special licence or internet connection, everyone in the system knows how to use it, and it circulates by email — which is how the Form circulates today, by design. A system that lacks these properties will struggle to replace it, however good it may be technically.
+
+### What we would gain from the HHFA system
+
+**Validation at source.** Errors are caught at the moment they are made, not months later during consolidation.
+
+**A formal data dictionary.** Each variable with a fixed name, a declared type and permitted values — which makes year-on-year comparison automatic rather than manual.
+
+**A direct link to indicator calculation.** The variable names are the ones the indicator inventory uses in its calculation rules, so the indicator comes out without intermediate programming.
+
+### What we have to decide
+
+**2.1 Where data is collected** — paper then transcribed, CSPro, or a digital form of our own.
+
+**2.2 Where data is stored** — keep Excel as the exchange and archive format, adopt the HHFA database, or keep both with an automatic conversion.
+
+**2.3 Who consolidates and how often** — and, above all, at what point in the flow validation comes in.
+
+### What we need to know
+
+- How is the GEPE file structured today: one per province, one per year, one sheet per section?
+- Is there a variable dictionary or a codebook?
+- Who does the consolidation, and how long does it take?
+- What analyses are produced from it, and by whom?
+
+## Topic 3 — Exploring the dimensions, areas and indicators of interest
+
+### What is at stake
+
+The HHFA inventory has 2,604 indicators, organised into 5 dimensions, 28 areas and 79 sub-areas. That is far more than Angola needs, and that is good news — it means the choice is wide. But the choice has to be made, and made with those who will use the numbers.
+
+### How we propose to do it
+
+Not through individual reading of the inventory, which is not very productive, but in **two working sessions of around two hours**, with the national programmes present, going through the areas and applying three questions to each candidate indicator:
+
+1. **Does this indicator answer a decision that someone has to take?** If it answers no decision, it does not go in, however interesting it may seem.
+2. **Who takes that decision?** A national programme, a provincial directorate, the GEPE, the investment plan office.
+3. **How often does that person need the number?** Annually, every two years, once. The frequency determines whether the indicator belongs to the Health Map or to a one-off survey.
+
+### The output of this stage
+
+A short, well-grounded list of priority indicators, with the owner of each one identified. It is that list which is then cross-checked against the catalogue in document 4 to establish what needs to be asked.
+
+### Who should be present
+
+Maternal and newborn health, child health and nutrition, malaria, tuberculosis, HIV, noncommunicable diseases, immunisation, human resources, and the GEPE. The presence of the programmes in this session is what turns the exercise into a shared choice rather than an external proposal.
+
+## Topic 4 — Defining what Angola needs, by facility type
+
+### What is at stake
+
+A health post and a provincial hospital should not answer the same questions. Surgical readiness is not asked of those who do not operate, and specialist density makes no sense in a health post. Without stratification by facility type, the instrument is either too long for small facilities or too short for large ones.
+
+### The piece we already have
+
+**Item 1.6 of the Form — the category assigned by the Health Map — is exactly the stratifier we need.** It is a national typology, validated, applied to every facility in the country and already present in the register. The HHFA asks for the generic list of facility types to be replaced with the national list; here it exists and is in use.
+
+### What we have to decide
+
+**4.1 Which blocks apply to which facility types.** Starting proposal: a common core for all facilities — identification, infrastructure, basic amenities, staff, services offered — plus blocks that open up according to the category and according to the services declared.
+
+**4.2 Which national lists replace the generic ones.** Professional categories, Angola's essential medicines, the national guidelines in force by programme, and the tracer commodities for each service. This is the part of the work that requires the national programmes and cannot be done by the GEPE alone or by us alone.
+
+**4.3 Which indicators are mandatory in all facilities** and which are calculated only on a subset — a decision that follows directly from the choice of denominators, and one worth taking explicitly so that no one compares percentages with different bases.
+
+## Topic 5 — The package of enhancements
+
+This topic is worked through in **document 4**, which presents thirty enhancements organised into four types, each with the indicator it produces, the cost, the mode of collection and the public health gain.
+
+What remains is to choose. We propose that the choice be made in two passes: first decide **which modes of collection are adopted** — self-reported only, with observation only, or both in different facilities — because that decision rules out or enables half the catalogue in one go; and only then choose the enhancements within the chosen mode.
+
+**It is the critical path decision, and the one that needs to be taken in the week of 5 to 9 October.**
+
+::: {style="border-left:6px solid #1e8449;background:#eafaf1;padding:16px 18px;border-radius:6px;"}
+
+## Proposal for working together
+
+### A fixed weekly meeting
+
+**One meeting per week, 90 minutes, on a fixed day and time.** Regularity matters more than duration: with tight deadlines, what holds a process up is rarely a shortage of working time and almost always waiting for a decision.
+
+**A standard agenda, always the same:**
+
+| | Block | Time |
+|---|---|---|
+| 1 | What has moved forward since the last meeting | 15 min |
+| 2 | This week's decisions — each presented with a proposal already written, the gains, the losses and the deadline | 45 min |
+| 3 | What is blocked, and by whom | 15 min |
+| 4 | Tasks, owners and deadlines until the next meeting | 15 min |
+
+**A commitment we propose to make:** no decision reaches the meeting open-ended. Each point arrives with a written proposal and with the alternatives described, so that the meeting serves to decide and not to explore. Preparing that material is on us.
+
+### Technical group, between meetings
+
+A small group — two or three people from the GEPE and our team — for the work of drafting the instrument, the revised guide and the programming. It works between meetings and brings the output to the following meeting. This is what allows the weekly meeting to be about deciding rather than executing.
+
+:::
+
+::: {style="border:3px solid #b7950b;background:#fdf6e3;padding:18px 20px;border-radius:8px;margin:18px 0;"}
+
+## Calendar through December 2026
+
+Built backwards from data collection. The dates are Mondays.
+
+| Week | What happens | What has to be decided by the end of the week |
+|---|---|---|
+| **29 Sep** | Presentation of the four documents. Setting up the working group. Scheduling the weekly meeting. Gathering the questions from topics 1 and 2 | Who is in the group; day and time of the weekly meeting |
+| **5 Oct** | Indicator exploration sessions with the national programmes (topic 3). Decision on the mode of collection and on the package of enhancements | **The package and the mode of collection. Paper or tablet.** This is the critical path week |
+| **12 Oct** | Drafting the instrument and the revised guide. Defining the national lists (topic 4). Decision on data management | Instrument finalised; national lists defined; where data is collected and where it is stored |
+| **19 Oct** | Programming the application or laying out the paper version. **Testing in 2 to 3 facilities in Luanda.** Corrections | Instrument tested and corrected; training materials ready |
+| **26 Oct** | **Training of enumerators and supervisors**, with at least half a day in a real facility | Teams trained; field logistics in place |
+| **2 Nov to 14 Dec** | **Data collection in the facilities**, with field supervision and weekly quality control | — |
+| **7 and 14 Dec** | Cleaning and first processing, in parallel with the end of data collection | — |
+| **21 Dec** | First indicators calculated and discussed with the GEPE | — |
+
+### Where the slack is, and where it is not
+
+**There is no slack** in the weeks of 19 and 26 October. Testing in real facilities and training are the two stages that cannot be compressed without a direct cost to data quality, and they are also the ones whose failure only comes to light when there is no longer any remedy.
+
+**There is slack** in the size of the package, and it is the only adjustment variable we recommend using. A package limited to Types 1 and 2 of the catalogue — indicators already latent in the Form and breakdowns the Guide already defines — can be programmed, tested and trained on in two weeks comfortably, and even so it substantially improves the Health Map.
+
+**There is slack**, too, in coverage. If the calendar tightens, it is preferable to apply a complete package in fewer provinces than an incomplete package in all of them — and it is easier to extend coverage the following year than to correct a poorly trained data collection.
+
+:::
+
+::: {style="border-left:6px solid #6c3483;background:#f4ecf7;padding:14px 18px;border-radius:6px;"}
+
+## In summary
+
+**There are nine pending decisions**, and they are all identified above: who collects (1.1), paper or tablet (1.2), duration of training (1.3), recording of verification (1.4), where data is collected (2.1), where it is stored (2.2), who consolidates (2.3), which blocks by facility type (4.1) and which national lists are adopted (4.2) — all of them preceded by the choice of the package and the mode of collection.
+
+**None of them requires building from scratch.** The questionnaires exist, the collection application exists, the indicator calculation rules exist, and the training materials exist. On the Angolan side, the national lists exist, the facility typology exists and is validated, the field teams exist and already know the facilities. What we are doing is connecting two things that are already built.
+
+**The calendar is tight, and we prefer to say so openly.** Five weeks of preparation for a national data collection is little. It is feasible if the October decisions are taken in the weeks in which they are scheduled, and if we accept, from the outset, that the adjustment variable is the size of the package — never the training.
+
+**The underlying proposal is simple:** start with what is cheap, reversible and already half done. The Type 1 and Type 2 enhancements in document 4 make calculable the indicators that the Health Map Form already pursues without producing them, without introducing new topics and, for the most part, without changing the collection process. It is a good first step together: the Map gains precision straight away, and we are left with the concrete experience — and the data — to decide the next step with confidence.
+
+:::

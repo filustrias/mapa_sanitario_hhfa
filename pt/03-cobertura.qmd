@@ -1,0 +1,418 @@
+# O que cada instrumento capta sobre a realidade das unidades sanitárias
+
+::: {style="border-left:6px solid #0b6e99;background:#eaf4f9;padding:14px 18px;border-radius:6px;"}
+
+Panorama de cobertura, quesito a quesito, entre a **Ficha do Mapa Sanitário** (versão 19_01, com o respetivo Guião de Preenchimento, abril de 2019) e o **Harmonized Health Facility Assessment** (HHFA, avaliação harmonizada de unidades sanitárias, da Organização Mundial da Saúde), na versão do questionário combinado de junho de 2023 e do inventário de indicadores.
+
+A pergunta a que este documento responde é simples: **quando uma equipa entra numa unidade sanitária, que parte da realidade dessa unidade fica registada por cada um dos dois instrumentos?** Para cada quesito indica-se o que a Ficha capta, o que o HHFA capta e como os dois se comparam.
+
+:::
+
+::: {style="border-left:6px solid #1e8449;background:#eafaf1;padding:16px 18px;border-radius:6px;"}
+
+## As cinco dimensões do HHFA
+
+O HHFA organiza tudo o que recolhe em cinco dimensões de serviço. Convém tê-las presentes antes de entrar nas tabelas, porque a comparação com a Ficha do Mapa Sanitário muda de natureza conforme a dimensão.
+
+**1. Disponibilidade geral (general service availability) — 428 indicadores**
+O que a unidade é: infraestrutura, camas, força de trabalho e serviços que declara oferecer. É a dimensão mais próxima do propósito da Ficha do Mapa Sanitário, e é onde a sobreposição entre os dois instrumentos é maior.
+
+**2. Prontidão geral (general service readiness) — 225 indicadores**
+O que a unidade tem instalado, independentemente dos serviços que ofereça: água, energia, saneamento, comodidades, equipamento básico, capacidade de diagnóstico, medicamentos essenciais, consumíveis, armazenamento, prevenção de infeção, referência e preparação para emergências. Quase tudo é observado pelo inquiridor.
+
+**3. Disponibilidade e prontidão específicas (service-specific availability and readiness) — 1 484 indicadores, 57% do total**
+Serviço a serviço — planeamento familiar, pré-natal, parto, saúde infantil, vacinação, malária, tuberculose, VIH, doenças não transmissíveis, cirurgia, urgência, laboratório —, o que a unidade oferece e o que tem para o prestar: normas, pessoal formado, equipamento, testes e medicamentos. É a dimensão dominante do HHFA e a de menor sobreposição com a Ficha.
+
+**4. Gestão e finanças (management and finance) — 358 indicadores**
+Como a unidade é gerida: governação, orçamento, fontes de financiamento, manutenção, apoio ao pessoal, sistemas de informação e sistemas de qualidade.
+
+**5. Qualidade clínica (clinical quality of care) — 109 indicadores**
+O que foi feito ao doente, pela revisão de processos clínicos. Tem metodologia e amostra próprias e não tem equivalente na Ficha do Mapa Sanitário.
+
+### Onde a Ficha do Mapa Sanitário se situa nestas cinco dimensões
+
+| Dimensão do HHFA | Presença na Ficha do Mapa Sanitário |
+|---|---|
+| 1. Disponibilidade geral | Forte na infraestrutura, nas camas e nos serviços declarados; ausente na força de trabalho |
+| 2. Prontidão geral | Presente em água, energia, saneamento, resíduos e alguns aparelhos; ausente em medicamentos, consumíveis, prevenção de infeção e emergências |
+| 3. Disponibilidade e prontidão específicas | Presente na disponibilidade, pela lista de serviços e de especialidades; ausente na prontidão (o que é preciso para os prestar) e na capacidade de manejo por condição |
+| 4. Gestão e finanças | Presente na estrutura orgânica (que órgãos existem); nas finanças, apenas a caixa 0.2 sobre ter orçamento próprio |
+| 5. Qualidade clínica | Ausente |
+
+A leitura mais útil desta tabela é esta: **a Ficha do Mapa Sanitário descreve com detalhe o que a unidade é; o HHFA acrescenta o que a unidade tem condições de fazer.**
+
+:::
+
+::: {style="border:3px solid #c0392b;background:#fdecea;padding:18px 20px;border-radius:8px;margin:18px 0;"}
+
+## ⚠ LEIA PRIMEIRO: como ler a coluna "Comparação"
+
+<p style="font-size:1.05em;line-height:1.5;margin:0 0 8px 0;"><strong style="color:#c0392b;">Este é o terceiro de quatro documentos.</strong> O primeiro deu a panorâmica, o segundo tratou da formulação das perguntas, este mapeia a cobertura quesito a quesito, e o quarto aponta caminhos de integração e de melhoria.</p>
+
+<p style="font-size:1.03em;line-height:1.5;margin:0 0 6px 0;"><strong>As seis categorias da coluna "Comparação":</strong></p>
+
+<ul style="font-size:1.0em;line-height:1.45;margin:0 0 10px 0;">
+<li><strong>Sobreposição completa</strong> — os dois captam a mesma informação, com profundidade equivalente.</li>
+<li><strong>Sobreposição parcial (HHFA mais completo)</strong> — o tema é abordado pelos dois, e o HHFA vai mais fundo.</li>
+<li><strong>Sobreposição parcial (Mapa mais completo)</strong> — o tema é abordado pelos dois, e a Ficha do Mapa Sanitário vai mais fundo.</li>
+<li><strong>Sobreposição parcial (cada um capta um aspeto)</strong> — os dois tratam do mesmo tema por ângulos diferentes, e nenhum contém o outro.</li>
+<li><strong>Sobreposição mínima (HHFA aprofunda)</strong> — a Ficha do Mapa Sanitário regista a existência do serviço numa só caixa, sem qualquer decomposição no dado, e o HHFA desdobra o mesmo quesito em vários elementos verificados. É o caso do laboratório: a Ficha regista "1. Laboratório: sim ou não", e o HHFA pergunta que exames se fazem, com que equipamento, com que reagentes e com que controlo de qualidade.</li>
+<li><strong>Sobreposição mínima (Mapa aprofunda)</strong> — o inverso: o HHFA tem apenas um item de existência e a Ficha desdobra.</li>
+<li><strong>Sem sobreposição (apenas HHFA)</strong></li>
+<li><strong>Sem sobreposição (apenas Mapa)</strong></li>
+</ul>
+
+<p style="font-size:1.0em;line-height:1.45;margin:0 0 10px 0;"><strong>Porque separámos "mínima" de "parcial".</strong> O critério é o que fica <em>registado</em>, e não o que está <em>definido</em>. O Guião de Preenchimento define com precisão vários destes serviços — no laboratório, por exemplo, exige gota espessa, hemoglobina ou hematócrito e análises simples de fezes e urina —, mas a Ficha tem uma só caixa para os quatro. Duas unidades que cumpram partes diferentes da definição ficam com a mesma marcação. Chamar a isto "parcial" seria injusto para os casos em que a Ficha realmente desdobra o tema, como nas camas ou nos aparelhos.</p>
+
+<p style="font-size:1.03em;line-height:1.5;margin:0 0 8px 0;"><strong style="color:#c0392b;">O sinal ◆ marca a diferença de verificação.</strong> Onde ele aparece, o HHFA distingue na própria resposta o que foi <em>observado</em> do que foi <em>referido e não visto</em>, enquanto a Ficha do Mapa Sanitário tem uma só caixa para marcar. A verificação existe no terreno — a equipa do Mapa informa-se e depois confirma —, mas não fica registada no dado. Duas unidades com a mesma marcação podem estar em situações diferentes, e essa diferença desaparece na base de dados.</p>
+
+<p style="font-size:1.0em;line-height:1.45;margin:0 0 8px 0;"><strong>A marcação (adic.)</strong> assinala quesitos que existem no HHFA, mas nas perguntas adicionais do módulo de gestão e finanças. Numa aplicação só com os questionários nucleares, não são recolhidos.</p>
+
+<p style="font-size:1.0em;line-height:1.45;margin:0;"><strong>Nota de método:</strong> a comparação é feita ao nível da pergunta, e não do indicador publicado. "Parcial" refere-se à profundidade da informação captada, não à qualidade do instrumento: os dois têm propósitos diferentes, e cada um é mais fundo naquilo para que foi desenhado.</p>
+
+:::
+
+## A. Identificação, localização e propriedade
+
+| Quesito | Ficha do Mapa Sanitário | HHFA | Comparação |
+|---|---|---|---|
+| Nome e código da unidade | 1.5 | Q100, Q103 | Sobreposição completa |
+| Província, município, comuna, bairro | 1.1 a 1.4 | Q104, Q105, adaptáveis ao país | Sobreposição completa |
+| Urbano ou rural | Pela localização administrativa | Q106: urbano, rural, periurbano | Parcial (HHFA mais completo) |
+| Coordenadas de GPS | 1.7 e 1.8, graus decimais | Q109 a Q113, com protocolo de leitura, altitude e ponto de referência | Parcial (HHFA mais completo) |
+| Categoria ou tipo de unidade | 1.6, do Mapa Sanitário | Q115, lista adaptada ao país | Sobreposição completa |
+| Propriedade e entidade gestora | 2.1 e 2.2 | Q116 | Sobreposição completa |
+| Níveis de serviço (ambulatório, internamento) | Implícito na tipologia | Q117 | Parcial (HHFA mais completo) |
+| Orçamento próprio | 0.2, uma caixa de 0-1: a unidade tem ou não orçamento próprio | 4.2.1 a 4.2.3, 80 indicadores: fontes de financiamento, gestão do orçamento, taxas de utilização e isenções | Mínima (HHFA aprofunda) |
+| Resultado da visita (aberta, fechada, não encontrada) | Não | Q107, com códigos de resultado e até três visitas | Sem sobreposição (apenas HHFA) |
+| Consentimento do responsável | Não | Q114 | Sem sobreposição (apenas HHFA) |
+
+**Comentário.** Este é o bloco de maior compatibilidade entre os dois instrumentos: nome, localização, tipo e entidade gestora são captados da mesma forma e podem ser cruzados diretamente. A Ficha do Mapa Sanitário é aqui a fonte natural, porque é dela que vem a lista-mestra de unidades e a categoria de cada uma — informação que o HHFA exige ter antes de começar. As diferenças são de procedimento, não de conteúdo: o HHFA fixa como se lê o GPS e regista o resultado da visita, o que importa quando se trabalha por amostra e é preciso saber o que aconteceu às unidades que não foram avaliadas.
+
+## B. População e sistema de referência
+
+| Quesito | Ficha do Mapa Sanitário | HHFA | Comparação |
+|---|---|---|---|
+| População adstrita | 3.1, número, "se conhecida" | 4.5.2.6.1 a 4.5.2.6.7 (adic.): área definida, estimativa, fonte, número de grávidas, lactentes e menores de 5 anos | Parcial (HHFA mais completo) |
+| Lista de utentes registados | Não | 4.5.2.6.8 e 4.5.2.6.9 (adic.) | Sem sobreposição (apenas HHFA) |
+| Unidade de referência: categoria e nome | 3.2.1 e 3.2.2 | Não | **Sem sobreposição (apenas Mapa)** |
+| Distância à referência: minutos, quilómetros, alcatrão e picada | 3.2.3 | Não | **Sem sobreposição (apenas Mapa)** |
+| Mecanismo de referência | Implícito | 2.7.1.1.1 (Q1227) | Sem sobreposição (apenas HHFA) |
+| Protocolos de referência e de contrarreferência ◆ | Não | 2.7.1.1.2 e 2.7.1.1.3 | Sem sobreposição (apenas HHFA) |
+| Registos das referências feitas e retorno de informação ◆ | Não | 2.7.1.1.4 e 2.7.1.1.5 | Sem sobreposição (apenas HHFA) |
+| Viatura e motorista 24 horas | 10.1 (frota) e 7.5.1 (serviço) | 2.7.1.1.6 | Parcial (cada um capta um aspeto) |
+
+**Comentário.** É aqui que os dois instrumentos mais claramente se completam. A Ficha do Mapa Sanitário é o único dos dois que diz **para onde** a unidade refere e **a que distância**, com a estrada discriminada entre alcatrão e picada — informação que descreve a rede como sistema e que serve diretamente ao planeamento. O HHFA é o único que diz **se a referência funciona**: se há protocolos, se as referências ficam registadas e se a unidade recebe resposta de volta. Juntar as duas coisas daria uma leitura completa: quem refere para quem, a que distância, com que regras e com que retorno.
+
+## C. Construção, estado físico e acessibilidade
+
+| Quesito | Ficha do Mapa Sanitário | HHFA | Comparação |
+|---|---|---|---|
+| Número de edifícios e residências dos técnicos | 4.1 e 4.3 | Não | **Sem sobreposição (apenas Mapa)** |
+| Superfície em metros quadrados | 4.2 e 4.4 | Não | **Sem sobreposição (apenas Mapa)** |
+| Ano e período de construção | 4.5 e 4.6 | Não | **Sem sobreposição (apenas Mapa)** |
+| Material de construção | 4.7 | Não | **Sem sobreposição (apenas Mapa)** |
+| Estado físico do edifício principal | 5.1, quatro categorias de intervenção, critérios detalhados no guião | 1.1.4, 196 indicadores de defeitos por elemento e por sala | Parcial (cada um capta um aspeto) |
+| Metros quadrados por estado de conservação | 5.2, em texto livre | Não | **Sem sobreposição (apenas Mapa)** |
+| Acessibilidade para pessoas com mobilidade reduzida | Não | 1.1.3, 35 indicadores: rampas, corrimãos, sanitário acessível, sala a sala | Sem sobreposição (apenas HHFA) |
+| Segurança do edifício (portas que fecham, estado exterior) | Não | 1.1.4, componente de segurança | Sem sobreposição (apenas HHFA) |
+
+**Comentário.** A Ficha do Mapa Sanitário é claramente mais forte neste bloco, e por uma razão de propósito: foi desenhada para decidir obras. Mede áreas, identifica o material e classifica cada edifício numa das quatro categorias de intervenção, com critérios construtivos detalhados no guião. O HHFA não mede áreas nem emite juízo de intervenção; regista defeitos sala a sala, o que serve para descrever condições de trabalho, não para orçamentar. Os dois olham para o mesmo edifício com olhos diferentes: o engenheiro e o clínico. A acessibilidade para pessoas com mobilidade reduzida é o único ponto em que o edifício aparece só do lado do HHFA.
+
+## D. Água, energia, saneamento e resíduos
+
+| Quesito | Ficha do Mapa Sanitário | HHFA | Comparação |
+|---|---|---|---|
+| Fonte principal de água | 6.1, cinco categorias | Q1210, onze categorias, com classificação em melhorada ou não | Parcial (HHFA mais completo) |
+| Fontes secundárias de água | 6.1.2, múltipla escolha | Só pela disponibilidade permanente | Parcial (Mapa mais completo) |
+| Água disponível no recinto e no dia ◆ | Não | Q1211: "posso ver a água?" | Sem sobreposição (apenas HHFA) |
+| Interrupções no abastecimento de água | Não | Q1212 | Sem sobreposição (apenas HHFA) |
+| Fonte principal de energia | 6.2, quatro categorias | Q1207, adaptável ao país | Sobreposição completa |
+| Fonte de reserva de energia | 6.2.2, múltipla escolha | Q1208 | Sobreposição completa |
+| Interrupções de energia nos últimos 7 dias | Não | Q1209 | Sem sobreposição (apenas HHFA) |
+| Modo de saneamento ◆ | 6.3, três categorias | Q1306 e seguintes: tipo, utilizável, limpo, água e sabão a menos de 5 metros | Parcial (HHFA mais completo) |
+| Recolha do lixo | 6.4, quatro categorias | Não como categoria própria | **Sem sobreposição (apenas Mapa)** |
+| Tratamento do lixo geral e hospitalar ◆ | 6.5 e 6.6 | Q1214 a Q1220: destino final com onze categorias, observação do local, incinerador a funcionar hoje e com combustível | Parcial (HHFA mais completo) |
+| Normas e pessoal formado em gestão de resíduos | Não | Q1221 e Q1222 | Sem sobreposição (apenas HHFA) |
+| Estação de tratamento de águas residuais e seu funcionamento | 6.7 | Não | **Sem sobreposição (apenas Mapa)** |
+| Limpeza ambiental | Não | 2.1.2.1.5 | Sem sobreposição (apenas HHFA) |
+
+**Comentário.** Os dois instrumentos perguntam pelas mesmas infraestruturas, mas com objetivos diferentes. A Ficha do Mapa Sanitário quer saber **que sistema a unidade tem** — e faz isso bem, inclusive registando as fontes secundárias, o que o HHFA não faz. O HHFA quer saber **se o sistema funcionou** — se havia água no dia, se houve cortes de energia na última semana, se o incinerador arde e tem combustível. A estação de tratamento de águas residuais é um quesito só do Mapa, e faz sentido que seja: pertence à mesma lógica de engenharia do bloco anterior. Acrescentar duas ou três perguntas de funcionamento à Ficha seria, neste bloco, o ajuste de maior retorno.
+
+## E. Serviços clínicos e cirúrgicos
+
+Dois esclarecimentos antes da tabela, porque este é o bloco em que é mais fácil concluir que os dois instrumentos perguntam a mesma coisa.
+
+**Primeiro:** a Ficha do Mapa Sanitário regista, para cada especialidade, se **há atendimento** naquela área — não se existe um especialista afeto à unidade. As duas coisas não coincidem. Uma consulta de endocrinologia pode estar assegurada por um clínico geral, e um especialista pode estar afeto sem que a consulta esteja aberta ao público. O HHFA não pergunta pela especialidade; regista o pessoal por categoria profissional e os especialistas visitantes, num bloco à parte (ver bloco K).
+
+**Segundo:** onde a Ficha nomeia a especialidade, o HHFA pergunta pela **capacidade de manejar o problema de saúde**. A correspondência entre as duas formas de perguntar está na segunda tabela deste bloco.
+
+| Quesito | Ficha do Mapa Sanitário | HHFA | Comparação |
+|---|---|---|---|
+| Medicina geral ou consulta externa | 7.1.1 | 1.3.1.1.1, mais horas por dia e dias por semana | Parcial (HHFA mais completo) |
+| Lista de 28 especialidades, cada uma numa caixa | 7.1.2 a 7.1.28 | Não como lista de especialidades, mas por condição (tabela seguinte) | Parcial (cada um capta um aspeto) |
+| Existe especialista afeto à unidade | Não | 1.2.1, pessoal por categoria profissional; 1.2.3.3, especialistas visitantes e frequência das visitas | Sem sobreposição (apenas HHFA) |
+| Cirurgia de urgência, eletiva e pequena | 7.1.29.1 a 7.1.29.3 | 3.4.1 e 3.4.2: procedimentos um a um, procedimentos-marcadores, anestesia, prevenção de infeção | Parcial (HHFA mais completo) |
+| Cirurgias diferenciadas (pediátrica, maxilofacial, vascular, neurocirurgia, plástica) | 7.1.30 a 7.1.34 | Parcialmente, dentro da grande cirurgia | **Parcial (Mapa mais completo)** |
+| Estomatologia | 7.1.10 e cadeira em 8.1.4 | Só o estado do edifício da área dentária | **Mínima (Mapa aprofunda)** |
+| Nutrição como consulta | 7.1.20 | 3.1.8: manejo da desnutrição aguda, ambulatório e internamento | Mínima (HHFA aprofunda) |
+| Psiquiatria e psicologia | 7.1.26 e 7.1.27 | 3.3.6, 38 indicadores: oferta por transtorno, medicamentos, pessoal formado | Mínima (HHFA aprofunda) |
+
+### A mesma realidade perguntada de dois modos: a especialidade e a condição
+
+Esta é a correspondência mais fina de todo o documento, porque à primeira vista as duas perguntas parecem equivalentes — e não são. Saber que existe consulta de endocrinologia não diz se a unidade mede a glicemia, se tem metformina e insulina, nem se o pessoal foi formado para o diagnóstico. Saber que a unidade diagnostica, trata, segue e aconselha pessoas com diabetes, e que tem os doze itens necessários, diz isso tudo — e não depende de haver um endocrinologista.
+
+| Caixa da Ficha do Mapa Sanitário | O que o HHFA pergunta no lugar dela | Comparação |
+|---|---|---|
+| 9. Endocrinologia | 3.3.2, diabetes, 26 indicadores: diagnóstico, tratamento, seguimento clínico e aconselhamento para o autocuidado, em perguntas separadas; normas, pessoal formado, esfigmomanómetro, balança, fita métrica, glicemia, tira de urina para proteínas e para cetonas, metformina, sulfonilureia, insulina regular e glicose a 50%; nas adicionais, HbA1c | Mínima (HHFA aprofunda) |
+| 7. Cardiologia | 3.3.1, doenças cardiovasculares, 46 indicadores: hipertensão, insuficiência cardíaca, enfarte agudo do miocárdio e AVC, cada um separado entre diagnóstico e tratamento com aconselhamento; esfigmomanómetro, estetoscópio, balança, oxigénio, inibidor da ECA, aspirina, betabloqueador, antagonista do cálcio, tiazida e estatina | Mínima (HHFA aprofunda) |
+| 25. Pneumologia | 3.3.3, doença respiratória crónica, 26 indicadores: asma e DPOC separadas; medidor de débito expiratório, oxigénio, salbutamol, beclometasona, prednisolona, hidrocortisona, adrenalina e câmaras expansoras | Mínima (HHFA aprofunda) |
+| 22. Oncologia | 3.3.4, cancro do colo do útero, mama, próstata e colorretal, 82 indicadores, do rastreio ao tratamento | Mínima (HHFA aprofunda) |
+| 18. Nefrologia | 3.3.5.1.6, máquina de diálise verificada, e 1.3.3.2.7 | Mínima (HHFA aprofunda) |
+| 19. Neurologia e 26. Psiquiatria | 3.3.6, saúde mental e neurológica, 38 indicadores, por transtorno, incluindo epilepsia | Mínima (HHFA aprofunda) |
+| 16. Infecciologia | 3.2, doenças transmissíveis, 374 indicadores: malária, tuberculose, VIH, infeções sexualmente transmissíveis e doenças tropicais negligenciadas, cada uma com a sua prontidão | Mínima (HHFA aprofunda) |
+
+**Comentário.** A lista de 28 especialidades e de 5 cirurgias diferenciadas descreve bem um hospital municipal ou provincial, e nisso a Ficha do Mapa Sanitário é mais rica: o HHFA não produz esse retrato da diferenciação hospitalar. Mas a especialidade e a condição respondem a perguntas diferentes. A especialidade diz como a unidade está organizada; a condição diz o que a unidade consegue resolver. Para o planeamento da rede hospitalar interessa a primeira; para os cuidados de saúde primários — onde a hipertensão, a diabetes, a asma e a epilepsia são manejadas sem especialista — interessa a segunda, e é precisamente aí que a Ficha regista menos. As sete linhas da tabela acima são, por isso, o lugar onde algumas perguntas adicionais renderiam mais: não substituem a lista de especialidades, completam-na.
+
+## F. Serviços de apoio
+
+| Quesito | Ficha do Mapa Sanitário | HHFA | Comparação |
+|---|---|---|---|
+| Laboratório ◆ | 7.2.1, uma caixa; o guião exige gota espessa, hemoglobina ou hematócrito e análises simples de fezes e urina, mas a marcação é uma só | 2.3.1 e 3.7.1: cerca de 48 exames, no local ou enviados, equipamento, reagentes, eletricidade, controlo de qualidade | **Mínima (HHFA aprofunda)** |
+| Imagiologia | 7.2.2, uma caixa; o guião pede radiografia simples ou com contraste | 3.7.2: por exame, separando oferta de capacidade instalada | Mínima (HHFA aprofunda) |
+| Diálise | 7.2.3 | 1.3.3.2.7 e 3.3.5.1.6, com a máquina verificada | Parcial (HHFA mais completo) |
+| Hemoterapia e banco de sangue ◆ | 7.2.4 e 7.2.13, duas caixas | 3.7.3, 14 indicadores de disponibilidade e prontidão | Parcial (HHFA mais completo) |
+| Radioterapia | 7.2.5 | 1.3.3.2.6 e 3.3.4.10.10, com o equipamento verificado | Parcial (HHFA mais completo) |
+| Anatomia patológica | 7.2.6 | Não como serviço; só biópsia e microtomo | **Parcial (Mapa mais completo)** |
+| Anestesia ◆ | 7.2.7, uma caixa: existe serviço de anestesiologia | 3.4.2, 34 indicadores de prontidão anestésica | Mínima (HHFA aprofunda) |
+| Reabilitação | 7.2.8, uma caixa | 3.6.2, 21 indicadores | Mínima (HHFA aprofunda) |
+| Bloco cirúrgico e número de blocos | 7.2.9 | Prontidão cirúrgica e prevenção de infeção no bloco | Parcial (cada um capta um aspeto) |
+| Farmácia ◆ | 7.2.10, uma caixa | 2.4.1, 37 medicamentos essenciais verificados; 2.4.5, armazenamento com 30 indicadores; 3.5.1.1.5, farmácia 24 horas | **Mínima (HHFA aprofunda)** |
+| Gases medicinais ◆ | 7.2.11, uma caixa | 2.4.4 e itens de oxigénio por serviço, com funcionamento | Mínima (HHFA aprofunda) |
+| Banco de urgência diurno ou 24 horas | 7.2.12.1 e 7.2.12.2 | 3.5.1: unidade dedicada, pessoal presente 24 horas, laboratório, radiologia e farmácia 24 horas | Parcial (HHFA mais completo) |
+| Esterilização ◆ | 7.2.14, uma caixa, definição no guião | 2.5.1.1.8 e Q1223 a Q1225: local de reprocessamento, tipo de equipamento, funcionamento | Mínima (HHFA aprofunda) |
+
+**Comentário.** É o bloco onde a categoria "mínima" mais se aplica: oito dos catorze serviços de apoio são registados pela Ficha do Mapa Sanitário numa só caixa. A Ficha responde "a unidade tem este serviço"; o HHFA responde "e está em condições de o prestar hoje". O laboratório é o exemplo mais claro: o Guião de Preenchimento já define quatro exames mínimos, mas o dado guarda uma marcação única, de modo que uma unidade que faça gota espessa e hemoglobina e outra que faça os quatro exames ficam indistinguíveis. Desdobrar essa caixa nos quatro exames que o guião já exige seria um acréscimo pequeno e de grande efeito, e não exigiria uma pergunta nova — apenas quatro caixas onde hoje há uma. A distinção do sinal ◆ pesa aqui mais do que em qualquer outro bloco. Note-se que a anatomia patológica é o único serviço de apoio que a Ficha regista e o HHFA não.
+
+## G. Saúde pública, prevenção e programas
+
+| Quesito | Ficha do Mapa Sanitário | HHFA | Comparação |
+|---|---|---|---|
+| Vacinação ◆ | 7.3.1, uma caixa, definição no guião | 3.2.1, 73 indicadores: vacinas uma a uma, cadeia de frio, registos, ruturas por vacina | **Mínima (HHFA aprofunda)** |
+| Distribuição de vitamina A ◆ | 7.3.2 | 3.1.8.1.7 (oferta de rotina) mais a cápsula verificada em 3.1.8.2.20 e 3.1.8.3.10 | Parcial (HHFA mais completo) |
+| Distribuição de albendazol ◆ | 7.3.3 | Desparasitação na consulta pré-natal, o medicamento verificado na prontidão infantil (3.1.8.2.21) e nas doenças tropicais negligenciadas (3.2.10.2.7) | Parcial (HHFA mais completo) |
+| Reidratação oral ◆ | 7.3.4.1 | Sais de reidratação oral verificados em 2.4.1, 3.1.8 e 3.5.2 | Parcial (HHFA mais completo) |
+| Centros nutricionais terapêutico e suplementar ◆ | 7.3.4.2 e 7.3.4.3 | 3.1.8.1.4 a 3.1.8.1.6, com alimentos terapêuticos e normas verificados | Parcial (HHFA mais completo) |
+| Puericultura ◆ | 7.3.5, uma caixa, com critério do peso e do cartão | 3.1.8.1.2 mais prontidão: balança, cartão, normas, pessoal formado | Mínima (HHFA aprofunda) |
+| Consulta pré-natal ◆ | 7.3.6, uma caixa, com doze componentes definidos no guião | 3.1.2, 46 indicadores: componentes e prontidão | **Mínima (HHFA aprofunda)** |
+| Partos: cuidados obstétricos básicos e completos ◆ | 7.3.7.1 e 7.3.7.2 | 3.1.3 e 3.1.4, 140 indicadores: funções-sinal uma a uma, medicamentos, prevenção de infeção, condições da sala | Parcial (HHFA mais completo) |
+| Consulta pós-parto | 7.3.8, uma caixa | 3.1.6, 36 indicadores, mãe e recém-nascido | Mínima (HHFA aprofunda) |
+| Planeamento familiar ◆ | 7.3.9, uma caixa | 3.1.1, 37 indicadores: métodos um a um, normas, pessoal, ruturas | Mínima (HHFA aprofunda) |
+| Aconselhamento e testagem de VIH ◆ | 7.3.10, uma caixa | 3.2.4, 20 indicadores, incluindo controlo de qualidade dos testes | Mínima (HHFA aprofunda) |
+| Tratamento antirretroviral, mãe e criança ◆ | 7.3.11, uma caixa | 3.2.8 e 3.2.7, 45 indicadores | Mínima (HHFA aprofunda) |
+| Tratamento antirretroviral, adulto ◆ | 7.3.12, uma caixa | 3.2.5 e 3.2.6, 71 indicadores | Mínima (HHFA aprofunda) |
+| Tratamento da tuberculose por observação direta ◆ | 7.3.13, uma caixa | 3.2.3, 77 indicadores, e 5.4.1 pela revisão de registos | Mínima (HHFA aprofunda) |
+| Distribuição de redes mosquiteiras ◆ | 7.3.14 | 3.1.2.1.11 e itens de rede verificados em 2.4.2 | Parcial (HHFA mais completo) |
+| Brigadas móveis e equipas avançadas | 7.3.15 e 7.3.16 | Não como serviço; só apoio a atividades comunitárias em doenças tropicais negligenciadas | **Parcial (Mapa mais completo)** |
+| Agentes de desenvolvimento comunitário e sanitário | 7.3.17 | Ligações com agentes comunitários, por programa | Parcial (cada um capta um aspeto) |
+| Malária: diagnóstico e tratamento | Não como serviço próprio | 3.2.2, 32 indicadores, e 5.5.1 | Sem sobreposição (apenas HHFA) |
+| Infeções sexualmente transmissíveis | Não | 3.2.9, 21 indicadores | Sem sobreposição (apenas HHFA) |
+| Doenças tropicais negligenciadas | Não | 3.2.10, 35 indicadores | Sem sobreposição (apenas HHFA) |
+| Doenças não transmissíveis | Só como caixas de especialidade hospitalar (cardiologia, endocrinologia, pneumologia, oncologia) | 3.3, 224 indicadores, por condição e com prontidão verificada | **Mínima (HHFA aprofunda)** |
+| Saúde do adolescente | Não | 3.1.9, 23 indicadores | Sem sobreposição (apenas HHFA) |
+| Cuidados relacionados com o aborto | Não | 3.1.5, 52 indicadores | Sem sobreposição (apenas HHFA) |
+| Recém-nascido pequeno ou doente | 7.1.4, como especialidade | 3.1.7, 30 indicadores | Parcial (HHFA mais completo) |
+| Cuidados paliativos | Não | 3.6.1, 17 indicadores | Sem sobreposição (apenas HHFA) |
+| Serviços para sobreviventes de violência sexual | Não | 3.6.3, 35 indicadores | Sem sobreposição (apenas HHFA) |
+
+**Comentário.** Este é o bloco mais extenso e o que melhor mostra a diferença de desenho entre os dois instrumentos. Praticamente todos os programas que a Ficha do Mapa Sanitário regista numa caixa correspondem no HHFA a uma subárea inteira, com prontidão verificada e ruturas de stock — daí a frequência da categoria "mínima" nesta tabela. O caso da distribuição de albendazol é exemplar: na Ficha é uma caixa de rotina; no HHFA, a desparasitação aparece como componente da consulta pré-natal, o medicamento é verificado na prontidão da saúde infantil e volta a aparecer nas doenças tropicais negligenciadas. Em sentido inverso, as brigadas móveis, as equipas avançadas e os agentes comunitários estão melhor descritos na Ficha, porque descrevem a extensão do serviço para fora das paredes da unidade — dimensão que o HHFA praticamente não cobre. E há seis programas inteiros que só existem do lado do HHFA, entre eles a malária e as doenças não transmissíveis.
+
+## H. Gestão, finanças e informação
+
+| Quesito | Ficha do Mapa Sanitário | HHFA | Comparação |
+|---|---|---|---|
+| Admissão e arquivo clínico-estatístico ◆ | 7.4.1, uma caixa | 4.5.1, 31 indicadores: identificadores únicos e processos individuais | Mínima (HHFA aprofunda) |
+| Direções geral, clínica e pedagógica; chefias | 7.4.2 a 7.4.4 e 7.4.6 | Órgãos de gestão pelo seu funcionamento (4.1.1.1) | Parcial (cada um capta um aspeto) |
+| Administração | 7.4.5 | 4.1.1.2.8 (adic.) | Sobreposição completa |
+| Recursos humanos como serviço | 7.4.7 | 4.1.1.2.1 (adic.) | Sobreposição completa |
+| Escola de formação e núcleo de formação permanente, com campos de estágio | 7.4.8 e 7.4.9 | Não | **Sem sobreposição (apenas Mapa)** |
+| Informática e estatística | 7.4.10, uma caixa | 4.5.2, 55 indicadores de sistemas de gestão de dados | Mínima (HHFA aprofunda) |
+| Assistência social | 7.4.11 | 4.1.1.2.3 (adic.) | Sobreposição completa |
+| Comissões de ética, infeções, óbitos, medicamentos, segurança e disciplina | 7.4.12 a 7.4.17, existência | 4.1.1.1 (reuniões), 4.1.1.3.1 (aquisições), 4.4.1 a 4.4.3 (82 indicadores de qualidade e segurança) | Parcial (HHFA mais completo) |
+| Conselho de direção com membro da comunidade | Não | 4.1.1.1.4 | Sem sobreposição (apenas HHFA) |
+| Plano de gestão usado nas decisões | Não | Q509 | Sem sobreposição (apenas HHFA) |
+| Supervisão recebida | Não | 4.1.1 e 4.3.1 | Sem sobreposição (apenas HHFA) |
+| Orçamento, fontes de financiamento e taxas de utilização | Apenas o quesito 0.2, no cabeçalho: uma caixa de 0-1 sobre ter orçamento próprio. Não há qualquer pergunta sobre fontes de financiamento, montantes ou taxas de utilização | 4.2.1 a 4.2.3, 80 indicadores: orçamento e sua execução, fontes de financiamento, taxas cobradas, isenções e mecanismos de proteção financeira | **Mínima (HHFA aprofunda)** |
+| Manutenção de equipamento, instalações e viaturas | 7.5.8, como serviço | 4.1.2, 33 indicadores, com plano e cumprimento | Parcial (HHFA mais completo) |
+| Apoio ao pessoal: credenciais, formação, benefícios | Não | 4.3.1, 22 indicadores | Sem sobreposição (apenas HHFA) |
+| Notificação de mortalidade e morbilidade | Não | 4.5.3, 21 indicadores | Sem sobreposição (apenas HHFA) |
+| Qualidade clínica pela revisão de processos | Não | Módulo 3, dimensão 5, 109 indicadores | Sem sobreposição (apenas HHFA) |
+
+**Comentário.** Sobre as finanças, convém ser preciso: a Ficha do Mapa Sanitário não é omissa, mas aproxima-se do tema por uma única porta — a caixa 0.2 do cabeçalho, que regista se a unidade tem orçamento próprio. Nada mais é perguntado sobre montantes, fontes ou taxas. É a definição exata da categoria "mínima", e é também um dos pontos em que o acréscimo de três ou quatro perguntas teria efeito imediato no trabalho de gestão de finanças públicas. Quanto ao resto do bloco, a diferença não é de tema, é de pergunta. A Ficha do Mapa Sanitário levanta o **organograma**: que direções existem, que comissões estão constituídas, que serviços de apoio funcionam. O HHFA levanta a **atividade**: se o conselho reuniu nos últimos seis meses, se o comité de gestão usa o plano nas suas decisões, se a unidade recebeu supervisão, se há orçamento e de que fontes. As duas leituras são necessárias e nenhuma substitui a outra: sem o organograma não se sabe com quem falar; sem a atividade não se sabe se o organograma corresponde a alguma coisa. Os dois quesitos em que a Ficha está sozinha — a escola de formação e o núcleo de formação permanente com campos de estágio — descrevem a unidade como espaço formador, que é uma função que o HHFA ignora por completo.
+
+## I. Serviços gerais e apoio hoteleiro
+
+| Quesito | Ficha do Mapa Sanitário | HHFA | Comparação |
+|---|---|---|---|
+| Transporte de doentes | 7.5.1 | 2.1.1.1.7 e 2.7.1.1.6 | Sobreposição completa |
+| Cozinha e refeitório | 7.5.2 e 7.5.3, duas caixas | 4.1.1.2.6 (adic.), num só item | **Mínima (Mapa aprofunda)** |
+| Lavandaria | 7.5.4, caixa própria | 4.1.1.2.5 (adic.), junto com a limpeza, sem item próprio | **Mínima (Mapa aprofunda)** |
+| Morgue e número de gavetas | 7.5.5.1 e 7.5.5.2, com contagem de gavetas | 4.1.1.2.7 (adic.), só existência | **Mínima (Mapa aprofunda)** |
+| Higiene e limpeza | 7.5.6 | 2.1.2.1.5 e 4.1.1.2.5 (adic.) | Sobreposição completa |
+| Comunicação | 7.5.7 | Q1201 a Q1205: telefone, computador, internet e sua constância | Parcial (HHFA mais completo) |
+| Manutenção | 7.5.8 | 4.1.2, com plano e cumprimento | Parcial (HHFA mais completo) |
+| Segurança, salão de actos, biblioteca, residência, capela, parqueamento, ajardinamento, videovigilância, gabinete do utente | 7.5.9 a 7.5.18 | Não | **Sem sobreposição (apenas Mapa)** |
+| Tratamento do lixo como serviço | 7.5.16 | Ver bloco D | Sobreposição completa |
+
+**Comentário.** Bloco onde a Ficha do Mapa Sanitário é sistematicamente mais detalhada, e o único em que a categoria "mínima" se inverte: a cozinha, a lavandaria e a morgue existem no HHFA como um item de existência cada, enquanto a Ficha os separa e, no caso da morgue, conta as gavetas. Vale ainda reparar num ponto: quase todos estes quesitos existem no HHFA apenas nas perguntas adicionais do módulo de gestão e finanças. Numa aplicação nuclear, desaparecem. A Ficha, ao contrário, trata-os como parte da descrição normal da unidade, o que é coerente com o seu propósito de planeamento de instalações. Dez destes serviços não existem de todo do lado do HHFA.
+
+## J. Camas, aparelhos e frota
+
+| Quesito | Ficha do Mapa Sanitário | HHFA | Comparação |
+|---|---|---|---|
+| Camas de internamento | 8.1.2, contagem, definição exigente no guião | 1.1.2.1.1 a 1.1.2.1.3, mais camas autorizadas | Parcial (HHFA mais completo) |
+| Camas por disciplina (maternidade, cirurgia, psiquiatria, urgência, cuidados intensivos) | Não | 1.1.2.2.1 a 1.1.2.2.9 | Sem sobreposição (apenas HHFA) |
+| Camas de observação | 8.1.1 | Excluídas por definição | **Sem sobreposição (apenas Mapa)** |
+| Marquesas de parto e berços | 8.1.3 e 8.1.5 | Berços sim; marquesas pela prontidão do parto | Parcial (cada um capta um aspeto) |
+| Cadeiras de estomatologia | 8.1.4 | Não | **Sem sobreposição (apenas Mapa)** |
+| Salas de isolamento | Não | Q409 e Q410, por tipo e número de camas | Sem sobreposição (apenas HHFA) |
+| Esterilizador, mini-arca, balanças, esfigmomanómetro, estetoscópios, ecógrafo, raios X ◆ | 9.1, contagem de 15 tipos, "habitualmente em funcionamento" | 2.2.1 e itens por serviço, com disponibilidade e funcionamento verificados | Parcial (cada um capta um aspeto) |
+| Kits de parto, de cesariana, de evacuação uterina, ressuscitador neonatal ◆ | 9.1.10 a 9.1.15 | 3.1.3 e 3.1.5, item a item | Parcial (HHFA mais completo) |
+| Termómetro, oxímetro, otoscópio, oftalmoscópio, foco de exame, fita métrica | Não | 2.2.1.1.1 a 2.2.1.1.12 | Sem sobreposição (apenas HHFA) |
+| Frota por tipo, funcionantes e não funcionantes | 10.1 | Não | **Sem sobreposição (apenas Mapa)** |
+
+**Comentário.** A Ficha do Mapa Sanitário conta unidades de equipamento; o HHFA mede a proporção de unidades sanitárias que têm o item disponível e a funcionar. As duas informações servem decisões diferentes — a primeira para logística e distribuição, a segunda para saber onde há falhas — e por isso ficam classificadas como aspetos diferentes do mesmo quesito. O mesmo raciocínio vale para as camas: a definição da Ficha é exigente e verificada no local (só contam as camas observadas na altura da visita), enquanto o HHFA acrescenta a desagregação por disciplina e a comparação com as camas autorizadas. A frota é, mais uma vez, exclusiva da Ficha.
+
+## K. Força de trabalho
+
+| Quesito | Ficha do Mapa Sanitário | HHFA | Comparação |
+|---|---|---|---|
+| Número de profissionais por categoria | Não | 1.2.1, 31 indicadores | **Sem sobreposição (apenas HHFA)** |
+| Proporção de mulheres por categoria | Não | 1.2.3.1 | Sem sobreposição (apenas HHFA) |
+| Unidades com pelo menos um médico | Não | 1.2.3.2 | Sem sobreposição (apenas HHFA) |
+| Especialistas visitantes e frequência das visitas | Não | 1.2.3.3 | Sem sobreposição (apenas HHFA) |
+| Quadro de pessoal aprovado | Não | 1.2.1.1.1 | Sem sobreposição (apenas HHFA) |
+| Qualificação em gestão dos dirigentes | Não | 1.2.3.4 | Sem sobreposição (apenas HHFA) |
+| Pessoal voluntário | Não | 1.2.3.5 | Sem sobreposição (apenas HHFA) |
+
+**Comentário.** É o bloco de maior assimetria de todo o documento: sete quesitos, nenhum com correspondência na Ficha do Mapa Sanitário. A Ficha regista quem dirige a unidade, mas não quantas pessoas lá trabalham. É também o bloco mais barato de acrescentar, porque a informação existe no mapa de pessoal da unidade e não exige verificação física. Convém notar que o HHFA conta o pessoal afeto, e não o presente, pelo que mesmo esse acréscimo não responderia à pergunta sobre quem está efetivamente a atender.
+
+## L. Prontidão geral da unidade
+
+| Quesito | Ficha do Mapa Sanitário | HHFA | Comparação |
+|---|---|---|---|
+| Comodidades básicas (privacidade, comunicações, computador, internet, transporte de emergência) | Parcialmente, em 7.5 | 2.1.1, 25 indicadores | Parcial (HHFA mais completo) |
+| Equipamento básico da área principal ◆ | 9.1, para centros e postos | 2.2.1, 14 itens com funcionamento | Parcial (HHFA mais completo) |
+| Capacidade básica de diagnóstico ◆ | Só a caixa "1. Laboratório" | 2.3.1, 13 indicadores traçadores | **Mínima (HHFA aprofunda)** |
+| Medicamentos essenciais ◆ | Só a caixa "10. Farmácia" | 2.4.1, 37 indicadores | **Mínima (HHFA aprofunda)** |
+| Consumíveis básicos ◆ | Não | 2.4.2, 22 indicadores | Sem sobreposição (apenas HHFA) |
+| Produtos que salvam vidas em saúde materno-infantil ◆ | Não | 2.4.3, 21 indicadores | Sem sobreposição (apenas HHFA) |
+| Oxigénio na consulta externa ◆ | Só a caixa "11. Gases medicinais" | 2.4.4, 7 indicadores | Mínima (HHFA aprofunda) |
+| Armazenamento farmacêutico ◆ | Não | 2.4.5, 30 indicadores | Sem sobreposição (apenas HHFA) |
+| Precauções-padrão e equipamento de proteção individual ◆ | Não | 2.5.1, 25 indicadores | Sem sobreposição (apenas HHFA) |
+| Preparação para emergências e resiliência | Não | 2.8.1, 19 indicadores | Sem sobreposição (apenas HHFA) |
+
+**Comentário.** Esta é a dimensão que o HHFA acrescenta por inteiro. Todos os quesitos deste bloco são observados no terreno, item a item, e é aqui que a distinção entre o referido e o observado pesa mais. A Ficha do Mapa Sanitário toca o tema por três portas — a farmácia, o laboratório e os gases medicinais — mas em cada uma delas com uma única caixa. É também o bloco em que um acréscimo pequeno rende muito: meia dúzia de itens traçadores verificados dariam, por si só, uma primeira medida de prontidão comparável com a de outros países.
+
+::: {style="border-left:6px solid #1e8449;background:#eafaf1;padding:14px 18px;border-radius:6px;"}
+
+## Síntese por área do HHFA
+
+As 28 áreas do inventário do HHFA, com a comparação face à Ficha do Mapa Sanitário.
+
+| Área do HHFA | Comparação |
+|---|---|
+| 1.1 Infraestrutura | Parcial (cada um capta um aspeto) |
+| 1.2 Força de trabalho | Sem sobreposição (apenas HHFA) |
+| 1.3 Serviços disponíveis | Parcial (HHFA mais completo) |
+| 1.4 Índices de densidade | Sem sobreposição (apenas HHFA) |
+| 2.1 Comodidades básicas | Parcial (HHFA mais completo) |
+| 2.2 Equipamento básico | Parcial (cada um capta um aspeto) |
+| 2.3 Capacidade básica de diagnóstico | Mínima (HHFA aprofunda) |
+| 2.4 Medicamentos, consumíveis e armazenamento | Mínima (HHFA aprofunda) |
+| 2.5 Precauções-padrão | Sem sobreposição (apenas HHFA) |
+| 2.6 Índice de prontidão geral | Sem sobreposição (apenas HHFA) |
+| 2.7 Sistemas de referência | Parcial (cada um capta um aspeto) |
+| 2.8 Preparação para emergências | Sem sobreposição (apenas HHFA) |
+| 3.1 Saúde reprodutiva, materna, neonatal e infantil | Parcial (HHFA mais completo) |
+| 3.2 Doenças transmissíveis | Parcial (HHFA mais completo) |
+| 3.3 Doenças não transmissíveis | Mínima (HHFA aprofunda) |
+| 3.4 Cirurgia | Parcial (HHFA mais completo) |
+| 3.5 Urgência | Parcial (HHFA mais completo) |
+| 3.6 Necessidades especiais | Parcial (HHFA mais completo) |
+| 3.7 Diagnóstico e tratamentos especializados | Mínima (HHFA aprofunda) |
+| 4.1 Governação e manutenção | Parcial (cada um capta um aspeto) |
+| 4.2 Finanças e contabilidade | Mínima (HHFA aprofunda) |
+| 4.3 Apoio ao pessoal | Sem sobreposição (apenas HHFA) |
+| 4.4 Qualidade e segurança | Parcial (HHFA mais completo) |
+| 4.5 Sistemas de informação | Mínima (HHFA aprofunda) |
+| 5.1 a 5.5 Qualidade clínica | Sem sobreposição (apenas HHFA) |
+
+:::
+
+::: {style="border-left:6px solid #b7950b;background:#fdf6e3;padding:14px 18px;border-radius:6px;"}
+
+## Os quesitos que só existem na Ficha do Mapa Sanitário
+
+Reunidos num só lugar, porque são o contributo próprio do Mapa e o material de adaptação do HHFA ao país:
+
+1. Categoria, nome e distância da unidade de referência, em minutos e em quilómetros de alcatrão e de picada.
+2. Número de edifícios, residências dos técnicos e superfície em metros quadrados.
+3. Ano, período e material de construção.
+4. Metros quadrados por estado de conservação, base para custear a obra.
+5. Estação de tratamento de águas residuais e seu funcionamento.
+6. Modo de recolha do lixo.
+7. Escola de formação técnica, núcleo de formação permanente e campos de estágio.
+8. Serviços gerais de apoio: segurança, salão de actos, biblioteca, residência, capela, parqueamento, ajardinamento, videovigilância e gabinete do utente.
+9. Camas de observação e cadeiras de estomatologia.
+10. Frota por tipo, com funcionantes e não funcionantes.
+11. Número de gavetas mortuárias e número de blocos cirúrgicos.
+12. Lista de especialidades clínicas e cirúrgicas, e brigadas móveis e equipas avançadas.
+
+:::
+
+::: {style="border-left:6px solid #6c3483;background:#f4ecf7;padding:14px 18px;border-radius:6px;"}
+
+## O que este panorama mostra
+
+**A sobreposição completa é rara e concentra-se na identificação da unidade.** Nome, localização, tipo, entidade gestora e alguns serviços de apoio. Nesses pontos, os dois instrumentos produzem informação diretamente comparável.
+
+**A sobreposição mínima é a situação mais frequente.** Em quase todos os serviços de apoio, em quase todos os programas de saúde pública e no orçamento, a Ficha do Mapa Sanitário regista a existência numa caixa de sim ou não e o HHFA desdobra o mesmo quesito em vários elementos verificados. A razão é sempre a mesma, e foi descrita no segundo documento: o serviço é registado numa só marcação, sem os componentes, sem a prontidão e sem a distinção entre o referido e o observado. É também, por isso, o grupo onde os acréscimos rendem mais — desdobrar uma caixa em quatro custa pouco tempo de visita.
+
+**A sobreposição parcial vem a seguir**, e nela o HHFA é habitualmente o mais completo, com exceções claras no edifício, nas camas e nos aparelhos.
+
+**A especialidade e a condição não são a mesma pergunta.** A Ficha nomeia a especialidade — endocrinologia, cardiologia, pneumologia —, o HHFA mede a capacidade de manejar a diabetes, a hipertensão e a asma. Para a rede hospitalar conta a primeira; para os cuidados de saúde primários conta a segunda.
+
+**Há um conjunto claro de quesitos em que é a Ficha do Mapa Sanitário que capta mais:** a lista de especialidades clínicas e cirúrgicas, a descrição física do edifício com áreas e materiais, os serviços gerais de apoio, a extensão comunitária do serviço e a frota. São os quesitos que nascem da função do Mapa Sanitário como instrumento de planeamento da rede e de decisão sobre obras.
+
+**A ausência total de sobreposição concentra-se em dois lados opostos.** Do lado do HHFA: força de trabalho, doenças não transmissíveis, prevenção de infeção, medicamentos essenciais, gestão financeira e qualidade clínica. Do lado do Mapa: tudo o que diz respeito ao edifício, à frota e à ligação física entre unidades.
+
+### A agilidade aparente da pergunta por item
+
+A Ficha do Mapa Sanitário pergunta por itens — "1. Laboratório", "9. Endocrinologia", "1. Vacinação". Essa forma tem uma vantagem real e imediata: cabe numa página, preenche-se depressa, o inquiridor nunca hesita e a unidade responde sem consultar ninguém. É por isso que a pergunta por item é quase sempre a primeira escolha de quem desenha um cadastro, e é a escolha certa quando o que se quer saber é que unidades existem e de que tipo são.
+
+O que convém antecipar é o que acontece a seguir, quando o dado é usado para decidir. A pergunta por item tem três consequências que só aparecem na fase de análise, e por isso é frequente que seja vista como mais ágil do que de facto é.
+
+**Primeira: a resposta depende de quem responde.** "Tem laboratório?" é respondido de forma diferente por um diretor que pensa na sala, por um técnico que pensa nos exames que consegue fazer hoje e por um gestor que pensa no que consta do organigrama. Nenhum está errado — é a pergunta que admite as três leituras. O Guião de Preenchimento resolve isto no papel, definindo o mínimo exigido, mas a caixa única não guarda qual das leituras foi usada. A variação fica dentro do dado sem ser visível, e não há forma de a corrigir na análise.
+
+**Segunda: a informação desloca-se no sentido da presença.** Numa lista de itens, a marcação tende a ser feita quando existe *alguma coisa* daquilo. Uma unidade que faça gota espessa e hemoglobina, mas não as análises simples de fezes e urina, é registada como tendo laboratório; uma unidade que faça os quatro exames é registada exatamente da mesma maneira. A percentagem que daí resulta é verdadeira, mas responde a uma pergunta mais fraca do que aquela que se queria fazer — e tende a ser lida como se respondesse à pergunta forte.
+
+**Terceira, e a mais importante: a pergunta por item não fecha a decisão, adia-a.** Saber que uma unidade tem consulta de endocrinologia não permite decidir nada sobre a diabetes. A pergunta seguinte vem sempre: mede a glicemia? tem metformina? tem insulina e consegue conservá-la? tem pessoal formado no diagnóstico e no tratamento? segue os doentes ou só os atende uma vez? Essas perguntas terão de ser feitas de qualquer maneira, mais tarde, num levantamento adicional — e um levantamento adicional significa outra visita, outra equipa e outro orçamento. A pergunta por item é rápida na recolha e cara na decisão.
+
+É esta a razão pela qual o HHFA troca "tem serviço de endocrinologia?" por "a unidade diagnostica, trata, segue e aconselha pessoas com diabetes, e tem os doze itens necessários para o fazer?". Não é uma pergunta mais exigente por gosto de exigência: é a pergunta de que a decisão precisa, feita uma vez só, na mesma visita.
+
+### Porque o HHFA é mais complexo
+
+Vale a pena dizer com clareza de onde vem essa complexidade, porque ela não é arbitrária nem decorativa. Sete decisões de desenho explicam quase tudo, e todas elas já apareceram ao longo deste documento.
+
+1. **Mede capacidade instalada, e não apenas existência.** Cada serviço que a unidade declara oferecer abre um conjunto de perguntas sobre normas, pessoal formado, equipamento, meios de diagnóstico e medicamentos. Nos termos do quadro de medição dos cuidados de saúde primários, a Ficha fica nos insumos e o HHFA avança para a capacidade de processo — o que a unidade está em condições de fazer, e não apenas o que possui.
+2. **Separa o observado do referido.** Quase todos os itens de prontidão são verificados fisicamente, e a resposta guarda essa diferença em vez de a dissolver numa marcação única. É a informação que a equipa do Mapa Sanitário já recolhe no terreno e que hoje se perde no registo.
+3. **Desdobra o serviço nas suas funções.** Diagnosticar, tratar, aconselhar, referir e seguir são perguntas diferentes, e são feitas por grupo etário sempre que isso muda a conduta clínica. Um serviço que diagnostica mas não trata não é o mesmo serviço.
+4. **Fixa o período de referência de cada pergunta.** Hoje, últimos 7 dias, últimos 3 meses, últimos 2 anos. Sem período declarado não há forma de comparar duas unidades entre si, nem a mesma unidade em dois momentos.
+5. **Fixa o denominador de cada indicador.** Cada tabela do inventário declara sobre que universo se calcula: todas as unidades, ou apenas as que oferecem aquele serviço. É isto que impede comparar percentagens assentes em bases diferentes, e é também o que obriga a desenhar a recolha de trás para a frente, a partir dos indicadores que se querem produzir.
+6. **É comparável internacionalmente.** Os indicadores do inventário têm identificadores permanentes e definições fixas, o que permite comparar Angola consigo própria ao longo do tempo e com outros países. Essa comparabilidade tem um preço, e o preço é a padronização das perguntas e das listas.
+7. **É modular, e por isso a complexidade é escolhida, não imposta.** Módulos, perguntas nucleares e perguntas adicionais permitem decidir a profundidade quesito a quesito. Nada obriga a aplicar o instrumento inteiro.
+
+Dito de outro modo: o HHFA é mais longo porque responde, na mesma visita, às perguntas que a pergunta por item deixa em aberto para depois. Reconhecer isto não retira valor à Ficha do Mapa Sanitário, que responde muito bem àquilo para que foi feita. Permite antes escolher, quesito a quesito, onde compensa pagar o custo de uma pergunta mais precisa e onde a caixa única já diz tudo o que é preciso saber. É esse o trabalho do quarto documento.
+
+:::

@@ -1,0 +1,240 @@
+# A note on the design and presentation of questions and response options
+
+::: {style="border-left:6px solid #0b6e99;background:#eaf4f9;padding:14px 18px;border-radius:6px;"}
+
+An analysis of how the questions and response options of the **Health Map Form** and its **Filling Guide** (version 19_01, April 2019) are worded, compared with the wording of the **Harmonized Health Facility Assessment** (HHFA, World Health Organization).
+
+The purpose is to show where small wording adjustments make the Health Map Form more precise, without changing its scope or lengthening the visit.
+
+:::
+
+::: {style="border:3px solid #c0392b;background:#fdecea;padding:18px 20px;border-radius:8px;margin:18px 0;"}
+
+## ⚠ READ THIS FIRST
+
+<p style="font-size:1.1em;line-height:1.55;margin:0 0 10px 0;"><strong style="color:#c0392b;">This is the second of three documents.</strong> The first gave the overview. This one deals with the design and presentation of questions. The third will map coverage, item by item.</p>
+
+<p style="font-size:1.05em;line-height:1.55;margin:0 0 10px 0;"><strong>One finding runs through the whole document:</strong> the Filling Guide is, at several points, as precise as the HHFA. It defines what counts as complete antenatal care, what a minimum laboratory is, what sterilization by a reliable method means, and what a bed is. <strong style="color:#c0392b;">The precision is in the guide; what is lost is its recording on the Health Map Form</strong>, because the available answer is a single box.</p>
+
+<p style="font-size:1.05em;line-height:1.55;margin:0;">For that reason, almost none of the adjustments proposed here call for new questions. They call for the Health Map Form to record what the guide already instructs the team to check.</p>
+
+:::
+
+::: {style="border-left:6px solid #1e8449;background:#eafaf1;padding:14px 18px;border-radius:6px;"}
+
+## The principle: the question decides the data
+
+Every survey question decides three things at once:
+
+1. **Who answers**, and with what knowledge.
+2. **What counts as "yes"** — the criterion.
+3. **Which moment** the answer refers to.
+
+When any of the three is left implicit, it is the enumerator who decides, alone, at the door of the room, with the respondent waiting. And because the decision is not recorded, no one can later tell what it was.
+
+**The test used throughout this document** is always the same: *faced with an in-between situation, what does the enumerator tick?* If the form does not answer that, the answer varies from team to team, and that variation enters the results without leaving a trace.
+
+:::
+
+## 1. Who answers, and in which room
+
+**On the Health Map Form.** The guide states that information is obtained "through an interview with the facility manager or deputy, and by consulting the facility's statistics and other documents" (sheet 3). The same respondent answers for every section, from the laboratory to the hospital committees, and the form does not say where each question should be asked.
+
+**In the HHFA.** Each block opens with a routing instruction, written in capitals for the enumerator:
+
+> "ASK TO BE SHOWN THE LOCATION IN THE FACILITY WHERE NONCOMMUNICABLE DISEASE SERVICES ARE PROVIDED. FIND THE PERSON MOST KNOWLEDGEABLE ABOUT NCD SERVICES IN THE FACILITY. INTRODUCE YOURSELF, EXPLAIN THE PURPOSE OF THE SURVEY AND ASK THE FOLLOWING QUESTIONS." (i1502)
+
+Laboratory, pharmacy, maternity and emergency each have their own respondent and their own place of verification.
+
+**The enumerator's dilemma.** The director is asked whether urine ketone strips are available. The director does not work in the laboratory. If they answer in good faith "yes, we have them", the answer describes what is usually there. Nobody opened the drawer.
+
+**Effect on measurement.** The bias is predictable and has a direction: answers obtained away from the place tend to describe the normal situation and to overstate availability on the day.
+
+**Adjustment.** One instruction line per section, saying where to go and whom to speak to. No new questions.
+
+## 2. The verification that is done but not recorded
+
+**On the Health Map Form.** Collection already happens in two steps: the manager reports and the team verifies on site. That verification has nowhere to be recorded, because the box is yes or no.
+
+**In the HHFA.** The verification instruction sits inside the question, and its result sits inside the answer:
+
+> "Are national guidelines for the diagnosis and/or management of diabetes available in this service site today? **If yes, ask: May I see the guidelines?**"
+> Responses: **1** yes, observed · **2** yes, reported, not seen · **3** no (Q1507)
+
+**The enumerator's dilemma.** The manager says the guidelines exist, but they are locked in a cupboard and the key is with the head nurse, who is not in today. With two options, the enumerator must choose between "yes", which erases the doubt, and "no", which is unfair to the facility. Almost everyone chooses "yes".
+
+**Effect on measurement.** Two situations — guideline seen and guideline reported — count as one. The bias is upward and systematic, because the enumerator always errs on the same side.
+
+**Adjustment.** Three responses for items that can be seen. Collection time does not change: the question is already asked; only the answer gains a cell.
+
+## 3. The moment the answer refers to
+
+**On the Health Map Form.** The expressions used are "in working order", "exists and is currently working" (guide, sheets 10, 12, 14 and 15) and, in section 9, "medical and surgical devices **usually** in working order".
+
+**In the HHFA.** Each question fixes its moment, and the moment changes with what is being asked:
+
+| Question | Moment |
+|---|---|
+| "Is the incinerator functional today?" and "is fuel available today?" (Q1219, Q1220) | today |
+| "During the past 7 days, was electricity available, from the main or any backup source, at all times the facility was open for services?" (Q1209) | past 7 days |
+| "At any time during the past 3 months has oxygen been unavailable for this service site for any reason?" (Q2653) | past 3 months |
+| "Have you or any provider of diabetes services received any training in the diagnosis and/or management of diabetes in the past 2 years?" (Q1509) | past 2 years |
+
+**The enumerator's dilemma.** The ultrasound machine broke three weeks ago and the part has been ordered. "Usually in working order" says yes. "Working today" says no. Both answers are right, each for its own question, but the form does not say which question is being asked.
+
+**Effect on measurement.** With no period fixed, each team resolves it differently and the provincial result mixes installed capacity with actual availability. Since "usually" is the more generous reading, the bias is upward.
+
+**Adjustment.** Write the period into each question. Where installed capacity is what matters, say "usually"; where the real situation is what matters, say "today".
+
+::: {style="border-left:6px solid #b7950b;background:#fdf6e3;padding:14px 18px;border-radius:6px;"}
+
+## 4. Composite concepts in a single box: where specificity is lost
+
+This is the point of greatest information loss, and also the one where the Filling Guide is richer than the Health Map Form can record.
+
+### 4.1 Laboratory
+
+**What the guide says (sheet 12).** Laboratory: "at a minimum, thick smear, haemoglobin or haematocrit, and simple stool and urine tests".
+
+**What the form offers.** One box: 7.2.1 Laboratory, tick if it exists.
+
+**The real situation, which is the most common one.** The facility does thick smears and haemoglobin. It does not do stool or urine tests, because there are no strips. **What gets ticked?**
+
+- If the enumerator ticks **yes**, the facility enters the report alongside a complete laboratory.
+- If they tick **no**, a facility that diagnoses malaria and anaemia every day disappears from the map.
+
+Neither answer is true, and the form forces a choice. In practice the tendency is to tick "yes", because the service does exist and the enumerator does not want to penalize the facility.
+
+**How the HHFA solves it.** It does not ask whether there is a laboratory. It asks, test by test, whether it is done on site, whether the sample is sent out with results returned, or whether it is not done. It then asks about the corresponding equipment and reagents:
+
+> "I would like to know if the following tests are available in this service site today. For each test, please show it to me."
+> Responses per item: **1** at least one not expired · **2** available but expired · **3** reported available, not seen · **4** not available today · **5** never available (Q2911)
+
+**What is gained.** The same facility now appears as "does malaria and haemoglobin, does not do urine or stool". That is a sentence one can act on when deciding what to buy.
+
+### 4.2 Antenatal care
+
+**What the guide says (sheet 12).** It instructs the team to record whether the consultation is "complete, incomplete or not provided", and defines the complete one through a list: pregnancy card, history, weight, oedema, fundal height, mucosa, blood pressure and Leopold manoeuvres, plus intermittent preventive treatment for malaria, immunization, iron and folic acid, deworming and counselling.
+
+**What the form offers.** One box: 7.3.6 Antenatal care.
+
+**The real situation.** The facility weighs, measures blood pressure and gives iron, but has no blood pressure device in three of its four consulting rooms, does not test for syphilis, and has had no sulfadoxine-pyrimethamine for two months. **What gets ticked?** "Yes" — and the report will say that 96% of facilities offer antenatal care, the same figure they would have if every one of them provided the complete consultation.
+
+**How the HHFA solves it.** Provision is broken down by component and readiness is checked item by item: HIV and syphilis testing in pregnancy, haemoglobin, urine test, iron and folic acid, tetanus vaccine, intermittent preventive treatment for malaria, each with its own answer.
+
+**What is gained.** There is no longer a need to choose between "has" and "does not have". The facility is described by what it does and by what it lacks.
+
+### 4.3 Delivery: basic emergency obstetric care
+
+**What the form offers.** Two boxes: 7.3.7.1 basic and 7.3.7.2 comprehensive emergency obstetric care. The guide defines the basic one as parenteral antibiotic, oxytocin and anticonvulsant, manual removal of the placenta and removal of retained products.
+
+**The real situation.** The facility does all of that except the anticonvulsant, because there is no magnesium sulfate. **What gets ticked?** The definition is a set: one element missing means it is not basic emergency obstetric care. But ticking "no" makes this facility equal to one that performs none of the five functions.
+
+**How the HHFA solves it.** It asks about the seven signal functions one by one, and additionally checks whether the corresponding medicine is on site and within its expiry date.
+
+**What is gained.** One knows exactly which function is missing, and whether it is missing for lack of a medicine, of equipment or of training. A facility missing only magnesium sulfate is a procurement problem; a facility missing everything is a network design problem.
+
+### 4.4 Minor surgery
+
+**What the guide says (sheet 10).** "Minor surgery (dressings): treatment of wounds and injuries, dressings and injections."
+
+**The specificity problem.** The definition places the simple dressing, which any health post does, alongside suturing and abscess drainage, which require sterile supplies, local anaesthetic and trained staff. With this wording almost every facility ticks "yes", and the box stops distinguishing anything.
+
+**How the HHFA solves it.** It lists the procedures: suturing of laceration, incision and drainage of abscesses, wound debridement, acute burn management, chest tube insertion, removal of a foreign body. And it checks the supplies: minor surgical kit, sterile gloves, skin disinfectant, lidocaine, sutures.
+
+### 4.5 The general rule these four cases point to
+
+A single box works well only when the concept is indivisible. When the concept is a list — and in these four cases it is — the single box forces the enumerator to round, and rounding is almost always upward. **What is lost is not decimal precision: it is the ability to say what is missing.** And that is exactly what an investment plan needs to know.
+
+:::
+
+## 5. Existing and functioning are not the same
+
+**On the Health Map Form.** For the committees in section 7.4 — ethics, hospital infections, deaths, medicines, occupational safety, discipline and audit — the guide says only "indicate whether it exists". For the continuing education unit, it already adds a time criterion: "that has been operating in the past 6 months" (sheet 14).
+
+**In the HHFA.** The criterion is always functioning: governing board that met in the past 6 months (4.1.1.1.1), management committee that met in the past 3 (4.1.1.1.2), finance committee (4.1.1.1.3), and how often the committee refers to the management plan in its decisions (Q509).
+
+**The enumerator's dilemma.** The infection committee was created by decree in 2019 and has never met. Does it exist? On paper, it does.
+
+**Effect on measurement.** What is measured is formality rather than practice, and the result does not distinguish a facility that manages hospital infection from one that has merely appointed a committee.
+
+**Adjustment.** Extend to the committees the criterion the guide already applies to the continuing education unit.
+
+## 6. Regular and irregular services
+
+**On the Health Map Form.** The guide is explicit: "services offered on an irregular basis must be duly identified" (sheet 10). And it gives the rule: a service provided only when the doctor is on the rota is irregular, but "shall be considered regular if the doctor can be called in even when not present at the facility".
+
+**The problem.** The form has no field to flag irregularity, so the instruction cannot be carried out. And the on-call rule is generous: it is enough that someone can be called for the service to count as regular.
+
+**In the HHFA.** Time availability is measured by its own questions: hours per day the facility is open (Q1302), days per week (Q1304) and, in emergency care, two distinct questions — a dedicated 24-hour emergency unit (3.5.1.1.2) and medical and nursing staff on site 24 hours (3.5.1.1.3).
+
+**The enumerator's dilemma.** The health post sees patients until 3 p.m. and, at night, a nurse who lives next door is called when needed. By the rule, that is a regular emergency service. On the form it looks the same as a centre with a team on site 24 hours.
+
+**Adjustment.** A frequency column for the services where it changes the reading: daily, weekly, monthly, on call.
+
+## 7. Zero, don't know and not answered
+
+**On the Health Map Form.** Catchment population is filled in "if known" (guide, sheet 6); the year of construction is "not compulsory"; there is no "don't know" option in the service boxes.
+
+**In the HHFA.** "Don't know" is a coded option in about 70 questions, mostly on equipment functionality, and unknown values have their own code, distinct from zero.
+
+**The enumerator's dilemma.** Asked how many inpatient beds there are, the manager is not sure and the ward is locked. Leave it blank, or write an approximate number?
+
+**Effect on measurement.** An empty field may mean absence, ignorance or an oversight. In analysis, empty tends to be read as absent, and items with many blanks come out low. Worse, the three cases become indistinguishable after collection.
+
+**Adjustment.** Add "don't know" where the answer depends on memory, and use a distinct code for not answered.
+
+## 8. What is left in free text
+
+**On the Health Map Form.** The square metres by condition — the figure that allows the works to be costed — are recorded in the observations field of section 5. The bed, device and transport sections have free lines for adding unlisted items.
+
+**In the HHFA.** Quantities have their own numeric fields and lists are closed, with national adaptation done before fieldwork rather than during it.
+
+**Effect on measurement.** Free text cannot be tabulated without later coding, and items added by each team are hard to compare across municipalities. The data exist, but do not reach the table.
+
+**Adjustment.** Four numeric fields for the square metres by condition. Closed lists, reviewed at each edition.
+
+## 9. Long lists without a gate question
+
+**On the Health Map Form.** Section 7.1 has 36 boxes for clinical and surgical specialties, ticked in sequence. In a health post, 33 of them are "no".
+
+**In the HHFA.** There is a gate question per block, with a skip: if the facility offers no noncommunicable disease services, all questions on diabetes, hypertension and respiratory disease are skipped (Q1500). This is what allows the instrument to be long without every facility answering everything.
+
+**Effect on measurement.** Long lists where almost everything is "no" tire both respondent and recorder. Error concentrates in the last lines, and it is always the same kind of error: leaving unticked something that exists.
+
+**Adjustment.** Gate questions per block, with clearly signposted skips. On an electronic device the skip is automatic.
+
+## 10. Counting devices or measuring availability
+
+**On the Health Map Form.** Section 9 counts the number of devices of each type, for health centres and health posts. The report presents provincial totals, for example 323 adult scales.
+
+**In the HHFA.** The indicator is the percentage of facilities with the item available and functional.
+
+**Effect on measurement.** The provincial total does not say how many facilities have at least one scale: one facility with five offsets five with none. For logistics the total is useful; for deciding where to invest, distribution is what counts.
+
+**Adjustment.** Keep the count and add to the report the percentage of facilities with at least one item available and functional. This is a change in analysis, not in collection.
+
+::: {style="border-left:6px solid #6c3483;background:#f4ecf7;padding:14px 18px;border-radius:6px;"}
+
+## Summary of proposed adjustments
+
+| Adjustment | Cost in collection | Does the HHFA already do it? | What it improves |
+|---|---|:--:|---|
+| Location and respondent instruction per section | None | Yes | Brings the answer closer to whoever knows, and to where the item is |
+| Three responses instead of yes/no for verifiable items | None | Yes | Records the verification already performed |
+| Reference period written into each question | None | Yes | Makes facilities and editions comparable |
+| Split the guide's definitions into boxes | A few added questions | Yes | Allows one to say what is missing, not only whether it exists |
+| Time criterion for committees and bodies | None | Yes | Separates existing from functioning |
+| Frequency column for services | One column | Yes | Delivers the regular/irregular rule the guide already asks for |
+| "Don't know" option and a code for not answered | None | Yes | Avoids reading empty as absent |
+| Numeric fields for square metres by condition | None | No | Allows works to be costed straight from the database |
+| Gate questions with skips | Reduces time | Yes | Less fatigue, less error in long lists |
+| Percentage of facilities with the item, in the report | None in collection | Yes | Shows distribution, not only the total |
+
+A note on the middle column: where it says "yes", the HHFA brings a ready-made solution in its own wording, and it is enough to transpose it. Where it says "no" — the square metres by condition — the HHFA is of no help, because it does not measure areas. That information exists only on the Health Map side, and is worth preserving and structuring better.
+
+None of these adjustments changes the purpose or the scope of the Health Map Form. Most of them simply make room on the form for what the Filling Guide already instructs the team to do.
+
+In the third document these points are taken to the level of detail, item by item, indicating where there is full overlap, partial overlap and no overlap between the two instruments.
+
+:::

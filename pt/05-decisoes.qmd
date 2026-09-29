@@ -1,0 +1,235 @@
+# Decisões que teremos que tomar para avançarmos juntos {.unnumbered}
+
+::: {style="border-left:6px solid #0b6e99;background:#eaf4f9;padding:14px 18px;border-radius:6px;"}
+
+<p class="chapter-lead">Adaptação do HHFA e incremento do Mapa Sanitário<br>Agenda de trabalho, decisões pendentes e calendário até Dezembro de 2026</p>
+
+Os quatro documentos anteriores fizeram o trabalho de leitura: o que cada instrumento capta, como as perguntas são formuladas, onde as coberturas se sobrepõem e que incrementos concretos valem a pena. Este documento faz outra coisa — organiza o que falta **decidir**, e propõe um modo de trabalhar em conjunto para que essas decisões aconteçam a tempo.
+
+Nada aqui está decidido. O que está é a lista do que temos pela frente, com uma proposta para cada ponto e uma indicação clara de quando cada decisão deixa de poder esperar.
+
+:::
+
+::: {style="border:3px solid #c0392b;background:#fdecea;padding:18px 20px;border-radius:8px;margin:18px 0;"}
+
+### ⚠ LEIA PRIMEIRO: o calendário é apertado, e é melhor sabê-lo agora
+
+<p style="font-size:1.1em;line-height:1.55;margin:0 0 10px 0;"><strong style="color:#c0392b;">A recolha está prevista para Novembro e Dezembro de 2026. Restam cerca de cinco semanas de preparação.</strong></p>
+
+<p style="font-size:1.04em;line-height:1.5;margin:0 0 10px 0;">Isto é exequível, mas não com folga. O caminho crítico é a <strong>formação dos inquiridores</strong>, e a formação não pode começar antes de o instrumento estar fechado — que por sua vez não pode ser escrito antes de sabermos que incrementos entram. Encadeadas, estas três coisas ocupam praticamente todo o mês de Outubro.</p>
+
+<p style="font-size:1.04em;line-height:1.5;margin:0 0 10px 0;"><strong style="color:#c0392b;">A consequência prática:</strong> a decisão sobre o pacote de incrementos — a primeira da lista — precisa de estar tomada na <strong>semana de 5 a 9 de Outubro</strong>. Cada semana de atraso nessa decisão empurra o início da recolha uma semana para a frente, e Dezembro é uma parede.</p>
+
+<hr style="border:none;border-top:2px dashed #c0392b;margin:14px 0;">
+
+<p style="font-size:1.03em;line-height:1.5;margin:0 0 8px 0;"><strong>A folga real está num sítio só: no tamanho do pacote.</strong> Um pacote menor significa menos perguntas a programar, menos casos a testar e menos dias de formação. Se a decisão escorregar para meados de Outubro, a resposta correta é <strong>reduzir o pacote</strong>, nunca comprimir a formação — comprimir a formação é o que destrói a qualidade dos dados, e uma recolha mal formada custa mais a corrigir do que a poupança que trouxe.</p>
+
+<p style="font-size:1.0em;line-height:1.45;margin:0;"><strong>A boa notícia, e não é pequena:</strong> uma parte substancial do trabalho operacional não precisa de ser construída. O HHFA traz-a feita. A secção seguinte mostra exatamente o quê.</p>
+
+:::
+
+::: {style="border-left:6px solid #1e8449;background:#eafaf1;padding:16px 18px;border-radius:6px;"}
+
+## O que já está resolvido e não precisamos de construir
+
+O HHFA não é apenas um questionário. É um conjunto de cinco peças que funcionam juntas, e quatro delas chegam prontas.
+
+**1. Os questionários.** Existem em duas formas — o questionário combinado, que junta os módulos numa só aplicação, e os questionários autónomos por módulo. Em ambas as formas, cada pergunta está classificada como **nuclear**, **adicional** ou **suplementar**, o que significa que a escolha da profundidade já está estruturada: não é preciso decidir pergunta a pergunta, é preciso decidir que camadas se aplicam.
+
+**2. A aplicação de recolha de dados.** O HHFA disponibiliza a aplicação em CSPro, já programada, com os saltos condicionais, os filtros e as validações de consistência embutidos. Uma pergunta que só se aplica a quem oferece o serviço nunca aparece a quem não o oferece. Isto tem uma consequência direta para o nosso caso: **em recolha digital, acrescentar perguntas custa muito menos do que em papel**, porque as perguntas só aparecem a quem lhes deve responder.
+
+**3. O inventário de indicadores.** Cada um dos indicadores traz o seu numerador, o seu denominador e a regra de cálculo escrita em código, ligada às variáveis do questionário. Não teremos de inventar definições nem de discutir como se calcula — a definição vem com o indicador, e é a mesma que outros países usam.
+
+**4. A plataforma de análise.** Recebe os dados na estrutura de saída da aplicação e produz os indicadores. O trabalho de programar o cálculo está feito.
+
+**5. O guia de implementação.** Cobre o desenho da amostra, o perfil e o número de inquiridores, a duração e a estrutura da formação, e os procedimentos de supervisão no terreno.
+
+### O que fica connosco
+
+O que o HHFA **não** traz — e não pode trazer — é a adaptação ao país. As próprias regras do instrumento dizem-no: as listas assinaladas para adaptação têm de ser substituídas pelas nacionais. São elas os tipos de unidade sanitária, as categorias profissionais, a lista de medicamentos essenciais, as normas nacionais e os programas prioritários.
+
+**E é precisamente aqui que o Mapa Sanitário é insubstituível.** Essas listas existem, estão validadas, são usadas por todo o sistema e estão na Ficha e no Guião de Preenchimento. O trabalho de adaptação que noutros países leva meses, aqui parte de material já construído.
+
+:::
+
+## Tópico 1 — Operacionalização do inquérito
+
+### O que está em causa
+
+Quem vai ao terreno, com que formação, com que instrumento na mão, e durante quanto tempo.
+
+### O que o HHFA já resolve
+
+O guia de implementação traz o perfil do inquiridor, o rácio de supervisão, a estrutura da formação e os procedimentos de controlo de qualidade em campo. A aplicação em CSPro dispensa a programação do instrumento e reduz o erro de preenchimento na origem. Os materiais de formação existem e servem de base — não partimos de uma folha em branco.
+
+### O que temos de decidir
+
+**1.1 Quem são os inquiridores.** Três caminhos possíveis: as equipas que já fazem o Mapa Sanitário, os supervisores municipais, ou o recrutamento de inquiridores dedicados. A nossa proposta é o primeiro, por uma razão de fundo — essas equipas já conhecem as unidades, já sabem com quem falar e já fazem a verificação no terreno. O que lhes falta não é experiência, é o registo formal dessa verificação, que é exatamente o que o incremento propõe.
+
+**1.2 Papel ou tablet.** Esta decisão condiciona o tamanho do pacote. Em papel, cada caixa acrescentada aparece em todas as unidades, incluindo o posto de saúde que não faz partos nem cirurgia. Em recolha digital, as perguntas-porta fazem com que esse posto nunca veja esses blocos. **Com tablet, o mesmo tempo de visita comporta um pacote cerca de duas vezes maior.** Se houver equipamento disponível, é a opção que recomendamos; se não houver, o pacote deve ser desenhado para o papel desde o início, e não adaptado depois.
+
+**1.3 Duração e formato da formação.** Depende do pacote e do instrumento. Para um pacote limitado aos Tipos 1 e 2 do catálogo, dois dias são suficientes. Para um pacote que inclua observação de itens e escalas de validade, três a quatro dias, com pelo menos meio dia numa unidade real.
+
+**1.4 Formalizar a verificação em duas etapas.** A equipa do Mapa Sanitário já se informa junto do responsável e depois confirma no terreno. Essa prática é exatamente a lógica do HHFA. A decisão é simples e o ganho é grande: passar a registar na resposta o que foi observado e o que foi referido, em vez de o deixar na memória de quem recolheu.
+
+### O que precisamos de saber
+
+Estas perguntas condicionam as decisões acima e gostaríamos de as levantar juntos, na primeira reunião.
+
+- Quantas pessoas fazem hoje a recolha do Mapa Sanitário, e em que províncias há visita presencial?
+- Que formação recebem atualmente, e com que duração?
+- Quanto tempo dura hoje, em média, uma visita a uma unidade?
+- Existem tablets ou smartphones disponíveis, ou previstos?
+
+## Tópico 2 — Gestão de dados
+
+### O que está em causa
+
+O Mapa Sanitário está armazenado em Excel. O HHFA traz um sistema próprio. A questão não é qual é melhor em abstrato — é como passar de um para o outro sem interromper o que já funciona.
+
+### O princípio que propomos
+
+**O formato de recolha e o formato de armazenamento são duas decisões separadas, e vale a pena mantê-las separadas.**
+
+É perfeitamente possível recolher em CSPro e continuar a entregar ao GEPE um ficheiro Excel com a estrutura de sempre. A aplicação exporta numa estrutura definida, e a conversão para o formato atual é um passo de transformação, não uma migração. Separar as duas decisões reduz muito o risco: podemos modernizar a recolha sem tocar no que hoje circula entre as províncias e o GEPE.
+
+### O que o Excel faz bem, e convém preservar
+
+Abre em qualquer computador, não exige licença especial nem ligação à internet, toda a gente do sistema o sabe usar, e circula por correio eletrónico — que é como a Ficha circula hoje, por desenho. Um sistema que não tenha estas propriedades terá dificuldade em substituí-lo, por melhor que seja tecnicamente.
+
+### O que ganharíamos com o sistema do HHFA
+
+**Validação na origem.** O erro é apanhado no momento em que é cometido, não meses depois na consolidação.
+
+**Dicionário de dados formal.** Cada variável com nome fixo, tipo declarado e valores permitidos — o que torna a comparação entre anos automática em vez de manual.
+
+**Ligação direta ao cálculo dos indicadores.** Os nomes das variáveis são os que o inventário de indicadores usa nas regras de cálculo, pelo que o indicador sai sem programação intermédia.
+
+### O que temos de decidir
+
+**2.1 Onde se recolhe** — papel transcrito, CSPro, ou formulário digital próprio.
+
+**2.2 Onde se guarda** — manter o Excel como formato de troca e de arquivo, adotar a base do HHFA, ou manter os dois com uma conversão automática.
+
+**2.3 Quem consolida e com que periodicidade** — e, sobretudo, em que ponto do fluxo entra a validação.
+
+### O que precisamos de saber
+
+- Como está estruturado hoje o ficheiro do GEPE: um por província, um por ano, uma folha por secção?
+- Existe um dicionário de variáveis ou um livro de códigos?
+- Quem faz a consolidação, e quanto tempo demora?
+- Que análises são produzidas a partir dele, e por quem?
+
+## Tópico 3 — Exploração das dimensões, áreas e indicadores de interesse
+
+### O que está em causa
+
+O inventário do HHFA tem 2 604 indicadores, organizados em 5 dimensões, 28 áreas e 79 subáreas. É muito mais do que Angola precisa, e isso é uma boa notícia — significa que a escolha é ampla. Mas a escolha tem de ser feita, e feita com quem vai usar os números.
+
+### Como propomos fazer
+
+Não por leitura individual do inventário, que é pouco produtiva, mas em **duas sessões de trabalho de cerca de duas horas**, com os programas nacionais presentes, percorrendo as áreas e aplicando a cada indicador candidato três perguntas:
+
+1. **Este indicador responde a uma decisão que alguém tem de tomar?** Se não responde a nenhuma decisão, não entra, por mais interessante que pareça.
+2. **Quem toma essa decisão?** Um programa nacional, uma direção provincial, o GEPE, o gabinete do plano de investimentos.
+3. **Com que periodicidade essa pessoa precisa do número?** Anual, de dois em dois anos, uma vez. A periodicidade decide se o indicador pertence ao Mapa Sanitário ou a um levantamento pontual.
+
+### O produto desta etapa
+
+Uma lista curta e fundamentada de indicadores prioritários, com o dono de cada um identificado. É essa lista que depois se cruza com o catálogo do documento 4 para saber o que é preciso perguntar.
+
+### Quem deve estar presente
+
+Saúde materna e neonatal, saúde da criança e nutrição, malária, tuberculose, VIH, doenças não transmissíveis, vacinação, recursos humanos, e o GEPE. A presença dos programas nesta sessão é o que transforma o exercício numa escolha partilhada em vez de uma proposta externa.
+
+## Tópico 4 — Definição do que Angola precisa, por tipo de unidade
+
+### O que está em causa
+
+Um posto de saúde e um hospital provincial não devem responder às mesmas perguntas. A prontidão cirúrgica não se pergunta a quem não opera, e a densidade de especialistas não faz sentido num posto. Sem estratificação por tipo de unidade, ou o instrumento fica longo de mais para as unidades pequenas, ou fica curto de mais para as grandes.
+
+### A peça que já temos
+
+**O quesito 1.6 da Ficha — a categoria indicada pelo Mapa Sanitário — é exatamente o estratificador de que precisamos.** É uma tipologia nacional, validada, aplicada a todas as unidades do país e já presente no cadastro. O HHFA pede que a lista genérica de tipos de unidade seja substituída pela lista nacional; aqui ela existe e está em uso.
+
+### O que temos de decidir
+
+**4.1 Que blocos se aplicam a que tipos de unidade.** Proposta de partida: um núcleo comum a todas as unidades — identificação, infraestrutura, comodidades básicas, pessoal, serviços oferecidos — mais blocos que se abrem conforme a categoria e conforme os serviços declarados.
+
+**4.2 Que listas nacionais substituem as genéricas.** Categorias profissionais, medicamentos essenciais de Angola, normas nacionais em vigor por programa, e os produtos traçadores de cada serviço. Esta é a parte do trabalho que exige os programas nacionais e não pode ser feita só pelo GEPE nem só por nós.
+
+**4.3 Que indicadores são obrigatórios em todas as unidades** e quais se calculam apenas sobre um subconjunto — decisão que decorre diretamente da escolha dos denominadores, e que convém tomar de forma explícita para que ninguém compare percentagens com bases diferentes.
+
+## Tópico 5 — O pacote de incrementos
+
+Este tópico está trabalhado no **documento 4**, que apresenta trinta incrementos organizados em quatro tipos, cada um com o indicador que produz, o custo, o modo de recolha e o ganho para a saúde pública.
+
+O que falta é escolher. Propomos que a escolha se faça em duas passagens: primeiro decidir **que modos de recolha se adotam** — só autorreferido, só com observação, ou os dois em unidades diferentes —, porque essa decisão elimina ou habilita metade do catálogo de uma vez; e só depois escolher os incrementos dentro do modo escolhido.
+
+**É a decisão do caminho crítico, e a que precisa de estar tomada na semana de 5 a 9 de Outubro.**
+
+::: {style="border-left:6px solid #1e8449;background:#eafaf1;padding:16px 18px;border-radius:6px;"}
+
+## Proposta de trabalho conjunto
+
+### Encontro semanal fixo
+
+**Uma reunião por semana, de 90 minutos, em dia e hora fixos.** A regularidade importa mais do que a duração: com prazos apertados, o que trava um processo raramente é a falta de tempo de trabalho e quase sempre a espera por uma decisão.
+
+**Agenda-tipo, sempre a mesma:**
+
+| | Bloco | Tempo |
+|---|---|---|
+| 1 | O que avançou desde a última reunião | 15 min |
+| 2 | Decisões desta semana — cada uma apresentada com uma proposta já escrita, os ganhos, as perdas e o prazo | 45 min |
+| 3 | O que está bloqueado, e por quem | 15 min |
+| 4 | Tarefas, responsáveis e prazos até à próxima | 15 min |
+
+**Um compromisso que propomos assumir:** nenhuma decisão chega à reunião em aberto. Cada ponto chega com uma proposta escrita e com as alternativas descritas, para que a reunião sirva para decidir e não para explorar. Cabe-nos preparar esse material.
+
+### Grupo técnico, entre reuniões
+
+Um grupo pequeno — duas ou três pessoas do GEPE e a nossa equipa — para o trabalho de redação do instrumento, do guião revisto e da programação. Trabalha entre as reuniões e leva o produto à reunião seguinte. É o que permite que o encontro semanal seja de decisão e não de execução.
+
+:::
+
+::: {style="border:3px solid #b7950b;background:#fdf6e3;padding:18px 20px;border-radius:8px;margin:18px 0;"}
+
+## Calendário até Dezembro de 2026
+
+Construído de trás para a frente, a partir da recolha. As datas são segundas-feiras.
+
+| Semana | O que acontece | O que tem de estar decidido no fim da semana |
+|---|---|---|
+| **29 Set** | Apresentação dos quatro documentos. Constituição do grupo de trabalho. Marcação do encontro semanal. Levantamento das perguntas dos tópicos 1 e 2 | Quem integra o grupo; dia e hora da reunião semanal |
+| **5 Out** | Sessões de exploração dos indicadores com os programas nacionais (tópico 3). Decisão sobre o modo de recolha e sobre o pacote de incrementos | **O pacote e o modo de recolha. Papel ou tablet.** Esta é a semana do caminho crítico |
+| **12 Out** | Redação do instrumento e do guião revisto. Definição das listas nacionais (tópico 4). Decisão sobre a gestão de dados | Instrumento fechado; listas nacionais definidas; onde se recolhe e onde se guarda |
+| **19 Out** | Programação da aplicação ou paginação da versão em papel. **Teste em 2 a 3 unidades de Luanda.** Correções | Instrumento testado e corrigido; materiais de formação prontos |
+| **26 Out** | **Formação dos inquiridores e dos supervisores**, com pelo menos meio dia numa unidade real | Equipas formadas; logística de campo montada |
+| **2 Nov a 14 Dez** | **Recolha nas unidades**, com supervisão em campo e controlo de qualidade semanal | — |
+| **7 e 14 Dez** | Limpeza e primeiro processamento, em paralelo com o fim da recolha | — |
+| **21 Dez** | Primeiros indicadores calculados e discutidos com o GEPE | — |
+
+### Onde estão as folgas, e onde não estão
+
+**Não há folga** nas semanas de 19 e 26 de Outubro. O teste em unidades reais e a formação são as duas etapas que não se comprimem sem custo direto na qualidade dos dados, e são também aquelas cuja falha só se descobre quando já não há remédio.
+
+**Há folga** no tamanho do pacote, e é a única variável de ajuste que recomendamos usar. Um pacote limitado aos Tipos 1 e 2 do catálogo — indicadores já latentes na Ficha e desdobramentos que o Guião já define — pode ser programado, testado e formado em duas semanas com conforto, e mesmo assim melhora substancialmente o Mapa Sanitário.
+
+**Há folga**, também, na cobertura. Se o calendário apertar, é preferível aplicar um pacote completo em menos províncias do que um pacote incompleto em todas — e é mais fácil alargar a cobertura no ano seguinte do que corrigir uma recolha mal formada.
+
+:::
+
+::: {style="border-left:6px solid #6c3483;background:#f4ecf7;padding:14px 18px;border-radius:6px;"}
+
+## Em resumo
+
+**As decisões pendentes são nove**, e estão todas identificadas acima: quem recolhe (1.1), papel ou tablet (1.2), duração da formação (1.3), registo da verificação (1.4), onde se recolhe (2.1), onde se guarda (2.2), quem consolida (2.3), que blocos por tipo de unidade (4.1) e que listas nacionais se adotam (4.2) — precedidas de todas pela escolha do pacote e do modo de recolha.
+
+**Nenhuma delas exige construir do zero.** Os questionários existem, a aplicação de recolha existe, as regras de cálculo dos indicadores existem, e os materiais de formação existem. Do lado angolano, as listas nacionais existem, a tipologia de unidades existe e está validada, as equipas de terreno existem e já conhecem as unidades. O que estamos a fazer é ligar duas coisas que já estão construídas.
+
+**O calendário é apertado, e preferimos dizê-lo abertamente.** Cinco semanas de preparação para uma recolha nacional é pouco. É exequível se as decisões de Outubro forem tomadas nas semanas em que estão marcadas, e se aceitarmos, desde já, que a variável de ajuste é o tamanho do pacote — nunca a formação.
+
+**A proposta de fundo é simples:** começar pelo que é barato, reversível e já está meio feito. Os incrementos do Tipo 1 e do Tipo 2 do documento 4 tornam calculáveis indicadores que a Ficha do Mapa Sanitário já persegue sem os produzir, sem introduzir temas novos e, na maior parte, sem alterar o processo de recolha. É um bom primeiro passo conjunto: o Mapa ganha precisão desde já, e ficamos com a experiência concreta — e com os dados — para decidir com segurança o passo seguinte.
+
+:::

@@ -1,0 +1,8 @@
+/*-- scss:defaults --*/
+$primary: #0b6e99;
+$font-family-sans-serif: "Source Sans 3", system-ui, -apple-system, "Segoe UI", sans-serif;
+$body-bg: #fdfdfb;
+
+/*-- scss:rules --*/
+@import "common";
+:root { --reader-border: #c9d3da; --reader-accent: #0b6e99; }

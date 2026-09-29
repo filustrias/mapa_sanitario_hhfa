@@ -1,0 +1,418 @@
+# What each instrument captures about the reality of health facilities
+
+::: {style="border-left:6px solid #0b6e99;background:#eaf4f9;padding:14px 18px;border-radius:6px;"}
+
+A coverage map, item by item, between the **Health Map Registration Form** (version 19_01, with its Filling Guide, April 2019) and the **Harmonized Health Facility Assessment** (HHFA, World Health Organization), in the June 2023 combined questionnaire and the indicator inventory.
+
+The question this document answers is a simple one: **when a team walks into a health facility, what part of that facility's reality is recorded by each of the two instruments?** For each item we show what the Form captures, what the HHFA captures, and how the two compare.
+
+:::
+
+::: {style="border-left:6px solid #1e8449;background:#eafaf1;padding:16px 18px;border-radius:6px;"}
+
+## The five dimensions of the HHFA
+
+The HHFA organizes everything it collects into five service dimensions. It is worth having them in mind before going into the tables, because the comparison with the Health Map Form changes in nature from one dimension to the next.
+
+**1. General service availability — 428 indicators**
+What the facility is: infrastructure, beds, workforce and the services it reports offering. This is the dimension closest to the purpose of the Health Map Form, and where the overlap between the two instruments is greatest.
+
+**2. General service readiness — 225 indicators**
+What the facility has in place, whatever services it offers: water, energy, sanitation, amenities, basic equipment, diagnostic capacity, essential medicines, consumables, storage, infection prevention, referral and emergency preparedness. Almost all of it is observed by the enumerator.
+
+**3. Service-specific availability and readiness — 1,484 indicators, 57% of the total**
+Service by service — family planning, antenatal care, delivery, child health, immunization, malaria, tuberculosis, HIV, noncommunicable diseases, surgery, emergency care, laboratory — what the facility offers and what it has to deliver it: guidelines, trained staff, equipment, tests and medicines. This is the HHFA's dominant dimension and the one with least overlap with the Form.
+
+**4. Management and finance — 358 indicators**
+How the facility is run: governance, budget, funding sources, maintenance, staff support, information systems and quality systems.
+
+**5. Clinical quality of care — 109 indicators**
+What was done for the patient, through review of clinical records. It has its own methodology and sample and has no equivalent in the Health Map Form.
+
+### Where the Health Map Form sits within these five dimensions
+
+| HHFA dimension | Presence in the Health Map Form |
+|---|---|
+| 1. General availability | Strong on infrastructure, beds and reported services; absent on workforce |
+| 2. General readiness | Present for water, energy, sanitation, waste and some devices; absent for medicines, consumables, infection prevention and emergencies |
+| 3. Service-specific availability and readiness | Present in availability, through the list of services and specialties; absent in readiness (what is needed to deliver them) and in capacity to manage by condition |
+| 4. Management and finance | Present in the organizational structure (which bodies exist); in finance, only box 0.2 on having an own budget |
+| 5. Clinical quality of care | Absent |
+
+The most useful way to read this table is this: **the Health Map Form describes in detail what the facility is; the HHFA adds what the facility is in a position to do.**
+
+:::
+
+::: {style="border:3px solid #c0392b;background:#fdecea;padding:18px 20px;border-radius:8px;margin:18px 0;"}
+
+## ⚠ READ THIS FIRST: how to read the "Comparison" column
+
+<p style="font-size:1.05em;line-height:1.5;margin:0 0 8px 0;"><strong style="color:#c0392b;">This is the third of four documents.</strong> The first gave the overview, the second dealt with question design, this one maps coverage item by item, and the fourth points to ways of integrating and improving.</p>
+
+<p style="font-size:1.03em;line-height:1.5;margin:0 0 6px 0;"><strong>The six categories in the "Comparison" column:</strong></p>
+
+<ul style="font-size:1.0em;line-height:1.45;margin:0 0 10px 0;">
+<li><strong>Full overlap</strong> — both capture the same information, at equivalent depth.</li>
+<li><strong>Partial overlap (HHFA more complete)</strong> — the topic is covered by both, and the HHFA goes deeper.</li>
+<li><strong>Partial overlap (Health Map more complete)</strong> — the topic is covered by both, and the Health Map Form goes deeper.</li>
+<li><strong>Partial overlap (each captures a different aspect)</strong> — both deal with the same topic from different angles, and neither contains the other.</li>
+<li><strong>Minimal overlap (HHFA goes deeper)</strong> — the Health Map Form records the existence of the service in a single box, with no breakdown in the data, while the HHFA unfolds the same item into several verified elements. The laboratory is the case in point: the Form records "1. Laboratory: yes or no", while the HHFA asks which tests are done, with what equipment, with what reagents and under what quality control.</li>
+<li><strong>Minimal overlap (Health Map goes deeper)</strong> — the reverse: the HHFA has a single existence item and the Form unfolds it.</li>
+<li><strong>No overlap (HHFA only)</strong></li>
+<li><strong>No overlap (Health Map only)</strong></li>
+</ul>
+
+<p style="font-size:1.0em;line-height:1.45;margin:0 0 10px 0;"><strong>Why "minimal" is separated from "partial".</strong> The criterion is what is <em>recorded</em>, not what is <em>defined</em>. The Filling Guide defines several of these services precisely — for the laboratory, for instance, it requires thick smear, haemoglobin or haematocrit, and simple stool and urine analyses — but the Form has a single box for all four. Two facilities meeting different parts of the definition end up with the same tick. Calling this "partial" would be unfair to the items where the Form genuinely does unfold the topic, such as beds or devices.</p>
+
+<p style="font-size:1.03em;line-height:1.5;margin:0 0 8px 0;"><strong style="color:#c0392b;">The ◆ sign marks the difference in verification.</strong> Wherever it appears, the HHFA distinguishes within the answer itself what was <em>observed</em> from what was <em>reported and not seen</em>, whereas the Health Map Form has a single box to tick. Verification does take place in the field — the Health Map team is first informed and then confirms — but it is not recorded in the data. Two facilities with the same tick may be in different situations, and that difference disappears in the database.</p>
+
+<p style="font-size:1.0em;line-height:1.45;margin:0 0 8px 0;"><strong>The (add.) marker</strong> flags items that exist in the HHFA, but among the additional questions of the management and finance module. In an application using only the core questionnaires, they are not collected.</p>
+
+<p style="font-size:1.0em;line-height:1.45;margin:0;"><strong>A note on method:</strong> the comparison is made at the level of the question, not of the published indicator. "Partial" refers to the depth of the information captured, not to the quality of the instrument: the two have different purposes, and each goes deeper in what it was designed for.</p>
+
+:::
+
+## A. Identification, location and ownership
+
+| Item | Health Map Form | HHFA | Comparison |
+|---|---|---|---|
+| Facility name and code | 1.5 | Q100, Q103 | Full overlap |
+| Province, municipality, commune, neighbourhood | 1.1 to 1.4 | Q104, Q105, adaptable to the country | Full overlap |
+| Urban or rural | From the administrative location | Q106: urban, rural, peri-urban | Partial (HHFA more complete) |
+| GPS coordinates | 1.7 and 1.8, decimal degrees | Q109 to Q113, with a reading protocol, altitude and reference point | Partial (HHFA more complete) |
+| Facility category or type | 1.6, from the Health Map | Q115, country-adapted list | Full overlap |
+| Ownership and managing authority | 2.1 and 2.2 | Q116 | Full overlap |
+| Service levels (outpatient, inpatient) | Implicit in the typology | Q117 | Partial (HHFA more complete) |
+| Own budget | 0.2, a single 0-1 box: whether the facility has its own budget | 4.2.1 to 4.2.3, 80 indicators: funding sources, budget management, user fees and exemptions | Minimal (HHFA goes deeper) |
+| Visit outcome (open, closed, not found) | No | Q107, with outcome codes and up to three visits | No overlap (HHFA only) |
+| Consent of the person in charge | No | Q114 | No overlap (HHFA only) |
+
+**Comment.** This is the block with the greatest compatibility between the two instruments: name, location, type and managing authority are captured in the same way and can be linked directly. The Health Map Form is the natural source here, because it is where the master list of facilities and each facility's category come from — information the HHFA requires before it can start. The differences are procedural, not substantive: the HHFA fixes how GPS is read and records the outcome of the visit, which matters when working from a sample and one needs to know what happened to the facilities that were not assessed.
+
+## B. Population and referral system
+
+| Item | Health Map Form | HHFA | Comparison |
+|---|---|---|---|
+| Catchment population | 3.1, a number, "if known" | 4.5.2.6.1 to 4.5.2.6.7 (add.): defined area, estimate, source, number of pregnant women, infants and children under 5 | Partial (HHFA more complete) |
+| List of registered patients | No | 4.5.2.6.8 and 4.5.2.6.9 (add.) | No overlap (HHFA only) |
+| Referral facility: category and name | 3.2.1 and 3.2.2 | No | **No overlap (Health Map only)** |
+| Distance to referral: minutes, kilometres, paved and dirt track | 3.2.3 | No | **No overlap (Health Map only)** |
+| Referral mechanism | Implicit | 2.7.1.1.1 (Q1227) | No overlap (HHFA only) |
+| Referral and back-referral protocols ◆ | No | 2.7.1.1.2 and 2.7.1.1.3 | No overlap (HHFA only) |
+| Records of referrals made and feedback received ◆ | No | 2.7.1.1.4 and 2.7.1.1.5 | No overlap (HHFA only) |
+| Vehicle and driver available 24 hours | 10.1 (fleet) and 7.5.1 (service) | 2.7.1.1.6 | Partial (each captures a different aspect) |
+
+**Comment.** This is where the two instruments most clearly complete one another. The Health Map Form is the only one of the two that says **where** the facility refers to and **how far away** it is, with the road split between paved and dirt track — information that describes the network as a system and feeds planning directly. The HHFA is the only one that says **whether referral works**: whether there are protocols, whether referrals are recorded and whether the facility gets an answer back. Putting the two together would give a complete reading: who refers to whom, at what distance, under what rules and with what feedback.
+
+## C. Construction, physical condition and accessibility
+
+| Item | Health Map Form | HHFA | Comparison |
+|---|---|---|---|
+| Number of buildings and staff residences | 4.1 and 4.3 | No | **No overlap (Health Map only)** |
+| Floor area in square metres | 4.2 and 4.4 | No | **No overlap (Health Map only)** |
+| Year and period of construction | 4.5 and 4.6 | No | **No overlap (Health Map only)** |
+| Construction material | 4.7 | No | **No overlap (Health Map only)** |
+| Physical condition of the main building | 5.1, four intervention categories, criteria detailed in the guide | 1.1.4, 196 indicators of defects by element and by room | Partial (each captures a different aspect) |
+| Square metres by state of repair | 5.2, in free text | No | **No overlap (Health Map only)** |
+| Accessibility for people with mobility limitations | No | 1.1.3, 35 indicators: ramps, handrails, accessible toilet, room by room | No overlap (HHFA only) |
+| Building security (doors that lock, external condition) | No | 1.1.4, security component | No overlap (HHFA only) |
+
+**Comment.** The Health Map Form is clearly stronger in this block, and for a reason of purpose: it was designed to decide on building works. It measures areas, identifies the material and classifies each building into one of four intervention categories, with construction criteria detailed in the guide. The HHFA measures no areas and issues no judgement on intervention; it records defects room by room, which serves to describe working conditions, not to cost works. The two look at the same building with different eyes: the engineer's and the clinician's. Accessibility for people with mobility limitations is the one point where the building appears only on the HHFA side.
+
+## D. Water, energy, sanitation and waste
+
+| Item | Health Map Form | HHFA | Comparison |
+|---|---|---|---|
+| Main water source | 6.1, five categories | Q1210, eleven categories, classified as improved or not | Partial (HHFA more complete) |
+| Secondary water sources | 6.1.2, multiple choice | Only through permanent availability | Partial (Health Map more complete) |
+| Water available on the premises and on the day ◆ | No | Q1211: "may I see the water?" | No overlap (HHFA only) |
+| Interruptions in water supply | No | Q1212 | No overlap (HHFA only) |
+| Main energy source | 6.2, four categories | Q1207, adaptable to the country | Full overlap |
+| Backup energy source | 6.2.2, multiple choice | Q1208 | Full overlap |
+| Power interruptions in the past 7 days | No | Q1209 | No overlap (HHFA only) |
+| Sanitation arrangement ◆ | 6.3, three categories | Q1306 onwards: type, usable, clean, water and soap within 5 metres | Partial (HHFA more complete) |
+| Refuse collection | 6.4, four categories | Not as a category of its own | **No overlap (Health Map only)** |
+| Treatment of general and medical waste ◆ | 6.5 and 6.6 | Q1214 to Q1220: final destination with eleven categories, observation of the site, incinerator working today and with fuel | Partial (HHFA more complete) |
+| Guidelines and staff trained in waste management | No | Q1221 and Q1222 | No overlap (HHFA only) |
+| Wastewater treatment plant and whether it works | 6.7 | No | **No overlap (Health Map only)** |
+| Environmental cleaning | No | 2.1.2.1.5 | No overlap (HHFA only) |
+
+**Comment.** The two instruments ask about the same infrastructure, but with different aims. The Health Map Form wants to know **what system the facility has** — and does that well, including recording secondary sources, which the HHFA does not. The HHFA wants to know **whether the system worked** — whether there was water on the day, whether there were power cuts in the past week, whether the incinerator burns and has fuel. The wastewater treatment plant is a Health Map-only item, and it makes sense that it should be: it belongs to the same engineering logic as the previous block. Adding two or three questions on functioning to the Form would be, in this block, the adjustment with the highest return.
+
+## E. Clinical and surgical services
+
+Two clarifications before the table, because this is the block where it is easiest to conclude that the two instruments ask the same thing.
+
+**First:** for each specialty, the Health Map Form records whether **care is provided** in that area — not whether a specialist is assigned to the facility. The two are not the same. An endocrinology consultation may be run by a general clinician, and a specialist may be assigned without the consultation being open to the public. The HHFA does not ask about the specialty; it records staff by cadre and visiting specialists, in a block of its own (see block K).
+
+**Second:** where the Form names the specialty, the HHFA asks about the **capacity to manage the health problem**. The correspondence between the two ways of asking is set out in the second table of this block.
+
+| Item | Health Map Form | HHFA | Comparison |
+|---|---|---|---|
+| General medicine or outpatient consultation | 7.1.1 | 1.3.1.1.1, plus hours per day and days per week | Partial (HHFA more complete) |
+| List of 28 specialties, each in one box | 7.1.2 to 7.1.28 | Not as a list of specialties, but by condition (next table) | Partial (each captures a different aspect) |
+| Whether a specialist is assigned to the facility | No | 1.2.1, staff by cadre; 1.2.3.3, visiting specialists and frequency of visits | No overlap (HHFA only) |
+| Emergency, elective and minor surgery | 7.1.29.1 to 7.1.29.3 | 3.4.1 and 3.4.2: procedures one by one, tracer procedures, anaesthesia, infection prevention | Partial (HHFA more complete) |
+| Specialized surgery (paediatric, maxillofacial, vascular, neurosurgery, plastic) | 7.1.30 to 7.1.34 | Partly, within major surgery | **Partial (Health Map more complete)** |
+| Dentistry | 7.1.10 and the chair in 8.1.4 | Only the condition of the dental area building | **Minimal (Health Map goes deeper)** |
+| Nutrition as a consultation | 7.1.20 | 3.1.8: management of acute malnutrition, outpatient and inpatient | Minimal (HHFA goes deeper) |
+| Psychiatry and psychology | 7.1.26 and 7.1.27 | 3.3.6, 38 indicators: provision by disorder, medicines, trained staff | Minimal (HHFA goes deeper) |
+
+### The same reality asked in two ways: the specialty and the condition
+
+This is the finest correspondence in the whole document, because at first sight the two questions look equivalent — and they are not. Knowing that an endocrinology consultation exists does not say whether the facility measures blood glucose, whether it has metformin and insulin, or whether staff were trained in diagnosis. Knowing that the facility diagnoses, treats, follows up and counsels people with diabetes, and that it has the twelve items required, says all of that — and does not depend on there being an endocrinologist.
+
+| Health Map Form box | What the HHFA asks in its place | Comparison |
+|---|---|---|
+| 9. Endocrinology | 3.3.2, diabetes, 26 indicators: diagnosis, treatment, clinical follow-up and self-care counselling, as separate questions; guidelines, trained staff, blood pressure apparatus, scale, measuring tape, blood glucose, urine dipstick for protein and for ketones, metformin, sulphonylurea, regular insulin and 50% glucose; among the additional items, HbA1c | Minimal (HHFA goes deeper) |
+| 7. Cardiology | 3.3.1, cardiovascular disease, 46 indicators: hypertension, heart failure, acute myocardial infarction and stroke, each split between diagnosis and treatment with counselling; blood pressure apparatus, stethoscope, scale, oxygen, ACE inhibitor, aspirin, beta blocker, calcium channel blocker, thiazide and statin | Minimal (HHFA goes deeper) |
+| 25. Pulmonology | 3.3.3, chronic respiratory disease, 26 indicators: asthma and COPD separated; peak flow meter, oxygen, salbutamol, beclometasone, prednisolone, hydrocortisone, adrenaline and spacers | Minimal (HHFA goes deeper) |
+| 22. Oncology | 3.3.4, cancer of the cervix, breast, prostate and colorectum, 82 indicators, from screening to treatment | Minimal (HHFA goes deeper) |
+| 18. Nephrology | 3.3.5.1.6, dialysis machine verified, and 1.3.3.2.7 | Minimal (HHFA goes deeper) |
+| 19. Neurology and 26. Psychiatry | 3.3.6, mental health and neurological services, 38 indicators, by disorder, including epilepsy | Minimal (HHFA goes deeper) |
+| 16. Infectious diseases | 3.2, communicable diseases, 374 indicators: malaria, tuberculosis, HIV, sexually transmitted infections and neglected tropical diseases, each with its own readiness | Minimal (HHFA goes deeper) |
+
+**Comment.** The list of 28 specialties and 5 specialized surgical services describes a municipal or provincial hospital well, and there the Health Map Form is the richer of the two: the HHFA produces no such portrait of hospital differentiation. But the specialty and the condition answer different questions. The specialty says how the facility is organized; the condition says what the facility can resolve. For hospital network planning the first matters; for primary health care — where hypertension, diabetes, asthma and epilepsy are managed without a specialist — the second matters, and that is precisely where the Form records least. The seven rows of the table above are therefore where a few extra questions would yield most: they would not replace the list of specialties, they would complete it.
+
+## F. Support services
+
+| Item | Health Map Form | HHFA | Comparison |
+|---|---|---|---|
+| Laboratory ◆ | 7.2.1, one box; the guide requires thick smear, haemoglobin or haematocrit and simple stool and urine analyses, but there is a single tick | 2.3.1 and 3.7.1: some 48 tests, on site or sent out, equipment, reagents, electricity, quality control | **Minimal (HHFA goes deeper)** |
+| Imaging | 7.2.2, one box; the guide asks for plain or contrast radiography | 3.7.2: by test, separating provision from installed capacity | Minimal (HHFA goes deeper) |
+| Dialysis | 7.2.3 | 1.3.3.2.7 and 3.3.5.1.6, with the machine verified | Partial (HHFA more complete) |
+| Transfusion and blood bank ◆ | 7.2.4 and 7.2.13, two boxes | 3.7.3, 14 availability and readiness indicators | Partial (HHFA more complete) |
+| Radiotherapy | 7.2.5 | 1.3.3.2.6 and 3.3.4.10.10, with the equipment verified | Partial (HHFA more complete) |
+| Pathology | 7.2.6 | Not as a service; only biopsy and microtome | **Partial (Health Map more complete)** |
+| Anaesthesia ◆ | 7.2.7, one box: an anaesthesiology service exists | 3.4.2, 34 anaesthetic readiness indicators | Minimal (HHFA goes deeper) |
+| Rehabilitation | 7.2.8, one box | 3.6.2, 21 indicators | Minimal (HHFA goes deeper) |
+| Operating theatre and number of theatres | 7.2.9 | Surgical readiness and infection prevention in theatre | Partial (each captures a different aspect) |
+| Pharmacy ◆ | 7.2.10, one box | 2.4.1, 37 essential medicines verified; 2.4.5, storage with 30 indicators; 3.5.1.1.5, 24-hour pharmacy | **Minimal (HHFA goes deeper)** |
+| Medical gases ◆ | 7.2.11, one box | 2.4.4 and oxygen items by service, with functioning | Minimal (HHFA goes deeper) |
+| Emergency room, daytime or 24 hours | 7.2.12.1 and 7.2.12.2 | 3.5.1: dedicated unit, staff present 24 hours, laboratory, radiology and pharmacy 24 hours | Partial (HHFA more complete) |
+| Sterilization ◆ | 7.2.14, one box, defined in the guide | 2.5.1.1.8 and Q1223 to Q1225: reprocessing site, type of equipment, functioning | Minimal (HHFA goes deeper) |
+
+**Comment.** This is the block where the "minimal" category applies most: eight of the fourteen support services are recorded by the Health Map Form in a single box. The Form answers "the facility has this service"; the HHFA answers "and it is in a position to deliver it today". The laboratory is the clearest example: the Filling Guide already defines four minimum tests, but the data keeps a single tick, so a facility doing thick smear and haemoglobin and one doing all four are indistinguishable. Unfolding that box into the four tests the guide already requires would be a small addition with a large effect, and would need no new question — only four boxes where today there is one. The ◆ distinction weighs more here than in any other block. Note that pathology is the only support service the Form records and the HHFA does not.
+
+## G. Public health, prevention and programmes
+
+| Item | Health Map Form | HHFA | Comparison |
+|---|---|---|---|
+| Immunization ◆ | 7.3.1, one box, defined in the guide | 3.2.1, 73 indicators: vaccines one by one, cold chain, records, stock-outs by vaccine | **Minimal (HHFA goes deeper)** |
+| Vitamin A distribution ◆ | 7.3.2 | 3.1.8.1.7 (routine provision) plus the capsule verified in 3.1.8.2.20 and 3.1.8.3.10 | Partial (HHFA more complete) |
+| Albendazole distribution ◆ | 7.3.3 | Deworming within antenatal care, the medicine verified in child health readiness (3.1.8.2.21) and in neglected tropical diseases (3.2.10.2.7) | Partial (HHFA more complete) |
+| Oral rehydration ◆ | 7.3.4.1 | Oral rehydration salts verified in 2.4.1, 3.1.8 and 3.5.2 | Partial (HHFA more complete) |
+| Therapeutic and supplementary nutrition centres ◆ | 7.3.4.2 and 7.3.4.3 | 3.1.8.1.4 to 3.1.8.1.6, with therapeutic food and guidelines verified | Partial (HHFA more complete) |
+| Growth monitoring ◆ | 7.3.5, one box, with weight and card criteria | 3.1.8.1.2 plus readiness: scale, card, guidelines, trained staff | Minimal (HHFA goes deeper) |
+| Antenatal care ◆ | 7.3.6, one box, with twelve components defined in the guide | 3.1.2, 46 indicators: components and readiness | **Minimal (HHFA goes deeper)** |
+| Delivery: basic and comprehensive emergency obstetric care ◆ | 7.3.7.1 and 7.3.7.2 | 3.1.3 and 3.1.4, 140 indicators: signal functions one by one, medicines, infection prevention, room conditions | Partial (HHFA more complete) |
+| Postnatal consultation | 7.3.8, one box | 3.1.6, 36 indicators, mother and newborn | Minimal (HHFA goes deeper) |
+| Family planning ◆ | 7.3.9, one box | 3.1.1, 37 indicators: methods one by one, guidelines, staff, stock-outs | Minimal (HHFA goes deeper) |
+| HIV counselling and testing ◆ | 7.3.10, one box | 3.2.4, 20 indicators, including quality control of tests | Minimal (HHFA goes deeper) |
+| Antiretroviral treatment, mother and child ◆ | 7.3.11, one box | 3.2.8 and 3.2.7, 45 indicators | Minimal (HHFA goes deeper) |
+| Antiretroviral treatment, adult ◆ | 7.3.12, one box | 3.2.5 and 3.2.6, 71 indicators | Minimal (HHFA goes deeper) |
+| Directly observed tuberculosis treatment ◆ | 7.3.13, one box | 3.2.3, 77 indicators, and 5.4.1 through record review | Minimal (HHFA goes deeper) |
+| Distribution of mosquito nets ◆ | 7.3.14 | 3.1.2.1.11 and net items verified in 2.4.2 | Partial (HHFA more complete) |
+| Mobile brigades and outreach teams | 7.3.15 and 7.3.16 | Not as a service; only support to community activities in neglected tropical diseases | **Partial (Health Map more complete)** |
+| Community development and health agents | 7.3.17 | Links with community agents, by programme | Partial (each captures a different aspect) |
+| Malaria: diagnosis and treatment | Not as a service of its own | 3.2.2, 32 indicators, and 5.5.1 | No overlap (HHFA only) |
+| Sexually transmitted infections | No | 3.2.9, 21 indicators | No overlap (HHFA only) |
+| Neglected tropical diseases | No | 3.2.10, 35 indicators | No overlap (HHFA only) |
+| Noncommunicable diseases | Only as hospital specialty boxes (cardiology, endocrinology, pulmonology, oncology) | 3.3, 224 indicators, by condition and with verified readiness | **Minimal (HHFA goes deeper)** |
+| Adolescent health | No | 3.1.9, 23 indicators | No overlap (HHFA only) |
+| Abortion-related care | No | 3.1.5, 52 indicators | No overlap (HHFA only) |
+| Small or sick newborn | 7.1.4, as a specialty | 3.1.7, 30 indicators | Partial (HHFA more complete) |
+| Palliative care | No | 3.6.1, 17 indicators | No overlap (HHFA only) |
+| Services for survivors of sexual violence | No | 3.6.3, 35 indicators | No overlap (HHFA only) |
+
+**Comment.** This is the largest block and the one that best shows the difference in design between the two instruments. Almost every programme the Health Map Form records in a single box corresponds in the HHFA to an entire subarea, with verified readiness and stock-outs — hence how often the "minimal" category appears in this table. Albendazole distribution is the clearest example: in the Form it is one routine box; in the HHFA, deworming appears as a component of antenatal care, the medicine is verified within child health readiness, and it appears again under neglected tropical diseases. In the other direction, mobile brigades, outreach teams and community agents are better described in the Form, because they describe the extension of the service beyond the facility walls — a dimension the HHFA barely covers. And there are six whole programmes that exist only on the HHFA side, among them malaria and noncommunicable diseases.
+
+## H. Management, finance and information
+
+| Item | Health Map Form | HHFA | Comparison |
+|---|---|---|---|
+| Admissions and clinical-statistical records ◆ | 7.4.1, one box | 4.5.1, 31 indicators: unique identifiers and individual patient records | Minimal (HHFA goes deeper) |
+| General, clinical and teaching directorates; department heads | 7.4.2 to 7.4.4 and 7.4.6 | Management bodies through how they work (4.1.1.1) | Partial (each captures a different aspect) |
+| Administration | 7.4.5 | 4.1.1.2.8 (add.) | Full overlap |
+| Human resources as a service | 7.4.7 | 4.1.1.2.1 (add.) | Full overlap |
+| Training school and continuing education unit, with placement fields | 7.4.8 and 7.4.9 | No | **No overlap (Health Map only)** |
+| Information technology and statistics | 7.4.10, one box | 4.5.2, 55 data management system indicators | Minimal (HHFA goes deeper) |
+| Social services | 7.4.11 | 4.1.1.2.3 (add.) | Full overlap |
+| Committees for ethics, infections, deaths, medicines, safety and discipline | 7.4.12 to 7.4.17, existence | 4.1.1.1 (meetings), 4.1.1.3.1 (procurement), 4.4.1 to 4.4.3 (82 quality and safety indicators) | Partial (HHFA more complete) |
+| Governing board with a community member | No | 4.1.1.1.4 | No overlap (HHFA only) |
+| Management plan used in decisions | No | Q509 | No overlap (HHFA only) |
+| Supervision received | No | 4.1.1 and 4.3.1 | No overlap (HHFA only) |
+| Budget, funding sources and user fees | Only item 0.2, in the header: a single 0-1 box on having an own budget. There is no question at all on funding sources, amounts or user fees | 4.2.1 to 4.2.3, 80 indicators: budget and its execution, funding sources, fees charged, exemptions and financial protection mechanisms | **Minimal (HHFA goes deeper)** |
+| Maintenance of equipment, premises and vehicles | 7.5.8, as a service | 4.1.2, 33 indicators, with a plan and adherence to it | Partial (HHFA more complete) |
+| Staff support: credentials, training, benefits | No | 4.3.1, 22 indicators | No overlap (HHFA only) |
+| Mortality and morbidity reporting | No | 4.5.3, 21 indicators | No overlap (HHFA only) |
+| Clinical quality through record review | No | Module 3, dimension 5, 109 indicators | No overlap (HHFA only) |
+
+**Comment.** On finance, it is worth being precise: the Health Map Form is not silent, but it approaches the topic through a single door — box 0.2 in the header, which records whether the facility has its own budget. Nothing further is asked about amounts, sources or fees. That is the exact definition of the "minimal" category, and it is also one of the points where adding three or four questions would have immediate effect on the public financial management work. As for the rest of the block, the difference is not one of topic, it is one of question. The Health Map Form maps the **organizational chart**: which directorates exist, which committees are constituted, which support services operate. The HHFA maps the **activity**: whether the board met in the past six months, whether the management committee uses the plan in its decisions, whether the facility received supervision, whether there is a budget and from what sources. Both readings are needed and neither replaces the other: without the chart one does not know whom to talk to; without the activity one does not know whether the chart corresponds to anything. The two items where the Form stands alone — the training school and the continuing education unit with placement fields — describe the facility as a teaching site, a function the HHFA does not cover at all.
+
+## I. General and hotel support services
+
+| Item | Health Map Form | HHFA | Comparison |
+|---|---|---|---|
+| Patient transport | 7.5.1 | 2.1.1.1.7 and 2.7.1.1.6 | Full overlap |
+| Kitchen and dining room | 7.5.2 and 7.5.3, two boxes | 4.1.1.2.6 (add.), in a single item | **Minimal (Health Map goes deeper)** |
+| Laundry | 7.5.4, a box of its own | 4.1.1.2.5 (add.), together with cleaning, with no item of its own | **Minimal (Health Map goes deeper)** |
+| Mortuary and number of drawers | 7.5.5.1 and 7.5.5.2, with a count of drawers | 4.1.1.2.7 (add.), existence only | **Minimal (Health Map goes deeper)** |
+| Hygiene and cleaning | 7.5.6 | 2.1.2.1.5 and 4.1.1.2.5 (add.) | Full overlap |
+| Communications | 7.5.7 | Q1201 to Q1205: telephone, computer, internet and how consistently it works | Partial (HHFA more complete) |
+| Maintenance | 7.5.8 | 4.1.2, with a plan and adherence to it | Partial (HHFA more complete) |
+| Security, assembly hall, library, residence, chapel, parking, landscaping, video surveillance, patient liaison office | 7.5.9 to 7.5.18 | No | **No overlap (Health Map only)** |
+| Waste treatment as a service | 7.5.16 | See block D | Full overlap |
+
+**Comment.** A block where the Health Map Form is consistently more detailed, and the only one where the "minimal" category is reversed: kitchen, laundry and mortuary exist in the HHFA as one existence item each, while the Form separates them and, for the mortuary, counts the drawers. One further point is worth noticing: almost all of these items exist in the HHFA only among the additional questions of the management and finance module. In a core application, they disappear. The Form, by contrast, treats them as part of the normal description of a facility, which is consistent with its purpose of planning premises. Ten of these services do not exist at all on the HHFA side.
+
+## J. Beds, devices and fleet
+
+| Item | Health Map Form | HHFA | Comparison |
+|---|---|---|---|
+| Inpatient beds | 8.1.2, a count, with a demanding definition in the guide | 1.1.2.1.1 to 1.1.2.1.3, plus authorized beds | Partial (HHFA more complete) |
+| Beds by discipline (maternity, surgery, psychiatry, emergency, intensive care) | No | 1.1.2.2.1 to 1.1.2.2.9 | No overlap (HHFA only) |
+| Observation beds | 8.1.1 | Excluded by definition | **No overlap (Health Map only)** |
+| Delivery tables and cots | 8.1.3 and 8.1.5 | Cots yes; delivery tables through delivery readiness | Partial (each captures a different aspect) |
+| Dental chairs | 8.1.4 | No | **No overlap (Health Map only)** |
+| Isolation rooms | No | Q409 and Q410, by type and number of beds | No overlap (HHFA only) |
+| Sterilizer, freezer, scales, sphygmomanometer, stethoscopes, ultrasound, X-ray ◆ | 9.1, a count of 15 types, "usually in working order" | 2.2.1 and items by service, with availability and functioning verified | Partial (each captures a different aspect) |
+| Delivery, caesarean and uterine evacuation kits, neonatal resuscitator ◆ | 9.1.10 to 9.1.15 | 3.1.3 and 3.1.5, item by item | Partial (HHFA more complete) |
+| Thermometer, pulse oximeter, otoscope, ophthalmoscope, examination light, measuring tape | No | 2.2.1.1.1 to 2.2.1.1.12 | No overlap (HHFA only) |
+| Fleet by type, working and non-working | 10.1 | No | **No overlap (Health Map only)** |
+
+**Comment.** The Health Map Form counts units of equipment; the HHFA measures the proportion of facilities that have the item available and working. The two pieces of information serve different decisions — the first for logistics and distribution, the second to know where the gaps are — which is why they are classified as different aspects of the same item. The same reasoning applies to beds: the Form's definition is demanding and verified on site (only beds observed at the time of the visit count), while the HHFA adds disaggregation by discipline and comparison with authorized beds. The fleet is, once again, exclusive to the Form.
+
+## K. Workforce
+
+| Item | Health Map Form | HHFA | Comparison |
+|---|---|---|---|
+| Number of staff by cadre | No | 1.2.1, 31 indicators | **No overlap (HHFA only)** |
+| Proportion of women by cadre | No | 1.2.3.1 | No overlap (HHFA only) |
+| Facilities with at least one doctor | No | 1.2.3.2 | No overlap (HHFA only) |
+| Visiting specialists and frequency of visits | No | 1.2.3.3 | No overlap (HHFA only) |
+| Approved staffing establishment | No | 1.2.1.1.1 | No overlap (HHFA only) |
+| Management qualification of the facility's managers | No | 1.2.3.4 | No overlap (HHFA only) |
+| Volunteer staff | No | 1.2.3.5 | No overlap (HHFA only) |
+
+**Comment.** This is the most asymmetric block in the whole document: seven items, none with a counterpart in the Health Map Form. The Form records who runs the facility, but not how many people work there. It is also the cheapest block to add, because the information exists in the facility's staffing records and requires no physical verification. It is worth noting that the HHFA counts staff assigned to the facility, not staff present, so even that addition would not answer the question of who is actually seeing patients.
+
+## L. General facility readiness
+
+| Item | Health Map Form | HHFA | Comparison |
+|---|---|---|---|
+| Basic amenities (privacy, communications, computer, internet, emergency transport) | Partly, in 7.5 | 2.1.1, 25 indicators | Partial (HHFA more complete) |
+| Basic equipment in the main service area ◆ | 9.1, for health centres and posts | 2.2.1, 14 items with functioning | Partial (HHFA more complete) |
+| Basic diagnostic capacity ◆ | Only the box "1. Laboratory" | 2.3.1, 13 tracer indicators | **Minimal (HHFA goes deeper)** |
+| Essential medicines ◆ | Only the box "10. Pharmacy" | 2.4.1, 37 indicators | **Minimal (HHFA goes deeper)** |
+| Basic consumables ◆ | No | 2.4.2, 22 indicators | No overlap (HHFA only) |
+| Life-saving maternal and child health commodities ◆ | No | 2.4.3, 21 indicators | No overlap (HHFA only) |
+| Oxygen in the outpatient area ◆ | Only the box "11. Medical gases" | 2.4.4, 7 indicators | Minimal (HHFA goes deeper) |
+| Pharmaceutical storage ◆ | No | 2.4.5, 30 indicators | No overlap (HHFA only) |
+| Standard precautions and personal protective equipment ◆ | No | 2.5.1, 25 indicators | No overlap (HHFA only) |
+| Emergency preparedness and resilience | No | 2.8.1, 19 indicators | No overlap (HHFA only) |
+
+**Comment.** This is the dimension the HHFA adds in full. Every item in this block is observed in the field, item by item, and it is here that the distinction between reported and observed weighs most. The Health Map Form touches the topic through three doors — the pharmacy, the laboratory and medical gases — but in each of them with a single box. It is also the block where a small addition yields a great deal: half a dozen verified tracer items would, on their own, give a first measure of readiness comparable with other countries.
+
+::: {style="border-left:6px solid #1e8449;background:#eafaf1;padding:14px 18px;border-radius:6px;"}
+
+## Summary by HHFA area
+
+The 28 areas of the HHFA inventory, with the comparison against the Health Map Form.
+
+| HHFA area | Comparison |
+|---|---|
+| 1.1 Infrastructure | Partial (each captures a different aspect) |
+| 1.2 Workforce | No overlap (HHFA only) |
+| 1.3 Services available | Partial (HHFA more complete) |
+| 1.4 Density indices | No overlap (HHFA only) |
+| 2.1 Basic amenities | Partial (HHFA more complete) |
+| 2.2 Basic equipment | Partial (each captures a different aspect) |
+| 2.3 Basic diagnostic capacity | Minimal (HHFA goes deeper) |
+| 2.4 Medicines, consumables and storage | Minimal (HHFA goes deeper) |
+| 2.5 Standard precautions | No overlap (HHFA only) |
+| 2.6 General readiness index | No overlap (HHFA only) |
+| 2.7 Referral systems | Partial (each captures a different aspect) |
+| 2.8 Emergency preparedness | No overlap (HHFA only) |
+| 3.1 Reproductive, maternal, newborn and child health | Partial (HHFA more complete) |
+| 3.2 Communicable diseases | Partial (HHFA more complete) |
+| 3.3 Noncommunicable diseases | Minimal (HHFA goes deeper) |
+| 3.4 Surgery | Partial (HHFA more complete) |
+| 3.5 Emergency care | Partial (HHFA more complete) |
+| 3.6 Special needs | Partial (HHFA more complete) |
+| 3.7 Specialized diagnostics and treatments | Minimal (HHFA goes deeper) |
+| 4.1 Governance and maintenance | Partial (each captures a different aspect) |
+| 4.2 Finance and accounting | Minimal (HHFA goes deeper) |
+| 4.3 Staff support | No overlap (HHFA only) |
+| 4.4 Quality and safety | Partial (HHFA more complete) |
+| 4.5 Information systems | Minimal (HHFA goes deeper) |
+| 5.1 to 5.5 Clinical quality of care | No overlap (HHFA only) |
+
+:::
+
+::: {style="border-left:6px solid #b7950b;background:#fdf6e3;padding:14px 18px;border-radius:6px;"}
+
+## The items that exist only in the Health Map Form
+
+Gathered in one place, because they are the Health Map's own contribution and the material for adapting the HHFA to the country:
+
+1. Category, name and distance of the referral facility, in minutes and in kilometres of paved road and dirt track.
+2. Number of buildings, staff residences and floor area in square metres.
+3. Year, period and material of construction.
+4. Square metres by state of repair, the basis for costing works.
+5. Wastewater treatment plant and whether it works.
+6. Method of refuse collection.
+7. Technical training school, continuing education unit and placement fields.
+8. General support services: security, assembly hall, library, residence, chapel, parking, landscaping, video surveillance and patient liaison office.
+9. Observation beds and dental chairs.
+10. Fleet by type, with working and non-working vehicles.
+11. Number of mortuary drawers and number of operating theatres.
+12. List of clinical and surgical specialties, and mobile brigades and outreach teams.
+
+:::
+
+::: {style="border-left:6px solid #6c3483;background:#f4ecf7;padding:14px 18px;border-radius:6px;"}
+
+## What this map shows
+
+**Full overlap is rare and concentrated in facility identification.** Name, location, type, managing authority and a few support services. At those points, the two instruments produce directly comparable information.
+
+**Minimal overlap is the most frequent situation.** In almost every support service, in almost every public health programme and in the budget, the Health Map Form records existence in a yes/no box and the HHFA unfolds the same item into several verified elements. The reason is always the same, and it was described in the second document: the service is recorded in a single tick, without its components, without readiness and without the distinction between what is reported and what is observed. It is also, for that reason, the group where additions yield most — unfolding one box into four costs little visit time.
+
+**Partial overlap comes next**, and there the HHFA is usually the more complete, with clear exceptions for the building, the beds and the devices.
+
+**The specialty and the condition are not the same question.** The Form names the specialty — endocrinology, cardiology, pulmonology — while the HHFA measures the capacity to manage diabetes, hypertension and asthma. For the hospital network the first counts; for primary health care the second does.
+
+**There is a clear set of items where it is the Health Map Form that captures more:** the list of clinical and surgical specialties, the physical description of the building with areas and materials, general support services, the community extension of the service, and the fleet. These are the items that arise from the Health Map's function as an instrument for network planning and for decisions on building works.
+
+**Complete absence of overlap concentrates on two opposite sides.** On the HHFA side: workforce, noncommunicable diseases, infection prevention, essential medicines, financial management and clinical quality. On the Health Map side: everything to do with the building, the fleet and the physical link between facilities.
+
+### The apparent agility of the item question
+
+The Health Map Form asks by item — "1. Laboratory", "9. Endocrinology", "1. Immunization". That form has a real and immediate advantage: it fits on a page, it is filled in quickly, the enumerator never hesitates, and the facility answers without consulting anyone. This is why the item question is almost always the first choice of whoever designs a registration form, and it is the right choice when what one wants to know is which facilities exist and of what type.
+
+What is worth anticipating is what happens next, when the data is used to decide. The item question has three consequences that only appear at the analysis stage, which is why it is often seen as more agile than it actually is.
+
+**First: the answer depends on who answers.** "Do you have a laboratory?" is answered differently by a director thinking of the room, by a technician thinking of the tests he can run today, and by a manager thinking of what appears on the organizational chart. None of them is wrong — it is the question that admits all three readings. The Filling Guide resolves this on paper, by defining the required minimum, but the single box does not keep a record of which reading was used. The variation stays inside the data without being visible, and there is no way to correct for it in the analysis.
+
+**Second: the information drifts towards presence.** In a list of items, the tick tends to be made when *something* of that kind exists. A facility doing thick smear and haemoglobin, but not the simple stool and urine analyses, is recorded as having a laboratory; a facility doing all four tests is recorded in exactly the same way. The resulting percentage is true, but it answers a weaker question than the one intended — and it tends to be read as though it answered the strong one.
+
+**Third, and most important: the item question does not close the decision, it postpones it.** Knowing that a facility has an endocrinology consultation allows nothing to be decided about diabetes. The next question always comes: does it measure blood glucose? does it have metformin? does it have insulin and can it keep it cold? does it have staff trained in diagnosis and treatment? does it follow patients up, or see them once? Those questions will have to be asked anyway, later, in an additional survey — and an additional survey means another visit, another team and another budget. The item question is fast to collect and expensive to decide with.
+
+This is why the HHFA replaces "do you have an endocrinology service?" with "does the facility diagnose, treat, follow up and counsel people with diabetes, and does it have the twelve items needed to do so?". It is not a more demanding question for the sake of being demanding: it is the question the decision needs, asked once, in the same visit.
+
+### Why the HHFA is more complex
+
+It is worth saying plainly where that complexity comes from, because it is neither arbitrary nor decorative. Seven design decisions explain almost all of it, and every one of them has appeared in the course of this document.
+
+1. **It measures installed capacity, not only existence.** Every service the facility reports offering opens a set of questions on guidelines, trained staff, equipment, diagnostics and medicines. In the terms of the primary health care measurement framework, the Form stops at inputs while the HHFA moves on to process capacity — what the facility is in a position to do, not only what it holds.
+2. **It separates the observed from the reported.** Almost every readiness item is physically verified, and the answer keeps that difference instead of dissolving it into a single tick. It is the information the Health Map team already gathers in the field and that is currently lost in the record.
+3. **It unfolds the service into its functions.** Diagnosing, treating, counselling, referring and following up are different questions, asked by age group whenever that changes clinical conduct. A service that diagnoses but does not treat is not the same service.
+4. **It fixes the reference period of each question.** Today, past 7 days, past 3 months, past 2 years. Without a stated period there is no way to compare two facilities with each other, or the same facility at two moments.
+5. **It fixes the denominator of each indicator.** Every table in the inventory states the universe it is computed over: all facilities, or only those offering that service. This is what prevents comparing percentages built on different bases, and it is also what forces collection to be designed backwards, from the indicators one wants to produce.
+6. **It is internationally comparable.** The inventory's indicators carry permanent identifiers and fixed definitions, which allows Angola to be compared with itself over time and with other countries. That comparability has a price, and the price is standardization of the questions and the lists.
+7. **It is modular, so the complexity is chosen rather than imposed.** Modules, core questions and additional questions allow the depth to be decided item by item. Nothing requires applying the whole instrument.
+
+Put another way: the HHFA is longer because it answers, within the same visit, the questions the item question leaves open for later. Recognizing this takes nothing away from the Health Map Form, which answers very well what it was made to answer. It allows one to choose, item by item, where it is worth paying the cost of a more precise question and where the single box already says all that needs to be known. That is the work of the fourth document.
+
+:::

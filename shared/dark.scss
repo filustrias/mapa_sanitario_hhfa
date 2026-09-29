@@ -1,0 +1,19 @@
+/*-- scss:defaults --*/
+$primary: #5fb3d9;
+$font-family-sans-serif: "Source Sans 3", system-ui, -apple-system, "Segoe UI", sans-serif;
+$body-bg: #16191d;
+$body-color: #dfe3e7;
+
+/*-- scss:rules --*/
+@import "common";
+:root { --reader-border: #3a4450; --reader-accent: #2c7ea8; }
+
+// The source boxes carry light pastel backgrounds inline; tint them for dark mode.
+main [style*="#eaf4f9"] { background: rgba(11, 110, 153, .18) !important; border-color: #3d9bc6 !important; }
+main [style*="#eafaf1"] { background: rgba(30, 132, 73, .18) !important; border-color: #3fae6e !important; }
+main [style*="#fdf6e3"] { background: rgba(183, 149, 11, .16) !important; border-color: #d4b12a !important; }
+main [style*="#fff8e1"] { background: rgba(212, 172, 13, .14) !important; border-color: #d4b12a !important; }
+main [style*="#f4ecf7"] { background: rgba(108, 52, 131, .24) !important; border-color: #a569bd !important; }
+main [style*="#fdecea"] { background: rgba(192, 57, 43, .16) !important; border-color: #e0685a !important; }
+main [style*="color:#c0392b"] { color: #ff8f80 !important; }
+main hr[style*="#c0392b"] { border-top-color: #e0685a !important; }

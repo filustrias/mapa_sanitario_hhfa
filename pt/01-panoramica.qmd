@@ -1,0 +1,167 @@
+# Panorâmica
+
+::: {style="border-left:6px solid #0b6e99;background:#eaf4f9;padding:14px 18px;border-radius:6px;"}
+
+Comparação entre a **Ficha de Cadastramento de Unidades Sanitárias** do Mapa Sanitário (Ministério da Saúde, Gabinete de Estudos, Planeamento e Estatística, versão 19_01) com o respetivo **Guião de Preenchimento** (abril de 2019), e o **Harmonized Health Facility Assessment** (HHFA, avaliação harmonizada de unidades sanitárias, da Organização Mundial da Saúde).
+
+O propósito é identificar onde o HHFA pode ajudar a fortalecer o Mapa Sanitário, que já é um instrumento maduro, com quatro edições e cobertura nacional.
+
+:::
+
+::: {style="border:3px solid #c0392b;background:#fdecea;padding:18px 20px;border-radius:8px;margin:18px 0;"}
+
+## ⚠ LEIA PRIMEIRO: o âmbito desta análise
+
+<p style="font-size:1.15em;line-height:1.55;margin:0 0 10px 0;"><strong style="color:#c0392b;">Este é o primeiro de três documentos.</strong> Aqui fica a panorâmica: o que cada instrumento pergunta e onde um acrescenta ao outro.</p>
+
+<ol style="font-size:1.05em;line-height:1.55;">
+<li><strong>Panorâmica</strong> (este documento).</li>
+<li><strong>Formulação das perguntas:</strong> como a redação de cada pergunta e as suas opções de resposta condicionam o que se consegue captar.</li>
+<li><strong>Panorama de cobertura:</strong> quesito a quesito, onde há sobreposição completa, sobreposição parcial e ausência de sobreposição.</li>
+</ol>
+
+<hr style="border:none;border-top:2px dashed #c0392b;margin:16px 0;">
+
+<p style="font-size:1.05em;line-height:1.55;margin:0 0 10px 0;"><strong style="color:#c0392b;">Agora comparamos perguntas com perguntas.</strong> A análise anterior usava a informação publicada no relatório de Luanda de 2024. Esta assenta na ficha de recolha e no guião de preenchimento, que é onde se vê o que foi de facto perguntado, a quem e com que critério.</p>
+
+<p style="font-size:1.05em;line-height:1.55;margin:0;"><strong>Uma ressalva de leitura:</strong> a ficha é de cadastramento anual das unidades do Serviço Nacional de Saúde e tem um propósito próprio, que não é o mesmo do HHFA. As diferenças apontadas aqui não são falhas; são oportunidades de acrescentar informação onde ela custa pouco a recolher.</p>
+
+:::
+
+::: {style="border-left:6px solid #1e8449;background:#eafaf1;padding:14px 18px;border-radius:6px;"}
+
+## O padrão do Mapa Sanitário
+
+A ficha tem 12 secções e cerca de 108 caixas de serviço, e responde sempre à mesma pergunta: **o serviço existe e está a funcionar?** Marca-se sim ou não.
+
+A regra de recolha está no guião: a informação é obtida por entrevista com o responsável da unidade ou com o seu substituto, e por consulta às estatísticas e a outros documentos da unidade (guião, folha 3).
+
+**Uma nota importante sobre a verificação.** Na prática, a recolha do Mapa Sanitário faz-se em duas etapas: o responsável informa, e a equipa depois verifica no local. Esta informação foi-nos transmitida pela direção do Mapa Sanitário e não consta da ficha nem do guião. Ou seja, a verificação existe no terreno, mas não fica registada: a caixa marcada não distingue o que foi confirmado do que foi apenas declarado, e essa distinção perde-se na base de dados e no relatório.
+
+Há três exceções, em que a ficha vai além do sim ou não:
+
+- **Recursos cama:** conta camas de observação, de internamento, marquesas de parto, cadeiras de estomatologia e berços.
+- **Aparelhos médico-cirúrgicos** (só para centros e postos de saúde): conta 15 tipos de aparelho habitualmente em funcionamento.
+- **Meios de transporte:** conta separadamente os funcionantes e os não funcionantes.
+
+O HHFA parte da mesma pergunta e acrescenta três camadas:
+
+1. **Verificação:** distingue o que o inquiridor observou do que lhe foi referido.
+2. **Prontidão:** normas, pessoal formado, equipamento, testes e medicamentos de cada serviço.
+3. **Continuidade:** ruturas de abastecimento nos últimos três meses.
+
+O HHFA prepara o terreno e permite passar à etapa seguinte, que é obter evidências sobre quantas pessoas são atendidas e com que resultado.
+
+:::
+
+::: {style="border-left:6px solid #b7950b;background:#fdf6e3;padding:14px 18px;border-radius:6px;"}
+
+## O que a ficha do Mapa Sanitário capta e o HHFA não capta
+
+Este bloco é o material de adaptação que o HHFA exige a cada país e não traz consigo.
+
+- **Identidade e distância da unidade de referência** (3.2): categoria, nome, distância em minutos, quilómetros totais, quilómetros de alcatrão e de picada. O HHFA pergunta se existe mecanismo de referência, protocolos, registos e retorno de informação (Q1227 a Q1231), mas não regista para onde se refere nem a que distância.
+- **Superfície dos edifícios em metros quadrados**, número de edifícios e residências dos técnicos (4.1 a 4.4).
+- **Ano, período e material de construção** (4.5 a 4.7).
+- **Estado físico do edifício numa de quatro categorias de intervenção**, com critérios detalhados por elemento construtivo no guião — fundação, estrutura, pavimento, parede, cobertura, tecto falso e latrina (5.1, guião, folha 8) — e os metros quadrados em cada estado, que permitem custear a obra. O HHFA regista defeitos sala a sala, mas não emite esse juízo nem mede áreas.
+- **Estação de tratamento de águas residuais, e se funciona** (6.7). O HHFA só toca no tema pela manutenção do sistema de saneamento.
+- **Inventário da frota por tipo, com funcionantes e não funcionantes** (10.1).
+- **Função formadora da unidade** (7.4.8 e 7.4.9): escola de formação técnica de saúde e núcleo de formação permanente, com campo de estágio para medicina e para enfermagem.
+- **Número de gavetas mortuárias** (7.5.5).
+
+::: {style="background:#fff8e1;border:1px solid #d4ac0d;padding:10px 14px;border-radius:5px;"}
+
+**Atenção a uma confusão fácil de fazer.** Vários temas que parecem exclusivos da ficha estão no HHFA, mas no módulo 4 (gestão e finanças) e entre as perguntas adicionais, não nas nucleares:
+
+- **população adstrita:** 4.5.2.6.1 a 4.5.2.6.9 — área de abrangência definida, estimativa da população, fonte da estimativa, número de grávidas, de lactentes e de crianças com menos de 5 anos, e lista de utentes registados;
+- **cozinha, lavandaria e limpeza, manutenção do edifício, recursos humanos, assistência social e administração geral:** 4.1.1.2.1 a 4.1.1.2.8;
+- **morgue:** 4.1.1.2.7;
+- **órgãos de gestão:** 4.1.1.1.1 a 4.1.1.1.4 (conselho de direção reunido nos últimos 6 meses, comité de gestão nos últimos 3, comité de finanças, presença de membro da comunidade) e 4.1.1.3.1 (comissão de aquisições);
+- **viaturas:** 2.7.1.1.6 (viatura e motorista disponíveis 24 horas) e 4.1.2.3.1 e 4.1.2.3.2 (plano de manutenção e seu cumprimento);
+- **fontes secundárias de água e energia:** 2.1.1.2.4 e as perguntas sobre interrupções nos últimos 7 dias.
+
+Numa aplicação só com os questionários nucleares de disponibilidade e prontidão, nada disto é recolhido. É uma decisão de desenho, não uma característica do instrumento.
+
+:::
+
+:::
+
+## O que o HHFA acrescenta nos mesmos domínios
+
+**1. A verificação fica registada na resposta.** Onde a ficha tem uma caixa de sim ou não, o HHFA tem três respostas: *observado*; *referido, não visto*; *não disponível*. A instrução ao inquiridor está na própria pergunta ("se sim, peça para ver"). A verificação que a equipa do Mapa já faz no terreno passaria assim a ficar no dado, e não apenas na memória de quem recolheu.
+
+**2. Disponibilidade e funcionamento são duas perguntas.** Para cada item de equipamento, o HHFA pergunta primeiro (A) se está disponível, com as três opções acima, e depois (B) se está a funcionar. A ficha já usa esta lógica nos meios de transporte, ao separar funcionantes de não funcionantes.
+
+**3. Prontidão, organizada em quatro domínios.** Para cada serviço que a unidade declara oferecer, o HHFA verifica:
+
+- **pessoal e normas:** normas nacionais ou outras, disponíveis no local, e pessoal formado nos últimos 2 anos;
+- **equipamento:** os aparelhos necessários àquele serviço;
+- **diagnóstico:** os testes necessários, distinguindo o que é feito no local do que é enviado para fora com devolução de resultado;
+- **medicamentos e produtos:** os traçadores daquele serviço, observados e dentro do prazo de validade.
+
+Na diabetes, por exemplo, são 12 itens; na tuberculose e no pré-natal, mais de 20 em cada.
+
+**4. Os componentes do serviço, um a um.** O guião do Mapa já define com precisão vários serviços. O HHFA transforma essas definições em perguntas separadas:
+
+- **consulta pré-natal:** o guião define a consulta completa por uma lista (cartão, anamnese, peso, edemas, altura uterina, mucosas, tensão arterial, manobras de Leopold, tratamento intermitente da malária, ferro e ácido fólico, desparasitação, aconselhamento) e a ficha resolve tudo numa caixa; o HHFA pergunta item a item;
+- **parto:** onde a ficha tem CONU-B e CONU-C, o HHFA pergunta pelas funções-sinal uma a uma (antibiótico parentérico, ocitócico, anticonvulsivante, remoção manual da placenta, esvaziamento uterino, parto instrumentado, reanimação neonatal);
+- **esterilização:** o HHFA pergunta que tipo de equipamento existe (autoclave elétrica, estufa, autoclave não elétrica, fonte de calor), se funciona e onde fica o local central de reprocessamento.
+
+**5. Desagregação da oferta.** Por escalão etário (menos de 5 anos, 5 a 14 anos, adolescentes e adultos) e por função dentro do serviço: diagnosticar, tratar, aconselhar, referir e fazer seguimento. A ficha regista o serviço como um todo.
+
+**6. Continuidade do abastecimento.** Ruturas de stock nos últimos 3 meses para os itens traçadores, e ruturas por vacina no programa de vacinação. Distingue a falta pontual da falha estrutural de abastecimento.
+
+**7. Período de referência explícito.** Cada pergunta diz a que momento se refere: hoje, últimos 7 dias, últimos 3 meses, últimos 2 anos. Na ficha, a expressão "em funcionamento" não fixa um período.
+
+**8. Onde se procura o item.** O HHFA diz ao inquiridor em que sala verificar (local do serviço, laboratório, farmácia, armazém) e, em vários itens, aceita a presença em qualquer local da unidade. A ficha não especifica o local de verificação.
+
+**9. Denominador explícito.** O HHFA separa o que se calcula sobre todas as unidades (a oferta) do que se calcula só sobre as unidades que oferecem o serviço (a prontidão). Isso evita comparar percentagens com bases diferentes.
+
+## Domínios que o Mapa Sanitário não cobre e que são explorados pelo HHFA
+
+Os domínios em falta separam-se pelos módulos do HHFA, e cada módulo tem um custo de recolha e uma utilidade diferentes.
+
+**Disponibilidade e prontidão de serviços específicos (módulos 1 e 2).** É o bloco mais próximo do que a ficha já faz. A ficha regista o serviço; o HHFA regista também o que é preciso para o prestar:
+
+- tuberculose (a ficha tem o tratamento observado directamente, DOTS), malária, infeções sexualmente transmissíveis e doenças tropicais negligenciadas;
+- doenças não transmissíveis: doença cardiovascular, diabetes, doença respiratória crónica e cancro;
+- saúde mental e serviços neurológicos, para além da existência de consulta de psiquiatria e de psicologia;
+- saúde do adolescente;
+- cuidados relacionados com o aborto e cuidados ao recém-nascido pequeno ou doente.
+
+**Prontidão geral da unidade (módulo 2).** Itens verificados uma só vez por unidade, quaisquer que sejam os serviços que ofereça:
+
+- precauções-padrão de prevenção de infeção e equipamento de proteção individual;
+- medicamentos essenciais, consumíveis e condições de armazenamento farmacêutico;
+- preparação para emergências e resiliência dos serviços;
+- acessibilidade das instalações para pessoas com mobilidade reduzida.
+
+**Gestão e finanças (módulo 4).** A ficha regista a existência dos órgãos de gestão; o HHFA olha para o seu funcionamento:
+
+- reuniões do comité de gestão e supervisão recebida;
+- orçamento, fontes de financiamento e taxas de utilização;
+- sistemas de manutenção de equipamento e de instalações;
+- apoio ao pessoal: credenciais, formação, benefícios;
+- sistemas de informação, registos individuais e notificação de mortalidade e morbilidade;
+- sistemas de garantia e de monitorização da qualidade.
+
+**Qualidade clínica (módulo 3).** É o único bloco que olha para o que foi feito ao doente, pela revisão de processos clínicos, com metodologia e amostra próprias. É também o mais exigente em tempo e em qualificação dos inquiridores.
+
+::: {style="border-left:6px solid #6c3483;background:#f4ecf7;padding:14px 18px;border-radius:6px;"}
+
+## Conclusão: o que o HHFA pode trazer à ficha do Mapa Sanitário
+
+Os dois instrumentos não competem, e nenhum substitui o outro. O HHFA é padronizado e internacional, o que permite comparar Angola consigo própria ao longo do tempo e com outros países. Mas não funciona sem adaptação ao país: as suas próprias regras dizem que a recolha é conduzida pelos indicadores de que o país precisa e que as listas e categorias marcadas para adaptação — tipos de unidade, categorias profissionais, medicamentos essenciais, normas nacionais — têm de ser substituídas pelas nacionais. A ficha do Mapa e o seu guião são a fonte desse material.
+
+Na direção inversa, a ficha pode ganhar precisão com acréscimos curtos, sem mudar a sua lógica nem alongar muito a visita:
+
+1. **Registar a verificação que já se faz.** A recolha já passa por informação do responsável e verificação no local. Basta que a caixa passe a ter três respostas — observado; referido, não visto; não disponível — para que essa verificação fique no dado.
+2. **Verificar o funcionamento no dia da visita** para os aparelhos, como a ficha já faz para os meios de transporte.
+3. **Acrescentar três perguntas de prontidão** aos serviços já listados: normas disponíveis, pessoal formado nos últimos dois anos e medicamento traçador em stock.
+4. **Registar as ruturas de stock nos últimos três meses** dos itens traçadores.
+5. **Desdobrar em caixas separadas as definições que o guião já traz**, por exemplo a consulta pré-natal completa e incompleta, que hoje partilham uma só caixa.
+6. **Fixar o período de referência** em cada pergunta.
+
+São acréscimos de observação direta, aplicáveis na mesma visita e pela mesma equipa, que tornam o Mapa mais específico e mais preciso para aquilo que ele já se propõe fazer: apoiar a decisão sobre a rede sanitária.
+
+:::

@@ -1,0 +1,438 @@
+# How we can enhance the Health Map Form using the HHFA
+
+::: {style="border-left:6px solid #0b6e99;background:#eaf4f9;padding:14px 18px;border-radius:6px;"}
+
+A catalogue of proposed improvements to the **Health Facility Registration Form** (version 19_01) and to its **Filling Guide** (April 2019), drawing on the indicator inventory of the **Harmonized Health Facility Assessment** (HHFA, the World Health Organization's harmonized assessment of health facilities).
+
+The three preceding documents described what each instrument captures. This one proposes what to do with that reading: a set of concrete additions to the Form, each with its gain, its cost and the mode of data collection it requires, so that the choice of which to adopt can be made item by item.
+
+:::
+
+::: {style="border:3px solid #c0392b;background:#fdecea;padding:18px 20px;border-radius:8px;margin:18px 0;"}
+
+### ⚠ READ FIRST: the logic of this catalogue
+
+<p style="font-size:1.08em;line-height:1.55;margin:0 0 10px 0;"><strong style="color:#c0392b;">The HHFA is not organised around questions. It is organised around indicators.</strong> The questions exist because there is an indicator that needs them, not the other way round. This catalogue follows the same order, and that is what distinguishes it from a list of questions to add.</p>
+
+<p style="font-size:1.03em;line-height:1.5;margin:0 0 10px 0;">Each proposal starts from an HHFA indicator and answers three questions: <strong>is that indicator already latent in the Form?</strong> If it is, <strong>what is missing from the question and the response options for it to be calculable?</strong> If it is not, <strong>what does it cost to bring it in?</strong></p>
+
+<p style="font-size:1.03em;line-height:1.5;margin:0 0 6px 0;"><strong>Every addition is described by the same six fields:</strong></p>
+
+<ol style="font-size:1.0em;line-height:1.45;margin:0 0 12px 0;">
+<li><strong>Indicator identified</strong> — which one, and why it is considered latent or absent.</li>
+<li><strong>The Form today</strong> — the item, the response scale and what is missing for the calculation.</li>
+<li><strong>How the HHFA captures it</strong> — the question and the options, in the original wording.</li>
+<li><strong>The HHFA indicator that becomes available</strong> — with its calculation rule.</li>
+<li><strong>Cost and mode of collection</strong>.</li>
+<li><strong>What is gained</strong> — for public health, for network planning and for the care delivered. This is the field that justifies the addition, and no proposal enters this catalogue without it.</li>
+</ol>
+
+<hr style="border:none;border-top:2px dashed #c0392b;margin:14px 0;">
+
+<p style="font-size:1.03em;line-height:1.5;margin:0 0 8px 0;"><strong style="color:#c0392b;">This catalogue is not a form.</strong> It does not propose a closed version of the Form, nor a package to be adopted as a block. It presents pieces that can be compared with one another, so that the assembly — what goes in, in what order and in which facilities — is a decision for GEPE, taken with the cost and the gain of each piece in full view.</p>
+
+<p style="font-size:1.0em;line-height:1.45;margin:0;"><strong>A note on purpose.</strong> The Health Map Form answers well to what it was designed for, and nothing in this document proposes replacing it with something else. What is proposed is to make the recording of what the Health Map team already collects more precise, and to add, where it pays off, what allows the network to be read not only by what exists but by what is in a condition to function.</p>
+
+:::
+
+::: {style="border-left:6px solid #1e8449;background:#eafaf1;padding:16px 18px;border-radius:6px;"}
+
+### The two axes of the catalogue
+
+#### Axis 1 — the type of change made to the Form
+
+Ordered from the least to the most intrusive. The order is one of disruption, not of importance.
+
+**Type 1 — Identify the indicators already present and reformat the questions and response options that create them.** The indicator is already there in substance: the Form asks about the same reality, but the response options do not allow the calculation. No new topic is added.
+
+**Type 2 — Indicators latent in the Filling Guide's definition, collapsed into a single tick.** The indicator is not in the question, it is in the definition the Guide gives to the service. Reformatting consists of giving each component of the definition its own field.
+
+**Type 3 — Readiness indicators, with the denominator already guaranteed by the Form.** Readiness indicators are calculated among the facilities that offer the service. The Form already produces that denominator. What is missing is the numerator.
+
+**Type 4 — Indicators that require a new block.** No latency. The discussion becomes one of priority and cost.
+
+#### Axis 2 — the mode of collection the addition requires
+
+**Works in self-reported mode.** Information the facility holds in its own records and can answer without anyone verifying it: basic amenities, staffing establishment, recorded stock-outs, unpacking of definitions, functions performed.
+
+**Requires an enumerator with observation.** Anything with a scale of the type *observed / reported, not seen*, and anything with a functioning or validity column. Adding these questions to a self-completed form produces a self-declaration with the appearance of verification, which is no better than today's single tick box.
+
+Several additions work in both modes, with different results. In those cases the *Mode* field says what is obtained in each, because the choice of mode can be made by province, by facility type or by edition.
+
+:::
+
+## Type 1 — Identify the indicators already present and reformat the questions that create them
+
+Seven additions. This is the cheapest group and the one with the greatest immediate return, and most of it does not depend on observation.
+
+### 1.1 Water source
+
+**Indicator identified:** 2.1.1.1.2, percentage of facilities with an improved water source. It is latent: the Form already asks about the water source, and classifying it as improved or not is a convention applied to the source category.
+
+**The Form today:** item 6.1, five categories of main source — piped network, borehole or well, tanker truck, none, other — and secondary sources in 6.1.2. With five categories it is not possible to separate a protected well from an unprotected one, nor a protected spring from an unprotected one, and that is exactly where the line of "improved" falls.
+
+**How the HHFA captures it:**
+
+- Q1210: the same question, with thirteen categories, classified as improved and unimproved.
+- Q1211: *"Is water from this source available on the facility grounds? If yes: may I see the water available today?"* Yes, observed inside the building / Yes, observed on the grounds / Yes, reported and not seen / No, or only outside the grounds.
+
+**The HHFA indicator that becomes available:** 2.1.1.1.2 = source in one of the improved categories **and** `Q1211` other than 3 and 4.
+
+**Cost and mode:** rewrite the categories of 6.1, from five to thirteen, plus one new box. Q1210 is self-reported; Q1211 is the point of observation. In self-reported mode the indicator can still be produced, but with category 3 indistinguishable from 1 and 2 — and the difference is on record, which is what matters.
+
+**What is gained.** Improved water, present on the day, is a condition for any safe clinical act: hand hygiene, delivery care, instrument reprocessing. Distinguishing a protected well from an unprotected one changes how waterborne disease risk reads in a facility that treats sick people. For planning, the list of facilities where the source is unimproved — or where water exists but does not reach the grounds — is directly a list of interventions in boreholes, tanks and piping, which can be ranked by patient volume.
+
+### 1.2 Energy source
+
+**Indicator identified:** 2.1.1.1.1, percentage of facilities with electricity. Latent: the Form asks about the main source and the back-up source.
+
+**The Form today:** item 6.2, four categories of main source and secondary sources in 6.2.2. There is nothing about functioning, and it is functioning that defines the indicator.
+
+**How the HHFA captures it:**
+
+- Q1206: *"Does this facility have electricity from any source — grid, generator, solar or other, including for stand-alone devices such as those of the EPI cold chain?"* Yes / No.
+- Q1209: *"During the last 7 days, was electricity, from the main or back-up source, available at all times when the facility was open?"* Always, with no interruptions / Often, interruptions of less than 2 hours per day / Sometimes, frequent interruptions or interruptions of more than 2 hours per day.
+
+**The HHFA indicator that becomes available:** 2.1.1.1.1 = `Q1206==1 AND (Q1209==1 OR Q1209==2)`.
+
+**Cost and mode:** one new box. Entirely self-reported.
+
+**Note.** The indicator does not define "having electricity" as having a source: it defines it as having a source **and** less than two hours of outage per day. It is the same reality the Form already records, with a declared threshold — and it is that threshold that makes the number comparable across provinces and across years.
+
+**What is gained.** Continuity of electricity underpins three things that decide outcomes: the vaccine cold chain, delivery care at night and the functioning of oxygen concentrators. A facility with a broken-down generator and a facility with stable power look the same in the Health Map today. Separating them allows solar energy investment to be directed where the return is immediate and measurable — in vaccines preserved, deliveries attended with light, and oxygen available.
+
+### 1.3 Sanitation
+
+**Indicator identified:** 2.1.1.1.3, percentage of facilities with improved sanitation accessible to clients and staff.
+
+**The Form today:** item 6.3, three categories — bathroom or flush toilet, latrine, and the third. Three categories do not distinguish a flush toilet connected to a sewer from a flush toilet draining to an open site, nor an improved latrine from an open pit latrine.
+
+**How the HHFA captures it — Q1306:** *"Is there a toilet on the grounds accessible to outpatient clients or to staff? If yes: of what type? May I see it? If there are several, consider the most modern one."* Eleven type categories.
+
+**The HHFA indicator that becomes available:** 2.1.1.1.3 = `Q1306` in one of four specific categories.
+
+**Cost and mode:** rewriting the categories only, zero new boxes. Self-reported is sufficient.
+
+**What is gained.** Sanitation accessible to clients and staff weighs on the prevention of healthcare-associated infection and on service uptake, particularly by women and by people with reduced mobility. With the correct category, a facility with an open pit latrine is no longer counted alongside one with a toilet connected to a septic tank, and the list of sanitation rehabilitations comes straight out of the registry itself.
+
+### 1.4 Communication
+
+**Indicators identified:** 2.1.1.1.5 (communication system) and 2.1.1.1.6 (computer with internet).
+
+**The Form today:** item 7.5.7, a single 0-1 box. It does not separate the facility's telephone from the personal telephone of someone who works there, which is the distinction the indicator depends on.
+
+**How the HHFA captures it:**
+
+- Q1201: *"Does the facility have a means of communication with the outside — telephone or radio — supported by the facility?"* Yes, functioning / Yes, broken down / No, only private telephones / No communication with the outside.
+- Q1202: functioning computer? · Q1203: access to e-mail or internet today? · Q1205: is the connection time paid for or reimbursed by management?
+
+**The HHFA indicators that become available:** 2.1.1.1.5 = `Q1201==1`; 2.1.1.1.6 = `Q1202==1 & Q1203==1 & Q1205==1`.
+
+**Cost and mode:** three new boxes. Self-reported.
+
+**What is gained.** The facility's means of communication — and not the personal mobile phone of someone who works there — is what sustains emergency referral, notification of diseases under mandatory reporting, and the sending of the monthly statistical report. The distinction reveals the facilities where the referral system and epidemiological surveillance depend on a staff member's own pocket, which is a concrete and correctable vulnerability.
+
+### 1.5 Emergency transport
+
+**Indicator identified:** 2.1.1.1.7, percentage of facilities with an emergency transport system for patients.
+
+**The Form today:** the transport service in 7.5.1 and the vehicle fleet counted in 10.1. The Form knows how many vehicles exist and whether they are functioning, but not whether one is available for an emergency today, with fuel and a driver — nor does it record the common case of a facility that has no vehicle of its own but can call one.
+
+**How the HHFA captures it:**
+
+- Q1232: *"Does the facility have access to a functioning ambulance or other vehicle for emergency transport of clients, stationed at this facility or one the facility can call?"* Yes, ambulance / Yes, other type of vehicle / No.
+- Q1234: *"Is the vehicle available, in working condition, with fuel and with a driver, today?"*
+
+**The HHFA indicator that becomes available:** 2.1.1.1.7 = `(Q1232==1 OR Q1232==2) AND Q1234==1`.
+
+**Cost and mode:** two new boxes. Self-reported — the HHFA itself instructs the enumerator to ask someone who knows, not to go and look.
+
+**What is gained.** This is the indicator that bears most directly on maternal and neonatal mortality, because it measures the existence of a route of evacuation **today**, and not the existence of a vehicle in the inventory. Combined with the distance to the referral facility that the Form already records in 3.2 — in minutes and in kilometres of tarred road and dirt track — it allows identification of the areas where obstetric evacuation is not feasible within a useful time window. It is one of the most valuable readings the two instruments together can produce.
+
+### 1.6 Waste treatment
+
+**Indicators identified:** 2.5.1.1.12 and 2.5.1.1.13, safe final disposal of sharps waste and of non-sharps infectious waste.
+
+**The Form today:** items 6.5 and 6.6, treatment of general and medical waste. The topic is covered; what is missing is the category of final disposal and verification that the treatment method works.
+
+**How the HHFA captures it:** Q1214 to Q1220 — final disposal with eleven categories, observation of the site, and two questions that decide the indicator: is the incinerator working today, and does it have fuel.
+
+**The HHFA indicators that become available:** 2.5.1.1.12 and 2.5.1.1.13, both requiring adequate final disposal **and** `Q1219==1 AND Q1220==1`.
+
+**Cost and mode:** rewrite the categories of 6.5 and 6.6, plus two boxes. The categories work self-reported; the two questions about the incinerator require observation.
+
+**What is gained.** Final waste disposal protects three groups at once: the staff who handle it, the clients and the community around the facility. The question of whether the incinerator is lit and has fuel turns an infrastructure datum into a maintenance list — almost always a cheap one — that today no one can extract from the Health Map.
+
+### 1.7 Equipment
+
+**Indicators identified:** table 2.2.1.1, basic equipment of the main service area. Four of the Form's items correspond directly to indicators: adult scale (2.2.1.1.8), sphygmomanometer (2.2.1.1.3), clinical stethoscope (2.2.1.1.2) and infant scale (2.2.1.1.10).
+
+**The Form today:** item 9.1, a count of fifteen types of equipment "usually in working order", for health centres and health posts. The count answers a logistics question — how many devices exist in the network — not the indicator's question, which is what proportion of facilities have the device available and functioning on the day of the visit.
+
+**How the HHFA captures it — Q1322,** a grid with two columns: *"For each item I ask about, show me the item and tell me, where applicable, whether it is functioning."*
+
+- (A) available: observed / reported, not seen / no
+- (B) functional: yes / no / does not know
+
+**The HHFA indicators that become available:** one per item, in the format `Q1322_nA==1 & Q1322_nB==1`, with a denominator of all facilities.
+
+**Cost and mode:** two boxes per row. Requires observation — column B does not survive self-completion.
+
+**Design note.** The Form's count should not be replaced by the grid. The two pieces of information serve different decisions, and the recommendation is to keep them side by side: the count for equipment distribution, the functioning column to know where the failures are.
+
+**What is gained.** The scale, the sphygmomanometer and the stethoscope are the minimum needed to monitor a pregnancy, detect hypertension and follow up a malnourished child — without them, the consultation takes place without measurement. The count says how many devices exist in the network; the functioning column says in which facilities care is compromised today. **The difference between the two numbers is the size of the maintenance problem**, which at present is visible nowhere and which is usually cheaper to solve than buying new equipment.
+
+::: {style="border-left:6px solid #b7950b;background:#fdf6e3;padding:12px 16px;border-radius:5px;"}
+
+**Type 1 summary.** Seven additions, around twelve new boxes and the rewriting of the categories of four items. Five of the HHFA's seven basic amenities indicators become calculable without any additional visit. This is the group to consider first, because it improves the Form without altering the collection process.
+
+:::
+
+## Type 2 — Indicators latent in the Filling Guide's definition
+
+This group has a property worth making explicit: **the Form is not being asked to start asking about something else, it is being asked to record what it has already decided to ask.** The Filling Guide defines several services precisely; the Form resolves each definition into a single tick, and the components are lost.
+
+### 2.1 Laboratory
+
+**Indicators identified:** table 2.3.1.1, basic diagnostic capacity — in particular 2.3.1.1.1 (haemoglobin on site) and 2.3.1.1.8 (malaria diagnosis on site).
+
+**The Form today:** item 7.2.1, a single box. To tick it, the Guide requires that at least thick blood smear, haemoglobin or haematocrit, and simple stool and urine tests be performed. The definition contains the indicators; the single tick loses them, because a facility that performs two of the four is recorded exactly like one that performs all four.
+
+**How the HHFA captures it:** grids of tests available at the point of care itself, test by test, with verification that the reagent is within its validity date and that the items needed to run the test are available and functioning.
+
+**The HHFA indicators that become available:** one per test, in the format 2.3.1.1.x, with a denominator of all facilities.
+
+**Cost and mode:** four boxes where today there is one, if one keeps to the Guide's definition. The HHFA calculation rule counts the test only if the reagent is within its validity date, so the complete indicator requires observation. In self-reported mode the unpacking is still worthwhile — it separates those who perform two tests from those who perform four — but it produces a declared version of the indicator, and that should be written into the documentation so that there is no confusion in the analysis.
+
+**What is gained.** The four tests the Guide already requires are not an arbitrary list: the thick blood smear underpins malaria diagnosis, haemoglobin detects anaemia in pregnant women and children, and urinalysis is the screening test for pre-eclampsia and urinary infection in pregnancy. Knowing which of them each facility performs makes two things possible that are not possible today: directing reagents and training to the concrete gaps, and estimating in which part of the network malaria treatment is being given without laboratory confirmation — information that is central for the national programme.
+
+### 2.2 Deliveries
+
+**Indicators identified:** the signal functions of emergency obstetric care, 3.1.3.2.1 to 3.1.3.2.7, and the composite indicators 3.1.3.1.3 (basic emergency obstetric care) and its equivalent for comprehensive care.
+
+**The Form today:** items 7.3.7.1 and 7.3.7.2, two boxes, BEmONC and CEmONC. The Guide defines BEmONC as *"Antibiotics, Oxytocin and parenteral Anticonvulsant, manual removal of the placenta and of retained products"* — five of the seven international signal functions, already written down — and CEmONC as *"All of B plus surgery (caesarean sections and blood transfusion)"*. Two functions are missing from the definition: assisted vaginal delivery and neonatal resuscitation.
+
+**How the HHFA captures it:** each signal function is a question, with the reference period stated.
+
+**The HHFA indicators that become available:** one per signal function, plus the composite indicators — which become **calculated from their components** instead of being declared by the respondent. This is an important change: today, ticking BEmONC is a judgement made by whoever fills in the Form; with the components separated, it becomes a result.
+
+**Cost and mode:** nine boxes where today there are two. Works self-reported, because the question is about what the facility performs, not about an object to be observed.
+
+**Note.** This addition aligns the Form with the international standard for emergency obstetric care and gives any EmONC assessment under way a far better sampling base than it would otherwise have.
+
+**What is gained.** The signal functions are the internationally accepted measure of a facility's capacity to save a woman with haemorrhage, with eclampsia or in obstructed labour, and to resuscitate a newborn who is not breathing. The practical gain lies in granularity: today we know that a facility does not have basic emergency obstetric care, but we do not know **which of the five functions it lacks**. With the components separated we come to know — and in most cases only one is missing, frequently because of the absence of a medicine or of a short training course. It is one of the highest-impact interventions per unit of cost in the whole network.
+
+### 2.3 Other unpackings of definitions
+
+The same reasoning applies to four further items where the Guide is already precise and the Form keeps a single tick.
+
+| Form item | What the Guide already defines | HHFA indicators that become available | What is gained |
+|---|---|---|---|
+| 7.3.6 Antenatal care | Twelve components: card, history, weight, oedema, fundal height, mucous membranes, blood pressure, Leopold's manoeuvres, intermittent preventive treatment of malaria, iron and folic acid, deworming, counselling | 3.1.2.1.x, antenatal care components, one by one | Distinguishes complete antenatal care from antenatal care of registration only, and identifies which component is missing in each facility — the basis of any maternal health improvement plan |
+| 7.3.9 Family planning | At least one modern method — injectable, pill, IUD, diaphragm — excluding the condom | 3.1.1.1.x, provision by method | Shows the real breadth of choice offered to the woman, which is what determines method uptake and continuation |
+| 7.3.5 Child health monitoring | Weight and card criterion | 3.1.8.1.2 and components | Makes it possible to link growth monitoring to early detection of malnutrition, instead of addressing it only once it is severe |
+| 7.2.12 Emergency unit | Daytime or 24 hours | 3.5.1.1.x, dedicated unit, staff present 24 hours, laboratory, radiology and pharmacy 24 hours | Reveals where the emergency service is an open door and where it is an emergency service with means — a decisive distinction for the design of the referral network |
+
+All of them work in self-reported mode.
+
+::: {style="border-left:6px solid #b7950b;background:#fdf6e3;padding:12px 16px;border-radius:5px;"}
+
+**Type 2 summary.** Six additions. The gain is disproportionate to the cost, because it converts ticks that depend on the judgement of whoever fills in the Form into verifiable facts, and almost all of it works in self-reported mode. It is also the group that is easiest to justify to the facilities, because nothing new is being asked of them.
+
+:::
+
+## Type 3 — Readiness indicators, with the denominator already guaranteed
+
+::: {style="border-left:6px solid #1e8449;background:#eafaf1;padding:14px 18px;border-radius:6px;"}
+
+**The central argument of this catalogue is here.** The HHFA readiness indicators have a restricted denominator: they are calculated **among the facilities that offer the service**. The Health Map Form already produces that denominator — it is exactly what the boxes in section 7.3 do, service by service, in every facility in the country.
+
+**What is missing is not the denominator. It is the numerator.** And the numerator, in its minimal form, is three identical questions for every service.
+
+:::
+
+### 3.1 The readiness trio
+
+Since they are always the same three questions, enumerator training is short and the data structure is regular.
+
+**Guidelines available** — how the HHFA captures it, in the case of antenatal care, Q1817: *"For each document I ask about, please show it to me."* Observed / Reported, not seen / Not available.
+
+**Trained staff** — Q1818: *"In the last 2 years, have you or any antenatal care provider received training in any of the following topics?"* Yes / No.
+
+**Tracer medicine or commodity** — one item per service, with the validity scale described in Type 4.
+
+### 3.2 Antenatal care, as a fully worked example
+
+**Indicators identified:** 3.1.2.2.1 (antenatal care guidelines available) and 3.1.2.2.5 (staff trained in antenatal care), among the 46 indicators of the sub-area.
+
+**The Form today:** box 7.3.6 records that the facility provides antenatal care. That box is, without the Form having intended it, the exact filter for the HHFA's antenatal care readiness indicators.
+
+**The HHFA indicators that become available:** 3.1.2.2.1 = `Q1817_1==1 OR Q1817_2==1`, among facilities offering the service; 3.1.2.2.5 = `Q1818_1==1`, with the same denominator.
+
+**Cost and mode:** two boxes per service, three if the tracer is included. Training works self-reported; guidelines only produce the HHFA indicator with observation.
+
+**What is gained.** Availability of guidelines on site and recent training of the person delivering the care are two of the factors most consistently associated with the quality of antenatal care. The gain is moving from *"antenatal care exists"* to *"antenatal care exists, the person providing it was trained in the last two years and has the guideline to hand"* — which is exactly the question a national training plan needs to answer in order to know where to invest. Multiplied across the chosen services, this trio is what turns the Health Map from an inventory of the network into an instrument for quality planning.
+
+### 3.3 The services where the Form already guarantees the denominator
+
+| Form box that provides the denominator | HHFA readiness sub-area that opens up | Indicators in the sub-area |
+|---|---|---|
+| 7.3.6 Antenatal care | 3.1.2.2 | 46 in the sub-area |
+| 7.3.7 Deliveries | 3.1.3.2 | 24 in the signal functions table |
+| 7.3.9 Family planning | 3.1.1.2 | 13 in the readiness table |
+| 7.3.1 Immunisation | 3.2.1.2 | 31 in the readiness table |
+| 7.3.13 DOTS | 3.2.3.2 | 12 in the table |
+| 7.3.11 and 7.3.12 ART | 3.2.5 and 3.2.7 | antiretroviral treatment readiness |
+| 7.3.4.2 and 7.3.4.3 Nutrition centres | 3.1.8.2 | 35 in the table |
+| 7.1.26 Psychiatry | 3.3.6.2 | mental health readiness |
+| 7.2.9 Operating theatre | 3.4.1 and 3.4.2 | surgical and anaesthetic readiness |
+
+It is not proposed to open all of them. It is proposed that the choice be made among these, because in any one of them the work of defining who is asked is already done.
+
+::: {style="border-left:6px solid #b7950b;background:#fdf6e3;padding:12px 16px;border-radius:5px;"}
+
+**Type 3 summary.** Three boxes per service chosen. This is the group that most changes the nature of the information, because it is the one that introduces readiness — the difference between a facility offering the service and being in a condition to deliver it. It is also the one where the Health Map's earlier investment pays off most, because it makes use of a national denominator that already exists.
+
+:::
+
+## Type 4 — Indicators that require a new block
+
+No latency in the Form. The discussion becomes one of priority and cost. They are presented in increasing order of effort.
+
+### 4.1 Staffing establishment and workforce
+
+**Indicators identified:** 1.2.1.1.1, percentage of facilities with an approved staffing establishment with numbers assigned by qualification; and table 1.2.1, the count of professionals by category.
+
+**The Form today:** nothing. The Form records who runs the facility — general, clinical and pedagogical management, heads of unit — but not how many people work there nor in which categories.
+
+**How the HHFA captures it — Q301:** *"Does this facility have a staffing establishment, with authorised numbers by qualification?"* Yes / No — followed by the count by professional category.
+
+**The HHFA indicators that become available:** 1.2.1.1.1 = `Q301==1`, and the count indicators of sub-area 1.2.1.
+
+**Cost and mode:** one box for the indicator above, plus one line per professional category. Entirely self-reported — it comes from the facility's own staffing records and requires no physical verification.
+
+**Note, and it is the most important one in this catalogue.** The Form already collects the **catchment population** (item 3.1). With the staff count, HHFA sub-area 1.2.2 — densities of professionals per 10,000 population — becomes calculable from two fields that sit on the same form. It is the only point in the whole catalogue where a cheap, self-reported addition produces system-level indicators, and not only facility-level ones.
+
+**It is the cheapest new block and the one that closes the largest asymmetry identified in document 3.**
+
+**What is gained.** The density of professionals per 10,000 population is the indicator that underpins any decision on staff allocation and recruitment, and it is what Angola needs to report under international commitments on human resources for health. The greater gain, however, is internal: the provincial count conceals the distribution within the province, and it is within the province that the inequalities lie that can be corrected by transfer. Knowing which facilities do not have a single professional of a given category is, in itself, a management decision.
+
+### 4.2 Essential medicines, and the anchors the Form already has
+
+**Indicators identified:** table 2.4.1.1, one indicator per medicine.
+
+**The Form today:** item 7.2.10 records *"Pharmacy — exists, functioning"*. It is a question about the **service**: there is a place, with someone responsible, that dispenses medicines. Nothing is said about what is inside it, and no indicator from table 2.4.1.1 can be obtained from it.
+
+But there are four points in the Form where a specific medicine is already asked about, without the Form treating it as such: the **distribution of vitamin A** (7.3.2), the **distribution of albendazole** (7.3.3), **oral rehydration** (7.3.4.1) and the **therapeutic nutrition centre** (7.3.4.2) — this last one because the Guide defines the service by the therapeutic food it dispenses. In those four cases, ticking the box already implies asserting that the product is available.
+
+They are called anchors because they are the natural place to start. Making the item explicit at those four points introduces no new topic, it only writes down what the question already presupposes — it is, in practice, a Type 2 addition inside a Type 4 block. A list of forty medicines is another conversation, and it is fair that it be discussed as such.
+
+**How the HHFA captures it — the Q3102 scale,** which is the best-designed one in the instrument: *"For each medicine I ask about, show it to me. Check that at least one unit of the type is not expired."*
+
+1. At least one within the validity date
+2. Available, but expired
+3. Reported available, not seen
+4. Not available today
+5. Never available
+
+The indicators count **code 1 only**. The distinction between 1, 2 and 3 is exactly the difference between the facility having metformin and the facility being able to give metformin to someone today.
+
+**Cost and mode:** one box per medicine. Observation only — under self-completion the scale loses all meaning, because all the information lies in the distinction between the first three categories.
+
+**Methodological caveat, to be recorded in the documentation.** Several indicators in table 2.4.1.1 count the medicine if it is seen in the pharmacy **or** in the delivery room **or** in the emergency trolley. A collection that looks only at the pharmacy underestimates those items — oxytocin, magnesium sulfate, chlorhexidine, adrenaline, dexamethasone and morphine. That is not a reason not to collect; it is a reason to state the restriction alongside the number.
+
+**What is gained.** The effective availability of the medicine on the day is the most direct determinant of whether the patient leaves the consultation with treatment. Separating *has it*, from *has it but expired*, from *says it has it and does not show it*, identifies stock management failures that no requisition system can reveal — because the requisition system records what was sent, not what is on the shelf. Starting with the four anchors, the gain is immediate and cheap: it becomes possible to know whether vitamin A, albendazole, oral rehydration salts and therapeutic food are actually available in the facilities that declare they offer those services.
+
+### 4.3 Standard precautions and infection prevention
+
+**Indicators identified:** table 2.5.1.1.
+
+**The Form today:** absent, with two important exceptions — items 6.5 and 6.6 already cover waste treatment (see 1.6), and sterilisation is recorded in 7.2.14.
+
+**How the HHFA captures it — Q1320,** a grid of seventeen rows with a three-level scale: *"For each item I ask about, show me the item."* Observed / Reported, not seen / Not available. It includes clean running water, soap, alcohol-based hand rub, disposable gloves, single-use syringes, sharps and non-sharps waste containers, and environmental disinfectant.
+
+**The HHFA indicators that become available:** hand hygiene (2.5.1.1.5), gloves (2.5.1.1.6), syringes (2.5.1.1.7), disinfectant (2.5.1.1.9), sharps waste storage (2.5.1.1.10) and non-sharps waste storage (2.5.1.1.11) — six indicators from a single grid. Two stand-alone questions add waste management guidelines (2.5.1.1.2) and trained staff (2.5.1.1.4).
+
+**Cost and mode:** around twenty boxes. Requires observation.
+
+**What is gained.** Infection prevention protects patients and health workers at the same time, and it is the foundation on which any patient safety programme rests. What makes this block attractive is the nature of the items: soap, alcohol-based hand rub, gloves, a sharps box and disinfectant are cheap products, locally procurable, whose absence has disproportionate consequences. It is one of the few domains where measuring leads almost automatically to a correction that is feasible in the short term.
+
+### 4.4 Chronic conditions
+
+**Indicators identified:** 3.3.1 (cardiovascular diseases, 46 indicators), 3.3.2 (diabetes, 26) and 3.3.3 (chronic respiratory disease, 26).
+
+**The Form today:** the hospital specialty boxes — cardiology (7.1.7), endocrinology (7.1.9), pulmonology (7.1.25) — record how the facility is organised, not the capacity to manage the condition. As described in document 3, these are different questions: the specialty says how the facility is organised, the condition says what the facility is able to resolve. In primary health care, where hypertension, diabetes and asthma are managed without a specialist, it is the second that decides.
+
+**How the HHFA captures it:** for each condition, provision broken down by function — diagnosis, treatment, follow-up, self-care counselling — followed by the readiness trio and the tracer items.
+
+**The HHFA indicators that become available:** provision by function works self-reported and is cheap: four boxes per condition. The tracer items require observation.
+
+**Cost and mode:** it is proposed to start with provision by function, in three conditions, twelve boxes, self-reported mode. The tracers come in with the medicines block, if that one moves forward.
+
+**What is gained.** Hypertension and diabetes represent a growing burden of disease, above all in urban areas, and they are conditions that can be managed at the primary level — provided the facility diagnoses, treats and follows up. Measuring capacity **by condition** and not by specialty is precisely what allows the decentralisation of chronic disease management to health centres and health posts to be planned, which is one of the structuring decisions of the primary health care reform. Without this data, that decentralisation is planned blind.
+
+### 4.5 Other blocks to consider
+
+| Block | HHFA indicators | Cost and mode | What is gained |
+|---|---|---|---|
+| Malaria, diagnosis and treatment | 3.2.2.1.1 to 3.2.2.1.8 — the Form records the distribution of mosquito nets, but not the malaria service | 8 boxes, self-reported for provision | Gives the national programme a map of diagnostic and treatment capacity for the country's leading cause of demand for care |
+| Stock-outs in the last 3 months | Cross-cutting, one indicator per tracer commodity | 1 box per tracer, self-reported, comes from the pharmacy records | Separates a one-off failure from a structural supply failure — the first is solved at the facility, the second in the logistics chain |
+| Accessibility for people with reduced mobility | 1.1.3.1.1 to 1.1.3.1.5 — ramps, handrails, accessible toilet | 5 boxes, observation | Makes access measurable for older people, people with disabilities and wheelchair users, today invisible in the planning of building works |
+| Budget and sources of financing | 4.2.1.1.1, autonomy to manage its own bank account, and following. The Form has item 0.2, a box on having its own budget — that is the natural anchor | 6 to 8 boxes, self-reported | Links the Health Map to the work on modernising public financial management in health, giving it for the first time a facility-level basis |
+| Supervision received | 4.1.1 and 4.3.1 | 3 boxes, self-reported | Shows which part of the network is effectively covered by municipal and provincial supervision, which is the main existing mechanism for continuous improvement |
+
+::: {style="border-left:6px solid #b7950b;background:#fdf6e3;padding:12px 16px;border-radius:5px;"}
+
+**Type 4 summary.** Ten blocks. It is not proposed to adopt them together. Two of them — the staffing establishment and provision by function for chronic conditions — are self-reported, cheap and of great return, and can be considered alongside Types 1 and 2. The remainder require observation and should be decided in light of the collection mode the Health Map comes to adopt.
+
+:::
+
+::: {style="border-left:6px solid #1e8449;background:#eafaf1;padding:14px 18px;border-radius:6px;"}
+
+## Summary table of the additions
+
+| # | Addition | Type | Form item | Mode | Boxes |
+|---|---|---|---|---|---|
+| 1 | Water source | 1 | 6.1 | Mixed | ~1 + categories |
+| 2 | Energy source | 1 | 6.2 | Self-reported | 1 |
+| 3 | Sanitation | 1 | 6.3 | Self-reported | 0 + categories |
+| 4 | Communication | 1 | 7.5.7 | Self-reported | 3 |
+| 5 | Emergency transport | 1 | 7.5.1, 10.1 | Self-reported | 2 |
+| 6 | Waste treatment | 1 | 6.5, 6.6 | Mixed | 2 + categories |
+| 7 | Equipment, functioning column | 1 | 9.1 | Observation | 1 per row |
+| 8 | Laboratory | 2 | 7.2.1 | Mixed | 3 |
+| 9 | Deliveries, signal functions | 2 | 7.3.7 | Self-reported | 7 |
+| 10 | Antenatal care, components | 2 | 7.3.6 | Self-reported | up to 12 |
+| 11 | Family planning, methods | 2 | 7.3.9 | Self-reported | 4 |
+| 12 | Child health monitoring | 2 | 7.3.5 | Self-reported | 2 |
+| 13 | Emergency unit | 2 | 7.2.12 | Self-reported | 4 |
+| 14–21 | Readiness trio, per service chosen | 3 | 7.3.x | Mixed | 3 per service |
+| 22 | Staffing establishment and workforce | 4 | — | Self-reported | ~13 |
+| 23 | Medicines, starting from the four anchors | 4 | 7.2.10, 7.3.2–7.3.4 | Observation | 4 to 48 |
+| 24 | Standard precautions | 4 | — | Observation | ~20 |
+| 25 | Chronic conditions, provision by function | 4 | 7.1.7, 7.1.9, 7.1.25 | Self-reported | 12 |
+| 26 | Malaria | 4 | — | Self-reported | 8 |
+| 27 | Stock-outs | 4 | — | Self-reported | 1 per tracer |
+| 28 | Accessibility | 4 | — | Observation | 5 |
+| 29 | Budget and financing | 4 | 0.2 | Self-reported | 6 to 8 |
+| 30 | Supervision received | 4 | — | Self-reported | 3 |
+
+:::
+
+::: {style="border-left:6px solid #6c3483;background:#f4ecf7;padding:14px 18px;border-radius:6px;"}
+
+## How to read this catalogue
+
+**The additions do not add up in a single order.** They can be grouped by type, by mode of collection, by thematic area or by the facilities they apply to. Three readings seem useful:
+
+**By latency.** Types 1 and 2 make calculable indicators that the Form already pursues without producing them. They introduce no new topics and, for the most part, require no visit. This is the reading that costs least to defend to the facilities and the one that changes the current process least.
+
+**By mode of collection.** There is a set of additions — Types 1 and 2 almost in their entirety, the staffing establishment, provision by function for chronic conditions, stock-outs, the budget — that works in self-reported mode and can enter an edition of the Form without changing anything in the collection. And there is another set that only makes sense where there is an enumerator and observation. This separation allows the two to move at different speeds.
+
+**By denominator.** Type 3 is the one that best uses what already exists. Over four editions, the Health Map has built a national denominator service by service — the information on which facilities offer what. That denominator is precisely what the HHFA readiness indicators require and what a sample survey cannot produce with the same coverage. Three questions per service turn it into measured readiness.
+
+**By the gain.** This is the reading that best serves a discussion with the national programmes, because it is the one that speaks their language. Grouped by what they produce, the additions concentrate in four areas: **maternal and newborn health** — delivery signal functions, antenatal care components, emergency transport, haemoglobin and urinalysis; **child health and nutrition** — child health monitoring, vitamin A, therapeutic food, functioning scales, a cold chain sustained by continuous electricity; **chronic diseases** — capacity by condition instead of by specialty; and **patient and health worker safety** — standard precautions, waste, water and sterilisation. Each programme recognises in this list what it needs, and that makes the adoption of the additions a shared conversation rather than an external requirement.
+
+**What remains to be decided** is not technical. It is a matter of knowing which indicators Angola wants to produce, about which facilities, and at what frequency. That is the subject of the next document.
+
+:::

@@ -1,0 +1,1036 @@
+# Revised Form {.unnumbered}
+
+::: {style="border-left:6px solid #0b6e99;background:#eaf4f9;padding:14px 18px;border-radius:6px;"}
+
+<p class="chapter-lead">Health Facility Registration Form<br>Proposed revised version, with questions written out in full and HHFA indicators annotated</p>
+
+Working version for discussion with the Office of Studies, Planning and Statistics. It keeps the structure, the numbering and the purpose of Form version 19_01, and reformulates the questions and the response options following the wording of the Harmonized Health Facility Assessment, translated from the original.
+
+**Every question is written out in full, exactly as it is to be read aloud**, with the unit of measure, the reference period and the point of reference built into the text itself. **Each one is annotated with the HHFA indicator that it makes computable.**
+
+:::
+
+::: {style="border:3px solid #c0392b;background:#fdecea;padding:18px 20px;border-radius:8px;margin:18px 0;"}
+
+### ⚠ READ FIRST: the drafting standard adopted
+
+<p style="font-size:1.08em;line-height:1.55;margin:0 0 10px 0;"><strong style="color:#c0392b;">A question that each enumerator has to complete on their own is a different question in every health facility.</strong> "Distance to the referral facility — minutes, total km" forces the person collecting the data to decide alone which road, by which means of transport, in which season of the year, and measured how. The answers that come out of it are not comparable with one another, and no subsequent analysis can recover that variation.</p>
+
+<p style="font-size:1.04em;line-height:1.5;margin:0 0 10px 0;">This version applies nine drafting rules to every question. They are the same ones the HHFA applies, and the effect is that the question stays identical across all facilities, whoever asks it.</p>
+
+<ol style="font-size:1.0em;line-height:1.5;margin:0 0 12px 0;">
+<li><strong>The question is read out in full, exactly as written.</strong> The enumerator neither completes nor summarises it.</li>
+<li><strong>The unit of measure is inside the question</strong> — kilometres, minutes, number of people, square metres.</li>
+<li><strong>The reference period is inside the question</strong> — today, in the past 7 days, in the past 3 months, in the past 12 months, in the past 2 years.</li>
+<li><strong>The point of reference is inside the question</strong> — from where to where, counted how, by whom, under what conditions.</li>
+<li><strong>One question yields one fact.</strong> Composite concepts are split into separate questions.</li>
+<li><strong>The response options are mutually exclusive and exhaustive</strong>, and they are written on the form, not left to the judgement of whoever is recording the answer.</li>
+<li><strong>There is always a code for "does not know"</strong> (98) and, where applicable, for "not applicable" (97). A blank field is no longer ambiguous.</li>
+<li><strong>Instructions to the enumerator are set apart graphically</strong> from the text to be read to the respondent. In this document they appear in <em>italics and in capitals</em>.</li>
+<li><strong>Consistency checks are stated</strong> alongside the questions they apply to, so that they can be programmed into the data collection application.</li>
+</ol>
+
+<hr style="border:none;border-top:2px dashed #c0392b;margin:14px 0;">
+
+<p style="font-size:1.03em;line-height:1.5;margin:0 0 8px 0;"><strong style="color:#c0392b;">The HHFA foresees instruments exactly like the Health Map.</strong> The inventory has two subareas — <strong>1.3.2, availability of specific services</strong>, and <strong>1.3.3, availability of technologies and procedures</strong> — whose titles end with the note <em>"to be used only when the readiness module does not apply"</em>. This proposal rests on that route, and the consequence is highly favourable: <strong>more than nine in ten of the indicators captured here yield in self-reported mode</strong>, requiring neither observation nor any change to the current collection process.</p>
+
+<p style="font-size:1.0em;line-height:1.45;margin:0;"><strong>Conventions.</strong> The numbering of existing items is retained, so that the historical series can be reconstructed. <strong>[MS]</strong> marks items specific to the Health Map, with no counterpart in the HHFA, which are kept because they are its own particular contribution — but <strong>they too are reformulated</strong>, because the drafting problem is independent of where the question came from. <strong>◆</strong> marks the questions that require an enumerator making observations. The lists so flagged still need validation by the national programmes.</p>
+
+:::
+
+---
+
+## SECTION 0 — Identification of the data collection
+
+**0.1** Date on which this form was completed: |\_\_|\_\_| day · |\_\_|\_\_| month · |\_\_|\_\_|\_\_|\_\_| year
+
+**0.2** **How was this form completed?**
+*READ THE OPTIONS.*
+> 1 Completed by the facility staff and sent to GEPE, with no enumerator visit
+> 2 Completed by an enumerator during a visit to the facility
+> 3 Completed by the facility staff and then checked by an enumerator during a visit
+
+*Indicator: essential metadata. Without it, the analysis cannot separate what was verified from what was merely declared.*
+
+**0.3** **What is the position of the person who answered most of this form?**
+> 1 Facility director · 2 Deputy director · 3 Head of nursing · 4 Head of administration · 5 Head of statistics · 6 Other position (specify) \_\_\_\_\_\_
+
+**0.4** **Does this facility have a budget of its own — that is, an allocation of funds assigned specifically to this facility, which its management can administer and execute?**
+*DO NOT COUNT FUNDS MANAGED ENTIRELY BY THE MUNICIPAL OR PROVINCIAL DIRECTORATE ON THE FACILITY'S BEHALF.*
+> 1 Yes · 2 No · 98 Does not know
+
+*HHFA indicator: **4.2.1.1.1** (anchor — see note).*
+
+::: {style="border-left:5px solid #b7950b;background:#fdf6e3;padding:10px 14px;border-radius:5px;"}
+
+**Note on 0.4.** In the current Form, item 0.2 says only "Tick if the facility has its OWN BUDGET", without defining what counts as such. A director who receives a municipal allocation earmarked for their facility and a director who runs a bank account of their own both answer "yes", and these are administratively very different situations. The wording above fixes the criterion — **the power to administer and execute** — and explicitly excludes the ambiguous case. HHFA indicator 4.2.1.1.1 is more demanding still (autonomy to manage a bank account of one's own); it is proposed that the public financial management group decide which of the two criteria serves Angola better, and that it be fixed in the question.
+
+:::
+
+---
+
+## SECTION 1 — Location
+
+**1.1 to 1.5** Province · Municipality · Commune or urban district · Rural village or urban neighbourhood · Name of the health facility
+*RECORD THE NAME AND THE CODE GIVEN BY THE HEALTH MAP.*
+
+**1.6** Category of the facility, according to the Health Map classification
+*THE PRINCIPAL STRATIFIER FOR ALL ANALYSIS. It is the national list of facility types that replaces the generic HHFA list.*
+
+**1.7 and 1.8** **Reading of the geographic coordinates.**
+*TAKE THE READING AT THE MAIN ENTRANCE OF THE MAIN BUILDING, IN THE OPEN AIR, WITH THE DEVICE HELD STEADY FOR AT LEAST 60 SECONDS. RECORD IN DECIMAL DEGREES, TO FIVE DECIMAL PLACES.*
+> 1.7 Latitude: |\_\_|\_\_|.|\_\_|\_\_|\_\_|\_\_|\_\_|
+> 1.8 Longitude: |\_\_|\_\_|.|\_\_|\_\_|\_\_|\_\_|\_\_|
+> 1.8.1 Accuracy shown by the device, in metres: |\_\_|\_\_|\_\_|
+
+**1.9** **Is this health facility located in an urban, a rural or a peri-urban area?**
+*USE THE ADMINISTRATIVE CLASSIFICATION IN FORCE. IF IN DOUBT, ASK THE RESPONDENT.*
+> 1 Urban · 2 Rural · 3 Peri-urban
+
+*Allows urban/rural disaggregation of every indicator in this form.*
+
+---
+
+## SECTION 2 — Ownership and management
+
+**2.1** **Who owns this health facility?**
+*MARK ONE OPTION ONLY.*
+> 1 Public — National Health Service · 2 Public — Police or Armed Forces · 3 Private not-for-profit (religious denomination, non-governmental organization, association) · 4 Private for-profit · 96 Other situation (specify) \_\_\_\_\_\_
+
+**2.2** **Which entity is responsible for the day-to-day management of this facility — that is, who appoints the management and answers for its daily operation?**
+*THIS MAY DIFFER FROM THE OWNER RECORDED IN 2.1.*
+> 1 Public · 2 Private · 3 Mixed · 96 Other situation (specify) \_\_\_\_\_\_
+
+---
+
+## SECTION 3 — Catchment population and referral system
+
+::: {style="border-left:5px solid #1e8449;background:#eafaf1;padding:10px 14px;border-radius:5px;"}
+
+**Why this section matters more than it appears to.** The catchment population is the denominator of the densities. Crossed with the staff count in Section 11 and with the beds in Section 8, it yields on its own twenty-three system-level indicators — the kind of figure that underpins resource allocation decisions and that no sample survey can deliver with national coverage.
+
+:::
+
+### 3.1 Catchment population
+
+**3.1** **What is the total resident population in the catchment area of this health facility, according to the most recent estimate available to the facility?**
+*RECORD THE NUMBER OF INHABITANTS. RECORD 999998 IF THE FACILITY HAS NO ESTIMATE.*
+> |\_\_|\_\_|\_\_|\_\_|\_\_|\_\_| inhabitants
+
+*HHFA indicators: **1.1.1.1.1 to 1.1.1.1.4** (facility and bed density), **1.2.2.1.1 to 1.2.2.4.8** (health worker density per 10,000 population), **1.4.1.1.1 to 1.4.1.1.3** (density scores).*
+
+**3.1.1** **Where does that population estimate come from?**
+> 1 National census · 2 Projection by the National Institute of Statistics · 3 Registration or enumeration carried out by the facility itself · 4 Estimate provided by the Municipal Health Directorate · 5 Estimate provided by the Provincial Health Directorate · 96 Other (specify) \_\_\_\_\_\_ · 98 Does not know
+
+**3.1.2** **Which year does that estimate refer to?** |\_\_|\_\_|\_\_|\_\_|
+
+::: {style="border-left:5px solid #b7950b;background:#fdf6e3;padding:10px 14px;border-radius:5px;"}
+
+**Why these two questions.** In the current Form, 3.1 asks for the catchment population "if known", and nothing more. A 2014 census estimate and a head count made by the facility itself last year go into the same field and produce densities that cannot be compared. Two short questions qualify the denominator and make it possible, at the analysis stage, to decide which estimates to use.
+
+:::
+
+### 3.2 Referral facility
+
+**3.2.1** **To which health facility are patients from this facility usually transferred when they need care that cannot be provided here?**
+*IF THERE IS MORE THAN ONE, GIVE THE ONE TO WHICH THE LARGEST NUMBER OF PATIENTS WAS TRANSFERRED IN THE PAST 12 MONTHS.*
+> Name of the facility: \_\_\_\_\_\_ · Health Map code: |\_\_|\_\_|\_\_|\_\_|\_\_|\_\_|
+
+**3.2.2** Category of that referral facility, according to the Health Map classification: |\_\_|\_\_|
+
+**3.2.3** **What is the means of transport most frequently used to transfer patients from this facility to the facility named in 3.2.1?**
+*CONSIDER THE PAST 12 MONTHS. MARK ONE OPTION ONLY.*
+> 1 Ambulance belonging to this facility · 2 Ambulance from another facility or from the Municipal Directorate · 3 Light vehicle belonging to the facility · 4 Motorcycle · 5 Public or private transport, paid for by the patient or the family · 6 On foot or by stretcher · 96 Other (specify) \_\_\_\_\_\_
+
+**3.2.4** **Considering the route usually taken by that means of transport, what is the total distance, in kilometres, between this health facility and the referral facility?**
+*DISTANCE ALONG THE ROAD ACTUALLY TRAVELLED, NOT IN A STRAIGHT LINE. RECORD 998 IF NOT KNOWN.*
+> |\_\_|\_\_|\_\_| kilometres
+
+**3.2.5** **Of that route, how many kilometres are on paved road?**
+> |\_\_|\_\_|\_\_| kilometres
+
+**3.2.6** **And how many kilometres are on dirt road or dirt track?**
+> |\_\_|\_\_|\_\_| kilometres
+
+*CONSISTENCY CHECK: 3.2.5 + 3.2.6 must equal 3.2.4. IF IT DOES NOT, CONFIRM WITH THE RESPONDENT BEFORE CONTINUING.*
+
+**3.2.7** **In the dry season, how long does that route usually take, in minutes, by the means of transport given in 3.2.3?**
+*TRAVEL TIME ONLY, NOT COUNTING TIME SPENT WAITING FOR TRANSPORT. RECORD 998 IF NOT KNOWN.*
+> |\_\_|\_\_|\_\_| minutes
+
+**3.2.8** **And in the rainy season, how long does the same route usually take, in minutes?**
+*RECORD 997 IF THE ROUTE BECOMES IMPASSABLE AT ANY POINT DURING THE RAINY SEASON. RECORD 998 IF NOT KNOWN.*
+> |\_\_|\_\_|\_\_| minutes
+
+*Indicators: **[MS]**. Crossed with 2.1.1.1.7 (emergency transport), they make it possible to identify the areas where obstetric evacuation cannot be achieved within a useful time.*
+
+::: {style="border-left:5px solid #b7950b;background:#fdf6e3;padding:10px 14px;border-radius:5px;"}
+
+**What has changed, and why.** The current Form has an item 3.2.3 with four fields — minutes, total km, km of paved road, km of dirt track — and no instruction at all. Nothing says which road is to be measured, in which means of transport the minutes are counted, whether the time includes waiting for the ambulance, or what to do when the dirt track becomes impassable in the rains. Three enumerators produce three different answers for the same facility, and the difference between them is indistinguishable from the real difference between facilities.
+
+The six questions above fix: **the means of transport** (3.2.3, which becomes a datum with value in its own right — a facility that evacuates on foot is a different reality), **the road actually travelled** rather than the straight line, **the breakdown verified by addition**, and **the two seasons of the year**, with a code of its own for the impassable route. It becomes possible to calculate evacuation time in the worst season, which is the information that matters for maternal mortality.
+
+:::
+
+### 3.3 Functioning of the referral system
+
+**3.3** **Does this facility have an established system for referring patients to other health facilities?**
+> 1 Yes · 2 No · 98 Does not know
+
+*HHFA indicator: **2.7.1.1.1**.*
+
+**3.4 ◆** **Are there written guidelines or protocols in this facility that guide the referral of patients to other facilities?**
+*IF YES, ASK TO SEE THE DOCUMENT.*
+> 1 Yes, observed · 2 Yes, reported but not seen · 3 Not available
+
+*HHFA indicator: **2.7.1.1.2** (only option 1 counts).*
+
+**3.5 ◆** **And are there written guidelines or protocols for back-referral — that is, for the patient's return to this facility after being seen at the referral facility?**
+*IF YES, ASK TO SEE THE DOCUMENT.*
+> 1 Yes, observed · 2 Yes, reported but not seen · 3 Not available
+
+*HHFA indicator: **2.7.1.1.3**.*
+
+**3.6 ◆** **Does this facility keep a record, in a register book or in a file, of the patients it has referred to other facilities?**
+*IF YES, ASK TO SEE THE RECORD.*
+> 1 Yes, observed · 2 Yes, reported but not seen · 3 Keeps no record
+
+*HHFA indicator: **2.7.1.1.4**.*
+
+**3.7** **In the past 3 months, has this facility received clinical information back about patients it had referred — in writing or by any other means?**
+> 1 Yes, about most of the patients referred · 2 Yes, about some patients · 3 Received no information back · 97 Referred no patients in the past 3 months · 98 Does not know
+
+*HHFA indicator: **2.7.1.1.5** (options 1 and 2 count).*
+
+**3.8** **Does this facility have access, 24 hours a day and every day of the week, to a vehicle in working order and to a driver available to transport patients?**
+*THE VEHICLE MAY BE STATIONED AT THIS FACILITY OR BE CALLED IN FROM ELSEWHERE.*
+> 1 Yes · 2 No · 98 Does not know
+
+*HHFA indicator: **2.7.1.1.6**.*
+
+---
+
+## SECTION 4 — Buildings and construction
+
+**[MS] — A section specific to the Health Map.** The HHFA collects none of this information, and it is the basis of decisions on construction works. It is retained in full, with the wording made precise.
+
+**4.1** **How many buildings, in total, make up this health facility?**
+*COUNT ALL BUILDINGS WITHIN THE GROUNDS THAT ARE USED BY THE FACILITY, INCLUDING SUPPORT BUILDINGS — STORE, KITCHEN, LAUNDRY, MORTUARY. DO NOT COUNT STAFF HOUSING, WHICH IS COUNTED IN 4.3. DO NOT COUNT BUILDINGS IN RUINS OR WITH NO USE AT ALL.*
+> |\_\_|\_\_| buildings
+
+**4.2** **What is the total covered floor area of those buildings, in square metres?**
+*ADD UP THE COVERED AREA OF ALL THE BUILDINGS COUNTED IN 4.1. RECORD 9998 IF NOT KNOWN.*
+> |\_\_|\_\_|\_\_|\_\_| m²
+
+**4.3** **How many staff houses are there within the grounds of this facility or under its responsibility?**
+> |\_\_|\_\_| houses
+
+**4.4** **What is the total covered floor area of those houses, in square metres?**
+> |\_\_|\_\_|\_\_|\_\_| m²
+
+**4.5** **In which year was construction of the main building of this facility completed?**
+*IF IT HAS BEEN SUBSTANTIALLY REBUILT, GIVE THE YEAR OF THE REBUILDING. RECORD 9998 IF NOT KNOWN.*
+> |\_\_|\_\_|\_\_|\_\_|
+
+**4.6** **In which period was the main building constructed?**
+*READ THE OPTIONS. THIS SERVES TO CLASSIFY THE CASES IN WHICH THE EXACT YEAR IS NOT KNOWN.*
+> 1 Before 1975 · 2 Between 1975 and 1991 · 3 Between 1992 and 2002 · 4 Between 2003 and 2012 · 5 From 2013 onwards · 98 Does not know
+
+**4.7** **What is the predominant material of the exterior walls of the main building?**
+*MARK ONE OPTION ONLY — THE MATERIAL COVERING MOST OF THE WALL SURFACE.*
+> 1 Cement blocks · 2 Fired brick · 3 Adobe or mud brick · 4 Wattle and daub or timber · 5 Metal sheeting · 96 Other (specify) \_\_\_\_\_\_
+
+---
+
+## SECTION 5 — State of repair
+
+**[MS] — A section specific to the Health Map.** It is retained with the construction criteria from the Filling Guide, now made explicit in the question itself.
+
+**5.1** **Considering the foundations, the structure, the flooring, the walls, the roof, the false ceiling and the sanitary installations of the main building, which of the following situations best describes its current state?**
+*READ ALL THE OPTIONS BEFORE MARKING. APPLY THE DETAILED CRITERIA IN THE FILLING GUIDE. MARK ONE OPTION ONLY.*
+> 1 Needs no intervention — all elements in good condition
+> 2 Needs routine maintenance — minor repairs, painting, occasional replacements
+> 3 Needs rehabilitation — one or more elements degraded, but the structure is sound
+> 4 Needs reconstruction — structure compromised or building unusable
+
+**5.2** **What is the covered floor area, in square metres, that is in each of the following states?**
+*THE SUM MUST EQUAL THE TOTAL FLOOR AREA GIVEN IN 4.2.*
+> 5.2.1 In good condition: |\_\_|\_\_|\_\_|\_\_| m²
+> 5.2.2 Needing routine maintenance: |\_\_|\_\_|\_\_|\_\_| m²
+> 5.2.3 Needing rehabilitation: |\_\_|\_\_|\_\_|\_\_| m²
+> 5.2.4 Needing reconstruction: |\_\_|\_\_|\_\_|\_\_| m²
+
+*CONSISTENCY CHECK: 5.2.1 + 5.2.2 + 5.2.3 + 5.2.4 must equal 4.2.*
+
+::: {style="border-left:5px solid #b7950b;background:#fdf6e3;padding:10px 14px;border-radius:5px;"}
+
+**What has changed.** In the current Form, 5.2 is a free-text field. Four numeric fields with a sum check make the information directly usable for costing the works, which is the purpose the Filling Guide declares for this item — and they oblige whoever completes the form to apportion the area, rather than write a sentence.
+
+:::
+
+---
+
+## SECTION 6 — Water, energy, sanitation and waste
+
+### 6.1 Water
+
+**6.1** **What is the water source most used by this health facility at present?**
+*READ THE OPTIONS. MARK ONE ONLY. IF THE ANSWER DIFFERS BETWEEN INPATIENT CARE AND OUTPATIENT CARE, GIVE THE ONE FOR INPATIENT CARE.*
+> 01 Piped into the building · 02 Piped into the facility grounds · 03 Public tap or standpipe · 04 Borehole · 05 Protected dug well · 06 Unprotected dug well · 07 Protected spring · 08 Unprotected spring · 09 Rainwater · 10 Bottled water · 11 Cart with small tank · 12 Tanker truck · 13 Surface water — river, dam, lake or pond · 96 Other (specify) \_\_\_\_\_\_ · 00 Has no water source at all · 98 Does not know
+
+**6.1.2** **Besides that one, what other water sources does this facility use when the main source is not available?**
+*MARK ALL THAT APPLY, USING THE SAME CODES AS IN 6.1. RECORD 00 IF THERE IS NO ALTERNATIVE SOURCE.*
+
+*Indicator: **[MS]** — the HHFA does not collect secondary water sources. This is a contribution specific to the Health Map.*
+
+**6.2 ◆** **Is water from that source available within the facility grounds — inside the building or inside the grounds?**
+*IF YES, ASK: may I see the water that is available today? If it is inside the building, show me there; otherwise, show me in the grounds. THE WATER MAY BE PIPED OR IN A CONTAINER.*
+> 1 Yes, observed inside the building · 2 Yes, observed in the facility grounds · 3 Yes, reported but not seen · 4 No, or available only outside the grounds
+
+*HHFA indicator: **2.1.1.1.2** — improved water source = 6.1 in an improved category **and** 6.2 other than 3 and 4.*
+
+**6.3** **In the past 30 days, was there any period in which this facility was without water and this forced it to suspend or limit the provision of services?**
+> 1 There was no such period · 2 Yes, less than a week in total · 3 Yes, a week or more in total · 98 Does not know
+
+### 6.2 Energy
+
+**6.4** **Does this facility have electricity from any source — public grid, generator, solar power or other — including electricity that powers only stand-alone appliances, such as those of the Expanded Programme on Immunization cold chain?**
+> 1 Yes · 2 No
+
+*IF 2, GO TO 6.7.*
+
+**6.5** **What is the electricity source most used by this facility?**
+*MARK ONE OPTION ONLY.*
+> 1 Public grid · 2 Facility generator · 3 Solar panels · 4 Grid of a neighbouring institution · 96 Other (specify) \_\_\_\_\_\_
+
+**6.5.1** **What back-up sources are there, for the periods when the main source fails?**
+*MARK ALL THAT APPLY. RECORD 00 IF THERE IS NO BACK-UP SOURCE.*
+> 1 Public grid · 2 Generator · 3 Solar panels · 4 Batteries · 96 Other (specify) \_\_\_\_\_\_ · 00 Has no back-up source
+
+**6.6** **In the past 7 days, was there electricity — from the main source or from any back-up source — at all times when this facility was open to the public?**
+*READ ALL THREE OPTIONS.*
+> 1 Always available, with no interruptions
+> 2 Often available, with interruptions of less than 2 hours a day
+> 3 Sometimes available, with frequent interruptions or interruptions of more than 2 hours a day
+
+*HHFA indicator: **2.1.1.1.1** — facilities with power = 6.4 equal to 1 **and** 6.6 equal to 1 or 2.*
+
+### 6.3 Sanitation
+
+**6.7** **Is there a toilet or latrine within the grounds of this facility that can be used by outpatient department users or by staff?**
+*IF YES, ASK: what type is it? May I see it? IF THERE ARE SEVERAL, CONSIDER THE MOST MODERN TYPE.*
+> Flush toilet connected to: 1 sewer system · 2 septic tank · 3 open or unknown outlet
+> 4 Ventilated improved pit latrine · 5 Pit latrine with slab · 6 Composting latrine · 7 Open pit latrine, without slab · 8 Bucket · 9 Hanging toilet · 10 There is no toilet or latrine within the grounds
+
+*HHFA indicator: **2.1.1.1.3** — improved sanitation = options 1, 2, 4 or 6.*
+
+### 6.4 Waste
+
+**6.8** **How is the general waste of this facility collected?**
+> 1 By the municipal administrative services · 2 By a contracted company · 3 By the facility itself · 4 There is no organized collection · 98 Does not know
+
+*Indicator: **[MS]**.*
+
+**6.9** **What is the final destination of the sharps waste produced in this facility — needles, blades, broken ampoules?**
+*MARK ONE OPTION ONLY — THE DESTINATION OF MOST OF THIS WASTE.*
+> 1 Collected and treated off site · 2 Incinerated at this facility · 3 Burned in the open · 4 Buried in a protected pit · 5 Dumped without any treatment · 96 Other (specify) \_\_\_\_\_\_ · 98 Does not know
+
+*HHFA indicator: **2.5.1.1.12** (with 6.11 and 6.12).*
+
+**6.10** **And what is the final destination of non-sharp infectious waste — dressings, gauze, used gloves, contaminated materials?**
+*SAME OPTIONS AS 6.9.*
+
+*HHFA indicator: **2.5.1.1.13** (with 6.11 and 6.12).*
+
+**6.11 ◆** **Was the incinerator or other waste treatment facility of this facility working today?**
+*ASK TO SEE IT. IF THE DESTINATION GIVEN IN 6.9 AND 6.10 DOES NOT INVOLVE TREATMENT AT THE FACILITY, RECORD 97.*
+> 1 Yes, observed working · 2 Was not working · 97 Not applicable · 98 Does not know
+
+**6.12 ◆** **Was fuel available for the incinerator today?**
+> 1 Yes, observed · 2 No · 97 Not applicable · 98 Does not know
+
+**6.13** **Are there written guidelines or standard operating procedures on health care waste management in this facility?**
+*IF YES, ASK TO SEE THEM.*
+> 1 Yes, observed · 2 Yes, reported but not seen · 3 There are none
+
+*HHFA indicator: **2.5.1.1.2**.*
+
+**6.14** **In the past 2 years, has any health worker currently working in this facility received training in health care waste management?**
+> 1 Yes · 2 No · 98 Does not know
+
+*HHFA indicator: **2.5.1.1.4**.*
+
+**6.15** **Is there a wastewater treatment plant or system in this facility?**
+> 1 Yes, and it was working in the past 30 days · 2 Yes, but it was not working in the past 30 days · 3 There is none
+
+*Indicator: **[MS]**.*
+
+---
+
+## SECTION 7 — Services
+
+The central section of the Form. It rests on subareas **1.3.2** and **1.3.3** of the HHFA — the ones the instrument reserves for measuring availability without a readiness module.
+
+**A note on reading this section.** Two formats are used here. Stand-alone questions are written out in full. Lists of items — vaccines, tests, contraceptive methods — are set out in a table, which is the HHFA's own format: **the lead-in is read once, in full, and then the items are read one by one**. It is an efficient format provided the lead-in is complete, and that is why all the lead-ins below are written out in full.
+
+### 7.0 Gateway questions
+
+**7.0.1** **Does this facility provide outpatient care — that is, care for patients who are seen and return home the same day?**
+> 1 Yes · 2 No
+
+*HHFA indicator: **1.3.1.1.1**.*
+
+**7.0.2** **Does this facility provide inpatient care — that is, care for patients who stay overnight at the facility?**
+> 1 Yes · 2 No
+
+*HHFA indicator: **1.3.1.1.2**.*
+
+**7.0.3** **On a normal weekday, for how many hours is the outpatient department of this facility open to the public?**
+*COUNT ONLY THE HOURS DURING WHICH PATIENTS ARE ATTENDED TO. IF CARE IS PROVIDED CONTINUOUSLY 24 HOURS, RECORD 24.*
+> |\_\_|\_\_| hours
+
+**7.0.4** **And on how many days a week is the outpatient department open to the public?**
+> |\_\_| days
+
+*HHFA indicators: **1.3.1.2.1 to 1.3.1.2.4**, **1.3.1.3.1**, **1.3.1.3.2**.*
+
+### 7.1 Clinical and surgical services
+
+**7.1.1 to 7.1.28 — List of specialties.**
+
+*LEAD-IN TO BE READ: "I am going to read out a list of clinical specialties. For each one, tell me whether this facility has a regular clinic in that specialty — that is, on a set day or days of the week — delivered by a qualified health worker. Do not count occasional consultations or clinics that have been suspended for more than 3 months."*
+> For each specialty: 1 Yes, regular clinic · 2 No
+
+*Indicator: **[MS]** — the list of 28 specialties is a contribution specific to the Health Map. The lead-in above fixes the criterion ("regular clinic, on a set day, by a qualified health worker") that is today left to the judgement of the respondent.*
+
+**7.1.29** **Does this facility carry out any surgical procedure, minor or major?**
+> 1 Yes · 2 No — *IF 2, GO TO 7.2.*
+
+*HHFA indicator: **1.3.2.7.1**.*
+
+**7.1.29.1** **Does this facility carry out minor surgical procedures — that is, procedures performed under local anaesthesia, without the need for an operating theatre?**
+> 1 Yes · 2 No — *Indicator: **1.3.2.7.2***
+
+**7.1.29.2** **Does this facility carry out major surgical procedures — that is, procedures performed under general or regional anaesthesia, in an operating theatre?**
+> 1 Yes · 2 No — *Indicator: **1.3.2.7.3***
+
+**7.1.29.3** **Does this facility carry out voluntary medical male circumcision?**
+> 1 Yes · 2 No — *Indicator: **1.3.2.7.4***
+
+**7.1.29.4** **Of the following three procedures, which have been carried out in this facility in the past 12 months?**
+*READ ALL THREE. MARK EACH ONE.*
+> a) Caesarean section: 1 Yes · 2 No
+> b) Laparotomy: 1 Yes · 2 No
+> c) Treatment of open fracture: 1 Yes · 2 No
+
+*HHFA indicators: **1.3.2.7.5** (any of the three) and **1.3.2.7.6** (all three).*
+
+**7.1.30 to 7.1.34** **Does this facility carry out surgical procedures in any of the following specialty areas?**
+> Paediatric surgery · Maxillofacial surgery · Vascular surgery · Neurosurgery · Plastic surgery — *1 Yes · 2 No, for each*
+
+*HHFA indicator: **1.3.2.7.7**.*
+
+::: {style="border-left:5px solid #b7950b;background:#fdf6e3;padding:10px 14px;border-radius:5px;"}
+
+**About the marker procedures.** Caesarean section, laparotomy and treatment of open fracture are the three procedures that global surgery uses as markers of essential surgical capacity — they cover obstetrics, the abdomen and trauma. Three questions with a stated reference period say more about actual surgical capacity than the list of specialties does, and the two pieces of information do not exclude each other.
+
+:::
+
+### 7.2 Support services — technologies, procedures and tests
+
+The greatest gain of the form. Where the Form has fourteen yes-or-no boxes, thirty-six indicators are produced, **all in self-reported mode**, because what is asked is what the facility offers, not what is on the shelf.
+
+#### 7.2.A Imaging
+
+*LEAD-IN TO BE READ: "I am going to ask about some imaging examinations. For each one, tell me whether it is performed at this facility, with this facility's own equipment. Do not count examinations that patients obtain elsewhere on their own initiative."*
+
+| No. | Examination | Response | Indicator |
+|---|---|---|---|
+| 7.2.A.1 | Ultrasound | 1 Yes · 2 No | **1.3.3.1.1** |
+| 7.2.A.2 | Radiography (X-ray) | 1 Yes · 2 No | **1.3.3.1.2** |
+| 7.2.A.3 | Mammography | 1 Yes · 2 No | **1.3.3.1.3** |
+| 7.2.A.4 | Computed tomography | 1 Yes · 2 No | **1.3.3.1.4** |
+| 7.2.A.5 | Magnetic resonance imaging | 1 Yes · 2 No | **1.3.3.1.5** |
+| 7.2.A.6 | Angiography or catheterization | 1 Yes · 2 No | **1.3.3.1.6** |
+| 7.2.A.7 | Fluoroscopy | 1 Yes · 2 No | **1.3.3.1.7** |
+| 7.2.A.8 | Nuclear medicine | 1 Yes · 2 No | **1.3.3.1.8** |
+
+#### 7.2.B Procedures and technologies
+
+*LEAD-IN TO BE READ: "I am going to ask about some procedures. For each one, tell me whether this facility has performed it at least once in the past 3 months. Do not count procedures that the facility could perform but does not perform in practice."*
+
+| No. | Procedure | Response | Indicator |
+|---|---|---|---|
+| 7.2.B.1 | Defibrillation | 1 Yes · 2 No | **1.3.3.2.1** |
+| 7.2.B.2 | Electrocardiogram | 1 Yes · 2 No | **1.3.3.2.2** |
+| 7.2.B.3 | Electroencephalogram | 1 Yes · 2 No | **1.3.3.2.3** |
+| 7.2.B.4 | Incubator for newborns | 1 Yes · 2 No | **1.3.3.2.4** |
+| 7.2.B.5 | Phototherapy for neonatal jaundice | 1 Yes · 2 No | **1.3.3.2.5** |
+| 7.2.B.6 | Radiotherapy | 1 Yes · 2 No | **1.3.3.2.6** |
+| 7.2.B.7 | Renal dialysis | 1 Yes · 2 No | **1.3.3.2.7** |
+| 7.2.B.8 | Mechanical ventilation | 1 Yes · 2 No | **1.3.3.2.8** |
+| 7.2.B.9 | Blood transfusion | 1 Yes · 2 No | **1.3.3.2.9**, **3.1.4.1.4** |
+| 7.2.B.10 | Colonoscopy | 1 Yes · 2 No | **1.3.3.2.10** |
+| 7.2.B.11 | Administration of oxygen to patients | 1 Yes · 2 No | **1.3.3.2.11** |
+
+#### 7.2.C Laboratory tests
+
+::: {style="border-left:5px solid #1e8449;background:#eafaf1;padding:10px 14px;border-radius:5px;"}
+
+**The laboratory case, resolved.** The Filling Guide already requires, in order to tick "1. Laboratory", that at a minimum thick blood smear, haemoglobin or haematocrit, and simple stool and urine tests be performed — but the Form retains a single tick box. This list writes that definition out, broadens it, and adds the distinction between the test done here and the test sent away. **Seventeen indicators where there was one box, and none of them requires observation.**
+
+:::
+
+*LEAD-IN TO BE READ: "I am going to ask about laboratory tests. For each one, tell me whether it is performed at this facility, whether the sample is sent to another laboratory with the result coming back to this facility, or whether it is not available to patients of this facility. Consider the usual situation over the past 3 months, and not a one-off stock-out of reagent."*
+
+> **1** Performed at this facility · **2** Sample sent away, with the result returned · **3** Not available
+
+| No. | Test | Indicator |
+|---|---|---|
+| 7.2.C.1 | General microscopy | **1.3.3.3.1** |
+| 7.2.C.2 | Culture and antibiotic sensitivity testing | **1.3.3.3.2** |
+| 7.2.C.3 | Malaria diagnosis — thick blood smear or rapid test | **1.3.3.3.3** |
+| 7.2.C.4 | Rapid syphilis test | **1.3.3.3.4** |
+| 7.2.C.5 | HIV diagnostic test | **1.3.3.3.5** |
+| 7.2.C.6 | Tuberculosis diagnostic test | **1.3.3.3.6** |
+| 7.2.C.7 | Urine pregnancy test | **1.3.3.3.7** |
+| 7.2.C.8 | Urine dipstick — protein | **1.3.3.3.8** |
+| 7.2.C.9 | Urine dipstick — glucose | **1.3.3.3.9** |
+| 7.2.C.10 | Urine dipstick — ketones | **1.3.3.3.10** |
+| 7.2.C.11 | Haemoglobin or haematocrit | **1.3.3.3.11** |
+| 7.2.C.12 | Full blood count | **1.3.3.3.12** |
+| 7.2.C.13 | Blood typing and grouping | **1.3.3.3.13** |
+| 7.2.C.14 | Blood glucose | **1.3.3.3.14** |
+| 7.2.C.15 | Serum electrolytes | **1.3.3.3.15** |
+| 7.2.C.16 | Renal function tests — urea or creatinine | **1.3.3.3.16** |
+| 7.2.C.17 | Liver function tests — transaminases or bilirubin | **1.3.3.3.17** |
+
+*The HHFA indicators count only option 1 (performed at this facility). Option 2 is additional information, useful for planning the laboratory network.*
+
+#### 7.2.D Other support services
+
+**7.2.6** **Does this facility have a pathology service, unit or section, separate from the clinical analysis laboratory?**
+> 1 Yes · 2 No — *Indicator: **[MS]***
+
+**7.2.8** **Does this facility provide rehabilitation services — physiotherapy, occupational therapy, speech therapy or physical rehabilitation?**
+> 1 Yes · 2 No — *Indicator: **1.3.2.10.1***
+
+**7.2.9** **Does this facility have an operating theatre?** If yes, how many operating theatres are in usable condition?
+> 1 Yes, |\_\_| theatres · 2 No — *Indicator: **[MS]** for the count*
+
+**7.2.10** **Does this facility have a pharmacy or medicines store, with a designated person in charge, that dispenses medicines to patients?**
+> 1 Yes · 2 No — *See the closing note on this item.*
+
+**7.2.15** **Does this facility provide palliative care — care intended to relieve the suffering of patients with advanced disease, including pain control?**
+> 1 Yes · 2 No — *Indicator: **1.3.2.9.1***
+
+#### 7.2.E Emergency services
+
+**7.2.12.1** **Does this facility attend to patients in emergency situations who arrive without an appointment, as the first point of entry into the system?**
+> 1 Yes · 2 No — *IF 2, GO TO 7.3. Indicators: **3.5.1.1.1**, **1.3.2.8.1***
+
+**7.2.12.2** **Is there a dedicated emergency unit in this facility — a space of its own for emergencies, separate from the outpatient department — open 24 hours a day, every day?**
+> 1 Yes · 2 No — *Indicators: **3.5.1.1.2**, **1.3.2.8.2***
+
+**7.2.12.3** **Are medical and nursing staff present in the emergency unit 24 hours a day, every day?**
+*CONSIDER PHYSICAL PRESENCE AT THE FACILITY, NOT AVAILABILITY ON CALL.*
+> 1 Yes · 2 No · 98 Does not know — *Indicator: **3.5.1.1.3***
+
+**7.2.12.4** **Does the emergency unit have rapid access to emergency transport to refer patients, 24 hours a day?**
+> 1 Yes · 2 No — *Indicator: **3.5.1.1.4***
+
+**7.2.12.5** **Does the pharmacy of this facility dispense medicines 24 hours a day, every day?**
+> 1 Yes · 2 No — *Indicator: **3.5.1.1.5***
+
+**7.2.12.6** **Are the radiology services of this facility available 24 hours a day, every day?**
+> 1 Yes · 2 No · 97 Has no radiology — *Indicator: **3.5.1.1.6***
+
+**7.2.12.7** **Are the laboratory services of this facility available 24 hours a day, every day?**
+> 1 Yes · 2 No · 97 Has no laboratory — *Indicator: **3.5.1.1.7***
+
+**7.2.12.8** **When a patient is transported to another facility in an emergency, are they usually accompanied by a doctor or nurse from this facility?**
+> 1 Yes · 2 No · 98 Does not know — *Indicator: **3.5.1.1.8***
+
+**7.2.12.9** **Does the emergency unit have staff of its own, assigned exclusively to this service, who do not rotate through other services of the facility?**
+> 1 Yes · 2 No — *Indicator: **3.5.1.1.9***
+
+**7.2.12.10** **Is there a formal triage system in the emergency unit, with written criteria for classifying the severity of patients on arrival?**
+> 1 Yes · 2 No — *Indicator: **3.5.1.1.10***
+
+### 7.3 Public health, prevention and programmes
+
+Each box of the current Form becomes a gateway question written out in full, followed by a list of components with a lead-in of its own.
+
+#### 7.3.1 Immunization
+
+**GATEWAY:** **Does this facility administer vaccines of the Expanded Programme on Immunization on a regular basis?**
+*DO NOT COUNT ONE-OFF CAMPAIGNS RUN BY EXTERNAL TEAMS.*
+> 1 Yes · 2 No — *IF 2, GO TO 7.3.2. Indicators: **3.2.1.1.1**, **1.3.2.2.1***
+
+**7.3.1.a** **How often are routine childhood vaccines administered at this facility?**
+> 1 Every day the facility is open · 2 Once or more a week · 3 Monthly or quarterly · 4 Only during campaigns
+*Indicators: **3.2.1.1.6**, **3.2.1.1.7**, **3.2.1.1.8**.*
+
+**7.3.1.b to 7.3.1.e** *LEAD-IN TO BE READ: "I am going to read out the list of vaccines in the national schedule. For each one, tell me whether this facility usually administers it to the age group indicated. Consider usual practice, and not a one-off stock-out."*
+
+| Group | Vaccines | Indicators |
+|---|---|---|
+| At birth | BCG · Oral polio · Hepatitis B | **3.2.1.1.2**, **.9**, **.10**, **.11** |
+| Infants (< 1 year) | BCG · OPV · DPT-HepB-Hib · Rotavirus · IPV | **3.2.1.1.3**, **.12** to **.16** |
+| Children (1 to 5 years) | Measles · Pneumococcal · COVID-19 | **3.2.1.1.4**, **.17**, **.18**, **.19** |
+| Adolescents and adults | Tetanus · HPV · Influenza · COVID-19 · Pneumococcal · Hepatitis B | **3.2.1.1.5**, **.20** to **.25** |
+
+*The list needs validation against the national immunization schedule in force.*
+
+#### 7.3.2 to 7.3.5 Child health and nutrition
+
+**GATEWAY:** **Does this facility provide preventive or curative care to children under 5 years of age?**
+> 1 Yes · 2 No — *IF 2, GO TO 7.3.6. Indicators: **3.1.8.1.1**, **1.3.2.1.1***
+
+*LEAD-IN TO BE READ: "I am going to ask about services provided to children under 5 years of age. For each one, tell me whether it is usually provided at this facility."*
+
+| No. | Service | Indicator |
+|---|---|---|
+| 7.3.5 | Routine growth monitoring, with weighing and recording on the child health card | **3.1.8.1.2** |
+| 7.3.4 | Diagnosis or treatment of malnutrition | **3.1.8.1.3** |
+| 7.3.4.2 | Outpatient management of severe acute malnutrition without complications, with ready-to-use therapeutic food | **3.1.8.1.4** |
+| 7.3.4.3 | Outpatient management of moderate acute malnutrition or other categories | **3.1.8.1.5** |
+| 7.3.4.4 | Inpatient management of severe malnutrition with complications | **3.1.8.1.6** |
+| 7.3.2 | Routine administration of vitamin A | **3.1.8.1.7** |
+| 7.3.2.1 | Diagnosis and treatment of anaemia with iron supplementation | **3.1.8.1.8** |
+| 7.3.4.1 | Diagnosis and treatment of diarrhoea with oral rehydration salts and zinc | **3.1.8.1.9** |
+| 7.3.2.2 | Diagnosis and first-line treatment of pneumonia | **3.1.8.1.10** |
+| 7.3.2.3 | Diagnosis of malaria with a laboratory test and its treatment | **3.1.8.1.11** |
+| 7.3.14 | Provision of an insecticide-treated net or of a voucher to collect one | **3.1.8.1.12** |
+| 7.3.17 | Regular liaison with community health workers for the follow-up of children | **3.1.8.1.13** |
+
+#### 7.3.6 Antenatal care
+
+**GATEWAY:** **Does this facility provide antenatal care consultations to pregnant women?**
+> 1 Yes · 2 No — *IF 2, GO TO 7.3.7. Indicators: **3.1.2.1.1**, **1.3.2.1.4***
+
+*LEAD-IN TO BE READ: "I am going to read out a list of actions that may form part of antenatal care. For each one, tell me whether it is usually carried out at this facility, for the women who receive antenatal care here."*
+
+| No. | Component | Indicator |
+|---|---|---|
+| 7.3.6.a | Prescription or provision of iron supplements | **3.1.2.1.2** |
+| 7.3.6.b | Prescription or provision of folic acid | **3.1.2.1.3** |
+| 7.3.6.c | Administration of tetanus toxoid vaccine | **3.1.2.1.4** |
+| 7.3.6.d | Blood pressure measurement at every consultation, to detect hypertensive disorders of pregnancy | **3.1.2.1.5** |
+| 7.3.6.e | Routine testing of urine for protein | **3.1.2.1.6** |
+| 7.3.6.f | Administration of intermittent preventive treatment for malaria | **3.1.2.1.9** |
+| 7.3.6.g | Offer of HIV testing to all pregnant women | **3.1.2.1.10**, **1.3.2.1.5** |
+| 7.3.6.h | Provision of an insecticide-treated net or of a voucher to collect one | **3.1.2.1.11** |
+| 7.3.6.i | Routine syphilis testing | **3.1.2.1.12** |
+| 7.3.6.j | Treatment of syphilis in pregnant women who test positive | **3.1.2.1.13** |
+| 7.3.6.k | Diagnosis and treatment of other sexually transmitted infections | **3.1.2.1.14** |
+| 7.3.6.l | Liaison with community health workers for the identification and follow-up of pregnant women | **3.1.2.1.16** |
+
+#### 7.3.7 Deliveries and emergency obstetric care
+
+**GATEWAY:** **Does this facility attend deliveries?**
+> 1 Yes · 2 No — *IF 2, GO TO 7.3.8. Indicators: **3.1.3.1.1**, **1.3.2.1.6***
+
+**7.3.7.0** **Is delivery care by a skilled health worker — a doctor, nurse or trained midwife — available at this facility 24 hours a day, every day of the week?**
+> 1 Yes · 2 No — *Indicator: **3.1.3.1.2***
+
+*LEAD-IN TO BE READ: "I am going to read out a list of procedures and practices related to delivery. For each one, tell me whether it has been carried out at this facility at least once in the past 3 months. If the procedure is practised here but there has been no case in the past 3 months, answer 'yes, but no recent cases'."*
+
+> **1** Yes, carried out in the past 3 months · **2** Yes, practised here, but no cases in the past 3 months · **3** Not carried out at this facility
+
+| No. | Procedure | Indicator |
+|---|---|---|
+| 7.3.7.a | Administration of parenteral antibiotics to the mother | **3.1.3.2.1** |
+| 7.3.7.b | Administration of parenteral uterotonics for the treatment of postpartum haemorrhage | **3.1.3.2.2** |
+| 7.3.7.c | Administration of parenteral magnesium sulfate for pre-eclampsia or eclampsia | **3.1.3.2.3** |
+| 7.3.7.d | Assisted vaginal delivery with vacuum extractor or forceps | **3.1.3.2.4** |
+| 7.3.7.e | Manual removal of the placenta | **3.1.3.2.5** |
+| 7.3.7.f | Removal of retained products of conception, by curettage or manual vacuum aspiration | **3.1.3.2.6** |
+| 7.3.7.g | Newborn resuscitation with bag and mask | **3.1.3.2.7** |
+| 7.3.7.h | Administration of antibiotics for premature rupture of membranes | **3.1.3.2.8** |
+| 7.3.7.i | Administration of corticosteroids in preterm labour | **3.1.3.2.9** |
+| 7.3.7.j | Kangaroo mother care for preterm or low-birth-weight newborns | **3.1.3.2.10** |
+| 7.3.7.k | Administration of injectable antibiotics for neonatal sepsis | **3.1.3.2.11** |
+| 7.3.7.l | Administration of oxytocin for the prevention of postpartum haemorrhage | **3.1.3.2.12** |
+| 7.3.7.m | Monitoring of labour with a partograph | **3.1.3.2.13** |
+| 7.3.7.n | Initiation of breastfeeding within the first hour of life | **3.1.3.2.14** |
+| 7.3.7.o | Hygienic umbilical cord care | **3.1.3.2.15** |
+| 7.3.7.p | Drying of the newborn and immediate skin-to-skin contact | **3.1.3.2.16** |
+| 7.3.7.q | Rooming-in of mother and newborn | **3.1.3.2.17** |
+| 7.3.7.r | Delayed umbilical cord clamping | **3.1.3.2.18** |
+| 7.3.7.s | Caesarean section | **3.1.4.1.3** |
+| 7.3.7.t | Blood transfusion for women in labour or postpartum | **3.1.4.1.4** |
+
+**Computed from the components, and no longer declared:** **3.1.3.1.3** basic emergency obstetric care, **3.1.3.1.4** all 7 basic signal functions, **3.1.3.1.5** and **3.1.4.1.1** comprehensive care, **3.1.4.1.2** all 9 signal functions, **1.3.2.1.7** and **1.3.2.1.8**, and the indices **3.1.3.2.19 to 3.1.3.2.24**.
+
+::: {style="border-left:5px solid #b7950b;background:#fdf6e3;padding:10px 14px;border-radius:5px;"}
+
+**The concrete gain, and the reason for the third response option.** Today, ticking BEmONC is a judgement call by whoever fills in the Form. With these twenty lines, BEmONC and CEmONC become **computed results**, and it becomes known *which* function is missing in each facility — the information that makes action possible. Option 2, "practised here but no recent cases", exists because in a small facility a quarter can pass without a single manual removal of the placenta without this meaning any lack of capacity. Without that option, the respondent is forced to choose between two wrong answers.
+
+:::
+
+#### 7.3.8 Postpartum care
+
+**GATEWAY:** **Does this facility provide postpartum care to the mother, to the newborn, or to both, in the six weeks following delivery?**
+> 1 Yes · 2 No — *Indicators: **3.1.6.1.1**, **1.3.2.1.12***
+
+*LEAD-IN TO BE READ: "For each of the following actions, tell me whether it is usually carried out in the postpartum consultation at this facility."*
+
+| No. | Component | Indicator |
+|---|---|---|
+| 7.3.8.a | Family planning counselling | **3.1.6.1.2** |
+| 7.3.8.b | Counselling on newborn danger signs | **3.1.6.1.3** |
+| 7.3.8.c | Counselling on umbilical cord care and hygiene | **3.1.6.1.4** |
+| 7.3.8.d | Counselling on child nutrition and feeding | **3.1.6.1.5** |
+| 7.3.8.e | Counselling on exclusive breastfeeding up to 6 months | **3.1.6.1.6** |
+| 7.3.8.f | Counselling on the childhood immunization schedule | **3.1.6.1.7** |
+| 7.3.8.g | Administration of BCG vaccine to the newborn | **3.1.6.1.8** |
+| 7.3.8.h | Administration of polio vaccine to the newborn | **3.1.6.1.9** |
+| 7.3.8.i | Provision of an insecticide-treated net for the infant | **3.1.6.1.10** |
+| 7.3.8.j | Liaison with community health workers for the follow-up of the newborn | **3.1.6.1.11** |
+
+#### 7.3.9 Family planning
+
+**GATEWAY:** **Does this facility provide family planning services — counselling, prescription or provision of contraceptive methods?**
+> 1 Yes · 2 No — *Indicators: **3.1.1.1.1**, **1.3.2.1.3***
+
+*LEAD-IN TO BE READ: "I am going to read out a list of contraceptive methods. For each one, tell me whether this facility usually provides or inserts it. Consider usual practice, and not a one-off stock-out."*
+
+| No. | Method | Indicator |
+|---|---|---|
+| 7.3.9.a | Combined oral contraceptive pill | **3.1.1.1.3** |
+| 7.3.9.b | Progestogen-only pill | **3.1.1.1.4** |
+| 7.3.9.c | Combined injectable contraceptive | **3.1.1.1.5** |
+| 7.3.9.d | Progestogen-only injectable contraceptive | **3.1.1.1.6** |
+| 7.3.9.e | Male condom | **3.1.1.1.7** |
+| 7.3.9.f | Female condom | **3.1.1.1.8** |
+| 7.3.9.g | Intrauterine device | **3.1.1.1.9** |
+| 7.3.9.h | Subcutaneous implant | **3.1.1.1.10** |
+| 7.3.9.i | Emergency contraception | **3.1.1.1.11** |
+| 7.3.9.j | Male sterilization (vasectomy) | **3.1.1.1.12** |
+| 7.3.9.k | Female sterilization (tubal ligation) | **3.1.1.1.13** |
+| 7.3.9.l | Cycle beads, for the standard days method | **3.1.1.1.14** |
+| 7.3.9.m | Liaison with community health workers for the distribution of methods | **3.1.1.1.15** |
+
+**Computed:** **3.1.1.1.2** provision of at least one modern method of contraception.
+
+#### 7.3.10 to 7.3.12 HIV
+
+**GATEWAY A:** **Does this facility carry out HIV testing with counselling, on request or on clinical indication?**
+> 1 Yes · 2 No — *Indicators: **3.2.4.1.1**, **1.3.2.3.3***
+
+> 7.3.10.a Testing of adolescents and adults (15 years and over) — **3.2.4.1.2**
+> 7.3.10.b Testing of children aged 5 to 14 years — **3.2.4.1.3**
+> 7.3.10.c Testing of children under 5 years of age — **3.2.4.1.4**
+
+**GATEWAY B:** **Does this facility provide antiretroviral treatment or follow up patients already on antiretroviral treatment?**
+> 1 Yes · 2 No — *Indicators: **3.2.5.1.1**, **1.3.2.3.5***
+
+> 7.3.12.a Antiretroviral treatment for adults and adolescents — **3.2.5.1.2**
+> 7.3.11.a Antiretroviral treatment for children aged 5 to 14 years — **3.2.5.1.3**
+> 7.3.11.b Antiretroviral treatment for children under 5 years of age — **3.2.5.1.4**, **1.3.2.3.6**
+> 7.3.12.b Dispensing or prescription of antiretroviral medicines — **3.2.5.1.5**
+> 7.3.12.c Clinical follow-up consultations for patients on treatment — **3.2.5.1.6**
+> 7.3.12.d Counselling and follow-up of treatment adherence — **3.2.5.1.7**
+
+#### 7.3.13 Tuberculosis
+
+**GATEWAY:** **Does this facility provide any tuberculosis-related service — diagnosis, treatment or patient follow-up?**
+> 1 Yes · 2 No — *Indicators: **3.2.3.1.1**, **1.3.2.3.7***
+
+| No. | Service | Indicator |
+|---|---|---|
+| 7.3.13.a | Diagnosis or treatment of drug-resistant tuberculosis | **3.2.3.1.2** |
+| 7.3.13.b | Performance of tuberculosis diagnostic tests | **3.2.3.1.3**, **1.3.2.3.8** |
+| 7.3.13.c | Clinical follow-up consultations and prescription of medicines | **3.2.3.1.4**, **1.3.2.3.9** |
+| 7.3.13.d | Resupply of medicines at follow-up consultations | **3.2.3.1.5** |
+| 7.3.13.e | Treatment adherence support, including directly observed treatment | **3.2.3.1.6** |
+| 7.3.13.f | Offer of HIV testing to all tuberculosis patients | **3.2.3.1.7** |
+| 7.3.13.g | Liaison with community health workers to trace defaulters or support treatment | **3.2.3.1.8** |
+| 7.3.13.h | Inpatient room or ward dedicated to respiratory isolation | **3.2.3.1.9** |
+
+#### 7.3.18 Malaria — new block
+
+**GATEWAY:** **Does this facility carry out malaria diagnosis or treatment?**
+> 1 Yes · 2 No — *Indicators: **1.3.2.3.1**, **3.2.2.1.1***
+
+> 7.3.18.a Diagnosis by rapid test — **3.2.2.1.3**
+> 7.3.18.b Diagnosis by microscopy (thick blood smear) — **3.2.2.1.4**
+> 7.3.18.c Treatment started on the basis of signs and symptoms alone, without a laboratory test — **3.2.2.1.5**
+> 7.3.18.d Treatment of malaria with antimalarial medicines — **3.2.2.1.6**
+> 7.3.18.e Liaison with community health workers for malaria diagnosis or treatment — **3.2.2.1.7**
+
+#### 7.3.19 Noncommunicable diseases — new block
+
+**GATEWAY:** **Does this facility carry out diagnosis, treatment or follow-up of patients with any chronic noncommunicable disease?**
+> 1 Yes · 2 No — *Indicator: **1.3.2.4.1***
+
+*LEAD-IN TO BE READ: "I am going to read out a list of conditions. For each one, tell me whether this facility carries out diagnosis, treatment or regular follow-up of patients with that condition. Answer according to what the facility does in practice, and not according to whether there is a specialist clinic."*
+
+| No. | Condition | Indicator |
+|---|---|---|
+| 7.3.19.a | Cardiovascular diseases, including hypertension | **1.3.2.4.2** |
+| 7.3.19.b | Diabetes | **1.3.2.4.3** |
+| 7.3.19.c | Chronic respiratory disease — asthma or chronic obstructive pulmonary disease | **1.3.2.4.4** |
+| 7.3.19.d | Cervical cancer, including screening | **1.3.2.4.6** |
+| 7.3.19.e | Breast cancer, including screening | **1.3.2.4.7** |
+| 7.3.19.f | Mental disorders — depression, anxiety, psychosis, substance use | **1.3.2.5.1** |
+| 7.3.19.g | Neurological diseases, including epilepsy | **1.3.2.5.2** |
+
+**Computed:** **1.3.2.4.5** provision of any cancer-related service.
+
+::: {style="border-left:5px solid #b7950b;background:#fdf6e3;padding:10px 14px;border-radius:5px;"}
+
+**Why the closing instruction in the lead-in is essential.** Without it, a respondent at a health centre with no endocrinologist answers "no" to diabetes, even though diabetes is diagnosed and treated there every day. The instruction "answer according to what the facility does in practice, and not according to whether there is a specialist clinic" is what sets this question apart from the "9. Endocrinology" box of the current Form — and it is what makes the data useful for planning the decentralization of chronic disease management.
+
+:::
+
+#### 7.3.15 to 7.3.17 Community outreach
+
+**7.3.15** **In the past 12 months, has this facility organized mobile brigades — visits by teams from this facility to locations outside the grounds, to provide care?**
+> 1 Yes, regularly · 2 Yes, occasionally · 3 No
+
+**7.3.16** **In the past 12 months, has this facility organized advanced teams — temporary service points set up outside the grounds?**
+> 1 Yes, regularly · 2 Yes, occasionally · 3 No
+
+**7.3.17** **Are there community development and health agents working in the catchment area of this facility and liaising with it?** If yes, how many?
+> 1 Yes, |\_\_|\_\_| agents · 2 No · 98 Does not know
+
+*Indicator: **[MS]** — these describe the reach of the service beyond the walls of the facility, a dimension the HHFA barely covers and which is a contribution specific to the Health Map.*
+
+### 7.4 and 7.5 Management services and general services
+
+**7.4.1 to 7.4.17** *LEAD-IN TO BE READ: "I am going to read out a list of services and management bodies. For each one, tell me whether it exists in this facility and whether it has been operating in the past 3 months."*
+> 1 Exists and operated in the past 3 months · 2 Exists but did not operate in the past 3 months · 3 Does not exist
+
+*Indicator: **[MS]**. The three-point scale replaces the 0-1 box and distinguishes the body that has been set up from the body that is active, without adding any questions.*
+
+**7.5.7** **Does this facility have a means of communication with the outside — fixed telephone, mobile phone or radio — paid for or provided by the facility itself?**
+*DO NOT COUNT STAFF MEMBERS' PERSONAL MOBILE PHONES.*
+> 1 Yes, and it is working · 2 Yes, but it is out of order · 3 No, there are only staff members' personal mobile phones · 4 There is no means of communication with the outside at all
+
+*HHFA indicator: **2.1.1.1.5** (only option 1 counts).*
+
+**7.5.7.1** **Does this facility have at least one working computer?**
+> 1 Yes · 2 No
+
+**7.5.7.2** **Is there access to email or to the internet at this facility today?**
+> 1 Yes, through equipment belonging to the facility · 2 Yes, but only through staff members' personal equipment · 3 There is no access
+
+**7.5.7.3** **Is the cost of the internet connection paid or reimbursed by the management of this facility?**
+> 1 Yes · 2 No · 97 Not applicable
+
+*HHFA indicator: **2.1.1.1.6** = 7.5.7.1 equal to 1 **and** 7.5.7.2 equal to 1 **and** 7.5.7.3 equal to 1.*
+
+**7.5.1** **Does this facility have access to an ambulance or to another vehicle in working order for the emergency transport of patients — whether it is stationed at this facility or can be called in from elsewhere?**
+> 1 Yes, ambulance · 2 Yes, another type of vehicle · 3 No
+
+*IF 3, GO TO 7.5.2.*
+
+**7.5.1.1** **Is that vehicle available today, in working order, with fuel and with a driver?**
+*IF THE RESPONDENT IS NOT SURE, ASK THEM TO CONFIRM WITH SOMEONE WHO KNOWS.*
+> 1 Yes · 2 No · 98 Does not know
+
+*HHFA indicator: **2.1.1.1.7** = 7.5.1 equal to 1 or 2 **and** 7.5.1.1 equal to 1.*
+
+**7.5.2 to 7.5.18** *LEAD-IN TO BE READ: "I am going to read out a list of general support services. For each one, tell me whether it exists in this facility and whether it has been operating in the past 3 months."*
+> Kitchen · Dining hall or canteen · Laundry · Mortuary · Hygiene and cleaning · Maintenance · Security · Assembly hall · Library · Staff housing · Chapel · Parking · Grounds and landscaping · Video surveillance · Patient services office
+> 1 Exists and operated in the past 3 months · 2 Exists but did not operate · 3 Does not exist
+
+**7.5.5.2** **How many mortuary drawers does the mortuary of this facility have?** |\_\_|\_\_| · 97 Has no mortuary
+
+---
+
+## SECTION 8 — Beds
+
+*LEAD-IN TO BE READ: "I am going to ask about the number of beds in this facility. Count only the beds that are installed and available to receive patients today. Do not count broken beds, beds kept in a store room, or beds that are planned but not yet installed."*
+
+| No. | Question | Field | Indicator |
+|---|---|---|---|
+| 8.1.1 | Observation beds — where the patient stays a few hours and does not stay overnight | \|\_\_\|\_\_\|\_\_\| | **[MS]** (excluded by definition in the HHFA) |
+| 8.1.2 | Adult-size inpatient beds | \|\_\_\|\_\_\|\_\_\| | **1.1.2.1.1**; with 3.1 → **1.1.1.1.3** |
+| 8.1.2.1 | Paediatric-size inpatient beds | \|\_\_\|\_\_\|\_\_\| | **1.1.2.1.2** |
+| 8.1.5 | Cots for newborns | \|\_\_\|\_\_\|\_\_\| | **1.1.2.1.3** |
+| 8.1.6 | Of the beds counted above, how many are dedicated to maternity | \|\_\_\|\_\_\|\_\_\| | **1.1.2.2.1**; with 3.1 → **1.1.1.1.4** |
+| 8.1.7 | How many are dedicated to surgery | \|\_\_\|\_\_\|\_\_\| | **1.1.2.2.2** |
+| 8.1.8 | How many are dedicated to psychiatry | \|\_\_\|\_\_\|\_\_\| | **1.1.2.2.3** |
+| 8.1.9 | How many are dedicated to the emergency unit | \|\_\_\|\_\_\|\_\_\| | **1.1.2.2.4** |
+| 8.1.10 | How many are adult intensive care beds | \|\_\_\|\_\_\|\_\_\| | **1.1.2.2.5** |
+| 8.1.11 | How many are paediatric intensive care beds | \|\_\_\|\_\_\|\_\_\| | **1.1.2.2.6** |
+| 8.1.12 | How many are neonatal intensive care cots | \|\_\_\|\_\_\|\_\_\| | **1.1.2.2.7** |
+| 8.1.13 | How many are intermediate care beds | \|\_\_\|\_\_\|\_\_\| | **1.1.2.2.8** |
+| 8.1.14 | How many are isolation beds | \|\_\_\|\_\_\|\_\_\| | **1.1.2.2.9** |
+| 8.1.3 | Delivery couches installed and usable | \|\_\_\|\_\_\| | **[MS]** |
+| 8.1.4 | Dental chairs installed and usable | \|\_\_\|\_\_\| | **[MS]** |
+
+*CONSISTENCY CHECK: the sum of 8.1.6 to 8.1.14 cannot exceed the sum of 8.1.2 and 8.1.2.1.*
+
+---
+
+## SECTION 9 — Equipment
+
+**The only section that requires an enumerator making observations.** It is proposed that the current count be retained in self-reported completion, and that the two verification columns be applied only in the facilities that are visited. The same form thus serves both modes.
+
+*LEAD-IN TO BE READ, DURING A VISIT ONLY: "I am going to ask about some items of equipment that should be present in the main service area of this facility. For each one, please show me the item and tell me, where applicable, whether it is working. Consider only the equipment available in the service area, and not equipment kept in a store room."*
+
+> **Column A — availability:** 1 Observed · 2 Reported, not seen · 3 Not available
+> **Column B — functioning:** 1 Yes, working · 2 Not working · 98 Does not know
+
+| No. | Item | Indicator |
+|---|---|---|
+| 9.1.4 ◆ | Adult scale | **2.2.1.1.8** |
+| 9.1.16 ◆ | Child scale, graduated in 250 g | **2.2.1.1.9** |
+| 9.1.3 ◆ | Infant scale, graduated in 100 g | **2.2.1.1.10** |
+| 9.1.8 ◆ | Blood pressure measuring device, digital or manual sphygmomanometer | **2.2.1.1.3** |
+| 9.1.7 ◆ | Clinical stethoscope | **2.2.1.1.2** |
+| 9.1.17 ◆ | Thermometer | **2.2.1.1.1** |
+| 9.1.18 ◆ | Pulse oximeter | **2.2.1.1.4** |
+| 9.1.19 ◆ | Adjustable examination light for examining the patient (a torch is acceptable) | **2.2.1.1.5** |
+| 9.1.20 ◆ | Otoscope | **2.2.1.1.6** |
+| 9.1.21 ◆ | Ophthalmoscope | **2.2.1.1.7** |
+| 9.1.22 ◆ | Measuring tape | **2.2.1.1.11** |
+| 9.1.23 ◆ | Height board or stadiometer | **2.2.1.1.12** |
+
+**Count retained, with the lead-in made precise.** *"For each of the following items of equipment, tell me how many units are present in this health facility and were in usable condition in the past month."* — Sterilizer (hot air oven or autoclave) · EPI cold box · X-ray machine · Pinard stethoscope · Obstetric ultrasound machine · Vaginal examination kit with speculum · Uterine evacuation kit · Neonatal resuscitator · Instrumental delivery kit · Disposable delivery kit · Caesarean section kit.
+
+*Indicator: **[MS]** for the count. **Computed with the full list in the grid:** **2.2.1.1.13** and **2.2.1.1.14**.*
+
+---
+
+## SECTION 10 — Means of transport
+
+*LEAD-IN TO BE READ: "I am going to ask about the vehicles assigned to this health facility. Count only the vehicles that belong to this facility or that are permanently assigned to it. For each type, tell me how many are roadworthy today and how many are off the road because of breakdown or missing documentation."*
+
+| No. | Type of vehicle | Roadworthy | Off the road |
+|---|---|---|---|
+| 10.1.1 | Ambulance | \|\_\_\|\_\_\| | \|\_\_\|\_\_\| |
+| 10.1.2 | Light vehicle | \|\_\_\|\_\_\| | \|\_\_\|\_\_\| |
+| 10.1.3 | Four-wheel-drive vehicle | \|\_\_\|\_\_\| | \|\_\_\|\_\_\| |
+| 10.1.4 | Motorcycle | \|\_\_\|\_\_\| | \|\_\_\|\_\_\| |
+| 10.1.5 | Other (specify) | \|\_\_\|\_\_\| | \|\_\_\|\_\_\| |
+
+*Indicator: **[MS]** — information the HHFA does not collect and that is essential to the logistical management of the network.*
+
+---
+
+## SECTION 11 — Staff assigned to the facility
+### *New section*
+
+::: {style="border-left:5px solid #1e8449;background:#eafaf1;padding:10px 14px;border-radius:5px;"}
+
+**The section that closes the Form's biggest gap, and the cheapest of them all.** The information comes from the facility's staffing table, requires no physical verification, and crossed with the catchment population from Section 3 it yields sixteen health worker densities per 10,000 population.
+
+:::
+
+**11.1** **Does this facility have an approved staffing establishment that sets out the authorized number of health workers by qualification?**
+*IF YES, ASK TO SEE THE DOCUMENT.*
+> 1 Yes, observed · 2 Yes, reported but not seen · 3 Does not have one
+
+*HHFA indicator: **1.2.1.1.1**.*
+
+**11.2** *LEAD-IN TO BE READ: "I am going to read out a list of staff categories. For each one, tell me how many people in that category are currently assigned to this health facility, and how many of them are women. Count the people on this facility's staffing establishment, including those on leave or on sick leave, and not only those present today. Do not count visiting staff or volunteer staff, who are asked about further on."*
+
+| No. | Staff category | Total | Women | Indicators |
+|---|---|---|---|---|
+| 11.2.a | General practitioners | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.2.2**, **1.2.2.2.1**, **1.2.3.2.2** |
+| 11.2.b | Doctors specialized in family medicine | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.2.3**, **1.2.2.2.2** |
+| 11.2.c | Specialist doctors — medical specialties | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.2.6**, **1.2.2.3.2** |
+| 11.2.d | Specialist doctors — paediatrics | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.2.7**, **1.2.2.3.3** |
+| 11.2.e | Specialist doctors — gynaecology and obstetrics | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.2.8**, **1.2.2.3.4** |
+| 11.2.f | Specialist doctors — surgical specialties | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.2.9**, **1.2.2.3.5** |
+| 11.2.g | Specialist doctors — psychiatry | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.2.10**, **1.2.2.3.6** |
+| 11.2.h | Nurses | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.3.2**, **1.2.2.1.3** |
+| 11.2.i | Midwives | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.3.3**, **1.2.2.1.4** |
+| 11.2.j | Nurse-midwives with dual training | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.3.4** |
+| 11.2.k | Clinical officers | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.3.1**, **1.2.2.1.2** |
+| 11.2.l | Dentists | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.4.1**, **1.2.2.4.1** |
+| 11.2.m | Pharmacists | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.4.2**, **1.2.2.4.2** |
+| 11.2.n | Nutritionists | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.4.6**, **1.2.2.4.6** |
+| 11.2.o | Physiotherapists | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.4.4**, **1.2.2.4.4** |
+| 11.2.p | Laboratory technicians | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.5.2** |
+| 11.2.q | Imaging technicians | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.5.1** |
+| 11.2.r | Pharmacy technicians | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.5.3** |
+| 11.2.s | Statistics and medical records technicians | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.5.5** |
+| 11.2.t | Other health workers | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.4.9**, **1.2.1.5.6** |
+
+*CONSISTENCY CHECK: the number of women cannot exceed the total, on any line.*
+
+**11.3** **How often does this facility receive visits from specialist doctors who are not assigned to it?**
+*CONSIDER THE PAST 12 MONTHS.*
+> 1 Never receives any · 2 Daily or weekly · 3 At least once a month · 4 At least once a quarter · 5 Less frequently
+
+*HHFA indicators: **1.2.3.3.1** to **1.2.3.3.4**.*
+
+**11.4 to 11.7** *LEAD-IN TO BE READ: "For each of the following posts, tell me whether the person holding it has specific training in management — a course, a postgraduate qualification or a recognized qualification in health services management or in administration."*
+> 11.4 Facility director · 11.5 Administrator · 11.6 Clinical director · 11.7 Director of nursing
+> 1 Yes · 2 No · 97 The post does not exist in this facility · 98 Does not know
+
+*HHFA indicators: **1.2.3.4.1** to **1.2.3.4.4**.*
+
+**11.8** **Does this facility have health workers who work on a voluntary basis, with no paid contract?** If yes, in which categories?
+> 11.8.a General practitioner — **1.2.3.5.1**
+> 11.8.b Specialist doctor — **1.2.3.5.2**
+> 11.8.c Nurse or midwife — **1.2.3.5.3**
+
+**Computed:** **1.2.1.2.1** total number of doctors, **1.2.1.2.4** and **1.2.1.2.5**, **1.2.3.1.1 to 1.2.3.1.7** proportion of women by category, **1.2.3.2.1** and **1.2.3.2.3** facilities with at least one doctor.
+
+*The staff categories need validation against the career structure for health workers in Angola.*
+
+---
+
+::: {style="border-left:6px solid #1e8449;background:#eafaf1;padding:16px 18px;border-radius:6px;"}
+
+## HHFA indicators captured by this version
+
+| Dimension | Subarea | Captured | Total in subarea | Mode |
+|---|---|---|---|---|
+| **1. General availability** | 1.1.1 Infrastructure density | 4 | 4 | Self-reported |
+| | 1.1.2 Beds | 12 | 12 | Self-reported |
+| | 1.2.1 Number of health workers | 26 | 31 | Self-reported |
+| | 1.2.2 Health worker density | 16 | 20 | Self-reported |
+| | 1.2.3 Other workforce indicators | 21 | 21 | Self-reported |
+| | 1.3.1 Outpatient and inpatient care | 8 | 8 | Self-reported |
+| | 1.3.2 Availability of specific services | 40 | 46 | Self-reported |
+| | 1.3.3 Technologies and procedures | 36 | 36 | Self-reported |
+| | 1.4.1 Density scores | 3 | 3 | Self-reported |
+| | **Subtotal for dimension 1** | **166** | **428** | |
+| **2. General readiness** | 2.1.1 Basic amenities | 6 | 9 | 5 self-reported, 1 with observation |
+| | 2.2.1 Basic equipment | 14 | 14 | Observation |
+| | 2.5.1 Standard precautions (partial) | 4 | 15 | 2 self-reported, 2 with observation |
+| | 2.7.1 Referral systems | 6 | 6 | 3 self-reported, 3 with observation |
+| | **Subtotal for dimension 2** | **30** | **225** | |
+| **3. Specific availability** | 3.1.1 Family planning | 15 | 15 | Self-reported |
+| | 3.1.2 Antenatal care | 13 | 16 | Self-reported |
+| | 3.1.3 Delivery and basic emergency obstetric care | 29 | 29 | Self-reported |
+| | 3.1.4 Comprehensive emergency obstetric care | 4 | 4 | Self-reported |
+| | 3.1.6 Postpartum care | 11 | 11 | Self-reported |
+| | 3.1.8 Child health | 13 | 13 | Self-reported |
+| | 3.2.1 Immunization | 25 | 25 | Self-reported |
+| | 3.2.2 Malaria | 8 | 8 | Self-reported |
+| | 3.2.3 Tuberculosis | 9 | 9 | Self-reported |
+| | 3.2.4 HIV testing | 4 | 4 | Self-reported |
+| | 3.2.5 Antiretroviral treatment | 7 | 7 | Self-reported |
+| | 3.5.1 Emergency care | 10 | 10 | Self-reported |
+| | **Subtotal for dimension 3** | **148** | **1,484** | |
+| **4. Management and finance** | 4.2.1 Budget (anchor) | 1 | 11 | Self-reported |
+| **TOTAL** | | **345 indicators** | **2,604** | **≈ 94% self-reported** |
+
+**Nineteen subareas are completed in full** — every one of their indicators becomes computable, with no gaps: beds, infrastructure density, density scores, outpatient and inpatient care, technologies and procedures, other workforce indicators, family planning, delivery and basic and comprehensive emergency obstetric care, postpartum care, child health, immunization, malaria, tuberculosis, HIV testing, antiretroviral treatment, emergency care, basic equipment and referral systems.
+
+:::
+
+::: {style="border-left:6px solid #6c3483;background:#f4ecf7;padding:14px 18px;border-radius:6px;"}
+
+## What this version delivers, and what it leaves for later
+
+**345 HHFA indicators**, out of the 2,604 in the inventory. The number on its own says less than its composition does: **nineteen subareas are completed in full**, and they are precisely the availability subareas — what the Health Map Form was designed for. The instrument now produces, in internationally comparable language, exactly what it already set out to measure.
+
+**More than nine in ten yield in self-reported mode.** Only Section 9 requires observation throughout, and it can be applied only in the facilities that are visited without the form ceasing to work in the others.
+
+**The greater gain, however, is not in the number of indicators.** It is in the drafting. A question written out in full, with the unit, the period and the point of reference inside it, produces the same answer whoever asks it — and that is what makes two facilities, two provinces and two editions of the Health Map comparable. Several items in this form add no new indicator and are kept here for that reason alone: the distance to the referral facility, the state of repair, the vehicle fleet, the specialties, the general services. They are **[MS]**, they are the Health Map's own contribution, and they gain in precision without changing their purpose.
+
+**Three items are deliberately left unresolved**, and it is worth saying so: the pharmacy (7.2.10), sterilization and the distribution of albendazole remain as questions about existence. In all three cases the corresponding HHFA indicator depends on physical verification — medicine within its expiry date, equipment working, product observed — and there is no honest way of producing it in self-reported mode. They stay as they are until the decision on observation is taken.
+
+**What is left for the next phase** is the readiness dimension: guidelines available, staff trained, medicines and diagnostic means verified. These are the Type 3 and Type 4 increments in document 4, and they all require an enumerator making observations. They are left out of this version not because they matter less — in many cases they matter more — but because adopting them depends on a decision about the mode of collection that has not yet been taken.
+
+:::

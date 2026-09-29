@@ -1,0 +1,438 @@
+# Como podemos incrementar a Ficha do Mapa Sanitário usando o HHFA
+
+::: {style="border-left:6px solid #0b6e99;background:#eaf4f9;padding:14px 18px;border-radius:6px;"}
+
+Catálogo de propostas de melhoria à **Ficha de Cadastramento de Unidades Sanitárias** (versão 19_01) e ao respetivo **Guião de Preenchimento** (abril de 2019), a partir do inventário de indicadores do **Harmonized Health Facility Assessment** (HHFA, avaliação harmonizada de unidades sanitárias, da Organização Mundial da Saúde).
+
+Os três documentos anteriores descreveram o que cada instrumento capta. Este propõe o que fazer com essa leitura: um conjunto de incrementos concretos à Ficha, cada um com o seu ganho, o seu custo e o modo de recolha que exige, para que a escolha de quais adotar possa ser feita quesito a quesito.
+
+:::
+
+::: {style="border:3px solid #c0392b;background:#fdecea;padding:18px 20px;border-radius:8px;margin:18px 0;"}
+
+### ⚠ LEIA PRIMEIRO: a lógica deste catálogo
+
+<p style="font-size:1.08em;line-height:1.55;margin:0 0 10px 0;"><strong style="color:#c0392b;">O HHFA não se organiza por perguntas. Organiza-se por indicadores.</strong> As perguntas existem porque há um indicador que precisa delas, e não o contrário. Este catálogo segue a mesma ordem, e é isso que o distingue de uma lista de perguntas a acrescentar.</p>
+
+<p style="font-size:1.03em;line-height:1.5;margin:0 0 10px 0;">Cada proposta parte de um indicador do HHFA e responde a três perguntas: <strong>esse indicador já está latente na Ficha?</strong> Se está, <strong>o que falta à pergunta e às opções de resposta para que ele possa ser calculado?</strong> Se não está, <strong>o que custa trazê-lo?</strong></p>
+
+<p style="font-size:1.03em;line-height:1.5;margin:0 0 6px 0;"><strong>Cada incremento é descrito pelos mesmos seis campos:</strong></p>
+
+<ol style="font-size:1.0em;line-height:1.45;margin:0 0 12px 0;">
+<li><strong>Indicador identificado</strong> — qual, e porque se considera latente ou ausente.</li>
+<li><strong>Ficha hoje</strong> — o quesito, a escala de resposta e o que falta para o cálculo.</li>
+<li><strong>Forma de captar do HHFA</strong> — a pergunta e as opções, no texto original.</li>
+<li><strong>Indicador do HHFA que passa a existir</strong> — com a regra de cálculo.</li>
+<li><strong>Custo e modo de recolha</strong>.</li>
+<li><strong>O que se ganha</strong> — para a saúde pública, para o planeamento da rede e para o cuidado prestado. É o campo que justifica o incremento, e nenhuma proposta entra neste catálogo sem o ter.</li>
+</ol>
+
+<hr style="border:none;border-top:2px dashed #c0392b;margin:14px 0;">
+
+<p style="font-size:1.03em;line-height:1.5;margin:0 0 8px 0;"><strong style="color:#c0392b;">Este catálogo não é um formulário.</strong> Não propõe uma versão fechada da Ficha nem um pacote a adotar em bloco. Apresenta peças comparáveis entre si, para que a montagem — o que entra, em que ordem e em que unidades — seja uma decisão do GEPE, tomada com o custo e o ganho de cada peça à vista.</p>
+
+<p style="font-size:1.0em;line-height:1.45;margin:0;"><strong>Nota de propósito.</strong> A Ficha do Mapa Sanitário responde bem àquilo para que foi desenhada, e nada neste documento propõe substituí-la por outra coisa. O que se propõe é tornar mais preciso o registo daquilo que a equipa do Mapa já recolhe, e acrescentar, onde compensa, o que permite ler a rede não apenas pelo que existe mas pelo que está em condições de funcionar.</p>
+
+:::
+
+::: {style="border-left:6px solid #1e8449;background:#eafaf1;padding:16px 18px;border-radius:6px;"}
+
+### Os dois eixos do catálogo
+
+#### Eixo 1 — o tipo de mudança que se faz à Ficha
+
+Ordenados do menos ao mais intrusivo. A ordem é de perturbação, não de importância.
+
+**Tipo 1 — Identificar os indicadores presentes e reformatar as perguntas e opções de resposta que os criam.** O indicador já está lá em substância: a Ficha pergunta pela mesma realidade, mas as opções de resposta não permitem o cálculo. Não se acrescenta tema nenhum.
+
+**Tipo 2 — Indicadores latentes na definição do Guião, colapsados numa só marcação.** O indicador não está na pergunta, está na definição que o Guião dá ao serviço. A reformatação consiste em dar a cada componente da definição o seu próprio campo.
+
+**Tipo 3 — Indicadores de prontidão, com o denominador já garantido pela Ficha.** Os indicadores de prontidão calculam-se entre as unidades que oferecem o serviço. A Ficha já produz esse denominador. O que falta é o numerador.
+
+**Tipo 4 — Indicadores que exigem bloco novo.** Sem latência. A discussão passa a ser de prioridade e de custo.
+
+#### Eixo 2 — o modo de recolha que o incremento exige
+
+**Rende em modo autorreferido.** Informação que a unidade tem no seu próprio arquivo e responde sem que ninguém verifique: comodidades básicas, mapa de pessoal, ruturas registadas, desdobramentos de definição, funções realizadas.
+
+**Exige inquiridor com observação.** Tudo o que tenha uma escala do género *observado / referido, não visto*, e tudo o que tenha uma coluna de funcionamento ou de validade. Acrescentar estas perguntas a um formulário autopreenchido produz uma autodeclaração com aparência de verificação, o que não é melhor do que a caixa única de hoje.
+
+Vários incrementos rendem nos dois modos, com resultados diferentes. Nesses casos o campo *Modo* diz o que se obtém em cada um, porque a escolha do modo pode ser feita por província, por tipo de unidade ou por edição.
+
+:::
+
+## Tipo 1 — Identificar os indicadores presentes e reformatar as perguntas que os criam
+
+Sete incrementos. É o grupo mais barato e o de maior retorno imediato, e a maior parte dele não depende de observação.
+
+### 1.1 Fonte de água
+
+**Indicador identificado:** 2.1.1.1.2, percentagem de unidades com fonte de água melhorada. Está latente: a Ficha já pergunta pela fonte de água, e a classificação em melhorada ou não é uma convenção aplicada sobre a categoria da fonte.
+
+**Ficha hoje:** quesito 6.1, cinco categorias de fonte principal — rede, furo ou poço, camião cisterna, não tem, outra — e fontes secundárias em 6.1.2. Com cinco categorias não é possível separar poço protegido de poço não protegido, nem nascente protegida de não protegida, e é exatamente aí que passa a linha do melhorado.
+
+**Forma de captar do HHFA:**
+
+- Q1210: a mesma pergunta, com treze categorias, classificadas em melhorada e não melhorada.
+- Q1211: *"Há água desta fonte no recinto da unidade? Se sim: posso ver a água disponível hoje?"* Sim, observada dentro do edifício / Sim, observada no recinto / Sim, referida e não vista / Não, ou só fora do recinto.
+
+**Indicador do HHFA que passa a existir:** 2.1.1.1.2 = fonte numa das categorias melhoradas **e** `Q1211` diferente de 3 e de 4.
+
+**Custo e modo:** reescrever as categorias de 6.1, de cinco para treze, mais uma caixa nova. Q1210 é autorreferida; Q1211 é o ponto de observação. Em modo autorreferido o indicador ainda sai, mas com a categoria 3 indistinguível da 1 e da 2 — e a diferença fica registada, que é o essencial.
+
+**O que se ganha.** Água melhorada e presente no dia é condição de qualquer ato clínico seguro: higiene das mãos, assistência ao parto, reprocessamento de instrumentos. Distinguir o poço protegido do não protegido muda a leitura do risco de doença transmitida pela água numa unidade que atende doentes. Para o planeamento, a lista de unidades onde a fonte é não melhorada — ou onde a água existe mas não chega ao recinto — é diretamente uma lista de intervenções em furos, depósitos e canalização, ordenável por volume de atendimento.
+
+### 1.2 Fonte de energia
+
+**Indicador identificado:** 2.1.1.1.1, percentagem de unidades com energia. Latente: a Ficha pergunta pela fonte principal e pela fonte de reserva.
+
+**Ficha hoje:** quesito 6.2, quatro categorias de fonte principal e fontes secundárias em 6.2.2. Não há nada sobre o funcionamento, e é o funcionamento que define o indicador.
+
+**Forma de captar do HHFA:**
+
+- Q1206: *"Esta unidade tem electricidade de alguma fonte — rede, gerador, solar ou outra, incluindo para aparelhos autónomos como os da cadeia de frio do PAV?"* Sim / Não.
+- Q1209: *"Nos últimos 7 dias, houve electricidade, da fonte principal ou de reserva, em todos os momentos em que a unidade esteve aberta?"* Sempre, sem interrupções / Muitas vezes, interrupções de menos de 2 horas por dia / Algumas vezes, interrupções frequentes ou de mais de 2 horas por dia.
+
+**Indicador do HHFA que passa a existir:** 2.1.1.1.1 = `Q1206==1 AND (Q1209==1 OR Q1209==2)`.
+
+**Custo e modo:** uma caixa nova. Inteiramente autorreferido.
+
+**Nota.** O indicador não define "ter energia" como ter fonte: define-o como ter fonte **e** menos de duas horas de corte por dia. É a mesma realidade que a Ficha já regista, com um limiar declarado — e é esse limiar que torna o número comparável entre províncias e entre anos.
+
+**O que se ganha.** A continuidade da energia sustenta três coisas que decidem desfechos: a cadeia de frio das vacinas, a assistência ao parto durante a noite e o funcionamento de concentradores de oxigénio. Uma unidade com gerador avariado e uma unidade com energia estável aparecem hoje da mesma maneira no Mapa. Separá-las permite dirigir o investimento em energia solar para onde o retorno é imediato e mensurável — em vacinas conservadas, partos assistidos com luz e oxigénio disponível.
+
+### 1.3 Saneamento
+
+**Indicador identificado:** 2.1.1.1.3, percentagem de unidades com saneamento melhorado acessível a utentes e pessoal.
+
+**Ficha hoje:** quesito 6.3, três categorias — casa de banho ou sanita, latrina, e a terceira. Três categorias não distinguem autoclismo ligado a esgoto de autoclismo para destino aberto, nem latrina melhorada de latrina de fossa aberta.
+
+**Forma de captar do HHFA — Q1306:** *"Há sanitário no recinto acessível aos utentes da consulta externa ou ao pessoal? Se sim: de que tipo? Posso vê-lo? Se houver vários, considerar o mais moderno."* Onze categorias de tipo.
+
+**Indicador do HHFA que passa a existir:** 2.1.1.1.3 = `Q1306` numa de quatro categorias específicas.
+
+**Custo e modo:** apenas reescrever as categorias, zero caixas novas. Autorreferido serve.
+
+**O que se ganha.** O saneamento acessível a utentes e a pessoal pesa na prevenção de infeção associada aos cuidados e na procura de serviços, em particular por mulheres e por pessoas com mobilidade reduzida. Com a categoria correta, a unidade que tem latrina de fossa aberta deixa de ser contada ao lado da que tem sanita ligada a fossa séptica, e a lista de reabilitações sanitárias sai do próprio cadastro.
+
+### 1.4 Comunicação
+
+**Indicadores identificados:** 2.1.1.1.5 (sistema de comunicação) e 2.1.1.1.6 (computador com internet).
+
+**Ficha hoje:** quesito 7.5.7, uma caixa de 0-1. Não separa o telefone da unidade do telefone pessoal de quem lá trabalha, que é a distinção de que o indicador depende.
+
+**Forma de captar do HHFA:**
+
+- Q1201: *"A unidade tem meio de comunicação com o exterior — telefone ou rádio — suportado pela unidade?"* Sim, a funcionar / Sim, avariado / Não, só telefones privados / Não tem comunicação com o exterior.
+- Q1202: computador a funcionar? · Q1203: acesso a e-mail ou internet hoje? · Q1205: o tempo de ligação é pago ou reembolsado pela gestão?
+
+**Indicadores do HHFA que passam a existir:** 2.1.1.1.5 = `Q1201==1`; 2.1.1.1.6 = `Q1202==1 & Q1203==1 & Q1205==1`.
+
+**Custo e modo:** três caixas novas. Autorreferido.
+
+**O que se ganha.** O meio de comunicação da unidade — e não o telemóvel pessoal de quem lá trabalha — é o que sustenta a referência de emergência, a notificação de doenças de declaração obrigatória e o envio do reporte estatístico mensal. A distinção revela as unidades onde o sistema de referência e a vigilância epidemiológica dependem do bolso de um funcionário, que é uma vulnerabilidade concreta e corrigível.
+
+### 1.5 Transporte de emergência
+
+**Indicador identificado:** 2.1.1.1.7, percentagem de unidades com sistema de transporte de emergência para doentes.
+
+**Ficha hoje:** o serviço de transporte em 7.5.1 e a frota contada em 10.1. A Ficha sabe quantos veículos existem e se estão a funcionar, mas não se há um disponível para uma emergência hoje, com combustível e motorista — nem regista o caso, comum, de a unidade não ter viatura mas poder chamar uma.
+
+**Forma de captar do HHFA:**
+
+- Q1232: *"A unidade tem acesso a ambulância ou outro veículo em funcionamento para transporte de emergência de utentes, estacionado nesta unidade ou que a unidade possa chamar?"* Sim, ambulância / Sim, outro tipo de veículo / Não.
+- Q1234: *"O veículo está disponível, em condições de funcionamento, com combustível e com motorista, hoje?"*
+
+**Indicador do HHFA que passa a existir:** 2.1.1.1.7 = `(Q1232==1 OR Q1232==2) AND Q1234==1`.
+
+**Custo e modo:** duas caixas novas. Autorreferido — o próprio HHFA instrui o inquiridor a perguntar a quem saiba, não a ir ver.
+
+**O que se ganha.** É o indicador que mais diretamente toca a mortalidade materna e neonatal, porque mede a existência de via de evacuação **hoje**, e não a existência de uma viatura no inventário. Combinado com a distância à unidade de referência que a Ficha já regista em 3.2 — em minutos e em quilómetros de alcatrão e de picada —, permite identificar as zonas onde a evacuação obstétrica não é exequível dentro do tempo útil. É das leituras mais valiosas que os dois instrumentos juntos podem produzir.
+
+### 1.6 Tratamento de resíduos
+
+**Indicadores identificados:** 2.5.1.1.12 e 2.5.1.1.13, destino final seguro dos resíduos cortantes e dos resíduos infecciosos não cortantes.
+
+**Ficha hoje:** quesitos 6.5 e 6.6, tratamento do lixo geral e hospitalar. O tema está coberto; o que falta é a categoria do destino final e a verificação de que o meio de tratamento funciona.
+
+**Forma de captar do HHFA:** Q1214 a Q1220 — destino final com onze categorias, observação do local, e duas perguntas que decidem o indicador: o incinerador está a funcionar hoje, e tem combustível.
+
+**Indicadores do HHFA que passam a existir:** 2.5.1.1.12 e 2.5.1.1.13, ambos exigindo destino final adequado **e** `Q1219==1 AND Q1220==1`.
+
+**Custo e modo:** reescrever as categorias de 6.5 e 6.6, mais duas caixas. As categorias rendem autorreferidas; as duas perguntas sobre o incinerador exigem observação.
+
+**O que se ganha.** O destino final dos resíduos protege três grupos ao mesmo tempo: o pessoal que os manuseia, os utentes e a comunidade vizinha da unidade. A pergunta sobre o incinerador estar aceso e com combustível transforma um dado de infraestrutura numa lista de manutenção — quase sempre barata — que hoje ninguém consegue extrair do Mapa.
+
+### 1.7 Aparelhos
+
+**Indicadores identificados:** a tabela 2.2.1.1, equipamento básico da área principal de atendimento. Quatro dos itens da Ficha correspondem diretamente a indicadores: balança de adulto (2.2.1.1.8), esfigmomanómetro (2.2.1.1.3), estetoscópio clínico (2.2.1.1.2) e balança de bebé (2.2.1.1.10).
+
+**Ficha hoje:** quesito 9.1, contagem de quinze tipos de aparelhos "habitualmente em funcionamento", para centros e postos de saúde. A contagem responde a uma pergunta de logística — quantos aparelhos existem na rede —, não à pergunta do indicador, que é qual a proporção de unidades que tem o aparelho disponível e a funcionar no dia da visita.
+
+**Forma de captar do HHFA — Q1322,** uma grelha com duas colunas: *"Para cada item que eu perguntar, mostre-me o item e diga-me, quando aplicável, se está a funcionar."*
+
+- (A) disponível: observado / referido, não visto / não
+- (B) funcional: sim / não / não sabe
+
+**Indicadores do HHFA que passam a existir:** um por item, no formato `Q1322_nA==1 & Q1322_nB==1`, com denominador de todas as unidades.
+
+**Custo e modo:** duas caixas por linha. Exige observação — a coluna B não sobrevive ao autopreenchimento.
+
+**Nota de desenho.** A contagem da Ficha não deve ser substituída pela grelha. As duas informações servem decisões diferentes e a recomendação é mantê-las lado a lado: a contagem para a distribuição de equipamento, a coluna de funcionamento para saber onde estão as falhas.
+
+**O que se ganha.** A balança, o esfigmomanómetro e o estetoscópio são o mínimo para vigiar uma gravidez, detetar hipertensão e acompanhar uma criança desnutrida — sem eles, a consulta acontece sem medida. A contagem diz quantos aparelhos existem na rede; a coluna de funcionamento diz em que unidades o cuidado está comprometido hoje. **A diferença entre os dois números é a dimensão do problema de manutenção**, que atualmente não é visível em lado nenhum e que costuma ser mais barato de resolver do que comprar equipamento novo.
+
+::: {style="border-left:6px solid #b7950b;background:#fdf6e3;padding:12px 16px;border-radius:5px;"}
+
+**Síntese do Tipo 1.** Sete incrementos, cerca de doze caixas novas e a reescrita das categorias de quatro quesitos. Cinco dos sete indicadores de comodidades básicas do HHFA passam a poder ser calculados sem qualquer visita adicional. É o grupo a considerar em primeiro lugar, porque melhora a Ficha sem alterar o processo de recolha.
+
+:::
+
+## Tipo 2 — Indicadores latentes na definição do Guião
+
+Este grupo tem uma propriedade que convém tornar explícita: **não se está a pedir à Ficha que passe a perguntar outra coisa, está-se a pedir que registe o que já decidiu perguntar.** O Guião de Preenchimento define vários serviços com precisão; a Ficha resolve cada definição numa só marcação, e as componentes perdem-se.
+
+### 2.1 Laboratório
+
+**Indicadores identificados:** a tabela 2.3.1.1, capacidade básica de diagnóstico — em particular 2.3.1.1.1 (hemoglobina no local) e 2.3.1.1.8 (diagnóstico de malária no local).
+
+**Ficha hoje:** quesito 7.2.1, uma caixa. O Guião exige, para a marcar, a realização no mínimo de gota espessa, hemoglobina ou hematócrito, e análises simples de fezes e urina. A definição contém os indicadores; a marcação única perde-os, porque uma unidade que faça dois dos quatro é registada exatamente como a que faz os quatro.
+
+**Forma de captar do HHFA:** grelhas de testes disponíveis no próprio local de atendimento, teste a teste, com verificação de que o reagente está válido e de que os itens necessários para executar o teste estão disponíveis e a funcionar.
+
+**Indicadores do HHFA que passam a existir:** um por teste, no formato 2.3.1.1.x, com denominador de todas as unidades.
+
+**Custo e modo:** quatro caixas onde hoje há uma, se se ficar pela definição do Guião. A regra de cálculo do HHFA conta o teste apenas se o reagente estiver válido, pelo que o indicador completo exige observação. Em modo autorreferido o desdobramento continua a valer a pena — separa quem faz dois exames de quem faz quatro —, mas produz uma versão declarada do indicador, e isso deve ficar escrito na documentação para que não haja confusão na análise.
+
+**O que se ganha.** Os quatro exames que o Guião já exige não são uma lista arbitrária: a gota espessa sustenta o diagnóstico da malária, a hemoglobina deteta a anemia na grávida e na criança, e a sumária de urina é o rastreio da pré-eclâmpsia e da infeção urinária na gravidez. Saber quais deles cada unidade realiza permite duas coisas que hoje não são possíveis: dirigir reagentes e formação para as lacunas concretas, e estimar em que parte da rede o tratamento da malária está a ser feito sem confirmação laboratorial — informação central para o programa nacional.
+
+### 2.2 Partos
+
+**Indicadores identificados:** as funções-sinal dos cuidados obstétricos de emergência, 3.1.3.2.1 a 3.1.3.2.7, e os indicadores compostos 3.1.3.1.3 (cuidados obstétricos básicos) e o equivalente para cuidados completos.
+
+**Ficha hoje:** quesitos 7.3.7.1 e 7.3.7.2, duas caixas, CONU-B e CONU-C. O Guião define CONU-B como *"Antibióticos, Oxitocina e Anticonvulsivante parenteral, remoção manual da placenta e restos ovulares"* — cinco das sete funções-sinal internacionais, já escritas — e CONU-C como *"Todo o B e cirurgia (cesarianas e transfusão sanguínea)"*. Faltam à definição duas funções: parto vaginal assistido e reanimação neonatal.
+
+**Forma de captar do HHFA:** cada função-sinal é uma pergunta, com o período de referência declarado.
+
+**Indicadores do HHFA que passam a existir:** um por função-sinal, mais os indicadores compostos — que passam a ser **calculados a partir das componentes** em vez de declarados pelo respondente. É uma mudança importante: hoje, marcar CONU-B é um juízo de quem preenche; com as componentes separadas, passa a ser um resultado.
+
+**Custo e modo:** nove caixas onde hoje há duas. Rende autorreferido, porque a pergunta é sobre o que a unidade realiza, não sobre um objeto a observar.
+
+**Nota.** Este incremento alinha a Ficha com o padrão internacional de cuidados obstétricos de emergência e dá a qualquer avaliação EmONC em curso uma base de amostragem muito melhor do que a que teria de outro modo.
+
+**O que se ganha.** As funções-sinal são a medida internacionalmente aceite da capacidade de uma unidade salvar uma mulher em hemorragia, em eclâmpsia ou em trabalho de parto obstruído, e de reanimar um recém-nascido que não respira. O ganho prático está na granularidade: hoje sabemos que uma unidade não tem cuidados obstétricos básicos, mas não sabemos **qual das cinco funções lhe falta**. Com as componentes separadas passamos a saber — e na maioria dos casos falta uma só, frequentemente por ausência de um medicamento ou de uma formação curta. É uma das intervenções de maior impacto por unidade de custo em toda a rede.
+
+### 2.3 Outros desdobramentos de definição
+
+O mesmo raciocínio aplica-se a mais quatro quesitos em que o Guião já é preciso e a Ficha guarda uma marcação única.
+
+| Quesito da Ficha | O que o Guião já define | Indicadores do HHFA que passam a existir | O que se ganha |
+|---|---|---|---|
+| 7.3.6 Consulta pré-natal | Doze componentes: cartão, história, peso, edemas, altura uterina, mucosas, tensão arterial, manobras de Leopold, tratamento intermitente preventivo da malária, ferro e ácido fólico, desparasitação, aconselhamento | 3.1.2.1.x, componentes do pré-natal, um a um | Distingue o pré-natal completo do pré-natal de registo, e identifica que componente falta em cada unidade — a base de qualquer plano de melhoria da saúde materna |
+| 7.3.9 Planeamento familiar | Pelo menos um método moderno — injetável, pílula, DIU, diafragma — excluindo o preservativo | 3.1.1.1.x, oferta por método | Mostra a amplitude real de escolha oferecida à mulher, que é o que determina a adesão ao método e a continuidade |
+| 7.3.5 Puericultura | Critério do peso e do cartão | 3.1.8.1.2 e componentes | Permite ligar a vigilância do crescimento à deteção precoce da desnutrição, em vez de a tratar apenas quando já é grave |
+| 7.2.12 Banco de urgência | Diurno ou 24 horas | 3.5.1.1.x, unidade dedicada, pessoal presente 24 horas, laboratório, radiologia e farmácia 24 horas | Revela onde a urgência é uma porta aberta e onde é uma urgência com meios — distinção decisiva para o desenho da rede de referência |
+
+Todos rendem em modo autorreferido.
+
+::: {style="border-left:6px solid #b7950b;background:#fdf6e3;padding:12px 16px;border-radius:5px;"}
+
+**Síntese do Tipo 2.** Seis incrementos. O ganho é desproporcionado face ao custo, porque converte marcações que dependem do juízo de quem preenche em factos verificáveis, e quase tudo rende em modo autorreferido. É também o grupo mais fácil de justificar junto das unidades, porque nada de novo lhes é perguntado.
+
+:::
+
+## Tipo 3 — Indicadores de prontidão, com o denominador já garantido
+
+::: {style="border-left:6px solid #1e8449;background:#eafaf1;padding:14px 18px;border-radius:6px;"}
+
+**O argumento central deste catálogo está aqui.** Os indicadores de prontidão do HHFA têm denominador restrito: calculam-se **entre as unidades que oferecem o serviço**. A Ficha do Mapa Sanitário já produz esse denominador — é exatamente o que as caixas da secção 7.3 fazem, serviço a serviço, em todas as unidades do país.
+
+**O que falta não é o denominador. É o numerador.** E o numerador, na sua forma mínima, são três perguntas iguais para todos os serviços.
+
+:::
+
+### 3.1 O trio de prontidão
+
+Sendo sempre as mesmas três perguntas, a formação do inquiridor é breve e a estrutura de dados é regular.
+
+**Normas disponíveis** — forma de captar do HHFA, no caso do pré-natal, Q1817: *"Para cada documento que eu perguntar, mostre-mo."* Observado / Referido, não visto / Não disponível.
+
+**Pessoal formado** — Q1818: *"Nos últimos 2 anos, o senhor ou algum prestador de cuidados pré-natais recebeu formação em algum dos seguintes temas?"* Sim / Não.
+
+**Medicamento ou produto traçador** — um item por serviço, com a escala de validade descrita no Tipo 4.
+
+### 3.2 Consulta pré-natal, a título de exemplo completo
+
+**Indicadores identificados:** 3.1.2.2.1 (normas de pré-natal disponíveis) e 3.1.2.2.5 (pessoal formado em pré-natal), entre os 46 indicadores da subárea.
+
+**Ficha hoje:** a caixa 7.3.6 marca que a unidade presta consulta pré-natal. Essa caixa é, sem que a Ficha o tenha pretendido, o filtro exato dos indicadores de prontidão do pré-natal do HHFA.
+
+**Indicadores do HHFA que passam a existir:** 3.1.2.2.1 = `Q1817_1==1 OR Q1817_2==1`, entre as unidades que oferecem o serviço; 3.1.2.2.5 = `Q1818_1==1`, com o mesmo denominador.
+
+**Custo e modo:** duas caixas por serviço, três se se incluir o traçador. A formação rende autorreferida; as normas só produzem o indicador do HHFA com observação.
+
+**O que se ganha.** A disponibilidade de normas no local e a formação recente de quem presta o cuidado são dois dos fatores mais consistentemente associados à qualidade do pré-natal. O ganho é passar de *"a consulta pré-natal existe"* para *"a consulta existe, quem a faz foi formado nos últimos dois anos e tem a norma à mão"* — que é exatamente a pergunta a que um plano nacional de formação precisa de responder para saber onde investir. Multiplicado pelos serviços escolhidos, este trio é o que transforma o Mapa Sanitário de um inventário da rede num instrumento de planeamento da qualidade.
+
+### 3.3 Os serviços onde a Ficha já garante o denominador
+
+| Caixa da Ficha que fornece o denominador | Subárea de prontidão do HHFA que se abre | Indicadores na subárea |
+|---|---|---|
+| 7.3.6 Consulta pré-natal | 3.1.2.2 | 46 na subárea |
+| 7.3.7 Partos | 3.1.3.2 | 24 na tabela de funções-sinal |
+| 7.3.9 Planeamento familiar | 3.1.1.2 | 13 na tabela de prontidão |
+| 7.3.1 Vacinação | 3.2.1.2 | 31 na tabela de prontidão |
+| 7.3.13 DOTS | 3.2.3.2 | 12 na tabela |
+| 7.3.11 e 7.3.12 TARV | 3.2.5 e 3.2.7 | prontidão do tratamento antirretroviral |
+| 7.3.4.2 e 7.3.4.3 Centros nutricionais | 3.1.8.2 | 35 na tabela |
+| 7.1.26 Psiquiatria | 3.3.6.2 | prontidão da saúde mental |
+| 7.2.9 Bloco cirúrgico | 3.4.1 e 3.4.2 | prontidão cirúrgica e anestésica |
+
+Não se propõe abrir todas. Propõe-se que a escolha seja feita entre estas, porque em qualquer uma delas o trabalho de definir a quem se pergunta já está feito.
+
+::: {style="border-left:6px solid #b7950b;background:#fdf6e3;padding:12px 16px;border-radius:5px;"}
+
+**Síntese do Tipo 3.** Três caixas por serviço escolhido. É o grupo que mais muda a natureza da informação, porque é o que introduz a prontidão — a diferença entre a unidade oferecer o serviço e estar em condições de o prestar. É também aquele em que o investimento anterior do Mapa Sanitário mais se rentabiliza, porque aproveita um denominador nacional que já existe.
+
+:::
+
+## Tipo 4 — Indicadores que exigem bloco novo
+
+Sem latência na Ficha. A discussão passa a ser de prioridade e de custo. Apresentam-se por ordem crescente de esforço.
+
+### 4.1 Quadro de pessoal e força de trabalho
+
+**Indicadores identificados:** 1.2.1.1.1, percentagem de unidades com quadro de pessoal aprovado com números atribuídos por qualificação; e a tabela 1.2.1, contagem de profissionais por categoria.
+
+**Ficha hoje:** nada. A Ficha regista quem dirige a unidade — direção geral, clínica, pedagógica, chefias — mas não quantas pessoas lá trabalham nem em que categorias.
+
+**Forma de captar do HHFA — Q301:** *"Esta unidade tem um quadro de pessoal, com números autorizados por qualificação?"* Sim / Não — seguida da contagem por categoria profissional.
+
+**Indicadores do HHFA que passam a existir:** 1.2.1.1.1 = `Q301==1`, e os indicadores de contagem da subárea 1.2.1.
+
+**Custo e modo:** uma caixa para o indicador acima, mais uma linha por categoria profissional. Inteiramente autorreferido — sai do mapa de pessoal da unidade e não exige verificação física.
+
+**Nota, e é a mais importante deste catálogo.** A Ficha já recolhe a **população adstrita** (quesito 3.1). Com a contagem de pessoal, a subárea 1.2.2 do HHFA — densidades de profissionais por 10 000 habitantes — passa a ser calculável a partir de dois campos que ficam na mesma ficha. É o único ponto de todo o catálogo em que um acréscimo autorreferido e barato produz indicadores de nível de sistema, e não apenas de unidade.
+
+**É o bloco novo mais barato e o que fecha a maior assimetria identificada no documento 3.**
+
+**O que se ganha.** A densidade de profissionais por 10 000 habitantes é o indicador que sustenta qualquer decisão de afetação e de concurso de pessoal, e é o que Angola precisa de reportar nos compromissos internacionais de recursos humanos para a saúde. O ganho maior, porém, é interno: a contagem provincial esconde a distribuição dentro da província, e é dentro da província que estão as desigualdades que se conseguem corrigir por transferência. Saber que unidades não têm um único profissional de uma categoria é, por si só, uma decisão de gestão.
+
+### 4.2 Medicamentos essenciais, e as âncoras que a Ficha já tem
+
+**Indicadores identificados:** a tabela 2.4.1.1, um indicador por medicamento.
+
+**Ficha hoje:** o quesito 7.2.10 regista *"Farmácia — existe, em funcionamento"*. É uma pergunta sobre o **serviço**: há um local, com responsável, que dispensa medicamentos. Nada é dito sobre o que lá está dentro, e nenhum indicador da tabela 2.4.1.1 é obtenível a partir dela.
+
+Mas há quatro pontos da Ficha em que um medicamento concreto já é perguntado, sem que a Ficha o assuma como tal: a **distribuição de vitamina A** (7.3.2), a **distribuição de albendazol** (7.3.3), a **reidratação oral** (7.3.4.1) e o **centro nutricional terapêutico** (7.3.4.2) — este último porque o Guião define o serviço pelo alimento terapêutico que ele dispensa. Nesses quatro casos, marcar a caixa já implica afirmar que o produto está disponível.
+
+Chamam-se âncoras porque são o ponto natural por onde começar. Tornar o item explícito nesses quatro sítios não introduz tema novo, apenas escreve o que a pergunta já pressupõe — é, na prática, um incremento de Tipo 2 dentro de um bloco de Tipo 4. Uma lista de quarenta medicamentos é outra conversa, e é justo que seja discutida como tal.
+
+**Forma de captar do HHFA — a escala de Q3102,** que é a mais bem desenhada do instrumento: *"Para cada medicamento que eu perguntar, mostre-mo. Verificar se pelo menos uma unidade do tipo não está fora da validade."*
+
+1. Pelo menos uma dentro da validade
+2. Disponível, mas fora da validade
+3. Referido disponível, não visto
+4. Não disponível hoje
+5. Nunca disponível
+
+Os indicadores contam **apenas o código 1**. A distinção entre 1, 2 e 3 é exatamente a diferença entre a unidade ter metformina e a unidade poder dar metformina a alguém hoje.
+
+**Custo e modo:** uma caixa por medicamento. Só com observação — em autopreenchimento a escala perde todo o sentido, porque toda a informação está na distinção entre as três primeiras categorias.
+
+**Aviso metodológico, a registar na documentação.** Vários indicadores da tabela 2.4.1.1 contam o medicamento se ele for visto na farmácia **ou** na sala de partos **ou** no carro de urgência. Uma recolha que olhe apenas para a farmácia subestima esses itens — oxitocina, sulfato de magnésio, clorexidina, adrenalina, dexametasona e morfina. Não é razão para não recolher; é razão para declarar a restrição junto do número.
+
+**O que se ganha.** A disponibilidade efetiva do medicamento no dia é o determinante mais direto de o doente sair da consulta com tratamento. Separar *tem*, de *tem mas fora da validade*, de *diz que tem e não mostra*, identifica falhas de gestão de stock que nenhum sistema de requisição consegue mostrar — porque o sistema de requisição regista o que foi enviado, não o que está na prateleira. Começando pelas quatro âncoras, o ganho é imediato e barato: passa-se a saber se a vitamina A, o albendazol, os sais de reidratação oral e o alimento terapêutico estão realmente disponíveis nas unidades que declaram oferecer esses serviços.
+
+### 4.3 Precauções-padrão e prevenção de infeção
+
+**Indicadores identificados:** a tabela 2.5.1.1.
+
+**Ficha hoje:** ausente, com duas exceções importantes — os quesitos 6.5 e 6.6 já cobrem o tratamento dos resíduos (ver 1.6), e a esterilização é registada em 7.2.14.
+
+**Forma de captar do HHFA — Q1320,** uma grelha de dezassete linhas com escala de três níveis: *"Para cada item que eu perguntar, mostre-me o item."* Observado / Referido, não visto / Não disponível. Inclui água corrente limpa, sabão, solução alcoólica, luvas descartáveis, seringas de uso único, recipientes de resíduos cortantes e não cortantes, e desinfetante ambiental.
+
+**Indicadores do HHFA que passam a existir:** higiene das mãos (2.5.1.1.5), luvas (2.5.1.1.6), seringas (2.5.1.1.7), desinfetante (2.5.1.1.9), armazenamento de resíduos cortantes (2.5.1.1.10) e não cortantes (2.5.1.1.11) — seis indicadores de uma só grelha. Duas perguntas avulsas acrescentam as normas de gestão de resíduos (2.5.1.1.2) e o pessoal formado (2.5.1.1.4).
+
+**Custo e modo:** cerca de vinte caixas. Exige observação.
+
+**O que se ganha.** A prevenção de infeção protege simultaneamente os doentes e os profissionais, e é o alicerce sobre o qual assenta qualquer programa de segurança do doente. O que torna este bloco atrativo é a natureza dos itens: sabão, solução alcoólica, luvas, caixa de cortantes e desinfetante são produtos baratos, de aquisição local, cuja ausência tem consequência desproporcionada. É um dos poucos domínios em que medir conduz quase automaticamente a uma correção exequível no curto prazo.
+
+### 4.4 Condições crónicas
+
+**Indicadores identificados:** 3.3.1 (doenças cardiovasculares, 46 indicadores), 3.3.2 (diabetes, 26) e 3.3.3 (doença respiratória crónica, 26).
+
+**Ficha hoje:** as caixas de especialidade hospitalar — cardiologia (7.1.7), endocrinologia (7.1.9), pneumologia (7.1.25) — registam a organização da unidade, não a capacidade de manejar a condição. Como se descreveu no documento 3, são perguntas diferentes: a especialidade diz como a unidade está organizada, a condição diz o que a unidade consegue resolver. Nos cuidados de saúde primários, onde a hipertensão, a diabetes e a asma são manejadas sem especialista, a segunda é a que decide.
+
+**Forma de captar do HHFA:** para cada condição, a oferta separada por função — diagnóstico, tratamento, seguimento, aconselhamento para o autocuidado — seguida do trio de prontidão e dos itens traçadores.
+
+**Indicadores do HHFA que passam a existir:** a oferta por função rende autorreferida e é barata: quatro caixas por condição. Os itens traçadores exigem observação.
+
+**Custo e modo:** propõe-se começar pela oferta por função, em três condições, doze caixas, modo autorreferido. Os traçadores entram com o bloco de medicamentos, se este avançar.
+
+**O que se ganha.** A hipertensão e a diabetes representam uma carga crescente de doença, sobretudo no meio urbano, e são condições manejáveis no nível primário — desde que a unidade diagnostique, trate e acompanhe. Medir a capacidade **por condição** e não por especialidade é precisamente o que permite planear a descentralização do manejo das doenças crónicas para os centros e postos de saúde, que é uma das decisões estruturantes da reforma dos cuidados de saúde primários. Sem este dado, essa descentralização é planeada às escuras.
+
+### 4.5 Outros blocos a considerar
+
+| Bloco | Indicadores do HHFA | Custo e modo | O que se ganha |
+|---|---|---|---|
+| Malária, diagnóstico e tratamento | 3.2.2.1.1 a 3.2.2.1.8 — a Ficha regista a distribuição de redes mosquiteiras, mas não o serviço de malária | 8 caixas, autorreferido na oferta | Dá ao programa nacional o mapa da capacidade de diagnóstico e tratamento na principal causa de procura de cuidados do país |
+| Ruturas de stock nos últimos 3 meses | Transversal, um indicador por produto traçador | 1 caixa por traçador, autorreferido, sai do registo da farmácia | Separa a falha pontual da falha estrutural de abastecimento — a primeira resolve-se na unidade, a segunda na cadeia logística |
+| Acessibilidade para pessoas com mobilidade reduzida | 1.1.3.1.1 a 1.1.3.1.5 — rampas, corrimãos, sanitário acessível | 5 caixas, observação | Torna mensurável o acesso de pessoas idosas, com deficiência e em cadeira de rodas, hoje invisível no planeamento de obras |
+| Orçamento e fontes de financiamento | 4.2.1.1.1, autonomia para gerir conta bancária própria, e seguintes. A Ficha tem o quesito 0.2, uma caixa sobre ter orçamento próprio — é a âncora natural | 6 a 8 caixas, autorreferido | Liga o Mapa Sanitário ao trabalho de modernização da gestão das finanças públicas da saúde, dando-lhe pela primeira vez uma base ao nível da unidade |
+| Supervisão recebida | 4.1.1 e 4.3.1 | 3 caixas, autorreferido | Mostra que parte da rede está efetivamente coberta pela supervisão municipal e provincial, que é o principal mecanismo de melhoria contínua existente |
+
+::: {style="border-left:6px solid #b7950b;background:#fdf6e3;padding:12px 16px;border-radius:5px;"}
+
+**Síntese do Tipo 4.** Dez blocos. Não se propõe adotá-los em conjunto. Dois deles — o quadro de pessoal e a oferta por função nas condições crónicas — são autorreferidos, baratos e de grande retorno, e podem ser considerados ao lado dos Tipos 1 e 2. Os restantes exigem observação e devem ser decididos em função do modo de recolha que o Mapa Sanitário venha a adotar.
+
+:::
+
+::: {style="border-left:6px solid #1e8449;background:#eafaf1;padding:14px 18px;border-radius:6px;"}
+
+## Quadro-síntese dos incrementos
+
+| # | Incremento | Tipo | Quesito da Ficha | Modo | Caixas |
+|---|---|---|---|---|---|
+| 1 | Fonte de água | 1 | 6.1 | Misto | ~1 + categorias |
+| 2 | Fonte de energia | 1 | 6.2 | Autorreferido | 1 |
+| 3 | Saneamento | 1 | 6.3 | Autorreferido | 0 + categorias |
+| 4 | Comunicação | 1 | 7.5.7 | Autorreferido | 3 |
+| 5 | Transporte de emergência | 1 | 7.5.1, 10.1 | Autorreferido | 2 |
+| 6 | Tratamento de resíduos | 1 | 6.5, 6.6 | Misto | 2 + categorias |
+| 7 | Aparelhos, coluna de funcionamento | 1 | 9.1 | Observação | 1 por linha |
+| 8 | Laboratório | 2 | 7.2.1 | Misto | 3 |
+| 9 | Partos, funções-sinal | 2 | 7.3.7 | Autorreferido | 7 |
+| 10 | Pré-natal, componentes | 2 | 7.3.6 | Autorreferido | até 12 |
+| 11 | Planeamento familiar, métodos | 2 | 7.3.9 | Autorreferido | 4 |
+| 12 | Puericultura | 2 | 7.3.5 | Autorreferido | 2 |
+| 13 | Banco de urgência | 2 | 7.2.12 | Autorreferido | 4 |
+| 14–21 | Trio de prontidão, por serviço escolhido | 3 | 7.3.x | Misto | 3 por serviço |
+| 22 | Quadro de pessoal e força de trabalho | 4 | — | Autorreferido | ~13 |
+| 23 | Medicamentos, a partir das quatro âncoras | 4 | 7.2.10, 7.3.2–7.3.4 | Observação | 4 a 48 |
+| 24 | Precauções-padrão | 4 | — | Observação | ~20 |
+| 25 | Condições crónicas, oferta por função | 4 | 7.1.7, 7.1.9, 7.1.25 | Autorreferido | 12 |
+| 26 | Malária | 4 | — | Autorreferido | 8 |
+| 27 | Ruturas de stock | 4 | — | Autorreferido | 1 por traçador |
+| 28 | Acessibilidade | 4 | — | Observação | 5 |
+| 29 | Orçamento e financiamento | 4 | 0.2 | Autorreferido | 6 a 8 |
+| 30 | Supervisão recebida | 4 | — | Autorreferido | 3 |
+
+:::
+
+::: {style="border-left:6px solid #6c3483;background:#f4ecf7;padding:14px 18px;border-radius:6px;"}
+
+## Como ler este catálogo
+
+**Os incrementos não se somam numa ordem única.** Podem ser agrupados por tipo, por modo de recolha, por área temática ou por unidade a que se aplicam. Três leituras parecem úteis:
+
+**Pela latência.** Os Tipos 1 e 2 tornam calculáveis indicadores que a Ficha já persegue sem os produzir. Não introduzem temas novos e, na maior parte, não exigem visita. É a leitura que menos custa defender junto das unidades e a que menos altera o processo atual.
+
+**Pelo modo de recolha.** Há um conjunto de incrementos — os Tipos 1 e 2 quase por inteiro, o quadro de pessoal, a oferta por função nas condições crónicas, as ruturas, o orçamento — que rende em modo autorreferido e pode entrar numa edição da Ficha sem alterar nada na recolha. E há outro que só faz sentido onde houver inquiridor e observação. Esta separação permite que as duas coisas avancem a ritmos diferentes.
+
+**Pelo denominador.** O Tipo 3 é o que melhor aproveita o que já existe. O Mapa Sanitário construiu, ao longo de quatro edições, um denominador nacional serviço a serviço — a informação sobre que unidades oferecem o quê. Esse denominador é precisamente o que os indicadores de prontidão do HHFA exigem e o que um inquérito por amostra não consegue produzir com a mesma cobertura. Três perguntas por serviço transformam-no em prontidão medida.
+
+**Pelo ganho.** É a leitura que melhor serve uma discussão com os programas nacionais, porque é a que fala a linguagem deles. Agrupados pelo que produzem, os incrementos concentram-se em quatro áreas: **saúde materna e neonatal** — funções-sinal do parto, componentes do pré-natal, transporte de emergência, hemoglobina e sumária de urina; **saúde da criança e nutrição** — puericultura, vitamina A, alimento terapêutico, balanças a funcionar, cadeia de frio sustentada por energia contínua; **doenças crónicas** — capacidade por condição em vez de por especialidade; e **segurança do doente e do profissional** — precauções-padrão, resíduos, água e esterilização. Cada programa reconhece nesta lista aquilo de que precisa, e isso torna a adoção dos incrementos uma conversa partilhada em vez de uma exigência externa.
+
+**O que fica por decidir** não é técnico. É saber que indicadores Angola quer produzir, sobre que unidades, e com que periodicidade. Esse é o objeto do documento seguinte.
+
+:::

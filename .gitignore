@@ -1,0 +1,10 @@
+# Build output
+_site/
+*/_book/
+*/.quarto/
+.quarto/
+
+# Working drafts kept outside the book (the .qmd files in pt/ and en/ are the source)
+/*.md
+/*.pdf
+!/README.md

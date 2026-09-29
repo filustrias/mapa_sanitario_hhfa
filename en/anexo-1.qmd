@@ -1,0 +1,530 @@
+# Annex 1 — Proposed questionnaire {.unnumbered}
+
+::: {style="border-left:6px solid #0b6e99;background:#eaf4f9;padding:14px 18px;border-radius:6px;"}
+
+<p class="chapter-lead">Without commentary</p>
+
+Health Facility Registration Form, National Health Service — revised version.
+
+Enumerator instructions in *italics*. General codes: **97** not applicable · **98** does not know.
+
+:::
+
+## Section 0 — Identification of the data collection
+
+| Code | Question | Response options |
+|---|---|---|
+| 0.1 | On what date was this form completed? | \|\_\_\|\_\_\| day · \|\_\_\|\_\_\| month · \|\_\_\|\_\_\|\_\_\|\_\_\| year |
+| 0.2 | How was this form completed? *Read the options.* | 1 Completed by facility staff and sent to GEPE, with no enumerator visit · 2 Completed by an enumerator during a visit to the facility · 3 Completed by facility staff and then checked by an enumerator during a visit |
+| 0.3 | What is the position of the person who answered most of this form? | 1 Facility director · 2 Deputy director · 3 Head of nursing · 4 Head of administration · 5 Head of statistics · 96 Other position (specify) |
+| 0.4 | Does this facility have a budget of its own, that is, an allocation of funds assigned specifically to this facility that its management can administer and spend? *Do not count funds managed entirely by the Municipal or Provincial Directorate on the facility's behalf.* | 1 Yes · 2 No · 98 Does not know |
+
+## Section 1 — Location
+
+| Code | Question | Response options |
+|---|---|---|
+| 1.1 | Province. *Record the name and the Health Map code.* | Name: \_\_\_\_\_\_ · Code: \|\_\_\|\_\_\| |
+| 1.2 | Municipality. | Name: \_\_\_\_\_\_ · Code: \|\_\_\|\_\_\| |
+| 1.3 | Commune or urban district. | Name: \_\_\_\_\_\_ · Code: \|\_\_\|\_\_\| |
+| 1.4 | Rural village or urban neighbourhood. | Name: \_\_\_\_\_\_ · Code: \|\_\_\|\_\_\| |
+| 1.5 | Name of the health facility. | Name: \_\_\_\_\_\_ · Code: \|\_\_\|\_\_\|\_\_\|\_\_\|\_\_\|\_\_\| |
+| 1.6 | Category of the facility, according to the Health Map classification. | \|\_\_\|\_\_\| |
+| 1.7 | Latitude. *Take the reading at the main entrance of the main building, in the open air, with the device held steady for at least 60 seconds. Record in decimal degrees, to five decimal places.* | \|\_\_\|\_\_\|.\|\_\_\|\_\_\|\_\_\|\_\_\|\_\_\| |
+| 1.8 | Longitude. | \|\_\_\|\_\_\|.\|\_\_\|\_\_\|\_\_\|\_\_\|\_\_\| |
+| 1.8.1 | Accuracy shown by the device, in metres. | \|\_\_\|\_\_\|\_\_\| |
+| 1.9 | Is this health facility located in an urban, rural or peri-urban area? *Use the administrative classification currently in force.* | 1 Urban · 2 Rural · 3 Peri-urban |
+
+## Section 2 — Ownership and management
+
+| Code | Question | Response options |
+|---|---|---|
+| 2.1 | Who owns this health facility? *Mark one option only.* | 1 Public — National Health Service · 2 Public — Police or Armed Forces · 3 Private not-for-profit · 4 Private for-profit · 96 Other arrangement (specify) |
+| 2.2 | Which body is responsible for the day-to-day management of this facility — that is, who appoints its management and answers for its daily running? *This may differ from the owner recorded in 2.1.* | 1 Public · 2 Private · 3 Mixed · 96 Other arrangement (specify) |
+
+## Section 3 — Catchment population and referral system
+
+| Code | Question | Response options |
+|---|---|---|
+| 3.1 | What is the total resident population of this health facility's catchment area, according to the most recent estimate available to the facility? *Record 999998 if the facility has no estimate.* | \|\_\_\|\_\_\|\_\_\|\_\_\|\_\_\|\_\_\| inhabitants |
+| 3.1.1 | Where does that population estimate come from? | 1 National census · 2 National Institute of Statistics projection · 3 A register or enumeration carried out by the facility itself · 4 Municipal Health Directorate estimate · 5 Provincial Health Directorate estimate · 96 Other (specify) · 98 Does not know |
+| 3.1.2 | Which year does that estimate refer to? | \|\_\_\|\_\_\|\_\_\|\_\_\| |
+| 3.2.1 | To which health facility are patients from this facility usually transferred when they need care that cannot be provided here? *If there is more than one, give the one to which the largest number of patients was transferred in the past 12 months.* | Name: \_\_\_\_\_\_ · Code: \|\_\_\|\_\_\|\_\_\|\_\_\|\_\_\|\_\_\| |
+| 3.2.2 | Category of that referral facility, according to the Health Map classification. | \|\_\_\|\_\_\| |
+| 3.2.3 | What means of transport is most often used to transfer patients from this facility to the facility named in 3.2.1? *Consider the past 12 months. Mark one option only.* | 1 Ambulance belonging to this facility · 2 Ambulance from another facility or from the Municipal Directorate · 3 Light vehicle belonging to the facility · 4 Motorcycle · 5 Public or private transport, paid for by the patient or the family · 6 On foot or by stretcher · 96 Other (specify) |
+| 3.2.4 | Taking the route normally used by that means of transport, what is the total distance, in kilometres, between this health facility and the referral facility? *The distance actually travelled by road, not the straight-line distance. Record 998 if not known.* | \|\_\_\|\_\_\|\_\_\| kilometres |
+| 3.2.5 | Of that route, how many kilometres are on paved road? | \|\_\_\|\_\_\|\_\_\| kilometres |
+| 3.2.6 | And how many kilometres are on dirt road or dirt track? *Check: 3.2.5 + 3.2.6 = 3.2.4.* | \|\_\_\|\_\_\|\_\_\| kilometres |
+| 3.2.7 | In the dry season, how long does that journey usually take, in minutes, by the means of transport recorded in 3.2.3? *Travel time only, not counting time spent waiting for transport. Record 998 if not known.* | \|\_\_\|\_\_\|\_\_\| minutes |
+| 3.2.8 | And in the rainy season, how long does the same journey usually take, in minutes? *Record 997 if the route becomes impassable at any point during the rainy season.* | \|\_\_\|\_\_\|\_\_\| minutes |
+| 3.3 | Does this facility have an established system for referring patients to other health facilities? | 1 Yes · 2 No · 98 Does not know |
+| 3.4 | Are there written standards or protocols in this facility to guide the referral of patients to other facilities? *If yes, ask to see the document.* | 1 Yes, seen · 2 Yes, reported but not seen · 3 Not available |
+| 3.5 | And are there written standards or protocols for back-referral, that is, for the patient's return to this facility after being seen at the referral facility? *If yes, ask to see the document.* | 1 Yes, seen · 2 Yes, reported but not seen · 3 Not available |
+| 3.6 | Does this facility keep a record, in a register book or a file, of the patients it has referred to other facilities? *If yes, ask to see the record.* | 1 Yes, seen · 2 Yes, reported but not seen · 3 Keeps no record |
+| 3.7 | In the past 3 months, has this facility received clinical information back about patients it had referred — in writing or by any other means? | 1 Yes, about most of the patients referred · 2 Yes, about some patients · 3 Received no information back · 97 Referred no patients in the past 3 months · 98 Does not know |
+| 3.8 | Does this facility have access, 24 hours a day and every day of the week, to a vehicle in working order and a driver available to transport patients? *The vehicle may be parked at this facility or be called in from elsewhere.* | 1 Yes · 2 No · 98 Does not know |
+
+## Section 4 — Buildings and construction
+
+| Code | Question | Response options |
+|---|---|---|
+| 4.1 | How many buildings in total make up this health facility? *Count every building within the grounds that the facility uses, including support buildings. Do not count staff housing or buildings that are derelict or wholly unused.* | \|\_\_\|\_\_\| buildings |
+| 4.2 | What is the total floor area of those buildings, in square metres? *Record 9998 if not known.* | \|\_\_\|\_\_\|\_\_\|\_\_\| m² |
+| 4.3 | How many staff houses are there within the grounds of this facility or under its responsibility? | \|\_\_\|\_\_\| houses |
+| 4.4 | What is the total floor area of those houses, in square metres? | \|\_\_\|\_\_\|\_\_\|\_\_\| m² |
+| 4.5 | In what year was construction of this facility's main building completed? *If it has been substantially rebuilt, give the year of the rebuilding. Record 9998 if not known.* | \|\_\_\|\_\_\|\_\_\|\_\_\| |
+| 4.6 | In which period was the main building constructed? *Read the options.* | 1 Before 1975 · 2 Between 1975 and 1991 · 3 Between 1992 and 2002 · 4 Between 2003 and 2012 · 5 2013 onwards · 98 Does not know |
+| 4.7 | What is the predominant material of the external walls of the main building? *Mark one option only — the material covering most of the wall surface.* | 1 Cement blocks · 2 Fired brick · 3 Adobe or mud brick · 4 Wattle and daub or timber · 5 Metal sheeting · 96 Other (specify) |
+
+## Section 5 — State of repair
+
+| Code | Question | Response options |
+|---|---|---|
+| 5.1 | Considering the foundations, the structure, the floor, the walls, the roof, the ceiling and the sanitary installations of the main building, which of the following best describes its present condition? *Read all the options before marking. Apply the detailed criteria set out in the Completion Guide. Mark one option only.* | 1 No work needed — all elements in good condition · 2 Routine maintenance needed · 3 Rehabilitation needed — one or more elements are deteriorated, but the structure is sound · 4 Reconstruction needed — the structure is compromised or the building is unusable |
+| 5.2.1 | What floor area, in square metres, is in good condition? | \|\_\_\|\_\_\|\_\_\|\_\_\| m² |
+| 5.2.2 | And how much needs routine maintenance? | \|\_\_\|\_\_\|\_\_\|\_\_\| m² |
+| 5.2.3 | And how much needs rehabilitation? | \|\_\_\|\_\_\|\_\_\|\_\_\| m² |
+| 5.2.4 | And how much needs reconstruction? *Check: 5.2.1 + 5.2.2 + 5.2.3 + 5.2.4 = 4.2.* | \|\_\_\|\_\_\|\_\_\|\_\_\| m² |
+
+## Section 6 — Water, energy, sanitation and waste
+
+| Code | Question | Response options |
+|---|---|---|
+| 6.1 | What is the water source most used by this health facility at present? *Read the options. Mark one only. If the answer differs between inpatient care and outpatient care, give the one for inpatient care.* | 01 Piped into the building · 02 Piped into the facility grounds · 03 Public tap or standpipe · 04 Borehole · 05 Protected well · 06 Unprotected well · 07 Protected spring · 08 Unprotected spring · 09 Rainwater · 10 Bottled water · 11 Cart with a small tank · 12 Tanker truck · 13 Surface water · 96 Other (specify) · 00 Has no water source at all · 98 Does not know |
+| 6.1.2 | Besides that one, what other water sources does this facility use when the main source is not available? *Mark all that apply, using the codes from 6.1. Record 00 if there is no alternative source.* | Codes from 6.1 |
+| 6.2 | Is water from that source available within the facility grounds — inside the building or within the grounds? *If yes, ask: may I see the water that is available today? The water may be piped or held in a container.* | 1 Yes, seen inside the building · 2 Yes, seen within the facility grounds · 3 Yes, reported but not seen · 4 No, or available only outside the grounds |
+| 6.3 | In the past 30 days, was there any period when this facility had no water and this forced it to suspend or limit the provision of services? | 1 There was no such period · 2 Yes, less than one week in total · 3 Yes, one week or more in total · 98 Does not know |
+| 6.4 | Does this facility have electricity from any source — public grid, generator, solar power or other — including electricity that powers only stand-alone equipment, such as the Expanded Programme on Immunization cold chain? *If 2, skip to 6.7.* | 1 Yes · 2 No |
+| 6.5 | What is the electricity source most used by this facility? *Mark one option only.* | 1 Public grid · 2 Facility generator · 3 Solar panels · 4 Supply from a neighbouring institution · 96 Other (specify) |
+| 6.5.1 | What back-up sources are there for the periods when the main source fails? *Mark all that apply.* | 1 Public grid · 2 Generator · 3 Solar panels · 4 Batteries · 96 Other (specify) · 00 Has no back-up source |
+| 6.6 | In the past 7 days, was electricity — from the main source or from any back-up source — available at all times when this facility was open to the public? *Read the three options.* | 1 Always available, with no interruptions · 2 Often available, with interruptions of less than 2 hours a day · 3 Sometimes available, with frequent interruptions or interruptions of more than 2 hours a day |
+| 6.7 | Is there a toilet or latrine within the grounds of this facility that can be used by outpatient department users or by staff? *If yes, ask: what type is it? May I see it? If there are several, consider the most modern type.* | 1 Flush toilet connected to a sewer · 2 Flush toilet connected to a septic tank · 3 Flush toilet discharging to an open or unknown destination · 4 Ventilated improved pit latrine · 5 Pit latrine with slab · 6 Composting latrine · 7 Open pit latrine, without slab · 8 Bucket · 9 Hanging toilet · 10 There is no toilet or latrine within the grounds |
+| 6.8 | How is this facility's general refuse collected? | 1 By the municipal administrative services · 2 By a contracted company · 3 By the facility itself · 4 There is no organised collection · 98 Does not know |
+| 6.9 | What is the final destination of the sharps waste produced by this facility — needles, blades, broken ampoules? *Mark one option only — the destination of most of this waste.* | 1 Collected and treated off site · 2 Incinerated at this facility · 3 Burned in the open · 4 Buried in a protected pit · 5 Dumped without any treatment · 96 Other (specify) · 98 Does not know |
+| 6.10 | And what is the final destination of non-sharp infectious waste — dressings, swabs, used gloves, contaminated material? | Same options as 6.9 |
+| 6.11 | Was this facility's incinerator or other waste treatment equipment working today? *Ask to see it.* | 1 Yes, seen working · 2 It was not working · 97 Not applicable · 98 Does not know |
+| 6.12 | Was fuel for the incinerator available today? | 1 Yes, seen · 2 No · 97 Not applicable · 98 Does not know |
+| 6.13 | Are there written standards or working instructions in this facility on health care waste management? *If yes, ask to see them.* | 1 Yes, seen · 2 Yes, reported but not seen · 3 There are none |
+| 6.14 | In the past 2 years, has any professional currently working at this facility received training in health care waste management? | 1 Yes · 2 No · 98 Does not know |
+| 6.15 | Is there a wastewater treatment plant or system at this facility? | 1 Yes, and it was working in the past 30 days · 2 Yes, but it was not working in the past 30 days · 3 There is none |
+
+## Section 7 — Services
+
+### 7.0 Gateway questions
+
+| Code | Question | Response options |
+|---|---|---|
+| 7.0.1 | Does this facility provide outpatient care, that is, care for patients who are seen and return home the same day? | 1 Yes · 2 No |
+| 7.0.2 | Does this facility provide inpatient care, that is, care for patients who stay overnight at the facility? | 1 Yes · 2 No |
+| 7.0.3 | On a normal weekday, for how many hours is this facility's outpatient department open to the public? *Count only the hours during which users are attended to. If care is provided continuously around the clock, record 24.* | \|\_\_\|\_\_\| hours |
+| 7.0.4 | And on how many days a week is the outpatient department open to the public? | \|\_\_\| days |
+
+### 7.1 Clinical and surgical services
+
+| Code | Question | Response options |
+|---|---|---|
+| 7.1.1 to 7.1.28 | *Statement to read:* "I am going to read out a list of clinical specialties. For each one, tell me whether this facility holds a regular clinic in that specialty — that is, on a set day or set days of the week — provided by a qualified professional. Do not count occasional consultations or clinics that have been suspended for more than 3 months."<br>General medicine · Internal medicine · Paediatrics · Neonatology · Obstetrics and gynaecology · Intensive care · Cardiology · Dermatology · Endocrinology · Dentistry · Physical and rehabilitation medicine · Gastroenterology · Rheumatology · Geriatrics · Haematology · Infectious diseases · Immunohaematology · Nephrology · Neurology · Nutrition · Ophthalmology · Oncology · Orthopaedics and traumatology · Otorhinolaryngology · Respiratory medicine · Psychiatry · Psychology · Urology | For each: 1 Yes, regular clinic · 2 No |
+| 7.1.29 | Does this facility perform any surgical procedure, whether minor or major surgery? *If 2, skip to 7.2.* | 1 Yes · 2 No |
+| 7.1.29.1 | Does this facility perform minor surgical procedures, that is, procedures carried out under local anaesthesia, without the need for an operating theatre? | 1 Yes · 2 No |
+| 7.1.29.2 | Does this facility perform major surgical procedures, that is, procedures carried out under general or regional anaesthesia, in an operating theatre? | 1 Yes · 2 No |
+| 7.1.29.3 | Does this facility perform voluntary medical male circumcision? | 1 Yes · 2 No |
+| 7.1.29.4 | Which of the following three procedures have been performed at this facility in the past 12 months? *Read all three.* <br>a) Caesarean section · b) Laparotomy · c) Treatment of an open fracture | For each: 1 Yes · 2 No |
+| 7.1.30 to 7.1.34 | Does this facility perform surgical procedures in any of the following specialty areas?<br>Paediatric surgery · Maxillofacial surgery · Vascular surgery · Neurosurgery · Plastic surgery | For each: 1 Yes · 2 No |
+
+### 7.2.A Imaging
+
+*Statement to read:* "I am going to ask about some imaging tests. For each one, tell me whether it is performed at this facility, using this facility's own equipment. Do not count tests that patients have done elsewhere on their own initiative."
+
+| Code | Test | Response options |
+|---|---|---|
+| 7.2.A.1 | Ultrasound | 1 Yes · 2 No |
+| 7.2.A.2 | Radiography (X-ray) | 1 Yes · 2 No |
+| 7.2.A.3 | Mammography | 1 Yes · 2 No |
+| 7.2.A.4 | Computed tomography | 1 Yes · 2 No |
+| 7.2.A.5 | Magnetic resonance imaging | 1 Yes · 2 No |
+| 7.2.A.6 | Angiography or catheterisation | 1 Yes · 2 No |
+| 7.2.A.7 | Fluoroscopy | 1 Yes · 2 No |
+| 7.2.A.8 | Nuclear medicine | 1 Yes · 2 No |
+
+### 7.2.B Procedures and technologies
+
+*Statement to read:* "I am going to ask about some procedures. For each one, tell me whether this facility has carried it out at least once in the past 3 months. Do not count procedures that the facility could carry out but does not carry out in practice."
+
+| Code | Procedure | Response options |
+|---|---|---|
+| 7.2.B.1 | Defibrillation | 1 Yes · 2 No |
+| 7.2.B.2 | Electrocardiogram | 1 Yes · 2 No |
+| 7.2.B.3 | Electroencephalogram | 1 Yes · 2 No |
+| 7.2.B.4 | Incubator for newborns | 1 Yes · 2 No |
+| 7.2.B.5 | Phototherapy for neonatal jaundice | 1 Yes · 2 No |
+| 7.2.B.6 | Radiotherapy | 1 Yes · 2 No |
+| 7.2.B.7 | Renal dialysis | 1 Yes · 2 No |
+| 7.2.B.8 | Mechanical ventilation | 1 Yes · 2 No |
+| 7.2.B.9 | Blood transfusion | 1 Yes · 2 No |
+| 7.2.B.10 | Colonoscopy | 1 Yes · 2 No |
+| 7.2.B.11 | Administration of oxygen to patients | 1 Yes · 2 No |
+
+### 7.2.C Laboratory tests
+
+*Statement to read:* "I am going to ask about laboratory tests. For each one, tell me whether it is performed at this facility, whether the sample is sent to another laboratory with the result coming back to this facility, or whether it is not available to this facility's patients. Consider the usual situation over the past 3 months, not a one-off stock-out of a reagent."
+
+**Options for all items: 1 Performed at this facility · 2 Sample sent out, with the result returned · 3 Not available**
+
+| Code | Test |
+|---|---|
+| 7.2.C.1 | General microscopy |
+| 7.2.C.2 | Culture and antibiotic sensitivity testing |
+| 7.2.C.3 | Malaria diagnosis — thick blood smear or rapid test |
+| 7.2.C.4 | Rapid syphilis test |
+| 7.2.C.5 | HIV diagnostic test |
+| 7.2.C.6 | Tuberculosis diagnostic test |
+| 7.2.C.7 | Urine pregnancy test |
+| 7.2.C.8 | Urine dipstick — protein |
+| 7.2.C.9 | Urine dipstick — glucose |
+| 7.2.C.10 | Urine dipstick — ketones |
+| 7.2.C.11 | Haemoglobin or haematocrit |
+| 7.2.C.12 | Full blood count |
+| 7.2.C.13 | Blood typing and grouping |
+| 7.2.C.14 | Blood glucose |
+| 7.2.C.15 | Serum electrolytes |
+| 7.2.C.16 | Renal function tests — urea or creatinine |
+| 7.2.C.17 | Liver function tests — transaminases or bilirubin |
+
+### 7.2.D Other support services
+
+| Code | Question | Response options |
+|---|---|---|
+| 7.2.6 | Does this facility have a pathology service, unit or section, separate from the clinical analysis laboratory? | 1 Yes · 2 No |
+| 7.2.8 | Does this facility provide rehabilitation services — physiotherapy, occupational therapy, speech therapy or physical rehabilitation? | 1 Yes · 2 No |
+| 7.2.9 | Does this facility have an operating theatre? If yes, how many operating theatres are in usable condition? | 1 Yes, \|\_\_\| theatres · 2 No |
+| 7.2.10 | Does this facility have a pharmacy or medicines store, with a designated officer in charge, that dispenses medicines to patients? | 1 Yes · 2 No |
+| 7.2.15 | Does this facility provide palliative care — care intended to relieve the suffering of patients with advanced disease, including pain control? | 1 Yes · 2 No |
+
+### 7.2.E Emergency services
+
+| Code | Question | Response options |
+|---|---|---|
+| 7.2.12.1 | Does this facility attend to patients in emergency situations who arrive without an appointment, as the first point of entry into the system? *If 2, skip to 7.3.* | 1 Yes · 2 No |
+| 7.2.12.2 | Is there a dedicated emergency unit at this facility — a space of its own for emergencies, separate from the outpatient department — open 24 hours a day, every day? | 1 Yes · 2 No |
+| 7.2.12.3 | Are medical and nursing staff present in the emergency unit 24 hours a day, every day? *Consider physical presence at the facility, not availability on call.* | 1 Yes · 2 No · 98 Does not know |
+| 7.2.12.4 | Does the emergency unit have rapid access to emergency transport for referring patients, 24 hours a day? | 1 Yes · 2 No |
+| 7.2.12.5 | Does this facility's pharmacy dispense medicines 24 hours a day, every day? | 1 Yes · 2 No |
+| 7.2.12.6 | Are this facility's radiology services available 24 hours a day, every day? | 1 Yes · 2 No · 97 Has no radiology |
+| 7.2.12.7 | Are this facility's laboratory services available 24 hours a day, every day? | 1 Yes · 2 No · 97 Has no laboratory |
+| 7.2.12.8 | When a patient is taken to another facility in an emergency, is he or she usually accompanied by a doctor or nurse from this facility? | 1 Yes · 2 No · 98 Does not know |
+| 7.2.12.9 | Does the emergency unit have its own staff, assigned exclusively to this service, who do not rotate through other services of the facility? | 1 Yes · 2 No |
+| 7.2.12.10 | Is there a formal triage system in the emergency unit, with written criteria for classifying the severity of patients on arrival? | 1 Yes · 2 No |
+
+### 7.3.1 Immunization
+
+| Code | Question | Response options |
+|---|---|---|
+| 7.3.1 | Does this facility administer Expanded Programme on Immunization vaccines on a regular basis? *Do not count one-off campaigns run by outside teams. If 2, skip to 7.3.2.* | 1 Yes · 2 No |
+| 7.3.1.a | How often are routine childhood vaccines administered at this facility? | 1 Every day the facility is open · 2 Once or more a week · 3 Monthly or quarterly · 4 Only during campaigns |
+| 7.3.1.b to 7.3.1.e | *Statement to read:* "I am going to read out the list of vaccines in the national schedule. For each one, tell me whether this facility routinely administers it to the age group indicated. Consider usual practice, not a one-off stock-out."<br>**At birth:** BCG · Oral polio · Hepatitis B<br>**Infants (< 1 year):** BCG · OPV · DPT-HepB-Hib · Rotavirus · IPV<br>**Children (1 to 5 years):** Measles · Pneumococcal · COVID-19<br>**Adolescents and adults:** Tetanus · HPV · Influenza · COVID-19 · Pneumococcal · Hepatitis B | For each: 1 Yes · 2 No |
+
+### 7.3.2 to 7.3.5 Child health and nutrition
+
+| Code | Question | Response options |
+|---|---|---|
+| 7.3.CH | Does this facility provide preventive or curative care to children under 5 years of age? *If 2, skip to 7.3.6.* | 1 Yes · 2 No |
+| | *Statement to read:* "I am going to ask about services provided to children under 5 years of age. For each one, tell me whether it is routinely provided at this facility." | For each: 1 Yes · 2 No |
+| 7.3.5 | Routine growth monitoring, with weighing and recording on the child health card | 1 Yes · 2 No |
+| 7.3.4 | Diagnosis or treatment of malnutrition | 1 Yes · 2 No |
+| 7.3.4.2 | Outpatient management of severe acute malnutrition without complications, using ready-to-use therapeutic food | 1 Yes · 2 No |
+| 7.3.4.3 | Outpatient management of moderate acute malnutrition or other categories | 1 Yes · 2 No |
+| 7.3.4.4 | Inpatient management of severe malnutrition with complications | 1 Yes · 2 No |
+| 7.3.2 | Routine administration of vitamin A | 1 Yes · 2 No |
+| 7.3.2.1 | Diagnosis and treatment of anaemia with iron supplementation | 1 Yes · 2 No |
+| 7.3.4.1 | Diagnosis and treatment of diarrhoea with oral rehydration salts and zinc | 1 Yes · 2 No |
+| 7.3.2.2 | Diagnosis and first-line treatment of pneumonia | 1 Yes · 2 No |
+| 7.3.2.3 | Diagnosis of malaria with a laboratory test and its treatment | 1 Yes · 2 No |
+| 7.3.14 | Provision of an insecticide-treated net or of a voucher to collect one | 1 Yes · 2 No |
+| 7.3.17.a | Regular liaison with community health workers for the follow-up of children | 1 Yes · 2 No |
+| 7.3.3 | Distribution of albendazole (deworming) | 1 Yes · 2 No |
+
+### 7.3.6 Antenatal care
+
+| Code | Question | Response options |
+|---|---|---|
+| 7.3.6 | Does this facility provide antenatal care to pregnant women? *If 2, skip to 7.3.7.* | 1 Yes · 2 No |
+| | *Statement to read:* "I am going to read out a list of actions that may form part of antenatal care. For each one, tell me whether it is routinely carried out at this facility for the women who receive antenatal care here." | For each: 1 Yes · 2 No |
+| 7.3.6.a | Prescription or provision of iron supplements | 1 Yes · 2 No |
+| 7.3.6.b | Prescription or provision of folic acid | 1 Yes · 2 No |
+| 7.3.6.c | Administration of tetanus vaccine | 1 Yes · 2 No |
+| 7.3.6.d | Blood pressure measurement at every visit, to detect hypertensive disorders of pregnancy | 1 Yes · 2 No |
+| 7.3.6.e | Routine testing for protein in the urine | 1 Yes · 2 No |
+| 7.3.6.f | Administration of intermittent preventive treatment for malaria | 1 Yes · 2 No |
+| 7.3.6.g | Offer of an HIV test to all pregnant women | 1 Yes · 2 No |
+| 7.3.6.h | Provision of an insecticide-treated net or of a voucher to collect one | 1 Yes · 2 No |
+| 7.3.6.i | Routine syphilis testing | 1 Yes · 2 No |
+| 7.3.6.j | Treatment of syphilis in pregnant women who test positive | 1 Yes · 2 No |
+| 7.3.6.k | Diagnosis and treatment of other sexually transmitted infections | 1 Yes · 2 No |
+| 7.3.6.l | Liaison with community health workers to identify and follow up pregnant women | 1 Yes · 2 No |
+
+### 7.3.7 Deliveries and emergency obstetric care
+
+| Code | Question | Response options |
+|---|---|---|
+| 7.3.7 | Does this facility attend deliveries? *If 2, skip to 7.3.8.* | 1 Yes · 2 No |
+| 7.3.7.0 | Is delivery care by a skilled professional — a doctor, nurse or trained midwife — available at this facility 24 hours a day, every day of the week? | 1 Yes · 2 No |
+| | *Statement to read:* "I am going to read out a list of procedures and practices related to delivery. For each one, tell me whether it has been carried out at this facility at least once in the past 3 months. If the procedure is practised here but there have been no cases in the past 3 months, answer 'yes, but no recent cases'." | **For each: 1 Yes, carried out in the past 3 months · 2 Yes, practised here, but no cases in the past 3 months · 3 Not carried out at this facility** |
+| 7.3.7.a | Parenteral administration of antibiotics to the mother | 1 · 2 · 3 |
+| 7.3.7.b | Parenteral administration of uterotonics to treat postpartum haemorrhage | 1 · 2 · 3 |
+| 7.3.7.c | Parenteral administration of magnesium sulphate for pre-eclampsia or eclampsia | 1 · 2 · 3 |
+| 7.3.7.d | Assisted vaginal delivery with vacuum extractor or forceps | 1 · 2 · 3 |
+| 7.3.7.e | Manual removal of the placenta | 1 · 2 · 3 |
+| 7.3.7.f | Removal of retained products of conception, by curettage or manual vacuum aspiration | 1 · 2 · 3 |
+| 7.3.7.g | Newborn resuscitation with bag and mask | 1 · 2 · 3 |
+| 7.3.7.h | Administration of antibiotics for premature rupture of membranes | 1 · 2 · 3 |
+| 7.3.7.i | Administration of corticosteroids in preterm labour | 1 · 2 · 3 |
+| 7.3.7.j | Kangaroo mother care for preterm or low-birth-weight newborns | 1 · 2 · 3 |
+| 7.3.7.k | Administration of injectable antibiotics for neonatal sepsis | 1 · 2 · 3 |
+| 7.3.7.l | Administration of oxytocin to prevent postpartum haemorrhage | 1 · 2 · 3 |
+| 7.3.7.m | Monitoring of labour with a partograph | 1 · 2 · 3 |
+| 7.3.7.n | Initiation of breastfeeding within the first hour of life | 1 · 2 · 3 |
+| 7.3.7.o | Hygienic umbilical cord care | 1 · 2 · 3 |
+| 7.3.7.p | Drying of the newborn and immediate skin-to-skin contact | 1 · 2 · 3 |
+| 7.3.7.q | Rooming-in of mother and newborn | 1 · 2 · 3 |
+| 7.3.7.r | Delayed umbilical cord clamping | 1 · 2 · 3 |
+| 7.3.7.s | Caesarean section | 1 · 2 · 3 |
+| 7.3.7.t | Blood transfusion for women in labour or after delivery | 1 · 2 · 3 |
+
+### 7.3.8 Postnatal care
+
+| Code | Question | Response options |
+|---|---|---|
+| 7.3.8 | Does this facility provide postnatal care to the mother, to the newborn, or to both, in the six weeks following delivery? | 1 Yes · 2 No |
+| | *Statement to read:* "For each of the following actions, tell me whether it is routinely carried out at this facility's postnatal visits." | For each: 1 Yes · 2 No |
+| 7.3.8.a | Family planning counselling | 1 Yes · 2 No |
+| 7.3.8.b | Counselling on danger signs in the newborn | 1 Yes · 2 No |
+| 7.3.8.c | Counselling on umbilical cord care and hygiene | 1 Yes · 2 No |
+| 7.3.8.d | Counselling on child nutrition and feeding | 1 Yes · 2 No |
+| 7.3.8.e | Counselling on exclusive breastfeeding up to 6 months | 1 Yes · 2 No |
+| 7.3.8.f | Counselling on the childhood immunization schedule | 1 Yes · 2 No |
+| 7.3.8.g | Administration of BCG vaccine to the newborn | 1 Yes · 2 No |
+| 7.3.8.h | Administration of polio vaccine to the newborn | 1 Yes · 2 No |
+| 7.3.8.i | Provision of an insecticide-treated net for the infant | 1 Yes · 2 No |
+| 7.3.8.j | Liaison with community health workers for the follow-up of the newborn | 1 Yes · 2 No |
+
+### 7.3.9 Family planning
+
+| Code | Question | Response options |
+|---|---|---|
+| 7.3.9 | Does this facility provide family planning services — counselling, prescription or supply of contraceptive methods? | 1 Yes · 2 No |
+| | *Statement to read:* "I am going to read out a list of contraceptive methods. For each one, tell me whether this facility routinely supplies or inserts it. Consider usual practice, not a one-off stock-out." | For each: 1 Yes · 2 No |
+| 7.3.9.a | Combined oral contraceptive pill | 1 Yes · 2 No |
+| 7.3.9.b | Progestogen-only pill | 1 Yes · 2 No |
+| 7.3.9.c | Combined injectable contraceptive | 1 Yes · 2 No |
+| 7.3.9.d | Progestogen-only injectable contraceptive | 1 Yes · 2 No |
+| 7.3.9.e | Male condom | 1 Yes · 2 No |
+| 7.3.9.f | Female condom | 1 Yes · 2 No |
+| 7.3.9.g | Intrauterine device | 1 Yes · 2 No |
+| 7.3.9.h | Subcutaneous implant | 1 Yes · 2 No |
+| 7.3.9.i | Emergency contraception | 1 Yes · 2 No |
+| 7.3.9.j | Male sterilisation (vasectomy) | 1 Yes · 2 No |
+| 7.3.9.k | Female sterilisation (tubal ligation) | 1 Yes · 2 No |
+| 7.3.9.l | Cycle beads, for the standard days method | 1 Yes · 2 No |
+| 7.3.9.m | Liaison with community health workers for the distribution of methods | 1 Yes · 2 No |
+
+### 7.3.10 to 7.3.12 HIV
+
+| Code | Question | Response options |
+|---|---|---|
+| 7.3.10 | Does this facility carry out HIV testing with counselling, on request or on clinical indication? | 1 Yes · 2 No |
+| 7.3.10.a | Testing of adolescents and adults (15 years and over) | 1 Yes · 2 No |
+| 7.3.10.b | Testing of children aged 5 to 14 years | 1 Yes · 2 No |
+| 7.3.10.c | Testing of children under 5 years of age | 1 Yes · 2 No |
+| 7.3.12 | Does this facility provide antiretroviral treatment or follow up patients already on antiretroviral treatment? | 1 Yes · 2 No |
+| 7.3.12.a | Antiretroviral treatment for adults and adolescents | 1 Yes · 2 No |
+| 7.3.11.a | Antiretroviral treatment for children aged 5 to 14 years | 1 Yes · 2 No |
+| 7.3.11.b | Antiretroviral treatment for children under 5 years of age | 1 Yes · 2 No |
+| 7.3.12.b | Dispensing or prescription of antiretroviral medicines | 1 Yes · 2 No |
+| 7.3.12.c | Clinical follow-up visits for patients on treatment | 1 Yes · 2 No |
+| 7.3.12.d | Counselling and follow-up on treatment adherence | 1 Yes · 2 No |
+
+### 7.3.13 Tuberculosis
+
+| Code | Question | Response options |
+|---|---|---|
+| 7.3.13 | Does this facility provide any tuberculosis-related service — diagnosis, treatment or follow-up of patients? | 1 Yes · 2 No |
+| 7.3.13.a | Diagnosis or treatment of drug-resistant tuberculosis | 1 Yes · 2 No |
+| 7.3.13.b | Performance of tuberculosis diagnostic tests | 1 Yes · 2 No |
+| 7.3.13.c | Clinical follow-up visits and prescription of medicines | 1 Yes · 2 No |
+| 7.3.13.d | Resupply of medicines at follow-up visits | 1 Yes · 2 No |
+| 7.3.13.e | Support for treatment adherence, including directly observed treatment | 1 Yes · 2 No |
+| 7.3.13.f | Offer of an HIV test to all tuberculosis patients | 1 Yes · 2 No |
+| 7.3.13.g | Liaison with community health workers to trace patients lost to follow-up or to support treatment | 1 Yes · 2 No |
+| 7.3.13.h | Inpatient room or ward dedicated to respiratory isolation | 1 Yes · 2 No |
+
+### 7.3.18 Malaria
+
+| Code | Question | Response options |
+|---|---|---|
+| 7.3.18 | Does this facility diagnose or treat malaria? | 1 Yes · 2 No |
+| 7.3.18.a | Diagnosis by rapid test | 1 Yes · 2 No |
+| 7.3.18.b | Diagnosis by microscopy (thick blood smear) | 1 Yes · 2 No |
+| 7.3.18.c | Treatment started on the basis of signs and symptoms alone, without a laboratory test | 1 Yes · 2 No |
+| 7.3.18.d | Treatment of malaria with antimalarial medicines | 1 Yes · 2 No |
+| 7.3.18.e | Liaison with community health workers for the diagnosis or treatment of malaria | 1 Yes · 2 No |
+
+### 7.3.19 Noncommunicable diseases
+
+| Code | Question | Response options |
+|---|---|---|
+| 7.3.19 | Does this facility diagnose, treat or follow up patients with any chronic noncommunicable disease? | 1 Yes · 2 No |
+| | *Statement to read:* "I am going to read out a list of conditions. For each one, tell me whether this facility diagnoses, treats or regularly follows up patients with that condition. Answer according to what the facility does in practice, not according to whether a specialist clinic exists." | For each: 1 Yes · 2 No |
+| 7.3.19.a | Cardiovascular disease, including hypertension | 1 Yes · 2 No |
+| 7.3.19.b | Diabetes | 1 Yes · 2 No |
+| 7.3.19.c | Chronic respiratory disease — asthma or chronic obstructive pulmonary disease | 1 Yes · 2 No |
+| 7.3.19.d | Cervical cancer, including screening | 1 Yes · 2 No |
+| 7.3.19.e | Breast cancer, including screening | 1 Yes · 2 No |
+| 7.3.19.f | Mental disorders — depression, anxiety, psychosis, substance use | 1 Yes · 2 No |
+| 7.3.19.g | Neurological diseases, including epilepsy | 1 Yes · 2 No |
+
+### 7.3.15 to 7.3.17 Community outreach
+
+| Code | Question | Response options |
+|---|---|---|
+| 7.3.15 | In the past 12 months, has this facility organised mobile brigades — visits by teams from this facility to sites outside the grounds, to provide care? | 1 Yes, regularly · 2 Yes, occasionally · 3 No |
+| 7.3.16 | In the past 12 months, has this facility organised outreach teams — temporary service points set up outside the grounds? | 1 Yes, regularly · 2 Yes, occasionally · 3 No |
+| 7.3.17 | Are there community development and health workers working in this facility's catchment area and liaising with it? If yes, how many? | 1 Yes, \|\_\_\|\_\_\| workers · 2 No · 98 Does not know |
+
+### 7.4 Management services
+
+| Code | Question | Response options |
+|---|---|---|
+| 7.4.1 to 7.4.17 | *Statement to read:* "I am going to read out a list of management services and bodies. For each one, tell me whether it exists at this facility and whether it has been operating in the past 3 months."<br>Admissions and clinical-statistical records · General directorate · Clinical directorate · Teaching directorate · Administration · Department heads · Human resources · Training school for health technicians · Continuing education unit (medical internship site · nursing internship site) · Information technology and statistics · Social work · Ethics and professional conduct committee · Hospital infection committee · Hospital mortality committee · Medicines committee · Safety committee · Discipline and audit committee | For each: 1 Exists and has operated in the past 3 months · 2 Exists but has not operated in the past 3 months · 3 Does not exist |
+
+### 7.5 General services
+
+| Code | Question | Response options |
+|---|---|---|
+| 7.5.1 | Does this facility have access to an ambulance or another vehicle in working order for the emergency transport of patients — whether it is parked at this facility or can be called in from elsewhere? *If 3, skip to 7.5.2.* | 1 Yes, an ambulance · 2 Yes, another type of vehicle · 3 No |
+| 7.5.1.1 | Is that vehicle available today, in working order, with fuel and with a driver? *If the respondent is not sure, ask them to check with someone who knows.* | 1 Yes · 2 No · 98 Does not know |
+| 7.5.7 | Does this facility have a means of communication with the outside — a landline, mobile phone or radio — paid for or provided by the facility itself? *Do not count staff members' personal mobile phones.* | 1 Yes, and it is working · 2 Yes, but it is out of order · 3 No, there are only staff members' personal mobile phones · 4 There is no means of communication with the outside |
+| 7.5.7.1 | Does this facility have at least one working computer? | 1 Yes · 2 No |
+| 7.5.7.2 | Is there access to email or to the internet at this facility today? | 1 Yes, through the facility's own equipment · 2 Yes, but only through staff members' personal equipment · 3 There is no access |
+| 7.5.7.3 | Is the cost of the internet connection paid or reimbursed by this facility's management? | 1 Yes · 2 No · 97 Not applicable |
+| 7.5.2 to 7.5.18 | *Statement to read:* "I am going to read out a list of general support services. For each one, tell me whether it exists at this facility and whether it has been operating in the past 3 months."<br>Kitchen · Dining room or canteen · Laundry · Mortuary · Hygiene and cleaning · Maintenance · Security · Assembly hall · Library · Staff housing · Chapel · Parking · Grounds and landscaping · Video surveillance · Patient liaison office | For each: 1 Exists and has operated in the past 3 months · 2 Exists but has not operated · 3 Does not exist |
+| 7.5.5.2 | How many mortuary drawers does this facility's mortuary have? | \|\_\_\|\_\_\| · 97 Has no mortuary |
+
+## Section 8 — Beds
+
+*Statement to read:* "I am going to ask about the number of beds at this facility. Count only the beds that are installed and available to receive patients today. Do not count beds that are broken, beds kept in a store room, or beds that are planned but not yet installed."
+
+| Code | Question | Field |
+|---|---|---|
+| 8.1.1 | Observation beds — where the patient stays a few hours and does not stay overnight | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.2 | Adult-size inpatient beds | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.2.1 | Paediatric-size inpatient beds | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.5 | Cots for newborns | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.6 | Of the beds counted above, how many are dedicated to maternity | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.7 | How many are dedicated to surgery | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.8 | How many are dedicated to psychiatry | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.9 | How many are dedicated to the emergency unit | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.10 | How many are adult intensive care beds | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.11 | How many are paediatric intensive care beds | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.12 | How many are neonatal intensive care cots | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.13 | How many are intermediate care beds | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.14 | How many are isolation beds | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.3 | Delivery tables installed and usable | \|\_\_\|\_\_\| |
+| 8.1.4 | Dental chairs installed and usable | \|\_\_\|\_\_\| |
+
+*Check: the sum of 8.1.6 to 8.1.14 cannot exceed the sum of 8.1.2 and 8.1.2.1.*
+
+## Section 9 — Equipment
+
+### 9.1 Observation checklist *(complete only in facilities that are visited)*
+
+*Statement to read:* "I am going to ask about some items of equipment that should be present in the main service area of this facility. For each one, I would ask you to show me the item and to tell me, where applicable, whether it is working. Consider only the equipment available in the service area, not equipment kept in a store room."
+
+**Column A — availability: 1 Seen · 2 Reported, not seen · 3 Does not have**
+**Column B — functioning: 1 Yes, working · 2 Not working · 98 Does not know**
+
+| Code | Item | A | B |
+|---|---|---|---|
+| 9.1.4 | Adult scale | \|\_\_\| | \|\_\_\| |
+| 9.1.16 | Child scale, graduated in 250 g | \|\_\_\| | \|\_\_\| |
+| 9.1.3 | Infant scale, graduated in 100 g | \|\_\_\| | \|\_\_\| |
+| 9.1.8 | Blood pressure measuring device, digital or manual sphygmomanometer | \|\_\_\| | \|\_\_\| |
+| 9.1.7 | Stethoscope | \|\_\_\| | \|\_\_\| |
+| 9.1.17 | Thermometer | \|\_\_\| | \|\_\_\| |
+| 9.1.18 | Pulse oximeter | \|\_\_\| | \|\_\_\| |
+| 9.1.19 | Adjustable examination lamp for examining the patient (a torch is acceptable) | \|\_\_\| | \|\_\_\| |
+| 9.1.20 | Otoscope | \|\_\_\| | \|\_\_\| |
+| 9.1.21 | Ophthalmoscope | \|\_\_\| | \|\_\_\| |
+| 9.1.22 | Measuring tape | \|\_\_\| | — |
+| 9.1.23 | Height board or stadiometer | \|\_\_\| | \|\_\_\| |
+
+### 9.2 Equipment count
+
+*Statement to read:* "For each of the following items of equipment, tell me how many there are at this health facility that were in usable condition in the past month."
+
+| Code | Device | Quantity |
+|---|---|---|
+| 9.1.1 | Steriliser (hot air oven or autoclave) | \|\_\_\|\_\_\| |
+| 9.1.2 | EPI cold box | \|\_\_\|\_\_\| |
+| 9.1.5 | X-ray machine | \|\_\_\|\_\_\| |
+| 9.1.6 | Pinard stethoscope | \|\_\_\|\_\_\| |
+| 9.1.9 | Obstetric ultrasound scanner | \|\_\_\|\_\_\| |
+| 9.1.10 | Vaginal examination kit with speculum | \|\_\_\|\_\_\| |
+| 9.1.11 | Uterine evacuation kit | \|\_\_\|\_\_\| |
+| 9.1.12 | Neonatal resuscitator | \|\_\_\|\_\_\| |
+| 9.1.13 | Instrumental delivery kit | \|\_\_\|\_\_\| |
+| 9.1.14 | Disposable delivery kit | \|\_\_\|\_\_\| |
+| 9.1.15 | Caesarean section kit | \|\_\_\|\_\_\| |
+
+## Section 10 — Means of transport
+
+*Statement to read:* "I am going to ask about the vehicles assigned to this health facility. Count only vehicles that belong to this facility or that are permanently assigned to it. For each type, tell me how many are roadworthy today and how many are off the road because of a breakdown or missing documentation."
+
+| Code | Type of vehicle | Roadworthy | Off the road |
+|---|---|---|---|
+| 10.1.1 | Ambulance | \|\_\_\|\_\_\| | \|\_\_\|\_\_\| |
+| 10.1.2 | Light vehicle | \|\_\_\|\_\_\| | \|\_\_\|\_\_\| |
+| 10.1.3 | Four-wheel-drive vehicle | \|\_\_\|\_\_\| | \|\_\_\|\_\_\| |
+| 10.1.4 | Motorcycle | \|\_\_\|\_\_\| | \|\_\_\|\_\_\| |
+| 10.1.5 | Other (specify) | \|\_\_\|\_\_\| | \|\_\_\|\_\_\| |
+
+## Section 11 — Staff assigned to the facility
+
+| Code | Question | Response options |
+|---|---|---|
+| 11.1 | Does this facility have an approved staffing establishment, setting out the authorised number of professionals by qualification? *If yes, ask to see the document.* | 1 Yes, seen · 2 Yes, reported but not seen · 3 Does not have one |
+
+**11.2** *Statement to read:* "I am going to read out a list of staff cadres. For each one, tell me how many people in that cadre are currently assigned to this health facility, and how many of them are women. Count the people on this facility's establishment, including those on leave or on sick leave, and not only those present today. Do not count visiting staff or volunteer staff, who are asked about further on."
+
+| Code | Cadre | Total | Women |
+|---|---|---|---|
+| 11.2.a | General practitioners | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.b | Doctors specialised in family medicine | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.c | Specialist doctors — medical specialties | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.d | Specialist doctors — paediatrics | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.e | Specialist doctors — obstetrics and gynaecology | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.f | Specialist doctors — surgical specialties | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.g | Specialist doctors — psychiatry | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.h | Nurses | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.i | Midwives | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.j | Nurse-midwives with dual training | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.k | Clinical officers | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.l | Dentists | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.m | Pharmacists | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.n | Nutritionists | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.o | Physiotherapists | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.p | Laboratory technicians | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.q | Imaging technicians | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.r | Pharmacy technicians | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.s | Statistics and medical records technicians | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.t | Other health professionals | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+
+*Check: the number of women cannot exceed the total on any row.*
+
+| Code | Question | Response options |
+|---|---|---|
+| 11.3 | How often does this facility receive visits from specialist doctors who are not assigned to it? *Consider the past 12 months.* | 1 Never receives any · 2 Daily or weekly · 3 At least once a month · 4 At least once a quarter · 5 Less often than that |
+| 11.4 to 11.7 | *Statement to read:* "For each of the following posts, tell me whether the person holding it has specific training in management — a course, a postgraduate qualification or a recognised qualification in health services management or in administration."<br>11.4 Facility director · 11.5 Administrator · 11.6 Clinical director · 11.7 Director of nursing | For each: 1 Yes · 2 No · 97 The post does not exist at this facility · 98 Does not know |
+| 11.8 | Does this facility have professionals working on a voluntary basis, without paid employment? If yes, in which cadres?<br>11.8.a General practitioner · 11.8.b Specialist doctor · 11.8.c Nurse or midwife | For each: 1 Yes · 2 No |
+
+---
+
+*End of questionnaire.*

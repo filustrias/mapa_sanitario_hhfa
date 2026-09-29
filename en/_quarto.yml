@@ -1,0 +1,40 @@
+project:
+  type: book
+  output-dir: _book
+
+lang: en
+
+book:
+  title: "Comparative analysis of the MINSA Health Map and the Harmonized Health Facility Assessment"
+  date: "2026-09-29"
+  date-format: long
+  repo-url: https://github.com/filustrias/mapa_sanitario_hhfa
+  repo-subdir: en
+  repo-actions: [source, issue]
+  search: true
+  chapters:
+    - index.qmd
+    - 01-panoramica.qmd
+    - 02-formulacao.qmd
+    - 03-cobertura.qmd
+    - 04-incrementos.qmd
+    - 05-decisoes.qmd
+    - 06-ficha-revista.qmd
+  appendices:
+    - anexo-1.qmd
+
+format:
+  html:
+    from: markdown-markdown_in_html_blocks-blank_before_blockquote+hard_line_breaks
+    theme:
+      light: [cosmo, ../shared/light.scss]
+      dark: [darkly, ../shared/dark.scss]
+    respect-user-color-scheme: true
+    include-in-header: ../shared/head.html
+    include-after-body: ../shared/reader-tools.html
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    anchor-sections: true

@@ -1,0 +1,1036 @@
+# Ficha revista {.unnumbered}
+
+::: {style="border-left:6px solid #0b6e99;background:#eaf4f9;padding:14px 18px;border-radius:6px;"}
+
+<p class="chapter-lead">Ficha de Cadastramento de Unidades Sanitárias<br>Proposta de versão revista, com perguntas formuladas por extenso e indicadores do HHFA anotados</p>
+
+Versão de trabalho para discussão com o Gabinete de Estudos, Planeamento e Estatística. Mantém a estrutura, a numeração e o propósito da Ficha versão 19_01, e reformula as perguntas e as opções de resposta segundo a redação do Harmonized Health Facility Assessment, traduzida do original.
+
+**Cada pergunta está escrita na íntegra, tal como deve ser lida**, com a unidade de medida, o período de referência e o ponto de referência incorporados no próprio texto. **Cada uma é anotada com o indicador do HHFA que passa a poder ser calculado.**
+
+:::
+
+::: {style="border:3px solid #c0392b;background:#fdecea;padding:18px 20px;border-radius:8px;margin:18px 0;"}
+
+### ⚠ LEIA PRIMEIRO: o padrão de formulação adotado
+
+<p style="font-size:1.08em;line-height:1.55;margin:0 0 10px 0;"><strong style="color:#c0392b;">Uma pergunta que cada inquiridor tem de completar por sua conta é uma pergunta diferente em cada unidade sanitária.</strong> "Distância à unidade de referência — minutos, km totais" obriga quem recolhe a decidir sozinho por que estrada, com que meio de transporte, em que época do ano e medida como. As respostas que daí saem não são comparáveis entre si, e nenhuma análise posterior consegue recuperar essa variação.</p>
+
+<p style="font-size:1.04em;line-height:1.5;margin:0 0 10px 0;">Esta versão aplica nove regras de formulação a todas as perguntas. São as mesmas que o HHFA aplica, e o efeito é que a pergunta fica igual em todas as unidades, independentemente de quem a faz.</p>
+
+<ol style="font-size:1.0em;line-height:1.5;margin:0 0 12px 0;">
+<li><strong>A pergunta lê-se na íntegra, tal como está escrita.</strong> O inquiridor não completa nem resume.</li>
+<li><strong>A unidade de medida está dentro da pergunta</strong> — quilómetros, minutos, número de pessoas, metros quadrados.</li>
+<li><strong>O período de referência está dentro da pergunta</strong> — hoje, nos últimos 7 dias, nos últimos 3 meses, nos últimos 12 meses, nos últimos 2 anos.</li>
+<li><strong>O ponto de referência está dentro da pergunta</strong> — de onde a onde, contado como, por quem, em que condições.</li>
+<li><strong>Uma pergunta produz um facto.</strong> Conceitos compostos separam-se em perguntas distintas.</li>
+<li><strong>As opções de resposta são mutuamente exclusivas e exaustivas</strong>, e estão escritas no formulário, não deixadas ao critério de quem anota.</li>
+<li><strong>Há sempre código para "não sabe"</strong> (98) e, quando aplicável, para "não se aplica" (97). Um campo em branco deixa de ser ambíguo.</li>
+<li><strong>As instruções ao inquiridor estão graficamente separadas</strong> do texto a ler ao respondente. Neste documento aparecem em <em>itálico e em maiúsculas</em>.</li>
+<li><strong>As verificações de consistência estão declaradas</strong> junto das perguntas a que se aplicam, para serem programadas na aplicação de recolha.</li>
+</ol>
+
+<hr style="border:none;border-top:2px dashed #c0392b;margin:14px 0;">
+
+<p style="font-size:1.03em;line-height:1.5;margin:0 0 8px 0;"><strong style="color:#c0392b;">O HHFA prevê instrumentos exatamente como o Mapa Sanitário.</strong> O inventário tem duas subáreas — <strong>1.3.2, disponibilidade de serviços específicos</strong>, e <strong>1.3.3, disponibilidade de tecnologias e procedimentos</strong> — cuja designação termina com a indicação <em>"a usar apenas quando não se aplica o módulo de prontidão"</em>. Esta proposta assenta nessa via, e a consequência é muito favorável: <strong>mais de nove em cada dez indicadores aqui capturados rendem em modo autorreferido</strong>, sem exigir observação nem alterar o processo de recolha atual.</p>
+
+<p style="font-size:1.0em;line-height:1.45;margin:0;"><strong>Convenções.</strong> A numeração dos quesitos existentes é mantida, para que a série histórica se possa reconstruir. <strong>[MS]</strong> marca quesitos próprios do Mapa Sanitário, sem correspondência no HHFA, que se mantêm por serem o seu contributo específico — mas <strong>também eles são reformulados</strong>, porque o problema de formulação é independente da origem da pergunta. <strong>◆</strong> marca as perguntas que exigem inquiridor com observação. As listas assinaladas carecem de validação pelos programas nacionais.</p>
+
+:::
+
+---
+
+## SECÇÃO 0 — Identificação da recolha
+
+**0.1** Data em que esta ficha foi preenchida: |\_\_|\_\_| dia · |\_\_|\_\_| mês · |\_\_|\_\_|\_\_|\_\_| ano
+
+**0.2** **De que modo foi preenchida esta ficha?**
+*LER AS OPÇÕES.*
+> 1 Preenchida pelo pessoal da unidade e enviada ao GEPE, sem visita de inquiridor
+> 2 Preenchida por inquiridor durante visita à unidade
+> 3 Preenchida pelo pessoal da unidade e depois conferida por inquiridor em visita
+
+*Indicador: metadado essencial. Sem ele não é possível separar, na análise, o que foi verificado do que foi apenas declarado.*
+
+**0.3** **Qual é a função da pessoa que respondeu à maior parte desta ficha?**
+> 1 Director da unidade · 2 Director adjunto · 3 Responsável de enfermagem · 4 Responsável administrativo · 5 Responsável de estatística · 6 Outra função (especificar) \_\_\_\_\_\_
+
+**0.4** **Esta unidade dispõe de um orçamento próprio, isto é, de uma dotação de fundos atribuída especificamente a esta unidade, que a sua direcção pode gerir e executar?**
+*NÃO CONSIDERAR FUNDOS GERIDOS INTEGRALMENTE PELA DIRECÇÃO MUNICIPAL OU PROVINCIAL EM NOME DA UNIDADE.*
+> 1 Sim · 2 Não · 98 Não sabe
+
+*Indicador do HHFA: **4.2.1.1.1** (âncora — ver nota).*
+
+::: {style="border-left:5px solid #b7950b;background:#fdf6e3;padding:10px 14px;border-radius:5px;"}
+
+**Nota sobre 0.4.** Na Ficha atual, o quesito 0.2 diz apenas "Marcar se a unidade tem ORÇAMENTO PRÓPRIO", sem definir o que conta como tal. Um director que recebe uma dotação municipal carimbada para a sua unidade e outro que gere uma conta bancária própria respondem os dois "sim", e são situações administrativamente muito diferentes. A redação acima fixa o critério — **poder gerir e executar** — e exclui explicitamente o caso ambíguo. O indicador 4.2.1.1.1 do HHFA é mais exigente ainda (autonomia para gerir conta bancária própria); propõe-se decidir com o grupo da gestão de finanças públicas qual dos dois critérios serve melhor a Angola, e fixá-lo na pergunta.
+
+:::
+
+---
+
+## SECÇÃO 1 — Localização
+
+**1.1 a 1.5** Província · Município · Comuna ou distrito urbano · Aldeia rural ou bairro urbano · Nome da unidade sanitária
+*REGISTAR A DESIGNAÇÃO E O CÓDIGO INDICADO PELO MAPA SANITÁRIO.*
+
+**1.6** Categoria da unidade, segundo a classificação do Mapa Sanitário
+*ESTRATIFICADOR PRINCIPAL DE TODA A ANÁLISE. É a lista nacional de tipos de unidade que substitui a lista genérica do HHFA.*
+
+**1.7 e 1.8** **Leitura das coordenadas geográficas.**
+*EFECTUAR A LEITURA À ENTRADA PRINCIPAL DO EDIFÍCIO PRINCIPAL, AO AR LIVRE, COM O APARELHO ESTÁVEL DURANTE PELO MENOS 60 SEGUNDOS. REGISTAR EM GRAUS DECIMAIS, COM CINCO CASAS DECIMAIS.*
+> 1.7 Latitude: |\_\_|\_\_|.|\_\_|\_\_|\_\_|\_\_|\_\_|
+> 1.8 Longitude: |\_\_|\_\_|.|\_\_|\_\_|\_\_|\_\_|\_\_|
+> 1.8.1 Precisão indicada pelo aparelho, em metros: |\_\_|\_\_|\_\_|
+
+**1.9** **Esta unidade sanitária situa-se numa zona urbana, rural ou periurbana?**
+*USAR A CLASSIFICAÇÃO ADMINISTRATIVA EM VIGOR. EM CASO DE DÚVIDA, PERGUNTAR AO RESPONDENTE.*
+> 1 Urbana · 2 Rural · 3 Periurbana
+
+*Permite a desagregação urbano/rural de todos os indicadores deste formulário.*
+
+---
+
+## SECÇÃO 2 — Propriedade e gestão
+
+**2.1** **A quem pertence esta unidade sanitária?**
+*MARCAR UMA ÚNICA OPÇÃO.*
+> 1 Pública — Serviço Nacional de Saúde · 2 Pública — Polícia ou Forças Armadas · 3 Privada não lucrativa (confissão religiosa, organização não governamental, associação) · 4 Privada lucrativa · 96 Outra situação (especificar) \_\_\_\_\_\_
+
+**2.2** **Que entidade é responsável pela gestão corrente desta unidade — isto é, quem nomeia a direcção e responde pelo seu funcionamento no dia a dia?**
+*PODE SER DIFERENTE DO PROPRIETÁRIO INDICADO EM 2.1.*
+> 1 Pública · 2 Privada · 3 Mista · 96 Outra situação (especificar) \_\_\_\_\_\_
+
+---
+
+## SECÇÃO 3 — População adstrita e sistema de referência
+
+::: {style="border-left:5px solid #1e8449;background:#eafaf1;padding:10px 14px;border-radius:5px;"}
+
+**Porque esta secção é mais importante do que parece.** A população adstrita é o denominador das densidades. Cruzada com a contagem de pessoal da Secção 11 e com as camas da Secção 8, produz sozinha vinte e três indicadores de nível de sistema — o tipo de número que sustenta decisões de afetação de recursos e que nenhum inquérito por amostra consegue dar com cobertura nacional.
+
+:::
+
+### 3.1 População adstrita
+
+**3.1** **Qual é a população total residente na área de abrangência desta unidade sanitária, de acordo com a estimativa mais recente de que a unidade dispõe?**
+*REGISTAR O NÚMERO DE HABITANTES. ANOTAR 999998 SE A UNIDADE NÃO DISPUSER DE ESTIMATIVA.*
+> |\_\_|\_\_|\_\_|\_\_|\_\_|\_\_| habitantes
+
+*Indicadores do HHFA: **1.1.1.1.1 a 1.1.1.1.4** (densidade de unidades e de camas), **1.2.2.1.1 a 1.2.2.4.8** (densidade de profissionais por 10 000 habitantes), **1.4.1.1.1 a 1.4.1.1.3** (pontuações de densidade).*
+
+**3.1.1** **De onde provém essa estimativa da população?**
+> 1 Censo nacional · 2 Projeção do Instituto Nacional de Estatística · 3 Registo ou recenseamento feito pela própria unidade · 4 Estimativa fornecida pela Direcção Municipal de Saúde · 5 Estimativa fornecida pela Direcção Provincial de Saúde · 96 Outra (especificar) \_\_\_\_\_\_ · 98 Não sabe
+
+**3.1.2** **A que ano se refere essa estimativa?** |\_\_|\_\_|\_\_|\_\_|
+
+::: {style="border-left:5px solid #b7950b;background:#fdf6e3;padding:10px 14px;border-radius:5px;"}
+
+**Porquê estas duas perguntas.** Na Ficha atual, 3.1 pede a população adstrita "se conhecida", sem mais. Uma estimativa censitária de 2014 e uma contagem feita pela própria unidade no ano passado entram no mesmo campo e produzem densidades incomparáveis. Duas perguntas curtas qualificam o denominador e permitem, na análise, decidir que estimativas usar.
+
+:::
+
+### 3.2 Unidade de referência
+
+**3.2.1** **Para que unidade sanitária são habitualmente transferidos os doentes desta unidade que necessitam de cuidados que aqui não podem ser prestados?**
+*SE HOUVER MAIS DO QUE UMA, INDICAR AQUELA PARA ONDE FOI TRANSFERIDO O MAIOR NÚMERO DE DOENTES NOS ÚLTIMOS 12 MESES.*
+> Nome da unidade: \_\_\_\_\_\_ · Código do Mapa Sanitário: |\_\_|\_\_|\_\_|\_\_|\_\_|\_\_|
+
+**3.2.2** Categoria dessa unidade de referência, segundo a classificação do Mapa Sanitário: |\_\_|\_\_|
+
+**3.2.3** **Qual é o meio de transporte mais frequentemente utilizado para transferir doentes desta unidade para a unidade indicada em 3.2.1?**
+*CONSIDERAR OS ÚLTIMOS 12 MESES. MARCAR UMA ÚNICA OPÇÃO.*
+> 1 Ambulância pertencente a esta unidade · 2 Ambulância de outra unidade ou da Direcção Municipal · 3 Viatura ligeira da unidade · 4 Motorizada · 5 Transporte público ou particular, pago pelo doente ou pela família · 6 A pé ou em maca · 96 Outro (especificar) \_\_\_\_\_\_
+
+**3.2.4** **Considerando o percurso habitualmente utilizado por esse meio de transporte, qual é a distância total, em quilómetros, entre esta unidade sanitária e a unidade de referência?**
+*DISTÂNCIA PELA ESTRADA EFECTIVAMENTE PERCORRIDA, E NÃO EM LINHA RECTA. ANOTAR 998 SE NÃO SOUBER.*
+> |\_\_|\_\_|\_\_| quilómetros
+
+**3.2.5** **Desse percurso, quantos quilómetros são em estrada asfaltada?**
+> |\_\_|\_\_|\_\_| quilómetros
+
+**3.2.6** **E quantos quilómetros são em estrada de terra ou picada?**
+> |\_\_|\_\_|\_\_| quilómetros
+
+*VERIFICAÇÃO DE CONSISTÊNCIA: 3.2.5 + 3.2.6 deve ser igual a 3.2.4. SE NÃO FOR, CONFIRMAR COM O RESPONDENTE ANTES DE PROSSEGUIR.*
+
+**3.2.7** **Na época seca, quanto tempo demora habitualmente esse percurso, em minutos, pelo meio de transporte indicado em 3.2.3?**
+*TEMPO DE VIAGEM APENAS, SEM CONTAR O TEMPO DE ESPERA PELO TRANSPORTE. ANOTAR 998 SE NÃO SOUBER.*
+> |\_\_|\_\_|\_\_| minutos
+
+**3.2.8** **E na época das chuvas, quanto tempo demora habitualmente o mesmo percurso, em minutos?**
+*ANOTAR 997 SE O PERCURSO FICAR INTRANSITÁVEL EM ALGUM PERÍODO DA ÉPOCA DAS CHUVAS. ANOTAR 998 SE NÃO SOUBER.*
+> |\_\_|\_\_|\_\_| minutos
+
+*Indicadores: **[MS]**. Cruzados com 2.1.1.1.7 (transporte de emergência), permitem identificar as zonas onde a evacuação obstétrica não é exequível dentro do tempo útil.*
+
+::: {style="border-left:5px solid #b7950b;background:#fdf6e3;padding:10px 14px;border-radius:5px;"}
+
+**O que mudou, e porquê.** A Ficha atual tem um quesito 3.2.3 com quatro campos — minutos, km totais, km de alcatrão, km de picada — e nenhuma instrução. Nada diz por que estrada se mede, em que meio de transporte se contam os minutos, se o tempo inclui a espera pela ambulância, nem o que fazer quando a picada fica intransitável nas chuvas. Três inquiridores produzem três respostas diferentes para a mesma unidade, e a diferença entre elas é indistinguível da diferença real entre unidades.
+
+As seis perguntas acima fixam: **o meio de transporte** (3.2.3, que passa a ser um dado com valor próprio — uma unidade que evacua a pé é outra realidade), **a estrada efectivamente percorrida** e não a linha recta, **a decomposição verificada por soma**, e **as duas épocas do ano**, com um código próprio para o percurso intransitável. Passa a ser possível calcular o tempo de evacuação na pior época, que é a informação relevante para a mortalidade materna.
+
+:::
+
+### 3.3 Funcionamento do sistema de referência
+
+**3.3** **Esta unidade dispõe de um sistema estabelecido para referir doentes a outras unidades sanitárias?**
+> 1 Sim · 2 Não · 98 Não sabe
+
+*Indicador do HHFA: **2.7.1.1.1**.*
+
+**3.4 ◆** **Existem nesta unidade normas ou protocolos escritos que orientem a referência de doentes para outras unidades?**
+*SE SIM, PEDIR PARA VER O DOCUMENTO.*
+> 1 Sim, observado · 2 Sim, referido mas não visto · 3 Não disponível
+
+*Indicador do HHFA: **2.7.1.1.2** (conta apenas a opção 1).*
+
+**3.5 ◆** **E existem normas ou protocolos escritos para a contrarreferência, isto é, para o retorno do doente a esta unidade depois de atendido na unidade de referência?**
+*SE SIM, PEDIR PARA VER O DOCUMENTO.*
+> 1 Sim, observado · 2 Sim, referido mas não visto · 3 Não disponível
+
+*Indicador do HHFA: **2.7.1.1.3**.*
+
+**3.6 ◆** **Esta unidade mantém um registo, em livro ou em ficheiro, dos doentes que referiu para outras unidades?**
+*SE SIM, PEDIR PARA VER O REGISTO.*
+> 1 Sim, observado · 2 Sim, referido mas não visto · 3 Não mantém registo
+
+*Indicador do HHFA: **2.7.1.1.4**.*
+
+**3.7** **Nos últimos 3 meses, esta unidade recebeu de volta informação clínica sobre doentes que tinha referido — por escrito ou por qualquer outro meio?**
+> 1 Sim, sobre a maioria dos doentes referidos · 2 Sim, sobre alguns doentes · 3 Não recebeu qualquer informação de retorno · 97 Não referiu doentes nos últimos 3 meses · 98 Não sabe
+
+*Indicador do HHFA: **2.7.1.1.5** (conta as opções 1 e 2).*
+
+**3.8** **Esta unidade tem acesso, 24 horas por dia e todos os dias da semana, a uma viatura em condições de funcionamento e a um motorista disponível para o transporte de doentes?**
+*A VIATURA PODE ESTAR ESTACIONADA NESTA UNIDADE OU SER CHAMADA DE OUTRO LOCAL.*
+> 1 Sim · 2 Não · 98 Não sabe
+
+*Indicador do HHFA: **2.7.1.1.6**.*
+
+---
+
+## SECÇÃO 4 — Edifícios e construção
+
+**[MS] — Secção própria do Mapa Sanitário.** O HHFA não recolhe nenhuma destas informações, e elas são a base das decisões de obra. Mantêm-se todas, com a formulação precisada.
+
+**4.1** **Quantos edifícios, no total, compõem esta unidade sanitária?**
+*CONTAR TODOS OS EDIFÍCIOS DENTRO DO RECINTO QUE SEJAM UTILIZADOS PELA UNIDADE, INCLUINDO OS DE APOIO — ARMAZÉM, COZINHA, LAVANDARIA, MORGUE. NÃO CONTAR RESIDÊNCIAS DE TÉCNICOS, QUE SÃO CONTADAS EM 4.3. NÃO CONTAR EDIFÍCIOS EM RUÍNA OU SEM QUALQUER UTILIZAÇÃO.*
+> |\_\_|\_\_| edifícios
+
+**4.2** **Qual é a superfície total coberta desses edifícios, em metros quadrados?**
+*SOMAR A ÁREA COBERTA DE TODOS OS EDIFÍCIOS CONTADOS EM 4.1. ANOTAR 9998 SE NÃO SOUBER.*
+> |\_\_|\_\_|\_\_|\_\_| m²
+
+**4.3** **Quantas residências para técnicos existem no recinto desta unidade ou sob a sua responsabilidade?**
+> |\_\_|\_\_| residências
+
+**4.4** **Qual é a superfície total coberta dessas residências, em metros quadrados?**
+> |\_\_|\_\_|\_\_|\_\_| m²
+
+**4.5** **Em que ano foi concluída a construção do edifício principal desta unidade?**
+*SE FOI SUBSTANCIALMENTE RECONSTRUÍDO, INDICAR O ANO DA RECONSTRUÇÃO. ANOTAR 9998 SE NÃO SOUBER.*
+> |\_\_|\_\_|\_\_|\_\_|
+
+**4.6** **Em que período foi construído o edifício principal?**
+*LER AS OPÇÕES. SERVE PARA CLASSIFICAR OS CASOS EM QUE O ANO EXACTO NÃO É CONHECIDO.*
+> 1 Antes de 1975 · 2 Entre 1975 e 1991 · 3 Entre 1992 e 2002 · 4 Entre 2003 e 2012 · 5 De 2013 em diante · 98 Não sabe
+
+**4.7** **Qual é o material predominante das paredes exteriores do edifício principal?**
+*MARCAR UMA ÚNICA OPÇÃO — O MATERIAL QUE COBRE A MAIOR PARTE DA SUPERFÍCIE DAS PAREDES.*
+> 1 Blocos de cimento · 2 Tijolo cozido · 3 Adobe ou tijolo de barro · 4 Pau a pique ou madeira · 5 Chapa metálica · 96 Outro (especificar) \_\_\_\_\_\_
+
+---
+
+## SECÇÃO 5 — Estado de conservação
+
+**[MS] — Secção própria do Mapa Sanitário.** Mantém-se com os critérios construtivos do Guião, agora explicitados na própria pergunta.
+
+**5.1** **Considerando as fundações, a estrutura, o pavimento, as paredes, a cobertura, o tecto falso e as instalações sanitárias do edifício principal, qual das seguintes situações melhor descreve o seu estado actual?**
+*LER TODAS AS OPÇÕES ANTES DE MARCAR. APLICAR OS CRITÉRIOS DETALHADOS DO GUIÃO DE PREENCHIMENTO. MARCAR UMA ÚNICA OPÇÃO.*
+> 1 Não necessita de intervenção — todos os elementos em bom estado
+> 2 Necessita de manutenção corrente — pequenas reparações, pintura, substituições pontuais
+> 3 Necessita de reabilitação — um ou mais elementos degradados, mas a estrutura está sã
+> 4 Necessita de reconstrução — estrutura comprometida ou edifício inutilizável
+
+**5.2** **Qual é a superfície coberta, em metros quadrados, que se encontra em cada um dos estados seguintes?**
+*A SOMA DEVE SER IGUAL À SUPERFÍCIE TOTAL INDICADA EM 4.2.*
+> 5.2.1 Em bom estado: |\_\_|\_\_|\_\_|\_\_| m²
+> 5.2.2 A necessitar de manutenção corrente: |\_\_|\_\_|\_\_|\_\_| m²
+> 5.2.3 A necessitar de reabilitação: |\_\_|\_\_|\_\_|\_\_| m²
+> 5.2.4 A necessitar de reconstrução: |\_\_|\_\_|\_\_|\_\_| m²
+
+*VERIFICAÇÃO DE CONSISTÊNCIA: 5.2.1 + 5.2.2 + 5.2.3 + 5.2.4 deve ser igual a 4.2.*
+
+::: {style="border-left:5px solid #b7950b;background:#fdf6e3;padding:10px 14px;border-radius:5px;"}
+
+**O que mudou.** Na Ficha atual, 5.2 é um campo de texto livre. Quatro campos numéricos com verificação de soma tornam a informação directamente utilizável para custear a obra, que é o propósito declarado deste quesito no Guião — e obrigam quem preenche a repartir a área, em vez de escrever uma frase.
+
+:::
+
+---
+
+## SECÇÃO 6 — Água, energia, saneamento e resíduos
+
+### 6.1 Água
+
+**6.1** **Qual é a fonte de água mais utilizada por esta unidade sanitária neste momento?**
+*LER AS OPÇÕES. MARCAR UMA ÚNICA. SE A RESPOSTA FOR DIFERENTE PARA O INTERNAMENTO E PARA O AMBULATÓRIO, INDICAR A DO INTERNAMENTO.*
+> 01 Canalizada para dentro do edifício · 02 Canalizada para o recinto da unidade · 03 Torneira ou fontanário público · 04 Furo · 05 Poço protegido · 06 Poço não protegido · 07 Nascente protegida · 08 Nascente não protegida · 09 Água da chuva · 10 Água engarrafada · 11 Carroça com pequeno depósito · 12 Camião cisterna · 13 Água de superfície — rio, barragem, lago ou lagoa · 96 Outra (especificar) \_\_\_\_\_\_ · 00 Não tem qualquer fonte de água · 98 Não sabe
+
+**6.1.2** **Além dessa, que outras fontes de água esta unidade utiliza quando a fonte principal não está disponível?**
+*MARCAR TODAS AS QUE SE APLICAM, USANDO OS MESMOS CÓDIGOS DE 6.1. ANOTAR 00 SE NÃO HOUVER FONTE ALTERNATIVA.*
+
+*Indicador: **[MS]** — o HHFA não recolhe fontes secundárias de água. É contributo próprio do Mapa Sanitário.*
+
+**6.2 ◆** **Há água proveniente dessa fonte disponível no recinto da unidade — dentro do edifício ou dentro do recinto?**
+*SE SIM, PERGUNTAR: posso ver a água que está disponível hoje? Se estiver dentro do edifício, mostre-me aí; caso contrário, mostre-me no recinto. A ÁGUA PODE ESTAR CANALIZADA OU EM RECIPIENTE.*
+> 1 Sim, observada dentro do edifício · 2 Sim, observada no recinto da unidade · 3 Sim, referida mas não vista · 4 Não, ou disponível apenas fora do recinto
+
+*Indicador do HHFA: **2.1.1.1.2** — fonte de água melhorada = 6.1 numa categoria melhorada **e** 6.2 diferente de 3 e de 4.*
+
+**6.3** **Nos últimos 30 dias, houve algum período em que esta unidade ficou sem água e isso obrigou a suspender ou a limitar a prestação de serviços?**
+> 1 Não houve nenhum período · 2 Sim, no total menos de uma semana · 3 Sim, no total uma semana ou mais · 98 Não sabe
+
+### 6.2 Energia
+
+**6.4** **Esta unidade dispõe de electricidade proveniente de alguma fonte — rede pública, gerador, energia solar ou outra — incluindo a que alimenta apenas aparelhos autónomos, como os da cadeia de frio do Programa Alargado de Vacinação?**
+> 1 Sim · 2 Não
+
+*SE 2, PASSAR A 6.7.*
+
+**6.5** **Qual é a fonte de electricidade mais utilizada por esta unidade?**
+*MARCAR UMA ÚNICA OPÇÃO.*
+> 1 Rede pública · 2 Gerador da unidade · 3 Painéis solares · 4 Rede de uma instituição vizinha · 96 Outra (especificar) \_\_\_\_\_\_
+
+**6.5.1** **Que fontes de reserva existem, para os períodos em que a fonte principal falha?**
+*MARCAR TODAS AS QUE SE APLICAM. ANOTAR 00 SE NÃO HOUVER FONTE DE RESERVA.*
+> 1 Rede pública · 2 Gerador · 3 Painéis solares · 4 Baterias · 96 Outra (especificar) \_\_\_\_\_\_ · 00 Não tem fonte de reserva
+
+**6.6** **Nos últimos 7 dias, houve electricidade — da fonte principal ou de qualquer fonte de reserva — em todos os momentos em que esta unidade esteve aberta ao público?**
+*LER AS TRÊS OPÇÕES.*
+> 1 Sempre disponível, sem interrupções
+> 2 Muitas vezes disponível, com interrupções de menos de 2 horas por dia
+> 3 Algumas vezes disponível, com interrupções frequentes ou de mais de 2 horas por dia
+
+*Indicador do HHFA: **2.1.1.1.1** — unidades com energia = 6.4 igual a 1 **e** 6.6 igual a 1 ou 2.*
+
+### 6.3 Saneamento
+
+**6.7** **Existe no recinto desta unidade um sanitário ou latrina que possa ser utilizado pelos utentes da consulta externa ou pelo pessoal?**
+*SE SIM, PERGUNTAR: de que tipo é? Posso vê-lo? SE HOUVER VÁRIOS, CONSIDERAR O TIPO MAIS MODERNO.*
+> Autoclismo ligado a: 1 rede de esgotos · 2 fossa séptica · 3 destino aberto ou desconhecido
+> 4 Latrina melhorada ventilada · 5 Latrina com laje · 6 Latrina com compostagem · 7 Latrina de fossa aberta, sem laje · 8 Balde · 9 Sanitário suspenso · 10 Não existe sanitário nem latrina no recinto
+
+*Indicador do HHFA: **2.1.1.1.3** — saneamento melhorado = opções 1, 2, 4 ou 6.*
+
+### 6.4 Resíduos
+
+**6.8** **Como é feita a recolha do lixo comum desta unidade?**
+> 1 Pelos serviços administrativos municipais · 2 Por empresa contratada · 3 Pela própria unidade · 4 Não há recolha organizada · 98 Não sabe
+
+*Indicador: **[MS]**.*
+
+**6.9** **Qual é o destino final dos resíduos cortantes e perfurantes produzidos nesta unidade — agulhas, lâminas, ampolas partidas?**
+*MARCAR UMA ÚNICA OPÇÃO — O DESTINO DA MAIOR PARTE DESTES RESÍDUOS.*
+> 1 Recolhidos e tratados fora da unidade · 2 Incinerados nesta unidade · 3 Queimados a céu aberto · 4 Enterrados em vala protegida · 5 Despejados sem qualquer tratamento · 96 Outro (especificar) \_\_\_\_\_\_ · 98 Não sabe
+
+*Indicador do HHFA: **2.5.1.1.12** (com 6.11 e 6.12).*
+
+**6.10** **E qual é o destino final dos resíduos infecciosos não cortantes — pensos, compressas, luvas usadas, material contaminado?**
+*MESMAS OPÇÕES DE 6.9.*
+
+*Indicador do HHFA: **2.5.1.1.13** (com 6.11 e 6.12).*
+
+**6.11 ◆** **O incinerador ou outro meio de tratamento de resíduos desta unidade estava a funcionar hoje?**
+*PEDIR PARA VER. SE O DESTINO INDICADO EM 6.9 E 6.10 NÃO ENVOLVER TRATAMENTO NA UNIDADE, ANOTAR 97.*
+> 1 Sim, observado a funcionar · 2 Não estava a funcionar · 97 Não se aplica · 98 Não sabe
+
+**6.12 ◆** **Havia hoje combustível disponível para o incinerador?**
+> 1 Sim, observado · 2 Não · 97 Não se aplica · 98 Não sabe
+
+**6.13** **Existem nesta unidade normas escritas ou instruções de trabalho sobre a gestão de resíduos sanitários?**
+*SE SIM, PEDIR PARA VER.*
+> 1 Sim, observadas · 2 Sim, referidas mas não vistas · 3 Não existem
+
+*Indicador do HHFA: **2.5.1.1.2**.*
+
+**6.14** **Nos últimos 2 anos, algum profissional que actualmente trabalha nesta unidade recebeu formação em gestão de resíduos sanitários?**
+> 1 Sim · 2 Não · 98 Não sabe
+
+*Indicador do HHFA: **2.5.1.1.4**.*
+
+**6.15** **Existe nesta unidade uma estação ou sistema de tratamento de águas residuais?**
+> 1 Sim, e estava a funcionar nos últimos 30 dias · 2 Sim, mas não estava a funcionar nos últimos 30 dias · 3 Não existe
+
+*Indicador: **[MS]**.*
+
+---
+
+## SECÇÃO 7 — Serviços
+
+A secção central da Ficha. Assenta nas subáreas **1.3.2** e **1.3.3** do HHFA — as que o instrumento reserva para a medição de disponibilidade sem módulo de prontidão.
+
+**Nota de leitura.** Nesta secção usam-se dois formatos. As perguntas isoladas estão escritas por extenso. As listas de itens — vacinas, exames, métodos contraceptivos — são apresentadas em quadro, que é o formato do próprio HHFA: **o enunciado é lido uma vez, na íntegra, e depois lê-se item a item**. É um formato eficiente desde que o enunciado esteja completo, e por isso todos os enunciados abaixo estão escritos na íntegra.
+
+### 7.0 Perguntas-porta
+
+**7.0.1** **Esta unidade presta atendimento em regime de ambulatório, isto é, a doentes que são atendidos e regressam a casa no mesmo dia?**
+> 1 Sim · 2 Não
+
+*Indicador do HHFA: **1.3.1.1.1**.*
+
+**7.0.2** **Esta unidade presta atendimento em regime de internamento, isto é, com doentes que pernoitam na unidade?**
+> 1 Sim · 2 Não
+
+*Indicador do HHFA: **1.3.1.1.2**.*
+
+**7.0.3** **Num dia normal de semana, durante quantas horas está a consulta externa desta unidade aberta ao público?**
+*CONTAR APENAS AS HORAS EM QUE HÁ ATENDIMENTO A UTENTES. SE O ATENDIMENTO FOR CONTÍNUO 24 HORAS, ANOTAR 24.*
+> |\_\_|\_\_| horas
+
+**7.0.4** **E em quantos dias por semana está a consulta externa aberta ao público?**
+> |\_\_| dias
+
+*Indicadores do HHFA: **1.3.1.2.1 a 1.3.1.2.4**, **1.3.1.3.1**, **1.3.1.3.2**.*
+
+### 7.1 Serviços clínicos e cirúrgicos
+
+**7.1.1 a 7.1.28 — Lista das especialidades.**
+
+*ENUNCIADO A LER: "Vou ler uma lista de especialidades clínicas. Para cada uma, diga-me se esta unidade tem consulta regular nessa especialidade — isto é, com dia ou dias marcados na semana — prestada por um profissional habilitado. Não considerar atendimentos ocasionais nem consultas suspensas há mais de 3 meses."*
+> Para cada especialidade: 1 Sim, consulta regular · 2 Não
+
+*Indicador: **[MS]** — a lista de 28 especialidades é contributo próprio do Mapa Sanitário. O enunciado acima fixa o critério ("consulta regular, com dia marcado, por profissional habilitado") que hoje fica ao critério de quem responde.*
+
+**7.1.29** **Esta unidade realiza algum procedimento cirúrgico, de pequena ou de grande cirurgia?**
+> 1 Sim · 2 Não — *SE 2, PASSAR A 7.2.*
+
+*Indicador do HHFA: **1.3.2.7.1**.*
+
+**7.1.29.1** **Esta unidade realiza procedimentos de pequena cirurgia, isto é, procedimentos efectuados sob anestesia local, sem necessidade de bloco operatório?**
+> 1 Sim · 2 Não — *Indicador: **1.3.2.7.2***
+
+**7.1.29.2** **Esta unidade realiza procedimentos de grande cirurgia, isto é, procedimentos efectuados sob anestesia geral ou regional, em bloco operatório?**
+> 1 Sim · 2 Não — *Indicador: **1.3.2.7.3***
+
+**7.1.29.3** **Esta unidade realiza circuncisão masculina médica voluntária?**
+> 1 Sim · 2 Não — *Indicador: **1.3.2.7.4***
+
+**7.1.29.4** **Dos três procedimentos seguintes, quais foram realizados nesta unidade nos últimos 12 meses?**
+*LER OS TRÊS. MARCAR CADA UM.*
+> a) Cesariana: 1 Sim · 2 Não
+> b) Laparotomia: 1 Sim · 2 Não
+> c) Tratamento de fractura exposta: 1 Sim · 2 Não
+
+*Indicadores do HHFA: **1.3.2.7.5** (algum dos três) e **1.3.2.7.6** (os três).*
+
+**7.1.30 a 7.1.34** **Esta unidade realiza procedimentos cirúrgicos em alguma das seguintes áreas de especialidade?**
+> Cirurgia pediátrica · Cirurgia maxilofacial · Cirurgia vascular · Neurocirurgia · Cirurgia plástica — *1 Sim · 2 Não, para cada*
+
+*Indicador do HHFA: **1.3.2.7.7**.*
+
+::: {style="border-left:5px solid #b7950b;background:#fdf6e3;padding:10px 14px;border-radius:5px;"}
+
+**Sobre os procedimentos-marcadores.** Cesariana, laparotomia e tratamento de fractura exposta são os três procedimentos que a cirurgia global usa como marcadores da capacidade cirúrgica essencial — cobrem obstetrícia, abdómen e trauma. Três perguntas com período de referência declarado dizem mais sobre a capacidade cirúrgica real do que a lista de especialidades, e as duas informações não se excluem.
+
+:::
+
+### 7.2 Serviços de apoio — tecnologias, procedimentos e exames
+
+O maior ganho do formulário. Onde a Ficha tem catorze caixas de sim ou não, produzem-se trinta e seis indicadores, **todos em modo autorreferido**, porque se pergunta o que a unidade oferece e não o que está na prateleira.
+
+#### 7.2.A Imagiologia
+
+*ENUNCIADO A LER: "Vou perguntar por alguns exames de imagem. Para cada um, diga-me se é realizado nesta unidade, com equipamento desta unidade. Não considerar exames que os doentes fazem noutro local por iniciativa própria."*
+
+| Nº | Exame | Resposta | Indicador |
+|---|---|---|---|
+| 7.2.A.1 | Ecografia | 1 Sim · 2 Não | **1.3.3.1.1** |
+| 7.2.A.2 | Radiografia (raios X) | 1 Sim · 2 Não | **1.3.3.1.2** |
+| 7.2.A.3 | Mamografia | 1 Sim · 2 Não | **1.3.3.1.3** |
+| 7.2.A.4 | Tomografia computorizada | 1 Sim · 2 Não | **1.3.3.1.4** |
+| 7.2.A.5 | Ressonância magnética | 1 Sim · 2 Não | **1.3.3.1.5** |
+| 7.2.A.6 | Angiografia ou cateterismo | 1 Sim · 2 Não | **1.3.3.1.6** |
+| 7.2.A.7 | Fluoroscopia | 1 Sim · 2 Não | **1.3.3.1.7** |
+| 7.2.A.8 | Medicina nuclear | 1 Sim · 2 Não | **1.3.3.1.8** |
+
+#### 7.2.B Procedimentos e tecnologias
+
+*ENUNCIADO A LER: "Vou perguntar por alguns procedimentos. Para cada um, diga-me se esta unidade o realizou pelo menos uma vez nos últimos 3 meses. Não considerar procedimentos que a unidade poderia realizar mas que não realiza na prática."*
+
+| Nº | Procedimento | Resposta | Indicador |
+|---|---|---|---|
+| 7.2.B.1 | Desfibrilhação | 1 Sim · 2 Não | **1.3.3.2.1** |
+| 7.2.B.2 | Electrocardiograma | 1 Sim · 2 Não | **1.3.3.2.2** |
+| 7.2.B.3 | Electroencefalograma | 1 Sim · 2 Não | **1.3.3.2.3** |
+| 7.2.B.4 | Incubadora para recém-nascidos | 1 Sim · 2 Não | **1.3.3.2.4** |
+| 7.2.B.5 | Fototerapia para icterícia neonatal | 1 Sim · 2 Não | **1.3.3.2.5** |
+| 7.2.B.6 | Radioterapia | 1 Sim · 2 Não | **1.3.3.2.6** |
+| 7.2.B.7 | Diálise renal | 1 Sim · 2 Não | **1.3.3.2.7** |
+| 7.2.B.8 | Ventilação mecânica | 1 Sim · 2 Não | **1.3.3.2.8** |
+| 7.2.B.9 | Transfusão de sangue | 1 Sim · 2 Não | **1.3.3.2.9**, **3.1.4.1.4** |
+| 7.2.B.10 | Colonoscopia | 1 Sim · 2 Não | **1.3.3.2.10** |
+| 7.2.B.11 | Administração de oxigénio a doentes | 1 Sim · 2 Não | **1.3.3.2.11** |
+
+#### 7.2.C Exames laboratoriais
+
+::: {style="border-left:5px solid #1e8449;background:#eafaf1;padding:10px 14px;border-radius:5px;"}
+
+**O caso do laboratório, resolvido.** O Guião já exige, para marcar "1. Laboratório", a realização no mínimo de gota espessa, hemoglobina ou hematócrito e análises simples de fezes e urina — mas a Ficha guarda uma marcação única. Esta lista escreve essa definição, alarga-a, e acrescenta a distinção entre o exame feito aqui e o exame enviado para fora. **Dezassete indicadores onde havia uma caixa, e nenhum exige observação.**
+
+:::
+
+*ENUNCIADO A LER: "Vou perguntar por exames laboratoriais. Para cada um, diga-me se é realizado nesta unidade, se a amostra é enviada para outro laboratório com o resultado a regressar a esta unidade, ou se não está disponível para os doentes desta unidade. Considere a situação habitual dos últimos 3 meses, e não uma falha pontual de reagente."*
+
+> **1** Realizado nesta unidade · **2** Amostra enviada para fora, com retorno do resultado · **3** Não disponível
+
+| Nº | Exame | Indicador |
+|---|---|---|
+| 7.2.C.1 | Microscopia geral | **1.3.3.3.1** |
+| 7.2.C.2 | Cultura e antibiograma | **1.3.3.3.2** |
+| 7.2.C.3 | Diagnóstico de malária — gota espessa ou teste rápido | **1.3.3.3.3** |
+| 7.2.C.4 | Teste rápido de sífilis | **1.3.3.3.4** |
+| 7.2.C.5 | Teste de diagnóstico do VIH | **1.3.3.3.5** |
+| 7.2.C.6 | Teste de diagnóstico da tuberculose | **1.3.3.3.6** |
+| 7.2.C.7 | Teste de gravidez na urina | **1.3.3.3.7** |
+| 7.2.C.8 | Tira de urina — proteínas | **1.3.3.3.8** |
+| 7.2.C.9 | Tira de urina — glicose | **1.3.3.3.9** |
+| 7.2.C.10 | Tira de urina — corpos cetónicos | **1.3.3.3.10** |
+| 7.2.C.11 | Hemoglobina ou hematócrito | **1.3.3.3.11** |
+| 7.2.C.12 | Hemograma completo | **1.3.3.3.12** |
+| 7.2.C.13 | Tipagem e grupo sanguíneo | **1.3.3.3.13** |
+| 7.2.C.14 | Glicemia | **1.3.3.3.14** |
+| 7.2.C.15 | Ionograma | **1.3.3.3.15** |
+| 7.2.C.16 | Provas de função renal — ureia ou creatinina | **1.3.3.3.16** |
+| 7.2.C.17 | Provas de função hepática — transaminases ou bilirrubina | **1.3.3.3.17** |
+
+*Os indicadores do HHFA contam apenas a opção 1 (realizado nesta unidade). A opção 2 é informação adicional, útil para o planeamento da rede laboratorial.*
+
+#### 7.2.D Outros serviços de apoio
+
+**7.2.6** **Esta unidade tem um serviço, unidade ou secção de anatomia patológica, distinto do laboratório de análises clínicas?**
+> 1 Sim · 2 Não — *Indicador: **[MS]***
+
+**7.2.8** **Esta unidade presta serviços de reabilitação — fisioterapia, terapia ocupacional, terapia da fala ou reabilitação física?**
+> 1 Sim · 2 Não — *Indicador: **1.3.2.10.1***
+
+**7.2.9** **Esta unidade tem bloco operatório?** Se sim, quantos blocos operatórios em condições de utilização?
+> 1 Sim, |\_\_| blocos · 2 Não — *Indicador: **[MS]** para a contagem*
+
+**7.2.10** **Esta unidade tem farmácia ou depósito de medicamentos, com responsável designado, que dispensa medicamentos aos doentes?**
+> 1 Sim · 2 Não — *Ver nota final sobre este quesito.*
+
+**7.2.15** **Esta unidade presta cuidados paliativos — cuidados destinados a aliviar o sofrimento de doentes com doença avançada, incluindo controlo da dor?**
+> 1 Sim · 2 Não — *Indicador: **1.3.2.9.1***
+
+#### 7.2.E Serviços de urgência
+
+**7.2.12.1** **Esta unidade atende doentes em situação de urgência que chegam sem marcação, como primeira porta de entrada no sistema?**
+> 1 Sim · 2 Não — *SE 2, PASSAR A 7.3. Indicadores: **3.5.1.1.1**, **1.3.2.8.1***
+
+**7.2.12.2** **Existe nesta unidade um banco de urgência dedicado — um espaço próprio para urgências, distinto da consulta externa — aberto 24 horas por dia, todos os dias?**
+> 1 Sim · 2 Não — *Indicadores: **3.5.1.1.2**, **1.3.2.8.2***
+
+**7.2.12.3** **Há pessoal médico e de enfermagem presente no banco de urgência 24 horas por dia, todos os dias?**
+*CONSIDERAR PRESENÇA FÍSICA NA UNIDADE, E NÃO DISPONIBILIDADE POR CHAMADA.*
+> 1 Sim · 2 Não · 98 Não sabe — *Indicador: **3.5.1.1.3***
+
+**7.2.12.4** **O banco de urgência tem acesso rápido a transporte de emergência para referir doentes, 24 horas por dia?**
+> 1 Sim · 2 Não — *Indicador: **3.5.1.1.4***
+
+**7.2.12.5** **A farmácia desta unidade dispensa medicamentos 24 horas por dia, todos os dias?**
+> 1 Sim · 2 Não — *Indicador: **3.5.1.1.5***
+
+**7.2.12.6** **Os serviços de radiologia desta unidade estão disponíveis 24 horas por dia, todos os dias?**
+> 1 Sim · 2 Não · 97 Não tem radiologia — *Indicador: **3.5.1.1.6***
+
+**7.2.12.7** **Os serviços de laboratório desta unidade estão disponíveis 24 horas por dia, todos os dias?**
+> 1 Sim · 2 Não · 97 Não tem laboratório — *Indicador: **3.5.1.1.7***
+
+**7.2.12.8** **Quando um doente é transportado para outra unidade em situação de urgência, é habitualmente acompanhado por um médico ou enfermeiro desta unidade?**
+> 1 Sim · 2 Não · 98 Não sabe — *Indicador: **3.5.1.1.8***
+
+**7.2.12.9** **O banco de urgência tem pessoal próprio, afecto exclusivamente a este serviço, que não roda por outros serviços da unidade?**
+> 1 Sim · 2 Não — *Indicador: **3.5.1.1.9***
+
+**7.2.12.10** **Existe no banco de urgência um sistema formal de triagem, com critérios escritos para classificar a gravidade dos doentes à chegada?**
+> 1 Sim · 2 Não — *Indicador: **3.5.1.1.10***
+
+### 7.3 Saúde pública, prevenção e programas
+
+Cada caixa da Ficha atual passa a ser uma pergunta-porta formulada por extenso, seguida de uma lista de componentes com enunciado próprio.
+
+#### 7.3.1 Vacinação
+
+**PORTA:** **Esta unidade administra vacinas do Programa Alargado de Vacinação, de forma regular?**
+*NÃO CONSIDERAR CAMPANHAS PONTUAIS REALIZADAS POR EQUIPAS EXTERNAS.*
+> 1 Sim · 2 Não — *SE 2, PASSAR A 7.3.2. Indicadores: **3.2.1.1.1**, **1.3.2.2.1***
+
+**7.3.1.a** **Com que frequência se administram as vacinas de rotina às crianças nesta unidade?**
+> 1 Todos os dias de atendimento · 2 Uma ou mais vezes por semana · 3 Mensalmente ou trimestralmente · 4 Apenas em campanhas
+*Indicadores: **3.2.1.1.6**, **3.2.1.1.7**, **3.2.1.1.8**.*
+
+**7.3.1.b a 7.3.1.e** *ENUNCIADO A LER: "Vou ler a lista das vacinas do calendário nacional. Para cada uma, diga-me se esta unidade a administra habitualmente ao grupo etário indicado. Considere a prática habitual, e não uma rutura pontual de stock."*
+
+| Grupo | Vacinas | Indicadores |
+|---|---|---|
+| Ao nascimento | BCG · Poliomielite oral · Hepatite B | **3.2.1.1.2**, **.9**, **.10**, **.11** |
+| Lactentes (< 1 ano) | BCG · VOP · DPT-HepB-Hib · Rotavírus · VIP | **3.2.1.1.3**, **.12** a **.16** |
+| Crianças (1 a 5 anos) | Sarampo · Pneumocócica · COVID-19 | **3.2.1.1.4**, **.17**, **.18**, **.19** |
+| Adolescentes e adultos | Tétano · HPV · Gripe · COVID-19 · Pneumocócica · Hepatite B | **3.2.1.1.5**, **.20** a **.25** |
+
+*A lista carece de validação face ao calendário nacional de vacinação em vigor.*
+
+#### 7.3.2 a 7.3.5 Saúde da criança e nutrição
+
+**PORTA:** **Esta unidade presta cuidados preventivos ou curativos a crianças menores de 5 anos?**
+> 1 Sim · 2 Não — *SE 2, PASSAR A 7.3.6. Indicadores: **3.1.8.1.1**, **1.3.2.1.1***
+
+*ENUNCIADO A LER: "Vou perguntar por serviços prestados a crianças menores de 5 anos. Para cada um, diga-me se é prestado habitualmente nesta unidade."*
+
+| Nº | Serviço | Indicador |
+|---|---|---|
+| 7.3.5 | Vigilância do crescimento de rotina, com pesagem e registo no cartão da criança | **3.1.8.1.2** |
+| 7.3.4 | Diagnóstico ou tratamento da desnutrição | **3.1.8.1.3** |
+| 7.3.4.2 | Manejo em ambulatório da desnutrição aguda grave sem complicações, com alimento terapêutico pronto a usar | **3.1.8.1.4** |
+| 7.3.4.3 | Manejo em ambulatório de desnutrição aguda moderada ou outras categorias | **3.1.8.1.5** |
+| 7.3.4.4 | Manejo em internamento da desnutrição grave com complicações | **3.1.8.1.6** |
+| 7.3.2 | Administração de rotina de vitamina A | **3.1.8.1.7** |
+| 7.3.2.1 | Diagnóstico e tratamento da anemia com suplementação de ferro | **3.1.8.1.8** |
+| 7.3.4.1 | Diagnóstico e tratamento da diarreia com sais de reidratação oral e zinco | **3.1.8.1.9** |
+| 7.3.2.2 | Diagnóstico e tratamento de primeira linha da pneumonia | **3.1.8.1.10** |
+| 7.3.2.3 | Diagnóstico da malária com teste laboratorial e respectivo tratamento | **3.1.8.1.11** |
+| 7.3.14 | Entrega de rede mosquiteira tratada ou de senha para a levantar | **3.1.8.1.12** |
+| 7.3.17 | Articulação regular com agentes comunitários de saúde para o seguimento de crianças | **3.1.8.1.13** |
+
+#### 7.3.6 Consulta pré-natal
+
+**PORTA:** **Esta unidade presta consultas pré-natais a mulheres grávidas?**
+> 1 Sim · 2 Não — *SE 2, PASSAR A 7.3.7. Indicadores: **3.1.2.1.1**, **1.3.2.1.4***
+
+*ENUNCIADO A LER: "Vou ler uma lista de acções que podem fazer parte da consulta pré-natal. Para cada uma, diga-me se é feita habitualmente nesta unidade, às mulheres que aqui fazem o pré-natal."*
+
+| Nº | Componente | Indicador |
+|---|---|---|
+| 7.3.6.a | Prescrição ou entrega de suplemento de ferro | **3.1.2.1.2** |
+| 7.3.6.b | Prescrição ou entrega de ácido fólico | **3.1.2.1.3** |
+| 7.3.6.c | Administração da vacina antitetânica | **3.1.2.1.4** |
+| 7.3.6.d | Medição da tensão arterial em todas as consultas, para deteção de perturbações hipertensivas da gravidez | **3.1.2.1.5** |
+| 7.3.6.e | Pesquisa de proteínas na urina, de rotina | **3.1.2.1.6** |
+| 7.3.6.f | Administração do tratamento intermitente preventivo da malária | **3.1.2.1.9** |
+| 7.3.6.g | Oferta de teste de VIH a todas as grávidas | **3.1.2.1.10**, **1.3.2.1.5** |
+| 7.3.6.h | Entrega de rede mosquiteira tratada ou de senha para a levantar | **3.1.2.1.11** |
+| 7.3.6.i | Realização de teste de sífilis, de rotina | **3.1.2.1.12** |
+| 7.3.6.j | Tratamento da sífilis nas grávidas com teste positivo | **3.1.2.1.13** |
+| 7.3.6.k | Diagnóstico e tratamento de outras infecções sexualmente transmissíveis | **3.1.2.1.14** |
+| 7.3.6.l | Articulação com agentes comunitários para a captação e seguimento de grávidas | **3.1.2.1.16** |
+
+#### 7.3.7 Partos e cuidados obstétricos de emergência
+
+**PORTA:** **Esta unidade assiste partos?**
+> 1 Sim · 2 Não — *SE 2, PASSAR A 7.3.8. Indicadores: **3.1.3.1.1**, **1.3.2.1.6***
+
+**7.3.7.0** **Há assistência ao parto por profissional qualificado — médico, enfermeiro ou parteira com formação — disponível nesta unidade 24 horas por dia, todos os dias da semana?**
+> 1 Sim · 2 Não — *Indicador: **3.1.3.1.2***
+
+*ENUNCIADO A LER: "Vou ler uma lista de procedimentos e práticas relacionados com o parto. Para cada um, diga-me se foi realizado nesta unidade pelo menos uma vez nos últimos 3 meses. Se o procedimento é praticado aqui mas não houve nenhum caso nos últimos 3 meses, responda 'sim, mas sem casos recentes'."*
+
+> **1** Sim, realizado nos últimos 3 meses · **2** Sim, praticado aqui, mas sem casos nos últimos 3 meses · **3** Não é realizado nesta unidade
+
+| Nº | Procedimento | Indicador |
+|---|---|---|
+| 7.3.7.a | Administração de antibiótico por via parenteral à mãe | **3.1.3.2.1** |
+| 7.3.7.b | Administração de ocitócico por via parenteral para tratamento da hemorragia pós-parto | **3.1.3.2.2** |
+| 7.3.7.c | Administração de sulfato de magnésio por via parenteral para pré-eclâmpsia ou eclâmpsia | **3.1.3.2.3** |
+| 7.3.7.d | Parto vaginal assistido com ventosa ou fórceps | **3.1.3.2.4** |
+| 7.3.7.e | Remoção manual da placenta | **3.1.3.2.5** |
+| 7.3.7.f | Remoção de restos ovulares, por curetagem ou aspiração manual intrauterina | **3.1.3.2.6** |
+| 7.3.7.g | Reanimação do recém-nascido com insuflador e máscara | **3.1.3.2.7** |
+| 7.3.7.h | Administração de antibiótico na rotura prematura de membranas | **3.1.3.2.8** |
+| 7.3.7.i | Administração de corticosteroide no trabalho de parto pré-termo | **3.1.3.2.9** |
+| 7.3.7.j | Método canguru para recém-nascidos prematuros ou de baixo peso | **3.1.3.2.10** |
+| 7.3.7.k | Administração de antibiótico injectável para sépsis neonatal | **3.1.3.2.11** |
+| 7.3.7.l | Administração de ocitocina para prevenção da hemorragia pós-parto | **3.1.3.2.12** |
+| 7.3.7.m | Vigilância do trabalho de parto com partograma | **3.1.3.2.13** |
+| 7.3.7.n | Início da amamentação na primeira hora de vida | **3.1.3.2.14** |
+| 7.3.7.o | Cuidados higiénicos do cordão umbilical | **3.1.3.2.15** |
+| 7.3.7.p | Secagem do recém-nascido e contacto pele a pele imediato | **3.1.3.2.16** |
+| 7.3.7.q | Alojamento conjunto da mãe e do recém-nascido | **3.1.3.2.17** |
+| 7.3.7.r | Clampagem tardia do cordão umbilical | **3.1.3.2.18** |
+| 7.3.7.s | Cesariana | **3.1.4.1.3** |
+| 7.3.7.t | Transfusão de sangue a mulheres em trabalho de parto ou no pós-parto | **3.1.4.1.4** |
+
+**Calculados a partir das componentes, e já não declarados:** **3.1.3.1.3** cuidados obstétricos de emergência básicos, **3.1.3.1.4** todas as 7 funções-sinal básicas, **3.1.3.1.5** e **3.1.4.1.1** cuidados completos, **3.1.4.1.2** todas as 9 funções-sinal, **1.3.2.1.7** e **1.3.2.1.8**, e os índices **3.1.3.2.19 a 3.1.3.2.24**.
+
+::: {style="border-left:5px solid #b7950b;background:#fdf6e3;padding:10px 14px;border-radius:5px;"}
+
+**O ganho concreto, e a razão da terceira opção de resposta.** Hoje, marcar CONU-B é um juízo de quem preenche a Ficha. Com estas vinte linhas, CONU-B e CONU-C passam a ser **resultados calculados**, e sabe-se *qual* função falta em cada unidade — a informação que permite agir. A opção 2, "praticado aqui mas sem casos recentes", existe porque numa unidade de pequena dimensão pode passar-se um trimestre sem nenhuma remoção manual de placenta sem que isso signifique incapacidade. Sem essa opção, o respondente é forçado a escolher entre duas respostas erradas.
+
+:::
+
+#### 7.3.8 Consulta pós-parto
+
+**PORTA:** **Esta unidade presta cuidados pós-parto à mãe, ao recém-nascido, ou a ambos, nas seis semanas seguintes ao parto?**
+> 1 Sim · 2 Não — *Indicadores: **3.1.6.1.1**, **1.3.2.1.12***
+
+*ENUNCIADO A LER: "Para cada uma das acções seguintes, diga-me se é feita habitualmente na consulta pós-parto desta unidade."*
+
+| Nº | Componente | Indicador |
+|---|---|---|
+| 7.3.8.a | Aconselhamento em planeamento familiar | **3.1.6.1.2** |
+| 7.3.8.b | Aconselhamento sobre sinais de perigo no recém-nascido | **3.1.6.1.3** |
+| 7.3.8.c | Aconselhamento sobre cuidados e higiene do cordão umbilical | **3.1.6.1.4** |
+| 7.3.8.d | Aconselhamento sobre nutrição e alimentação da criança | **3.1.6.1.5** |
+| 7.3.8.e | Aconselhamento para amamentação exclusiva até aos 6 meses | **3.1.6.1.6** |
+| 7.3.8.f | Aconselhamento sobre o calendário de vacinação da criança | **3.1.6.1.7** |
+| 7.3.8.g | Administração da vacina BCG ao recém-nascido | **3.1.6.1.8** |
+| 7.3.8.h | Administração da vacina antipólio ao recém-nascido | **3.1.6.1.9** |
+| 7.3.8.i | Entrega de rede mosquiteira tratada para o lactente | **3.1.6.1.10** |
+| 7.3.8.j | Articulação com agentes comunitários para o seguimento do recém-nascido | **3.1.6.1.11** |
+
+#### 7.3.9 Planeamento familiar
+
+**PORTA:** **Esta unidade presta serviços de planeamento familiar — aconselhamento, prescrição ou fornecimento de métodos contraceptivos?**
+> 1 Sim · 2 Não — *Indicadores: **3.1.1.1.1**, **1.3.2.1.3***
+
+*ENUNCIADO A LER: "Vou ler uma lista de métodos contraceptivos. Para cada um, diga-me se esta unidade o fornece ou o coloca habitualmente. Considere a prática habitual, e não uma rutura pontual de stock."*
+
+| Nº | Método | Indicador |
+|---|---|---|
+| 7.3.9.a | Pílula contraceptiva combinada | **3.1.1.1.3** |
+| 7.3.9.b | Pílula só de progestagénio | **3.1.1.1.4** |
+| 7.3.9.c | Contraceptivo injectável combinado | **3.1.1.1.5** |
+| 7.3.9.d | Contraceptivo injectável só de progestagénio | **3.1.1.1.6** |
+| 7.3.9.e | Preservativo masculino | **3.1.1.1.7** |
+| 7.3.9.f | Preservativo feminino | **3.1.1.1.8** |
+| 7.3.9.g | Dispositivo intrauterino | **3.1.1.1.9** |
+| 7.3.9.h | Implante subcutâneo | **3.1.1.1.10** |
+| 7.3.9.i | Contracepção de emergência | **3.1.1.1.11** |
+| 7.3.9.j | Esterilização masculina (vasectomia) | **3.1.1.1.12** |
+| 7.3.9.k | Esterilização feminina (laqueação de trompas) | **3.1.1.1.13** |
+| 7.3.9.l | Colar do ciclo, para o método dos dias fixos | **3.1.1.1.14** |
+| 7.3.9.m | Articulação com agentes comunitários para distribuição de métodos | **3.1.1.1.15** |
+
+**Calculado:** **3.1.1.1.2** oferta de pelo menos um método moderno de contracepção.
+
+#### 7.3.10 a 7.3.12 VIH
+
+**PORTA A:** **Esta unidade realiza testes de VIH com aconselhamento, a pedido ou por indicação clínica?**
+> 1 Sim · 2 Não — *Indicadores: **3.2.4.1.1**, **1.3.2.3.3***
+
+> 7.3.10.a Testagem de adolescentes e adultos (15 anos ou mais) — **3.2.4.1.2**
+> 7.3.10.b Testagem de crianças de 5 a 14 anos — **3.2.4.1.3**
+> 7.3.10.c Testagem de crianças menores de 5 anos — **3.2.4.1.4**
+
+**PORTA B:** **Esta unidade fornece tratamento antirretroviral ou faz o seguimento de doentes já em tratamento antirretroviral?**
+> 1 Sim · 2 Não — *Indicadores: **3.2.5.1.1**, **1.3.2.3.5***
+
+> 7.3.12.a Tratamento antirretroviral a adultos e adolescentes — **3.2.5.1.2**
+> 7.3.11.a Tratamento antirretroviral a crianças de 5 a 14 anos — **3.2.5.1.3**
+> 7.3.11.b Tratamento antirretroviral a crianças menores de 5 anos — **3.2.5.1.4**, **1.3.2.3.6**
+> 7.3.12.b Dispensa ou prescrição de medicamentos antirretrovirais — **3.2.5.1.5**
+> 7.3.12.c Consultas de seguimento clínico de doentes em tratamento — **3.2.5.1.6**
+> 7.3.12.d Aconselhamento e seguimento da adesão ao tratamento — **3.2.5.1.7**
+
+#### 7.3.13 Tuberculose
+
+**PORTA:** **Esta unidade presta algum serviço relacionado com a tuberculose — diagnóstico, tratamento ou seguimento de doentes?**
+> 1 Sim · 2 Não — *Indicadores: **3.2.3.1.1**, **1.3.2.3.7***
+
+| Nº | Serviço | Indicador |
+|---|---|---|
+| 7.3.13.a | Diagnóstico ou tratamento de tuberculose resistente aos medicamentos | **3.2.3.1.2** |
+| 7.3.13.b | Realização de testes de diagnóstico da tuberculose | **3.2.3.1.3**, **1.3.2.3.8** |
+| 7.3.13.c | Consultas de seguimento clínico e prescrição de medicamentos | **3.2.3.1.4**, **1.3.2.3.9** |
+| 7.3.13.d | Reabastecimento de medicamentos nas consultas de seguimento | **3.2.3.1.5** |
+| 7.3.13.e | Apoio à adesão ao tratamento, incluindo tratamento sob observação directa | **3.2.3.1.6** |
+| 7.3.13.f | Oferta de teste de VIH a todos os doentes com tuberculose | **3.2.3.1.7** |
+| 7.3.13.g | Articulação com agentes comunitários para busca de faltosos ou apoio ao tratamento | **3.2.3.1.8** |
+| 7.3.13.h | Quarto ou enfermaria de internamento dedicado ao isolamento respiratório | **3.2.3.1.9** |
+
+#### 7.3.18 Malária — bloco novo
+
+**PORTA:** **Esta unidade faz diagnóstico ou tratamento da malária?**
+> 1 Sim · 2 Não — *Indicadores: **1.3.2.3.1**, **3.2.2.1.1***
+
+> 7.3.18.a Diagnóstico por teste rápido — **3.2.2.1.3**
+> 7.3.18.b Diagnóstico por microscopia (gota espessa) — **3.2.2.1.4**
+> 7.3.18.c Tratamento iniciado apenas com base em sinais e sintomas, sem teste laboratorial — **3.2.2.1.5**
+> 7.3.18.d Tratamento da malária com medicamentos antimaláricos — **3.2.2.1.6**
+> 7.3.18.e Articulação com agentes comunitários para diagnóstico ou tratamento da malária — **3.2.2.1.7**
+
+#### 7.3.19 Doenças não transmissíveis — bloco novo
+
+**PORTA:** **Esta unidade faz diagnóstico, tratamento ou seguimento de doentes com alguma doença crónica não transmissível?**
+> 1 Sim · 2 Não — *Indicador: **1.3.2.4.1***
+
+*ENUNCIADO A LER: "Vou ler uma lista de condições. Para cada uma, diga-me se esta unidade faz diagnóstico, tratamento ou seguimento regular de doentes com essa condição. Responda pelo que a unidade faz na prática, e não pela existência de uma consulta de especialidade."*
+
+| Nº | Condição | Indicador |
+|---|---|---|
+| 7.3.19.a | Doenças cardiovasculares, incluindo hipertensão arterial | **1.3.2.4.2** |
+| 7.3.19.b | Diabetes | **1.3.2.4.3** |
+| 7.3.19.c | Doença respiratória crónica — asma ou doença pulmonar obstrutiva crónica | **1.3.2.4.4** |
+| 7.3.19.d | Cancro do colo do útero, incluindo rastreio | **1.3.2.4.6** |
+| 7.3.19.e | Cancro da mama, incluindo rastreio | **1.3.2.4.7** |
+| 7.3.19.f | Perturbações mentais — depressão, ansiedade, psicose, uso de substâncias | **1.3.2.5.1** |
+| 7.3.19.g | Doenças neurológicas, incluindo epilepsia | **1.3.2.5.2** |
+
+**Calculado:** **1.3.2.4.5** oferta de algum serviço relacionado com cancro.
+
+::: {style="border-left:5px solid #b7950b;background:#fdf6e3;padding:10px 14px;border-radius:5px;"}
+
+**Porque a instrução final do enunciado é essencial.** Sem ela, um respondente de um centro de saúde sem endocrinologista responde "não" à diabetes, mesmo que ali se diagnostique e trate diabetes todos os dias. A instrução "responda pelo que a unidade faz na prática, e não pela existência de uma consulta de especialidade" é o que separa esta pergunta da caixa "9. Endocrinologia" da Ficha atual — e é o que torna o dado útil para planear a descentralização do manejo das doenças crónicas.
+
+:::
+
+#### 7.3.15 a 7.3.17 Extensão comunitária
+
+**7.3.15** **Nos últimos 12 meses, esta unidade organizou brigadas móveis — deslocações de equipas desta unidade a locais fora do recinto, para prestar cuidados?**
+> 1 Sim, regularmente · 2 Sim, ocasionalmente · 3 Não
+
+**7.3.16** **Nos últimos 12 meses, esta unidade organizou equipas avançadas — postos de atendimento temporários instalados fora do recinto?**
+> 1 Sim, regularmente · 2 Sim, ocasionalmente · 3 Não
+
+**7.3.17** **Existem agentes de desenvolvimento comunitário e sanitário que trabalham na área de abrangência desta unidade e com ela articulam?** Se sim, quantos?
+> 1 Sim, |\_\_|\_\_| agentes · 2 Não · 98 Não sabe
+
+*Indicador: **[MS]** — descrevem a extensão do serviço para fora das paredes da unidade, dimensão que o HHFA praticamente não cobre e que é contributo próprio do Mapa Sanitário.*
+
+### 7.4 e 7.5 Serviços de gestão e serviços gerais
+
+**7.4.1 a 7.4.17** *ENUNCIADO A LER: "Vou ler uma lista de serviços e órgãos de gestão. Para cada um, diga-me se existe nesta unidade e se esteve em funcionamento nos últimos 3 meses."*
+> 1 Existe e funcionou nos últimos 3 meses · 2 Existe mas não funcionou nos últimos 3 meses · 3 Não existe
+
+*Indicador: **[MS]**. A escala de três pontos substitui a caixa de 0-1 e distingue o órgão constituído do órgão activo, sem acrescentar perguntas.*
+
+**7.5.7** **Esta unidade dispõe de um meio de comunicação com o exterior — telefone fixo, telemóvel ou rádio — pago ou fornecido pela própria unidade?**
+*NÃO CONSIDERAR TELEMÓVEIS PESSOAIS DOS PROFISSIONAIS.*
+> 1 Sim, e está a funcionar · 2 Sim, mas está avariado · 3 Não, existem apenas telemóveis pessoais dos profissionais · 4 Não há qualquer meio de comunicação com o exterior
+
+*Indicador do HHFA: **2.1.1.1.5** (conta apenas a opção 1).*
+
+**7.5.7.1** **Esta unidade tem pelo menos um computador a funcionar?**
+> 1 Sim · 2 Não
+
+**7.5.7.2** **Há acesso a correio electrónico ou à internet nesta unidade hoje?**
+> 1 Sim, através de equipamento da unidade · 2 Sim, mas apenas através de equipamento pessoal dos profissionais · 3 Não há acesso
+
+**7.5.7.3** **O custo da ligação à internet é pago ou reembolsado pela gestão desta unidade?**
+> 1 Sim · 2 Não · 97 Não se aplica
+
+*Indicador do HHFA: **2.1.1.1.6** = 7.5.7.1 igual a 1 **e** 7.5.7.2 igual a 1 **e** 7.5.7.3 igual a 1.*
+
+**7.5.1** **Esta unidade tem acesso a uma ambulância ou a outro veículo em condições de funcionamento para o transporte de emergência de doentes — quer esteja estacionado nesta unidade, quer possa ser chamado de outro local?**
+> 1 Sim, ambulância · 2 Sim, outro tipo de veículo · 3 Não
+
+*SE 3, PASSAR A 7.5.2.*
+
+**7.5.1.1** **Esse veículo está disponível hoje, em condições de funcionamento, com combustível e com motorista?**
+*SE O RESPONDENTE NÃO TIVER A CERTEZA, PEDIR QUE CONFIRME COM QUEM SAIBA.*
+> 1 Sim · 2 Não · 98 Não sabe
+
+*Indicador do HHFA: **2.1.1.1.7** = 7.5.1 igual a 1 ou 2 **e** 7.5.1.1 igual a 1.*
+
+**7.5.2 a 7.5.18** *ENUNCIADO A LER: "Vou ler uma lista de serviços gerais de apoio. Para cada um, diga-me se existe nesta unidade e se esteve em funcionamento nos últimos 3 meses."*
+> Cozinha · Refeitório ou cantina · Lavandaria · Morgue · Higiene e limpeza · Manutenção · Segurança · Salão de actos · Biblioteca · Residência · Capela · Parqueamento · Ajardinamento · Videovigilância · Gabinete do utente
+> 1 Existe e funcionou nos últimos 3 meses · 2 Existe mas não funcionou · 3 Não existe
+
+**7.5.5.2** **Quantas gavetas mortuárias tem a morgue desta unidade?** |\_\_|\_\_| · 97 Não tem morgue
+
+---
+
+## SECÇÃO 8 — Camas
+
+*ENUNCIADO A LER: "Vou perguntar pelo número de camas desta unidade. Conte apenas as camas que estão instaladas e disponíveis para receber doentes hoje. Não conte camas avariadas, guardadas em armazém, nem camas previstas mas ainda não instaladas."*
+
+| Nº | Pergunta | Campo | Indicador |
+|---|---|---|---|
+| 8.1.1 | Camas de observação — onde o doente permanece algumas horas e não pernoita | \|\_\_\|\_\_\|\_\_\| | **[MS]** (excluídas por definição no HHFA) |
+| 8.1.2 | Camas de internamento de tamanho adulto | \|\_\_\|\_\_\|\_\_\| | **1.1.2.1.1**; com 3.1 → **1.1.1.1.3** |
+| 8.1.2.1 | Camas de internamento de tamanho pediátrico | \|\_\_\|\_\_\|\_\_\| | **1.1.2.1.2** |
+| 8.1.5 | Berços para recém-nascidos | \|\_\_\|\_\_\|\_\_\| | **1.1.2.1.3** |
+| 8.1.6 | Das camas contadas acima, quantas estão dedicadas à maternidade | \|\_\_\|\_\_\|\_\_\| | **1.1.2.2.1**; com 3.1 → **1.1.1.1.4** |
+| 8.1.7 | Quantas estão dedicadas à cirurgia | \|\_\_\|\_\_\|\_\_\| | **1.1.2.2.2** |
+| 8.1.8 | Quantas estão dedicadas à psiquiatria | \|\_\_\|\_\_\|\_\_\| | **1.1.2.2.3** |
+| 8.1.9 | Quantas estão dedicadas ao banco de urgência | \|\_\_\|\_\_\|\_\_\| | **1.1.2.2.4** |
+| 8.1.10 | Quantas são camas de cuidados intensivos de adulto | \|\_\_\|\_\_\|\_\_\| | **1.1.2.2.5** |
+| 8.1.11 | Quantas são camas de cuidados intensivos pediátricos | \|\_\_\|\_\_\|\_\_\| | **1.1.2.2.6** |
+| 8.1.12 | Quantos são berços de cuidados intensivos neonatais | \|\_\_\|\_\_\|\_\_\| | **1.1.2.2.7** |
+| 8.1.13 | Quantas são camas de cuidados intermédios | \|\_\_\|\_\_\|\_\_\| | **1.1.2.2.8** |
+| 8.1.14 | Quantas são camas de isolamento | \|\_\_\|\_\_\|\_\_\| | **1.1.2.2.9** |
+| 8.1.3 | Marquesas de parto instaladas e utilizáveis | \|\_\_\|\_\_\| | **[MS]** |
+| 8.1.4 | Cadeiras de estomatologia instaladas e utilizáveis | \|\_\_\|\_\_\| | **[MS]** |
+
+*VERIFICAÇÃO DE CONSISTÊNCIA: a soma de 8.1.6 a 8.1.14 não pode exceder a soma de 8.1.2 e 8.1.2.1.*
+
+---
+
+## SECÇÃO 9 — Aparelhos
+
+**Única secção que exige inquiridor com observação.** Propõe-se que a contagem actual se mantenha no preenchimento autorreferido, e que as duas colunas de verificação sejam aplicadas apenas nas unidades visitadas. O mesmo formulário serve assim os dois modos.
+
+*ENUNCIADO A LER, APENAS EM VISITA: "Vou perguntar por alguns aparelhos que devem existir na área principal de atendimento desta unidade. Para cada um, peço que me mostre o aparelho e que me diga, quando for aplicável, se está a funcionar. Considere apenas os aparelhos disponíveis na área de atendimento, e não os guardados em armazém."*
+
+> **Coluna A — disponibilidade:** 1 Observado · 2 Referido, não visto · 3 Não tem
+> **Coluna B — funcionamento:** 1 Sim, funciona · 2 Não funciona · 98 Não sabe
+
+| Nº | Item | Indicador |
+|---|---|---|
+| 9.1.4 ◆ | Balança de adulto | **2.2.1.1.8** |
+| 9.1.16 ◆ | Balança de criança, com graduação de 250 g | **2.2.1.1.9** |
+| 9.1.3 ◆ | Balança de bebé, com graduação de 100 g | **2.2.1.1.10** |
+| 9.1.8 ◆ | Aparelho de medir a tensão arterial, digital ou esfigmomanómetro manual | **2.2.1.1.3** |
+| 9.1.7 ◆ | Estetoscópio clínico | **2.2.1.1.2** |
+| 9.1.17 ◆ | Termómetro | **2.2.1.1.1** |
+| 9.1.18 ◆ | Oxímetro de pulso | **2.2.1.1.4** |
+| 9.1.19 ◆ | Foco de exame orientável para observar o doente (lanterna aceitável) | **2.2.1.1.5** |
+| 9.1.20 ◆ | Otoscópio | **2.2.1.1.6** |
+| 9.1.21 ◆ | Oftalmoscópio | **2.2.1.1.7** |
+| 9.1.22 ◆ | Fita métrica | **2.2.1.1.11** |
+| 9.1.23 ◆ | Craveira ou estadiómetro | **2.2.1.1.12** |
+
+**Contagem mantida, com enunciado precisado.** *"Para cada um dos aparelhos seguintes, indique quantas unidades existem nesta unidade sanitária e estavam em condições de utilização no último mês."* — Esterilizador (estufa ou autoclave) · Mini-arca do PAV · Aparelho de raios X · Estetoscópio de Pinard · Ecógrafo de obstetrícia · Kit para exame vaginal com espéculo · Kit de evacuação uterina · Ressuscitador neonatal · Kit de parto instrumental · Kit de parto descartável · Kit de cesariana.
+
+*Indicador: **[MS]** para a contagem. **Calculados com a lista completa da grelha:** **2.2.1.1.13** e **2.2.1.1.14**.*
+
+---
+
+## SECÇÃO 10 — Meios de transporte
+
+*ENUNCIADO A LER: "Vou perguntar pelos veículos afectos a esta unidade sanitária. Conte apenas os veículos que pertencem a esta unidade ou que estão permanentemente afectos a ela. Para cada tipo, indique quantos estão em condições de circular hoje e quantos estão imobilizados por avaria ou falta de documentação."*
+
+| Nº | Tipo de veículo | Em condições de circular | Imobilizados |
+|---|---|---|---|
+| 10.1.1 | Ambulância | \|\_\_\|\_\_\| | \|\_\_\|\_\_\| |
+| 10.1.2 | Viatura ligeira | \|\_\_\|\_\_\| | \|\_\_\|\_\_\| |
+| 10.1.3 | Viatura todo-o-terreno | \|\_\_\|\_\_\| | \|\_\_\|\_\_\| |
+| 10.1.4 | Motorizada | \|\_\_\|\_\_\| | \|\_\_\|\_\_\| |
+| 10.1.5 | Outro (especificar) | \|\_\_\|\_\_\| | \|\_\_\|\_\_\| |
+
+*Indicador: **[MS]** — informação que o HHFA não recolhe e que é essencial à gestão logística da rede.*
+
+---
+
+## SECÇÃO 11 — Pessoal afecto à unidade
+### *Secção nova*
+
+::: {style="border-left:5px solid #1e8449;background:#eafaf1;padding:10px 14px;border-radius:5px;"}
+
+**A secção que fecha a maior lacuna da Ficha, e a mais barata de todas.** A informação sai do mapa de pessoal da unidade, não exige verificação física, e cruzada com a população adstrita da Secção 3 produz dezasseis densidades de profissionais por 10 000 habitantes.
+
+:::
+
+**11.1** **Esta unidade dispõe de um quadro de pessoal aprovado, que indica o número autorizado de profissionais por qualificação?**
+*SE SIM, PEDIR PARA VER O DOCUMENTO.*
+> 1 Sim, observado · 2 Sim, referido mas não visto · 3 Não dispõe
+
+*Indicador do HHFA: **1.2.1.1.1**.*
+
+**11.2** *ENUNCIADO A LER: "Vou ler uma lista de categorias profissionais. Para cada uma, diga-me quantas pessoas dessa categoria estão actualmente afectas a esta unidade sanitária, e quantas dessas são mulheres. Conte as pessoas afectas ao quadro desta unidade, incluindo as que estejam de férias ou de baixa, e não apenas as que estão presentes hoje. Não conte pessoal em visita nem pessoal voluntário, que são perguntados adiante."*
+
+| Nº | Categoria profissional | Total | Mulheres | Indicadores |
+|---|---|---|---|---|
+| 11.2.a | Médicos generalistas | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.2.2**, **1.2.2.2.1**, **1.2.3.2.2** |
+| 11.2.b | Médicos especialistas em medicina familiar | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.2.3**, **1.2.2.2.2** |
+| 11.2.c | Médicos especialistas — área médica | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.2.6**, **1.2.2.3.2** |
+| 11.2.d | Médicos especialistas — pediatria | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.2.7**, **1.2.2.3.3** |
+| 11.2.e | Médicos especialistas — ginecologia e obstetrícia | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.2.8**, **1.2.2.3.4** |
+| 11.2.f | Médicos especialistas — área cirúrgica | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.2.9**, **1.2.2.3.5** |
+| 11.2.g | Médicos especialistas — psiquiatria | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.2.10**, **1.2.2.3.6** |
+| 11.2.h | Enfermeiros | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.3.2**, **1.2.2.1.3** |
+| 11.2.i | Parteiras | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.3.3**, **1.2.2.1.4** |
+| 11.2.j | Enfermeiros-parteiros com dupla formação | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.3.4** |
+| 11.2.k | Técnicos de medicina | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.3.1**, **1.2.2.1.2** |
+| 11.2.l | Estomatologistas | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.4.1**, **1.2.2.4.1** |
+| 11.2.m | Farmacêuticos | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.4.2**, **1.2.2.4.2** |
+| 11.2.n | Nutricionistas | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.4.6**, **1.2.2.4.6** |
+| 11.2.o | Fisioterapeutas | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.4.4**, **1.2.2.4.4** |
+| 11.2.p | Técnicos de laboratório | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.5.2** |
+| 11.2.q | Técnicos de imagiologia | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.5.1** |
+| 11.2.r | Técnicos de farmácia | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.5.3** |
+| 11.2.s | Técnicos de estatística e registos clínicos | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.5.5** |
+| 11.2.t | Outros profissionais de saúde | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| | **1.2.1.4.9**, **1.2.1.5.6** |
+
+*VERIFICAÇÃO DE CONSISTÊNCIA: o número de mulheres não pode exceder o total, em nenhuma linha.*
+
+**11.3** **Com que frequência esta unidade recebe visitas de médicos especialistas que não estão afectos a ela?**
+*CONSIDERAR OS ÚLTIMOS 12 MESES.*
+> 1 Nunca recebe · 2 Diária ou semanalmente · 3 Pelo menos uma vez por mês · 4 Pelo menos uma vez por trimestre · 5 Com menor frequência
+
+*Indicadores do HHFA: **1.2.3.3.1** a **1.2.3.3.4**.*
+
+**11.4 a 11.7** *ENUNCIADO A LER: "Para cada um dos cargos seguintes, diga-me se a pessoa que o ocupa tem formação específica em gestão — um curso, uma pós-graduação ou uma qualificação reconhecida em gestão de serviços de saúde ou em administração."*
+> 11.4 Director da unidade · 11.5 Administrador · 11.6 Director clínico · 11.7 Director de enfermagem
+> 1 Sim · 2 Não · 97 O cargo não existe nesta unidade · 98 Não sabe
+
+*Indicadores do HHFA: **1.2.3.4.1** a **1.2.3.4.4**.*
+
+**11.8** **Esta unidade tem profissionais que trabalham em regime de voluntariado, sem vínculo remunerado?** Se sim, de que categorias?
+> 11.8.a Médico generalista — **1.2.3.5.1**
+> 11.8.b Médico especialista — **1.2.3.5.2**
+> 11.8.c Enfermeiro ou parteira — **1.2.3.5.3**
+
+**Calculados:** **1.2.1.2.1** total de médicos, **1.2.1.2.4** e **1.2.1.2.5**, **1.2.3.1.1 a 1.2.3.1.7** proporção de mulheres por categoria, **1.2.3.2.1** e **1.2.3.2.3** unidades com pelo menos um médico.
+
+*As categorias profissionais carecem de validação face à carreira dos profissionais de saúde de Angola.*
+
+---
+
+::: {style="border-left:6px solid #1e8449;background:#eafaf1;padding:16px 18px;border-radius:6px;"}
+
+## Indicadores do HHFA capturados por esta versão
+
+| Dimensão | Subárea | Captados | Total na subárea | Modo |
+|---|---|---|---|---|
+| **1. Disponibilidade geral** | 1.1.1 Densidade de infraestrutura | 4 | 4 | Autorreferido |
+| | 1.1.2 Camas | 12 | 12 | Autorreferido |
+| | 1.2.1 Número de profissionais | 26 | 31 | Autorreferido |
+| | 1.2.2 Densidade de profissionais | 16 | 20 | Autorreferido |
+| | 1.2.3 Outros indicadores de pessoal | 21 | 21 | Autorreferido |
+| | 1.3.1 Ambulatório e internamento | 8 | 8 | Autorreferido |
+| | 1.3.2 Disponibilidade de serviços específicos | 40 | 46 | Autorreferido |
+| | 1.3.3 Tecnologias e procedimentos | 36 | 36 | Autorreferido |
+| | 1.4.1 Pontuações de densidade | 3 | 3 | Autorreferido |
+| | **Subtotal da dimensão 1** | **166** | **428** | |
+| **2. Prontidão geral** | 2.1.1 Comodidades básicas | 6 | 9 | 5 autorreferidos, 1 com observação |
+| | 2.2.1 Equipamento básico | 14 | 14 | Observação |
+| | 2.5.1 Precauções-padrão (parcial) | 4 | 15 | 2 autorreferidos, 2 com observação |
+| | 2.7.1 Sistemas de referência | 6 | 6 | 3 autorreferidos, 3 com observação |
+| | **Subtotal da dimensão 2** | **30** | **225** | |
+| **3. Disponibilidade específica** | 3.1.1 Planeamento familiar | 15 | 15 | Autorreferido |
+| | 3.1.2 Cuidados pré-natais | 13 | 16 | Autorreferido |
+| | 3.1.3 Parto e cuidados obstétricos básicos | 29 | 29 | Autorreferido |
+| | 3.1.4 Cuidados obstétricos completos | 4 | 4 | Autorreferido |
+| | 3.1.6 Cuidados pós-parto | 11 | 11 | Autorreferido |
+| | 3.1.8 Saúde da criança | 13 | 13 | Autorreferido |
+| | 3.2.1 Vacinação | 25 | 25 | Autorreferido |
+| | 3.2.2 Malária | 8 | 8 | Autorreferido |
+| | 3.2.3 Tuberculose | 9 | 9 | Autorreferido |
+| | 3.2.4 Testagem do VIH | 4 | 4 | Autorreferido |
+| | 3.2.5 Tratamento antirretroviral | 7 | 7 | Autorreferido |
+| | 3.5.1 Urgência | 10 | 10 | Autorreferido |
+| | **Subtotal da dimensão 3** | **148** | **1 484** | |
+| **4. Gestão e finanças** | 4.2.1 Orçamento (âncora) | 1 | 11 | Autorreferido |
+| **TOTAL** | | **345 indicadores** | **2 604** | **≈ 94% autorreferidos** |
+
+**Dezanove subáreas ficam completas** — todos os seus indicadores passam a ser calculáveis, sem lacunas: camas, densidade de infraestrutura, pontuações de densidade, ambulatório e internamento, tecnologias e procedimentos, outros indicadores de pessoal, planeamento familiar, parto e cuidados obstétricos básicos e completos, cuidados pós-parto, saúde da criança, vacinação, malária, tuberculose, testagem do VIH, tratamento antirretroviral, urgência, equipamento básico e sistemas de referência.
+
+:::
+
+::: {style="border-left:6px solid #6c3483;background:#f4ecf7;padding:14px 18px;border-radius:6px;"}
+
+## O que esta versão produz, e o que deixa para depois
+
+**345 indicadores do HHFA**, dos 2 604 do inventário. O número isolado diz menos do que a sua composição: **dezanove subáreas ficam completas**, e são precisamente as de disponibilidade — aquilo para que a Ficha do Mapa Sanitário foi desenhada. O instrumento passa a produzir, em linguagem internacionalmente comparável, exatamente o que já se propunha medir.
+
+**Mais de nove em cada dez rendem em modo autorreferido.** Só a Secção 9 exige observação por inteiro, e pode ser aplicada apenas nas unidades visitadas sem que o formulário deixe de funcionar nas restantes.
+
+**O ganho maior, porém, não está no número de indicadores.** Está na formulação. Uma pergunta escrita por extenso, com a unidade, o período e o ponto de referência dentro dela, produz a mesma resposta independentemente de quem a faz — e é isso que torna comparáveis duas unidades, duas províncias e duas edições do Mapa Sanitário. Vários quesitos deste formulário não acrescentam nenhum indicador novo e mantêm-se aqui por essa razão apenas: a distância à unidade de referência, o estado de conservação, a frota, as especialidades, os serviços gerais. São **[MS]**, são contributo próprio do Mapa, e ganham em precisão sem mudar de propósito.
+
+**Três quesitos ficam deliberadamente por resolver**, e convém dizê-lo: a farmácia (7.2.10), a esterilização e a distribuição de albendazol mantêm-se como perguntas de existência. Nos três casos o indicador do HHFA correspondente depende de verificação física — medicamento dentro da validade, equipamento a funcionar, produto observado — e não há forma honesta de o produzir em modo autorreferido. Mantêm-se como estão até que a decisão sobre a observação seja tomada.
+
+**O que fica para a fase seguinte** é a dimensão da prontidão: normas disponíveis, pessoal formado, medicamentos e meios de diagnóstico verificados. São os incrementos de Tipo 3 e de Tipo 4 do documento 4, e todos exigem inquiridor com observação. Ficam de fora desta versão não por serem menos importantes — são, em muitos casos, mais —, mas porque a sua adoção depende de uma decisão sobre o modo de recolha que ainda não está tomada.
+
+:::

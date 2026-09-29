@@ -1,0 +1,167 @@
+# Overview
+
+::: {style="border-left:6px solid #0b6e99;background:#eaf4f9;padding:14px 18px;border-radius:6px;"}
+
+A comparison between the **Health Facility Registration Form** of the Health Map (Ministry of Health, Office of Studies, Planning and Statistics, version 19_01) together with its **Filling Guide** (April 2019), and the **Harmonized Health Facility Assessment** (HHFA, World Health Organization).
+
+The purpose is to identify where the HHFA can help strengthen the Health Map, already a mature instrument, with four editions and national coverage.
+
+:::
+
+::: {style="border:3px solid #c0392b;background:#fdecea;padding:18px 20px;border-radius:8px;margin:18px 0;"}
+
+## ⚠ READ THIS FIRST: the scope of this analysis
+
+<p style="font-size:1.15em;line-height:1.55;margin:0 0 10px 0;"><strong style="color:#c0392b;">This is the first of three documents.</strong> It gives the overview: what each instrument asks, and where one adds to the other.</p>
+
+<ol style="font-size:1.05em;line-height:1.55;">
+<li><strong>Overview</strong> (this document).</li>
+<li><strong>Question design:</strong> how the wording of each question and its response options shape what can be captured.</li>
+<li><strong>Coverage map:</strong> item by item, where there is full overlap, partial overlap, and no overlap.</li>
+</ol>
+
+<hr style="border:none;border-top:2px dashed #c0392b;margin:16px 0;">
+
+<p style="font-size:1.05em;line-height:1.55;margin:0 0 10px 0;"><strong style="color:#c0392b;">We are now comparing questions with questions.</strong> The earlier analysis used the information published in the 2024 Luanda report. This one is based on the data collection form and its filling guide, which is where one sees what was actually asked, of whom, and against what criterion.</p>
+
+<p style="font-size:1.05em;line-height:1.55;margin:0;"><strong>One caveat for the reader:</strong> the form is an annual registration form for facilities of the National Health Service and has a purpose of its own, which is not the HHFA's. The differences noted here are not shortcomings; they are opportunities to add information where it is cheap to collect.</p>
+
+:::
+
+::: {style="border-left:6px solid #1e8449;background:#eafaf1;padding:14px 18px;border-radius:6px;"}
+
+## The pattern of the Health Map
+
+The form has 12 sections and about 108 service boxes, and always answers the same question: **does the service exist and is it working?** Yes or no.
+
+The collection rule is set out in the guide: information is obtained through an interview with the facility manager or deputy, and by consulting the facility's statistics and other documents (guide, sheet 3).
+
+**An important note on verification.** In practice, Health Map data collection happens in two steps: the manager reports, and the team then verifies on site. This was told to us by the Health Map management and does not appear in the form or in the guide. Verification therefore happens in the field but is not recorded: a ticked box does not distinguish what was confirmed from what was only reported, and that distinction is lost in the database and in the report.
+
+There are three exceptions, where the form goes beyond yes or no:
+
+- **Bed resources:** counts observation beds, inpatient beds, delivery tables, dental chairs and cots.
+- **Medical and surgical devices** (health centres and health posts only): counts 15 device types usually in working order.
+- **Means of transport:** counts working and non-working vehicles separately.
+
+The HHFA starts from the same question and adds three layers:
+
+1. **Verification:** it distinguishes what the enumerator observed from what was reported.
+2. **Readiness:** guidelines, trained staff, equipment, diagnostics and medicines for each service.
+3. **Continuity:** supply stock-outs in the past three months.
+
+The HHFA prepares the ground and allows us to move to the next stage, which is to obtain evidence on how many people are seen and with what result.
+
+:::
+
+::: {style="border-left:6px solid #b7950b;background:#fdf6e3;padding:14px 18px;border-radius:6px;"}
+
+## What the Health Map form captures and the HHFA does not
+
+This is the adaptation material the HHFA requires from each country and does not bring with it.
+
+- **Identity and distance of the referral facility** (3.2): category, name, distance in minutes, total kilometres, paved kilometres and dirt-track kilometres. The HHFA asks whether a referral mechanism, protocols, records and feedback exist (Q1227 to Q1231), but does not record where patients are referred to, or how far.
+- **Building floor area in square metres**, number of buildings and staff residences (4.1 to 4.4).
+- **Year, period and construction material** (4.5 to 4.7).
+- **Physical condition of the building in one of four intervention categories**, with criteria detailed by building element in the guide — foundations, structure, floor, walls, roof, false ceiling and latrine (5.1, guide, sheet 8) — and the square metres in each condition, which allow the works to be costed. The HHFA records defects room by room, but issues no such judgement and measures no areas.
+- **Wastewater treatment plant, and whether it works** (6.7). The HHFA touches the subject only through maintenance of the sanitation system.
+- **Fleet inventory by type, working and non-working** (10.1).
+- **Teaching role of the facility** (7.4.8 and 7.4.9): health technical training school and continuing education unit, with placement fields for medicine and for nursing.
+- **Number of mortuary drawers** (7.5.5).
+
+::: {style="background:#fff8e1;border:1px solid #d4ac0d;padding:10px 14px;border-radius:5px;"}
+
+**A confusion that is easy to make.** Several topics that look exclusive to the form are in fact in the HHFA, but in module 4 (management and finance) and among the additional questions, not the core ones:
+
+- **catchment population:** 4.5.2.6.1 to 4.5.2.6.9 — defined catchment area, population estimate, source of the estimate, number of pregnant women, infants and children under 5, and list of registered patients;
+- **kitchen, laundry and cleaning, building maintenance, human resources, social services and general administration:** 4.1.1.2.1 to 4.1.1.2.8;
+- **mortuary:** 4.1.1.2.7;
+- **management bodies:** 4.1.1.1.1 to 4.1.1.1.4 (governing board met in the past 6 months, management committee in the past 3, finance committee, community member on the board) and 4.1.1.3.1 (procurement committee);
+- **vehicles:** 2.7.1.1.6 (vehicle and driver available 24 hours) and 4.1.2.3.1 and 4.1.2.3.2 (maintenance schedule and adherence to it);
+- **secondary sources of water and energy:** 2.1.1.2.4 and the questions on interruptions in the past 7 days.
+
+In an application using only the core availability and readiness questionnaires, none of this is collected. It is a design decision, not a property of the instrument.
+
+:::
+
+:::
+
+## What the HHFA adds within the same domains
+
+**1. Verification is recorded in the answer.** Where the form has a yes/no box, the HHFA has three responses: *observed*; *reported, not seen*; *not available*. The instruction to the enumerator sits in the question itself ("if yes, ask to see it"). The verification the Health Map team already performs in the field would then live in the data, not only in the memory of whoever collected it.
+
+**2. Availability and functionality are two questions.** For each equipment item the HHFA first asks (A) whether it is available, with the three options above, and then (B) whether it works. The form already uses this logic for vehicles, separating working from non-working.
+
+**3. Readiness, organized in four domains.** For each service the facility reports offering, the HHFA checks:
+
+- **staff and guidelines:** national or other guidelines available on site, and staff trained in the past 2 years;
+- **equipment:** the devices that service requires;
+- **diagnostics:** the tests required, distinguishing what is done on site from what is sent out with results returned;
+- **medicines and commodities:** the tracer items for that service, observed and within their expiry date.
+
+For diabetes this is 12 items; for tuberculosis and antenatal care, more than 20 each.
+
+**4. Service components, one by one.** The Health Map guide already defines several services precisely. The HHFA turns those definitions into separate questions:
+
+- **antenatal care:** the guide defines complete antenatal care through a list (card, history, weight, oedema, fundal height, mucosa, blood pressure, Leopold manoeuvres, intermittent preventive treatment for malaria, iron and folic acid, deworming, counselling) and the form settles it in one box; the HHFA asks item by item;
+- **delivery:** where the form has basic and comprehensive emergency obstetric care, the HHFA asks about the signal functions one by one (parenteral antibiotic, oxytocic, anticonvulsant, manual removal of placenta, removal of retained products, assisted vaginal delivery, neonatal resuscitation);
+- **sterilization:** the HHFA asks which equipment is present (electric autoclave, dry heat sterilizer, non-electric autoclave, heat source), whether it works, and where the central reprocessing site is.
+
+**5. Disaggregation of provision.** By age group (under 5, 5–14, adolescents and adults) and by function within the service: diagnose, treat, counsel, refer and follow up. The form records the service as a whole.
+
+**6. Continuity of supply.** Stock-outs of tracer items in the past 3 months, and stock-outs by vaccine in the immunization programme. This separates a one-off gap from a structural supply failure.
+
+**7. An explicit reference period.** Every question states its moment: today, past 7 days, past 3 months, past 2 years. On the form, "in working order" fixes no period.
+
+**8. Where to look for the item.** The HHFA tells the enumerator which room to check (service site, laboratory, pharmacy, store) and, for several items, accepts presence anywhere in the facility. The form does not specify the place of verification.
+
+**9. Explicit denominator.** The HHFA separates what is computed over all facilities (provision) from what is computed only over facilities offering the service (readiness). This prevents comparing percentages with different bases.
+
+## Domains the Health Map does not cover and that the HHFA explores
+
+The missing domains separate by HHFA module, and each module carries a different collection cost and a different use.
+
+**Availability and readiness of specific services (modules 1 and 2).** The block closest to what the form already does. The form records the service; the HHFA also records what is needed to deliver it:
+
+- tuberculosis (the form does record directly observed treatment, DOTS), malaria, sexually transmitted infections and neglected tropical diseases;
+- noncommunicable diseases: cardiovascular disease, diabetes, chronic respiratory disease and cancer;
+- mental health and neurological services, beyond the existence of psychiatry and psychology consultations;
+- adolescent health;
+- abortion care and care for the small or sick newborn.
+
+**General facility readiness (module 2).** Items checked once per facility, whatever services it offers:
+
+- standard precautions for infection prevention and personal protective equipment;
+- essential medicines, consumables and pharmaceutical storage conditions;
+- emergency preparedness and service resilience;
+- building accessibility for people with mobility limitations.
+
+**Management and finance (module 4).** The form records that management bodies exist; the HHFA looks at how they work:
+
+- management committee meetings and supervision received;
+- budget, funding sources and user fees;
+- maintenance systems for equipment and premises;
+- staff support: credentials, training, benefits;
+- information systems, individual patient records, and mortality and morbidity reporting;
+- quality assurance and quality monitoring systems.
+
+**Clinical quality of care (module 3).** The only block that looks at what was done for the patient, through review of individual records, with its own methodology and sample. It is also the most demanding in time and in enumerator qualification.
+
+::: {style="border-left:6px solid #6c3483;background:#f4ecf7;padding:14px 18px;border-radius:6px;"}
+
+## Conclusion: what the HHFA can bring to the Health Map form
+
+The two instruments do not compete, and neither replaces the other. The HHFA is standardized and international, which allows Angola to be compared with itself over time and with other countries. But it does not work without country adaptation: its own rules state that data collection is driven by the indicators the country needs, and that lists and categories flagged for adaptation — facility types, staff categories, essential medicines, national guidelines — must be replaced with national ones. The Health Map form and its guide are the source of that material.
+
+In the other direction, the form can gain precision through short additions, without changing its logic or greatly lengthening the visit:
+
+1. **Record the verification that already happens.** Collection already combines the manager's report with on-site checking. It is enough for the box to carry three responses — observed; reported, not seen; not available — for that verification to live in the data.
+2. **Check functionality on the day of the visit** for devices, as the form already does for vehicles.
+3. **Add three readiness questions** to the services already listed: guidelines available, staff trained in the past two years, and tracer medicine in stock.
+4. **Record stock-outs of tracer items in the past three months.**
+5. **Split into separate boxes the definitions the guide already carries**, for example complete and incomplete antenatal care, which today share a single box.
+6. **State the reference period** in each question.
+
+These are direct-observation additions, feasible within the same visit and by the same team, which make the Health Map more specific and more precise for what it already sets out to do: support decisions about the health facility network.
+
+:::

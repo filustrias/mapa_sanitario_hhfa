@@ -1,0 +1,530 @@
+# Anexo 1 — Proposta de questionário {.unnumbered}
+
+::: {style="border-left:6px solid #0b6e99;background:#eaf4f9;padding:14px 18px;border-radius:6px;"}
+
+<p class="chapter-lead">Sem comentários</p>
+
+Ficha de Cadastramento de Unidades Sanitárias do Sistema Nacional de Saúde — versão revista.
+
+Instruções ao inquiridor em *itálico*. Códigos gerais: **97** não se aplica · **98** não sabe.
+
+:::
+
+## Secção 0 — Identificação da recolha
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 0.1 | Data em que esta ficha foi preenchida. | \|\_\_\|\_\_\| dia · \|\_\_\|\_\_\| mês · \|\_\_\|\_\_\|\_\_\|\_\_\| ano |
+| 0.2 | De que modo foi preenchida esta ficha? *Ler as opções.* | 1 Preenchida pelo pessoal da unidade e enviada ao GEPE, sem visita de inquiridor · 2 Preenchida por inquiridor durante visita à unidade · 3 Preenchida pelo pessoal da unidade e depois conferida por inquiridor em visita |
+| 0.3 | Qual é a função da pessoa que respondeu à maior parte desta ficha? | 1 Director da unidade · 2 Director adjunto · 3 Responsável de enfermagem · 4 Responsável administrativo · 5 Responsável de estatística · 96 Outra função (especificar) |
+| 0.4 | Esta unidade dispõe de um orçamento próprio, isto é, de uma dotação de fundos atribuída especificamente a esta unidade, que a sua direcção pode gerir e executar? *Não considerar fundos geridos integralmente pela Direcção Municipal ou Provincial em nome da unidade.* | 1 Sim · 2 Não · 98 Não sabe |
+
+## Secção 1 — Localização
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 1.1 | Província. *Registar designação e código do Mapa Sanitário.* | Designação: \_\_\_\_\_\_ · Código: \|\_\_\|\_\_\| |
+| 1.2 | Município. | Designação: \_\_\_\_\_\_ · Código: \|\_\_\|\_\_\| |
+| 1.3 | Comuna ou distrito urbano. | Designação: \_\_\_\_\_\_ · Código: \|\_\_\|\_\_\| |
+| 1.4 | Aldeia rural ou bairro urbano. | Designação: \_\_\_\_\_\_ · Código: \|\_\_\|\_\_\| |
+| 1.5 | Nome da unidade sanitária. | Designação: \_\_\_\_\_\_ · Código: \|\_\_\|\_\_\|\_\_\|\_\_\|\_\_\|\_\_\| |
+| 1.6 | Categoria da unidade, segundo a classificação do Mapa Sanitário. | \|\_\_\|\_\_\| |
+| 1.7 | Latitude. *Efectuar a leitura à entrada principal do edifício principal, ao ar livre, com o aparelho estável durante pelo menos 60 segundos. Registar em graus decimais, com cinco casas decimais.* | \|\_\_\|\_\_\|.\|\_\_\|\_\_\|\_\_\|\_\_\|\_\_\| |
+| 1.8 | Longitude. | \|\_\_\|\_\_\|.\|\_\_\|\_\_\|\_\_\|\_\_\|\_\_\| |
+| 1.8.1 | Precisão indicada pelo aparelho, em metros. | \|\_\_\|\_\_\|\_\_\| |
+| 1.9 | Esta unidade sanitária situa-se numa zona urbana, rural ou periurbana? *Usar a classificação administrativa em vigor.* | 1 Urbana · 2 Rural · 3 Periurbana |
+
+## Secção 2 — Propriedade e gestão
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 2.1 | A quem pertence esta unidade sanitária? *Marcar uma única opção.* | 1 Pública — Serviço Nacional de Saúde · 2 Pública — Polícia ou Forças Armadas · 3 Privada não lucrativa · 4 Privada lucrativa · 96 Outra situação (especificar) |
+| 2.2 | Que entidade é responsável pela gestão corrente desta unidade — isto é, quem nomeia a direcção e responde pelo seu funcionamento no dia a dia? *Pode ser diferente do proprietário indicado em 2.1.* | 1 Pública · 2 Privada · 3 Mista · 96 Outra situação (especificar) |
+
+## Secção 3 — População adstrita e sistema de referência
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 3.1 | Qual é a população total residente na área de abrangência desta unidade sanitária, de acordo com a estimativa mais recente de que a unidade dispõe? *Anotar 999998 se a unidade não dispuser de estimativa.* | \|\_\_\|\_\_\|\_\_\|\_\_\|\_\_\|\_\_\| habitantes |
+| 3.1.1 | De onde provém essa estimativa da população? | 1 Censo nacional · 2 Projeção do Instituto Nacional de Estatística · 3 Registo ou recenseamento feito pela própria unidade · 4 Estimativa da Direcção Municipal de Saúde · 5 Estimativa da Direcção Provincial de Saúde · 96 Outra (especificar) · 98 Não sabe |
+| 3.1.2 | A que ano se refere essa estimativa? | \|\_\_\|\_\_\|\_\_\|\_\_\| |
+| 3.2.1 | Para que unidade sanitária são habitualmente transferidos os doentes desta unidade que necessitam de cuidados que aqui não podem ser prestados? *Se houver mais do que uma, indicar aquela para onde foi transferido o maior número de doentes nos últimos 12 meses.* | Nome: \_\_\_\_\_\_ · Código: \|\_\_\|\_\_\|\_\_\|\_\_\|\_\_\|\_\_\| |
+| 3.2.2 | Categoria dessa unidade de referência, segundo a classificação do Mapa Sanitário. | \|\_\_\|\_\_\| |
+| 3.2.3 | Qual é o meio de transporte mais frequentemente utilizado para transferir doentes desta unidade para a unidade indicada em 3.2.1? *Considerar os últimos 12 meses. Marcar uma única opção.* | 1 Ambulância pertencente a esta unidade · 2 Ambulância de outra unidade ou da Direcção Municipal · 3 Viatura ligeira da unidade · 4 Motorizada · 5 Transporte público ou particular, pago pelo doente ou pela família · 6 A pé ou em maca · 96 Outro (especificar) |
+| 3.2.4 | Considerando o percurso habitualmente utilizado por esse meio de transporte, qual é a distância total, em quilómetros, entre esta unidade sanitária e a unidade de referência? *Distância pela estrada efectivamente percorrida, e não em linha recta. Anotar 998 se não souber.* | \|\_\_\|\_\_\|\_\_\| quilómetros |
+| 3.2.5 | Desse percurso, quantos quilómetros são em estrada asfaltada? | \|\_\_\|\_\_\|\_\_\| quilómetros |
+| 3.2.6 | E quantos quilómetros são em estrada de terra ou picada? *Verificação: 3.2.5 + 3.2.6 = 3.2.4.* | \|\_\_\|\_\_\|\_\_\| quilómetros |
+| 3.2.7 | Na época seca, quanto tempo demora habitualmente esse percurso, em minutos, pelo meio de transporte indicado em 3.2.3? *Tempo de viagem apenas, sem contar o tempo de espera pelo transporte. Anotar 998 se não souber.* | \|\_\_\|\_\_\|\_\_\| minutos |
+| 3.2.8 | E na época das chuvas, quanto tempo demora habitualmente o mesmo percurso, em minutos? *Anotar 997 se o percurso ficar intransitável em algum período da época das chuvas.* | \|\_\_\|\_\_\|\_\_\| minutos |
+| 3.3 | Esta unidade dispõe de um sistema estabelecido para referir doentes a outras unidades sanitárias? | 1 Sim · 2 Não · 98 Não sabe |
+| 3.4 | Existem nesta unidade normas ou protocolos escritos que orientem a referência de doentes para outras unidades? *Se sim, pedir para ver o documento.* | 1 Sim, observado · 2 Sim, referido mas não visto · 3 Não disponível |
+| 3.5 | E existem normas ou protocolos escritos para a contrarreferência, isto é, para o retorno do doente a esta unidade depois de atendido na unidade de referência? *Se sim, pedir para ver o documento.* | 1 Sim, observado · 2 Sim, referido mas não visto · 3 Não disponível |
+| 3.6 | Esta unidade mantém um registo, em livro ou em ficheiro, dos doentes que referiu para outras unidades? *Se sim, pedir para ver o registo.* | 1 Sim, observado · 2 Sim, referido mas não visto · 3 Não mantém registo |
+| 3.7 | Nos últimos 3 meses, esta unidade recebeu de volta informação clínica sobre doentes que tinha referido — por escrito ou por qualquer outro meio? | 1 Sim, sobre a maioria dos doentes referidos · 2 Sim, sobre alguns doentes · 3 Não recebeu qualquer informação de retorno · 97 Não referiu doentes nos últimos 3 meses · 98 Não sabe |
+| 3.8 | Esta unidade tem acesso, 24 horas por dia e todos os dias da semana, a uma viatura em condições de funcionamento e a um motorista disponível para o transporte de doentes? *A viatura pode estar estacionada nesta unidade ou ser chamada de outro local.* | 1 Sim · 2 Não · 98 Não sabe |
+
+## Secção 4 — Edifícios e construção
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 4.1 | Quantos edifícios, no total, compõem esta unidade sanitária? *Contar todos os edifícios dentro do recinto utilizados pela unidade, incluindo os de apoio. Não contar residências de técnicos nem edifícios em ruína ou sem qualquer utilização.* | \|\_\_\|\_\_\| edifícios |
+| 4.2 | Qual é a superfície total coberta desses edifícios, em metros quadrados? *Anotar 9998 se não souber.* | \|\_\_\|\_\_\|\_\_\|\_\_\| m² |
+| 4.3 | Quantas residências para técnicos existem no recinto desta unidade ou sob a sua responsabilidade? | \|\_\_\|\_\_\| residências |
+| 4.4 | Qual é a superfície total coberta dessas residências, em metros quadrados? | \|\_\_\|\_\_\|\_\_\|\_\_\| m² |
+| 4.5 | Em que ano foi concluída a construção do edifício principal desta unidade? *Se foi substancialmente reconstruído, indicar o ano da reconstrução. Anotar 9998 se não souber.* | \|\_\_\|\_\_\|\_\_\|\_\_\| |
+| 4.6 | Em que período foi construído o edifício principal? *Ler as opções.* | 1 Antes de 1975 · 2 Entre 1975 e 1991 · 3 Entre 1992 e 2002 · 4 Entre 2003 e 2012 · 5 De 2013 em diante · 98 Não sabe |
+| 4.7 | Qual é o material predominante das paredes exteriores do edifício principal? *Marcar uma única opção — o material que cobre a maior parte da superfície das paredes.* | 1 Blocos de cimento · 2 Tijolo cozido · 3 Adobe ou tijolo de barro · 4 Pau a pique ou madeira · 5 Chapa metálica · 96 Outro (especificar) |
+
+## Secção 5 — Estado de conservação
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 5.1 | Considerando as fundações, a estrutura, o pavimento, as paredes, a cobertura, o tecto falso e as instalações sanitárias do edifício principal, qual das seguintes situações melhor descreve o seu estado actual? *Ler todas as opções antes de marcar. Aplicar os critérios detalhados do Guião de Preenchimento. Marcar uma única opção.* | 1 Não necessita de intervenção — todos os elementos em bom estado · 2 Necessita de manutenção corrente · 3 Necessita de reabilitação — um ou mais elementos degradados, mas a estrutura está sã · 4 Necessita de reconstrução — estrutura comprometida ou edifício inutilizável |
+| 5.2.1 | Qual é a superfície coberta, em metros quadrados, que se encontra em bom estado? | \|\_\_\|\_\_\|\_\_\|\_\_\| m² |
+| 5.2.2 | E a necessitar de manutenção corrente? | \|\_\_\|\_\_\|\_\_\|\_\_\| m² |
+| 5.2.3 | E a necessitar de reabilitação? | \|\_\_\|\_\_\|\_\_\|\_\_\| m² |
+| 5.2.4 | E a necessitar de reconstrução? *Verificação: 5.2.1 + 5.2.2 + 5.2.3 + 5.2.4 = 4.2.* | \|\_\_\|\_\_\|\_\_\|\_\_\| m² |
+
+## Secção 6 — Água, energia, saneamento e resíduos
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 6.1 | Qual é a fonte de água mais utilizada por esta unidade sanitária neste momento? *Ler as opções. Marcar uma única. Se a resposta for diferente para o internamento e para o ambulatório, indicar a do internamento.* | 01 Canalizada para dentro do edifício · 02 Canalizada para o recinto da unidade · 03 Torneira ou fontanário público · 04 Furo · 05 Poço protegido · 06 Poço não protegido · 07 Nascente protegida · 08 Nascente não protegida · 09 Água da chuva · 10 Água engarrafada · 11 Carroça com pequeno depósito · 12 Camião cisterna · 13 Água de superfície · 96 Outra (especificar) · 00 Não tem qualquer fonte de água · 98 Não sabe |
+| 6.1.2 | Além dessa, que outras fontes de água esta unidade utiliza quando a fonte principal não está disponível? *Marcar todas as que se aplicam, usando os códigos de 6.1. Anotar 00 se não houver fonte alternativa.* | Códigos de 6.1 |
+| 6.2 | Há água proveniente dessa fonte disponível no recinto da unidade — dentro do edifício ou dentro do recinto? *Se sim, perguntar: posso ver a água que está disponível hoje? A água pode estar canalizada ou em recipiente.* | 1 Sim, observada dentro do edifício · 2 Sim, observada no recinto da unidade · 3 Sim, referida mas não vista · 4 Não, ou disponível apenas fora do recinto |
+| 6.3 | Nos últimos 30 dias, houve algum período em que esta unidade ficou sem água e isso obrigou a suspender ou a limitar a prestação de serviços? | 1 Não houve nenhum período · 2 Sim, no total menos de uma semana · 3 Sim, no total uma semana ou mais · 98 Não sabe |
+| 6.4 | Esta unidade dispõe de electricidade proveniente de alguma fonte — rede pública, gerador, energia solar ou outra — incluindo a que alimenta apenas aparelhos autónomos, como os da cadeia de frio do Programa Alargado de Vacinação? *Se 2, passar a 6.7.* | 1 Sim · 2 Não |
+| 6.5 | Qual é a fonte de electricidade mais utilizada por esta unidade? *Marcar uma única opção.* | 1 Rede pública · 2 Gerador da unidade · 3 Painéis solares · 4 Rede de uma instituição vizinha · 96 Outra (especificar) |
+| 6.5.1 | Que fontes de reserva existem, para os períodos em que a fonte principal falha? *Marcar todas as que se aplicam.* | 1 Rede pública · 2 Gerador · 3 Painéis solares · 4 Baterias · 96 Outra (especificar) · 00 Não tem fonte de reserva |
+| 6.6 | Nos últimos 7 dias, houve electricidade — da fonte principal ou de qualquer fonte de reserva — em todos os momentos em que esta unidade esteve aberta ao público? *Ler as três opções.* | 1 Sempre disponível, sem interrupções · 2 Muitas vezes disponível, com interrupções de menos de 2 horas por dia · 3 Algumas vezes disponível, com interrupções frequentes ou de mais de 2 horas por dia |
+| 6.7 | Existe no recinto desta unidade um sanitário ou latrina que possa ser utilizado pelos utentes da consulta externa ou pelo pessoal? *Se sim, perguntar: de que tipo é? Posso vê-lo? Se houver vários, considerar o tipo mais moderno.* | 1 Autoclismo ligado a rede de esgotos · 2 Autoclismo ligado a fossa séptica · 3 Autoclismo ligado a destino aberto ou desconhecido · 4 Latrina melhorada ventilada · 5 Latrina com laje · 6 Latrina com compostagem · 7 Latrina de fossa aberta, sem laje · 8 Balde · 9 Sanitário suspenso · 10 Não existe sanitário nem latrina no recinto |
+| 6.8 | Como é feita a recolha do lixo comum desta unidade? | 1 Pelos serviços administrativos municipais · 2 Por empresa contratada · 3 Pela própria unidade · 4 Não há recolha organizada · 98 Não sabe |
+| 6.9 | Qual é o destino final dos resíduos cortantes e perfurantes produzidos nesta unidade — agulhas, lâminas, ampolas partidas? *Marcar uma única opção — o destino da maior parte destes resíduos.* | 1 Recolhidos e tratados fora da unidade · 2 Incinerados nesta unidade · 3 Queimados a céu aberto · 4 Enterrados em vala protegida · 5 Despejados sem qualquer tratamento · 96 Outro (especificar) · 98 Não sabe |
+| 6.10 | E qual é o destino final dos resíduos infecciosos não cortantes — pensos, compressas, luvas usadas, material contaminado? | Mesmas opções de 6.9 |
+| 6.11 | O incinerador ou outro meio de tratamento de resíduos desta unidade estava a funcionar hoje? *Pedir para ver.* | 1 Sim, observado a funcionar · 2 Não estava a funcionar · 97 Não se aplica · 98 Não sabe |
+| 6.12 | Havia hoje combustível disponível para o incinerador? | 1 Sim, observado · 2 Não · 97 Não se aplica · 98 Não sabe |
+| 6.13 | Existem nesta unidade normas escritas ou instruções de trabalho sobre a gestão de resíduos sanitários? *Se sim, pedir para ver.* | 1 Sim, observadas · 2 Sim, referidas mas não vistas · 3 Não existem |
+| 6.14 | Nos últimos 2 anos, algum profissional que actualmente trabalha nesta unidade recebeu formação em gestão de resíduos sanitários? | 1 Sim · 2 Não · 98 Não sabe |
+| 6.15 | Existe nesta unidade uma estação ou sistema de tratamento de águas residuais? | 1 Sim, e estava a funcionar nos últimos 30 dias · 2 Sim, mas não estava a funcionar nos últimos 30 dias · 3 Não existe |
+
+## Secção 7 — Serviços
+
+### 7.0 Perguntas-porta
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 7.0.1 | Esta unidade presta atendimento em regime de ambulatório, isto é, a doentes que são atendidos e regressam a casa no mesmo dia? | 1 Sim · 2 Não |
+| 7.0.2 | Esta unidade presta atendimento em regime de internamento, isto é, com doentes que pernoitam na unidade? | 1 Sim · 2 Não |
+| 7.0.3 | Num dia normal de semana, durante quantas horas está a consulta externa desta unidade aberta ao público? *Contar apenas as horas em que há atendimento a utentes. Se o atendimento for contínuo 24 horas, anotar 24.* | \|\_\_\|\_\_\| horas |
+| 7.0.4 | E em quantos dias por semana está a consulta externa aberta ao público? | \|\_\_\| dias |
+
+### 7.1 Serviços clínicos e cirúrgicos
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 7.1.1 a 7.1.28 | *Enunciado:* "Vou ler uma lista de especialidades clínicas. Para cada uma, diga-me se esta unidade tem consulta regular nessa especialidade — isto é, com dia ou dias marcados na semana — prestada por um profissional habilitado. Não considerar atendimentos ocasionais nem consultas suspensas há mais de 3 meses."<br>Medicina geral · Medicina interna · Pediatria · Neonatologia · Ginecologia e obstetrícia · Cuidados intensivos · Cardiologia · Dermatologia · Endocrinologia · Estomatologia · Fisiatria · Gastrenterologia · Reumatologia · Geriatria · Hematologia · Infecciologia · Imuno-hematologia · Nefrologia · Neurologia · Nutrição · Oftalmologia · Oncologia · Orto-traumatologia · Otorrinolaringologia · Pneumologia · Psiquiatria · Psicologia · Urologia | Para cada: 1 Sim, consulta regular · 2 Não |
+| 7.1.29 | Esta unidade realiza algum procedimento cirúrgico, de pequena ou de grande cirurgia? *Se 2, passar a 7.2.* | 1 Sim · 2 Não |
+| 7.1.29.1 | Esta unidade realiza procedimentos de pequena cirurgia, isto é, procedimentos efectuados sob anestesia local, sem necessidade de bloco operatório? | 1 Sim · 2 Não |
+| 7.1.29.2 | Esta unidade realiza procedimentos de grande cirurgia, isto é, procedimentos efectuados sob anestesia geral ou regional, em bloco operatório? | 1 Sim · 2 Não |
+| 7.1.29.3 | Esta unidade realiza circuncisão masculina médica voluntária? | 1 Sim · 2 Não |
+| 7.1.29.4 | Dos três procedimentos seguintes, quais foram realizados nesta unidade nos últimos 12 meses? *Ler os três.* <br>a) Cesariana · b) Laparotomia · c) Tratamento de fractura exposta | Para cada: 1 Sim · 2 Não |
+| 7.1.30 a 7.1.34 | Esta unidade realiza procedimentos cirúrgicos em alguma das seguintes áreas de especialidade?<br>Cirurgia pediátrica · Cirurgia maxilofacial · Cirurgia vascular · Neurocirurgia · Cirurgia plástica | Para cada: 1 Sim · 2 Não |
+
+### 7.2.A Imagiologia
+
+*Enunciado:* "Vou perguntar por alguns exames de imagem. Para cada um, diga-me se é realizado nesta unidade, com equipamento desta unidade. Não considerar exames que os doentes fazem noutro local por iniciativa própria."
+
+| Código | Exame | Opções de resposta |
+|---|---|---|
+| 7.2.A.1 | Ecografia | 1 Sim · 2 Não |
+| 7.2.A.2 | Radiografia (raios X) | 1 Sim · 2 Não |
+| 7.2.A.3 | Mamografia | 1 Sim · 2 Não |
+| 7.2.A.4 | Tomografia computorizada | 1 Sim · 2 Não |
+| 7.2.A.5 | Ressonância magnética | 1 Sim · 2 Não |
+| 7.2.A.6 | Angiografia ou cateterismo | 1 Sim · 2 Não |
+| 7.2.A.7 | Fluoroscopia | 1 Sim · 2 Não |
+| 7.2.A.8 | Medicina nuclear | 1 Sim · 2 Não |
+
+### 7.2.B Procedimentos e tecnologias
+
+*Enunciado:* "Vou perguntar por alguns procedimentos. Para cada um, diga-me se esta unidade o realizou pelo menos uma vez nos últimos 3 meses. Não considerar procedimentos que a unidade poderia realizar mas que não realiza na prática."
+
+| Código | Procedimento | Opções de resposta |
+|---|---|---|
+| 7.2.B.1 | Desfibrilhação | 1 Sim · 2 Não |
+| 7.2.B.2 | Electrocardiograma | 1 Sim · 2 Não |
+| 7.2.B.3 | Electroencefalograma | 1 Sim · 2 Não |
+| 7.2.B.4 | Incubadora para recém-nascidos | 1 Sim · 2 Não |
+| 7.2.B.5 | Fototerapia para icterícia neonatal | 1 Sim · 2 Não |
+| 7.2.B.6 | Radioterapia | 1 Sim · 2 Não |
+| 7.2.B.7 | Diálise renal | 1 Sim · 2 Não |
+| 7.2.B.8 | Ventilação mecânica | 1 Sim · 2 Não |
+| 7.2.B.9 | Transfusão de sangue | 1 Sim · 2 Não |
+| 7.2.B.10 | Colonoscopia | 1 Sim · 2 Não |
+| 7.2.B.11 | Administração de oxigénio a doentes | 1 Sim · 2 Não |
+
+### 7.2.C Exames laboratoriais
+
+*Enunciado:* "Vou perguntar por exames laboratoriais. Para cada um, diga-me se é realizado nesta unidade, se a amostra é enviada para outro laboratório com o resultado a regressar a esta unidade, ou se não está disponível para os doentes desta unidade. Considere a situação habitual dos últimos 3 meses, e não uma falha pontual de reagente."
+
+**Opções para todos os itens: 1 Realizado nesta unidade · 2 Amostra enviada para fora, com retorno do resultado · 3 Não disponível**
+
+| Código | Exame |
+|---|---|
+| 7.2.C.1 | Microscopia geral |
+| 7.2.C.2 | Cultura e antibiograma |
+| 7.2.C.3 | Diagnóstico de malária — gota espessa ou teste rápido |
+| 7.2.C.4 | Teste rápido de sífilis |
+| 7.2.C.5 | Teste de diagnóstico do VIH |
+| 7.2.C.6 | Teste de diagnóstico da tuberculose |
+| 7.2.C.7 | Teste de gravidez na urina |
+| 7.2.C.8 | Tira de urina — proteínas |
+| 7.2.C.9 | Tira de urina — glicose |
+| 7.2.C.10 | Tira de urina — corpos cetónicos |
+| 7.2.C.11 | Hemoglobina ou hematócrito |
+| 7.2.C.12 | Hemograma completo |
+| 7.2.C.13 | Tipagem e grupo sanguíneo |
+| 7.2.C.14 | Glicemia |
+| 7.2.C.15 | Ionograma |
+| 7.2.C.16 | Provas de função renal — ureia ou creatinina |
+| 7.2.C.17 | Provas de função hepática — transaminases ou bilirrubina |
+
+### 7.2.D Outros serviços de apoio
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 7.2.6 | Esta unidade tem um serviço, unidade ou secção de anatomia patológica, distinto do laboratório de análises clínicas? | 1 Sim · 2 Não |
+| 7.2.8 | Esta unidade presta serviços de reabilitação — fisioterapia, terapia ocupacional, terapia da fala ou reabilitação física? | 1 Sim · 2 Não |
+| 7.2.9 | Esta unidade tem bloco operatório? Se sim, quantos blocos operatórios em condições de utilização? | 1 Sim, \|\_\_\| blocos · 2 Não |
+| 7.2.10 | Esta unidade tem farmácia ou depósito de medicamentos, com responsável designado, que dispensa medicamentos aos doentes? | 1 Sim · 2 Não |
+| 7.2.15 | Esta unidade presta cuidados paliativos — cuidados destinados a aliviar o sofrimento de doentes com doença avançada, incluindo controlo da dor? | 1 Sim · 2 Não |
+
+### 7.2.E Serviços de urgência
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 7.2.12.1 | Esta unidade atende doentes em situação de urgência que chegam sem marcação, como primeira porta de entrada no sistema? *Se 2, passar a 7.3.* | 1 Sim · 2 Não |
+| 7.2.12.2 | Existe nesta unidade um banco de urgência dedicado — um espaço próprio para urgências, distinto da consulta externa — aberto 24 horas por dia, todos os dias? | 1 Sim · 2 Não |
+| 7.2.12.3 | Há pessoal médico e de enfermagem presente no banco de urgência 24 horas por dia, todos os dias? *Considerar presença física na unidade, e não disponibilidade por chamada.* | 1 Sim · 2 Não · 98 Não sabe |
+| 7.2.12.4 | O banco de urgência tem acesso rápido a transporte de emergência para referir doentes, 24 horas por dia? | 1 Sim · 2 Não |
+| 7.2.12.5 | A farmácia desta unidade dispensa medicamentos 24 horas por dia, todos os dias? | 1 Sim · 2 Não |
+| 7.2.12.6 | Os serviços de radiologia desta unidade estão disponíveis 24 horas por dia, todos os dias? | 1 Sim · 2 Não · 97 Não tem radiologia |
+| 7.2.12.7 | Os serviços de laboratório desta unidade estão disponíveis 24 horas por dia, todos os dias? | 1 Sim · 2 Não · 97 Não tem laboratório |
+| 7.2.12.8 | Quando um doente é transportado para outra unidade em situação de urgência, é habitualmente acompanhado por um médico ou enfermeiro desta unidade? | 1 Sim · 2 Não · 98 Não sabe |
+| 7.2.12.9 | O banco de urgência tem pessoal próprio, afecto exclusivamente a este serviço, que não roda por outros serviços da unidade? | 1 Sim · 2 Não |
+| 7.2.12.10 | Existe no banco de urgência um sistema formal de triagem, com critérios escritos para classificar a gravidade dos doentes à chegada? | 1 Sim · 2 Não |
+
+### 7.3.1 Vacinação
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 7.3.1 | Esta unidade administra vacinas do Programa Alargado de Vacinação, de forma regular? *Não considerar campanhas pontuais realizadas por equipas externas. Se 2, passar a 7.3.2.* | 1 Sim · 2 Não |
+| 7.3.1.a | Com que frequência se administram as vacinas de rotina às crianças nesta unidade? | 1 Todos os dias de atendimento · 2 Uma ou mais vezes por semana · 3 Mensalmente ou trimestralmente · 4 Apenas em campanhas |
+| 7.3.1.b a 7.3.1.e | *Enunciado:* "Vou ler a lista das vacinas do calendário nacional. Para cada uma, diga-me se esta unidade a administra habitualmente ao grupo etário indicado. Considere a prática habitual, e não uma rutura pontual de stock."<br>**Ao nascimento:** BCG · Poliomielite oral · Hepatite B<br>**Lactentes (< 1 ano):** BCG · VOP · DPT-HepB-Hib · Rotavírus · VIP<br>**Crianças (1 a 5 anos):** Sarampo · Pneumocócica · COVID-19<br>**Adolescentes e adultos:** Tétano · HPV · Gripe · COVID-19 · Pneumocócica · Hepatite B | Para cada: 1 Sim · 2 Não |
+
+### 7.3.2 a 7.3.5 Saúde da criança e nutrição
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 7.3.CH | Esta unidade presta cuidados preventivos ou curativos a crianças menores de 5 anos? *Se 2, passar a 7.3.6.* | 1 Sim · 2 Não |
+| | *Enunciado:* "Vou perguntar por serviços prestados a crianças menores de 5 anos. Para cada um, diga-me se é prestado habitualmente nesta unidade." | Para cada: 1 Sim · 2 Não |
+| 7.3.5 | Vigilância do crescimento de rotina, com pesagem e registo no cartão da criança | 1 Sim · 2 Não |
+| 7.3.4 | Diagnóstico ou tratamento da desnutrição | 1 Sim · 2 Não |
+| 7.3.4.2 | Manejo em ambulatório da desnutrição aguda grave sem complicações, com alimento terapêutico pronto a usar | 1 Sim · 2 Não |
+| 7.3.4.3 | Manejo em ambulatório de desnutrição aguda moderada ou outras categorias | 1 Sim · 2 Não |
+| 7.3.4.4 | Manejo em internamento da desnutrição grave com complicações | 1 Sim · 2 Não |
+| 7.3.2 | Administração de rotina de vitamina A | 1 Sim · 2 Não |
+| 7.3.2.1 | Diagnóstico e tratamento da anemia com suplementação de ferro | 1 Sim · 2 Não |
+| 7.3.4.1 | Diagnóstico e tratamento da diarreia com sais de reidratação oral e zinco | 1 Sim · 2 Não |
+| 7.3.2.2 | Diagnóstico e tratamento de primeira linha da pneumonia | 1 Sim · 2 Não |
+| 7.3.2.3 | Diagnóstico da malária com teste laboratorial e respectivo tratamento | 1 Sim · 2 Não |
+| 7.3.14 | Entrega de rede mosquiteira tratada ou de senha para a levantar | 1 Sim · 2 Não |
+| 7.3.17.a | Articulação regular com agentes comunitários de saúde para o seguimento de crianças | 1 Sim · 2 Não |
+| 7.3.3 | Distribuição de albendazol (desparasitação) | 1 Sim · 2 Não |
+
+### 7.3.6 Consulta pré-natal
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 7.3.6 | Esta unidade presta consultas pré-natais a mulheres grávidas? *Se 2, passar a 7.3.7.* | 1 Sim · 2 Não |
+| | *Enunciado:* "Vou ler uma lista de acções que podem fazer parte da consulta pré-natal. Para cada uma, diga-me se é feita habitualmente nesta unidade, às mulheres que aqui fazem o pré-natal." | Para cada: 1 Sim · 2 Não |
+| 7.3.6.a | Prescrição ou entrega de suplemento de ferro | 1 Sim · 2 Não |
+| 7.3.6.b | Prescrição ou entrega de ácido fólico | 1 Sim · 2 Não |
+| 7.3.6.c | Administração da vacina antitetânica | 1 Sim · 2 Não |
+| 7.3.6.d | Medição da tensão arterial em todas as consultas, para deteção de perturbações hipertensivas da gravidez | 1 Sim · 2 Não |
+| 7.3.6.e | Pesquisa de proteínas na urina, de rotina | 1 Sim · 2 Não |
+| 7.3.6.f | Administração do tratamento intermitente preventivo da malária | 1 Sim · 2 Não |
+| 7.3.6.g | Oferta de teste de VIH a todas as grávidas | 1 Sim · 2 Não |
+| 7.3.6.h | Entrega de rede mosquiteira tratada ou de senha para a levantar | 1 Sim · 2 Não |
+| 7.3.6.i | Realização de teste de sífilis, de rotina | 1 Sim · 2 Não |
+| 7.3.6.j | Tratamento da sífilis nas grávidas com teste positivo | 1 Sim · 2 Não |
+| 7.3.6.k | Diagnóstico e tratamento de outras infecções sexualmente transmissíveis | 1 Sim · 2 Não |
+| 7.3.6.l | Articulação com agentes comunitários para a captação e seguimento de grávidas | 1 Sim · 2 Não |
+
+### 7.3.7 Partos e cuidados obstétricos de emergência
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 7.3.7 | Esta unidade assiste partos? *Se 2, passar a 7.3.8.* | 1 Sim · 2 Não |
+| 7.3.7.0 | Há assistência ao parto por profissional qualificado — médico, enfermeiro ou parteira com formação — disponível nesta unidade 24 horas por dia, todos os dias da semana? | 1 Sim · 2 Não |
+| | *Enunciado:* "Vou ler uma lista de procedimentos e práticas relacionados com o parto. Para cada um, diga-me se foi realizado nesta unidade pelo menos uma vez nos últimos 3 meses. Se o procedimento é praticado aqui mas não houve nenhum caso nos últimos 3 meses, responda 'sim, mas sem casos recentes'." | **Para cada: 1 Sim, realizado nos últimos 3 meses · 2 Sim, praticado aqui, mas sem casos nos últimos 3 meses · 3 Não é realizado nesta unidade** |
+| 7.3.7.a | Administração de antibiótico por via parenteral à mãe | 1 · 2 · 3 |
+| 7.3.7.b | Administração de ocitócico por via parenteral para tratamento da hemorragia pós-parto | 1 · 2 · 3 |
+| 7.3.7.c | Administração de sulfato de magnésio por via parenteral para pré-eclâmpsia ou eclâmpsia | 1 · 2 · 3 |
+| 7.3.7.d | Parto vaginal assistido com ventosa ou fórceps | 1 · 2 · 3 |
+| 7.3.7.e | Remoção manual da placenta | 1 · 2 · 3 |
+| 7.3.7.f | Remoção de restos ovulares, por curetagem ou aspiração manual intrauterina | 1 · 2 · 3 |
+| 7.3.7.g | Reanimação do recém-nascido com insuflador e máscara | 1 · 2 · 3 |
+| 7.3.7.h | Administração de antibiótico na rotura prematura de membranas | 1 · 2 · 3 |
+| 7.3.7.i | Administração de corticosteroide no trabalho de parto pré-termo | 1 · 2 · 3 |
+| 7.3.7.j | Método canguru para recém-nascidos prematuros ou de baixo peso | 1 · 2 · 3 |
+| 7.3.7.k | Administração de antibiótico injectável para sépsis neonatal | 1 · 2 · 3 |
+| 7.3.7.l | Administração de ocitocina para prevenção da hemorragia pós-parto | 1 · 2 · 3 |
+| 7.3.7.m | Vigilância do trabalho de parto com partograma | 1 · 2 · 3 |
+| 7.3.7.n | Início da amamentação na primeira hora de vida | 1 · 2 · 3 |
+| 7.3.7.o | Cuidados higiénicos do cordão umbilical | 1 · 2 · 3 |
+| 7.3.7.p | Secagem do recém-nascido e contacto pele a pele imediato | 1 · 2 · 3 |
+| 7.3.7.q | Alojamento conjunto da mãe e do recém-nascido | 1 · 2 · 3 |
+| 7.3.7.r | Clampagem tardia do cordão umbilical | 1 · 2 · 3 |
+| 7.3.7.s | Cesariana | 1 · 2 · 3 |
+| 7.3.7.t | Transfusão de sangue a mulheres em trabalho de parto ou no pós-parto | 1 · 2 · 3 |
+
+### 7.3.8 Consulta pós-parto
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 7.3.8 | Esta unidade presta cuidados pós-parto à mãe, ao recém-nascido, ou a ambos, nas seis semanas seguintes ao parto? | 1 Sim · 2 Não |
+| | *Enunciado:* "Para cada uma das acções seguintes, diga-me se é feita habitualmente na consulta pós-parto desta unidade." | Para cada: 1 Sim · 2 Não |
+| 7.3.8.a | Aconselhamento em planeamento familiar | 1 Sim · 2 Não |
+| 7.3.8.b | Aconselhamento sobre sinais de perigo no recém-nascido | 1 Sim · 2 Não |
+| 7.3.8.c | Aconselhamento sobre cuidados e higiene do cordão umbilical | 1 Sim · 2 Não |
+| 7.3.8.d | Aconselhamento sobre nutrição e alimentação da criança | 1 Sim · 2 Não |
+| 7.3.8.e | Aconselhamento para amamentação exclusiva até aos 6 meses | 1 Sim · 2 Não |
+| 7.3.8.f | Aconselhamento sobre o calendário de vacinação da criança | 1 Sim · 2 Não |
+| 7.3.8.g | Administração da vacina BCG ao recém-nascido | 1 Sim · 2 Não |
+| 7.3.8.h | Administração da vacina antipólio ao recém-nascido | 1 Sim · 2 Não |
+| 7.3.8.i | Entrega de rede mosquiteira tratada para o lactente | 1 Sim · 2 Não |
+| 7.3.8.j | Articulação com agentes comunitários para o seguimento do recém-nascido | 1 Sim · 2 Não |
+
+### 7.3.9 Planeamento familiar
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 7.3.9 | Esta unidade presta serviços de planeamento familiar — aconselhamento, prescrição ou fornecimento de métodos contraceptivos? | 1 Sim · 2 Não |
+| | *Enunciado:* "Vou ler uma lista de métodos contraceptivos. Para cada um, diga-me se esta unidade o fornece ou o coloca habitualmente. Considere a prática habitual, e não uma rutura pontual de stock." | Para cada: 1 Sim · 2 Não |
+| 7.3.9.a | Pílula contraceptiva combinada | 1 Sim · 2 Não |
+| 7.3.9.b | Pílula só de progestagénio | 1 Sim · 2 Não |
+| 7.3.9.c | Contraceptivo injectável combinado | 1 Sim · 2 Não |
+| 7.3.9.d | Contraceptivo injectável só de progestagénio | 1 Sim · 2 Não |
+| 7.3.9.e | Preservativo masculino | 1 Sim · 2 Não |
+| 7.3.9.f | Preservativo feminino | 1 Sim · 2 Não |
+| 7.3.9.g | Dispositivo intrauterino | 1 Sim · 2 Não |
+| 7.3.9.h | Implante subcutâneo | 1 Sim · 2 Não |
+| 7.3.9.i | Contracepção de emergência | 1 Sim · 2 Não |
+| 7.3.9.j | Esterilização masculina (vasectomia) | 1 Sim · 2 Não |
+| 7.3.9.k | Esterilização feminina (laqueação de trompas) | 1 Sim · 2 Não |
+| 7.3.9.l | Colar do ciclo, para o método dos dias fixos | 1 Sim · 2 Não |
+| 7.3.9.m | Articulação com agentes comunitários para distribuição de métodos | 1 Sim · 2 Não |
+
+### 7.3.10 a 7.3.12 VIH
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 7.3.10 | Esta unidade realiza testes de VIH com aconselhamento, a pedido ou por indicação clínica? | 1 Sim · 2 Não |
+| 7.3.10.a | Testagem de adolescentes e adultos (15 anos ou mais) | 1 Sim · 2 Não |
+| 7.3.10.b | Testagem de crianças de 5 a 14 anos | 1 Sim · 2 Não |
+| 7.3.10.c | Testagem de crianças menores de 5 anos | 1 Sim · 2 Não |
+| 7.3.12 | Esta unidade fornece tratamento antirretroviral ou faz o seguimento de doentes já em tratamento antirretroviral? | 1 Sim · 2 Não |
+| 7.3.12.a | Tratamento antirretroviral a adultos e adolescentes | 1 Sim · 2 Não |
+| 7.3.11.a | Tratamento antirretroviral a crianças de 5 a 14 anos | 1 Sim · 2 Não |
+| 7.3.11.b | Tratamento antirretroviral a crianças menores de 5 anos | 1 Sim · 2 Não |
+| 7.3.12.b | Dispensa ou prescrição de medicamentos antirretrovirais | 1 Sim · 2 Não |
+| 7.3.12.c | Consultas de seguimento clínico de doentes em tratamento | 1 Sim · 2 Não |
+| 7.3.12.d | Aconselhamento e seguimento da adesão ao tratamento | 1 Sim · 2 Não |
+
+### 7.3.13 Tuberculose
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 7.3.13 | Esta unidade presta algum serviço relacionado com a tuberculose — diagnóstico, tratamento ou seguimento de doentes? | 1 Sim · 2 Não |
+| 7.3.13.a | Diagnóstico ou tratamento de tuberculose resistente aos medicamentos | 1 Sim · 2 Não |
+| 7.3.13.b | Realização de testes de diagnóstico da tuberculose | 1 Sim · 2 Não |
+| 7.3.13.c | Consultas de seguimento clínico e prescrição de medicamentos | 1 Sim · 2 Não |
+| 7.3.13.d | Reabastecimento de medicamentos nas consultas de seguimento | 1 Sim · 2 Não |
+| 7.3.13.e | Apoio à adesão ao tratamento, incluindo tratamento sob observação directa | 1 Sim · 2 Não |
+| 7.3.13.f | Oferta de teste de VIH a todos os doentes com tuberculose | 1 Sim · 2 Não |
+| 7.3.13.g | Articulação com agentes comunitários para busca de faltosos ou apoio ao tratamento | 1 Sim · 2 Não |
+| 7.3.13.h | Quarto ou enfermaria de internamento dedicado ao isolamento respiratório | 1 Sim · 2 Não |
+
+### 7.3.18 Malária
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 7.3.18 | Esta unidade faz diagnóstico ou tratamento da malária? | 1 Sim · 2 Não |
+| 7.3.18.a | Diagnóstico por teste rápido | 1 Sim · 2 Não |
+| 7.3.18.b | Diagnóstico por microscopia (gota espessa) | 1 Sim · 2 Não |
+| 7.3.18.c | Tratamento iniciado apenas com base em sinais e sintomas, sem teste laboratorial | 1 Sim · 2 Não |
+| 7.3.18.d | Tratamento da malária com medicamentos antimaláricos | 1 Sim · 2 Não |
+| 7.3.18.e | Articulação com agentes comunitários para diagnóstico ou tratamento da malária | 1 Sim · 2 Não |
+
+### 7.3.19 Doenças não transmissíveis
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 7.3.19 | Esta unidade faz diagnóstico, tratamento ou seguimento de doentes com alguma doença crónica não transmissível? | 1 Sim · 2 Não |
+| | *Enunciado:* "Vou ler uma lista de condições. Para cada uma, diga-me se esta unidade faz diagnóstico, tratamento ou seguimento regular de doentes com essa condição. Responda pelo que a unidade faz na prática, e não pela existência de uma consulta de especialidade." | Para cada: 1 Sim · 2 Não |
+| 7.3.19.a | Doenças cardiovasculares, incluindo hipertensão arterial | 1 Sim · 2 Não |
+| 7.3.19.b | Diabetes | 1 Sim · 2 Não |
+| 7.3.19.c | Doença respiratória crónica — asma ou doença pulmonar obstrutiva crónica | 1 Sim · 2 Não |
+| 7.3.19.d | Cancro do colo do útero, incluindo rastreio | 1 Sim · 2 Não |
+| 7.3.19.e | Cancro da mama, incluindo rastreio | 1 Sim · 2 Não |
+| 7.3.19.f | Perturbações mentais — depressão, ansiedade, psicose, uso de substâncias | 1 Sim · 2 Não |
+| 7.3.19.g | Doenças neurológicas, incluindo epilepsia | 1 Sim · 2 Não |
+
+### 7.3.15 a 7.3.17 Extensão comunitária
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 7.3.15 | Nos últimos 12 meses, esta unidade organizou brigadas móveis — deslocações de equipas desta unidade a locais fora do recinto, para prestar cuidados? | 1 Sim, regularmente · 2 Sim, ocasionalmente · 3 Não |
+| 7.3.16 | Nos últimos 12 meses, esta unidade organizou equipas avançadas — postos de atendimento temporários instalados fora do recinto? | 1 Sim, regularmente · 2 Sim, ocasionalmente · 3 Não |
+| 7.3.17 | Existem agentes de desenvolvimento comunitário e sanitário que trabalham na área de abrangência desta unidade e com ela articulam? Se sim, quantos? | 1 Sim, \|\_\_\|\_\_\| agentes · 2 Não · 98 Não sabe |
+
+### 7.4 Serviços de gestão
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 7.4.1 a 7.4.17 | *Enunciado:* "Vou ler uma lista de serviços e órgãos de gestão. Para cada um, diga-me se existe nesta unidade e se esteve em funcionamento nos últimos 3 meses."<br>Admissão e arquivo clínico-estatístico · Direcção geral · Direcção clínica · Direcção pedagógica · Administração · Chefias · Recursos humanos · Escola de formação de técnicos de saúde · Núcleo de formação permanente (campo de estágio médico · campo de estágio de enfermagem) · Informática e estatística · Assistência social · Comissão de ética e deontologia · Comissão de infecções hospitalares · Comissão de óbitos hospitalares · Comissão de medicamentos · Comissão de segurança · Comissão de disciplina e auditoria | Para cada: 1 Existe e funcionou nos últimos 3 meses · 2 Existe mas não funcionou nos últimos 3 meses · 3 Não existe |
+
+### 7.5 Serviços gerais
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 7.5.1 | Esta unidade tem acesso a uma ambulância ou a outro veículo em condições de funcionamento para o transporte de emergência de doentes — quer esteja estacionado nesta unidade, quer possa ser chamado de outro local? *Se 3, passar a 7.5.2.* | 1 Sim, ambulância · 2 Sim, outro tipo de veículo · 3 Não |
+| 7.5.1.1 | Esse veículo está disponível hoje, em condições de funcionamento, com combustível e com motorista? *Se o respondente não tiver a certeza, pedir que confirme com quem saiba.* | 1 Sim · 2 Não · 98 Não sabe |
+| 7.5.7 | Esta unidade dispõe de um meio de comunicação com o exterior — telefone fixo, telemóvel ou rádio — pago ou fornecido pela própria unidade? *Não considerar telemóveis pessoais dos profissionais.* | 1 Sim, e está a funcionar · 2 Sim, mas está avariado · 3 Não, existem apenas telemóveis pessoais dos profissionais · 4 Não há qualquer meio de comunicação com o exterior |
+| 7.5.7.1 | Esta unidade tem pelo menos um computador a funcionar? | 1 Sim · 2 Não |
+| 7.5.7.2 | Há acesso a correio electrónico ou à internet nesta unidade hoje? | 1 Sim, através de equipamento da unidade · 2 Sim, mas apenas através de equipamento pessoal dos profissionais · 3 Não há acesso |
+| 7.5.7.3 | O custo da ligação à internet é pago ou reembolsado pela gestão desta unidade? | 1 Sim · 2 Não · 97 Não se aplica |
+| 7.5.2 a 7.5.18 | *Enunciado:* "Vou ler uma lista de serviços gerais de apoio. Para cada um, diga-me se existe nesta unidade e se esteve em funcionamento nos últimos 3 meses."<br>Cozinha · Refeitório ou cantina · Lavandaria · Morgue · Higiene e limpeza · Manutenção · Segurança · Salão de actos · Biblioteca · Residência · Capela · Parqueamento · Ajardinamento · Videovigilância · Gabinete do utente | Para cada: 1 Existe e funcionou nos últimos 3 meses · 2 Existe mas não funcionou · 3 Não existe |
+| 7.5.5.2 | Quantas gavetas mortuárias tem a morgue desta unidade? | \|\_\_\|\_\_\| · 97 Não tem morgue |
+
+## Secção 8 — Camas
+
+*Enunciado:* "Vou perguntar pelo número de camas desta unidade. Conte apenas as camas que estão instaladas e disponíveis para receber doentes hoje. Não conte camas avariadas, guardadas em armazém, nem camas previstas mas ainda não instaladas."
+
+| Código | Pergunta | Campo |
+|---|---|---|
+| 8.1.1 | Camas de observação — onde o doente permanece algumas horas e não pernoita | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.2 | Camas de internamento de tamanho adulto | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.2.1 | Camas de internamento de tamanho pediátrico | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.5 | Berços para recém-nascidos | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.6 | Das camas contadas acima, quantas estão dedicadas à maternidade | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.7 | Quantas estão dedicadas à cirurgia | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.8 | Quantas estão dedicadas à psiquiatria | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.9 | Quantas estão dedicadas ao banco de urgência | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.10 | Quantas são camas de cuidados intensivos de adulto | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.11 | Quantas são camas de cuidados intensivos pediátricos | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.12 | Quantos são berços de cuidados intensivos neonatais | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.13 | Quantas são camas de cuidados intermédios | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.14 | Quantas são camas de isolamento | \|\_\_\|\_\_\|\_\_\| |
+| 8.1.3 | Marquesas de parto instaladas e utilizáveis | \|\_\_\|\_\_\| |
+| 8.1.4 | Cadeiras de estomatologia instaladas e utilizáveis | \|\_\_\|\_\_\| |
+
+*Verificação: a soma de 8.1.6 a 8.1.14 não pode exceder a soma de 8.1.2 e 8.1.2.1.*
+
+## Secção 9 — Aparelhos
+
+### 9.1 Grelha de verificação *(aplicar apenas em unidades visitadas)*
+
+*Enunciado:* "Vou perguntar por alguns aparelhos que devem existir na área principal de atendimento desta unidade. Para cada um, peço que me mostre o aparelho e que me diga, quando for aplicável, se está a funcionar. Considere apenas os aparelhos disponíveis na área de atendimento, e não os guardados em armazém."
+
+**Coluna A — disponibilidade: 1 Observado · 2 Referido, não visto · 3 Não tem**
+**Coluna B — funcionamento: 1 Sim, funciona · 2 Não funciona · 98 Não sabe**
+
+| Código | Item | A | B |
+|---|---|---|---|
+| 9.1.4 | Balança de adulto | \|\_\_\| | \|\_\_\| |
+| 9.1.16 | Balança de criança, com graduação de 250 g | \|\_\_\| | \|\_\_\| |
+| 9.1.3 | Balança de bebé, com graduação de 100 g | \|\_\_\| | \|\_\_\| |
+| 9.1.8 | Aparelho de medir a tensão arterial, digital ou esfigmomanómetro manual | \|\_\_\| | \|\_\_\| |
+| 9.1.7 | Estetoscópio clínico | \|\_\_\| | \|\_\_\| |
+| 9.1.17 | Termómetro | \|\_\_\| | \|\_\_\| |
+| 9.1.18 | Oxímetro de pulso | \|\_\_\| | \|\_\_\| |
+| 9.1.19 | Foco de exame orientável para observar o doente (lanterna aceitável) | \|\_\_\| | \|\_\_\| |
+| 9.1.20 | Otoscópio | \|\_\_\| | \|\_\_\| |
+| 9.1.21 | Oftalmoscópio | \|\_\_\| | \|\_\_\| |
+| 9.1.22 | Fita métrica | \|\_\_\| | — |
+| 9.1.23 | Craveira ou estadiómetro | \|\_\_\| | \|\_\_\| |
+
+### 9.2 Contagem de aparelhos
+
+*Enunciado:* "Para cada um dos aparelhos seguintes, indique quantas unidades existem nesta unidade sanitária e estavam em condições de utilização no último mês."
+
+| Código | Aparelho | Quantidade |
+|---|---|---|
+| 9.1.1 | Esterilizador (estufa ou autoclave) | \|\_\_\|\_\_\| |
+| 9.1.2 | Mini-arca do PAV | \|\_\_\|\_\_\| |
+| 9.1.5 | Aparelho de raios X | \|\_\_\|\_\_\| |
+| 9.1.6 | Estetoscópio de Pinard | \|\_\_\|\_\_\| |
+| 9.1.9 | Ecógrafo de obstetrícia | \|\_\_\|\_\_\| |
+| 9.1.10 | Kit para exame vaginal com espéculo | \|\_\_\|\_\_\| |
+| 9.1.11 | Kit de evacuação uterina | \|\_\_\|\_\_\| |
+| 9.1.12 | Ressuscitador neonatal | \|\_\_\|\_\_\| |
+| 9.1.13 | Kit de parto instrumental | \|\_\_\|\_\_\| |
+| 9.1.14 | Kit de parto descartável | \|\_\_\|\_\_\| |
+| 9.1.15 | Kit de cesariana | \|\_\_\|\_\_\| |
+
+## Secção 10 — Meios de transporte
+
+*Enunciado:* "Vou perguntar pelos veículos afectos a esta unidade sanitária. Conte apenas os veículos que pertencem a esta unidade ou que estão permanentemente afectos a ela. Para cada tipo, indique quantos estão em condições de circular hoje e quantos estão imobilizados por avaria ou falta de documentação."
+
+| Código | Tipo de veículo | Em condições de circular | Imobilizados |
+|---|---|---|---|
+| 10.1.1 | Ambulância | \|\_\_\|\_\_\| | \|\_\_\|\_\_\| |
+| 10.1.2 | Viatura ligeira | \|\_\_\|\_\_\| | \|\_\_\|\_\_\| |
+| 10.1.3 | Viatura todo-o-terreno | \|\_\_\|\_\_\| | \|\_\_\|\_\_\| |
+| 10.1.4 | Motorizada | \|\_\_\|\_\_\| | \|\_\_\|\_\_\| |
+| 10.1.5 | Outro (especificar) | \|\_\_\|\_\_\| | \|\_\_\|\_\_\| |
+
+## Secção 11 — Pessoal afecto à unidade
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 11.1 | Esta unidade dispõe de um quadro de pessoal aprovado, que indica o número autorizado de profissionais por qualificação? *Se sim, pedir para ver o documento.* | 1 Sim, observado · 2 Sim, referido mas não visto · 3 Não dispõe |
+
+**11.2** *Enunciado:* "Vou ler uma lista de categorias profissionais. Para cada uma, diga-me quantas pessoas dessa categoria estão actualmente afectas a esta unidade sanitária, e quantas dessas são mulheres. Conte as pessoas afectas ao quadro desta unidade, incluindo as que estejam de férias ou de baixa, e não apenas as que estão presentes hoje. Não conte pessoal em visita nem pessoal voluntário, que são perguntados adiante."
+
+| Código | Categoria profissional | Total | Mulheres |
+|---|---|---|---|
+| 11.2.a | Médicos generalistas | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.b | Médicos especialistas em medicina familiar | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.c | Médicos especialistas — área médica | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.d | Médicos especialistas — pediatria | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.e | Médicos especialistas — ginecologia e obstetrícia | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.f | Médicos especialistas — área cirúrgica | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.g | Médicos especialistas — psiquiatria | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.h | Enfermeiros | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.i | Parteiras | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.j | Enfermeiros-parteiros com dupla formação | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.k | Técnicos de medicina | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.l | Estomatologistas | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.m | Farmacêuticos | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.n | Nutricionistas | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.o | Fisioterapeutas | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.p | Técnicos de laboratório | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.q | Técnicos de imagiologia | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.r | Técnicos de farmácia | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.s | Técnicos de estatística e registos clínicos | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+| 11.2.t | Outros profissionais de saúde | \|\_\_\|\_\_\|\_\_\| | \|\_\_\|\_\_\|\_\_\| |
+
+*Verificação: o número de mulheres não pode exceder o total, em nenhuma linha.*
+
+| Código | Pergunta | Opções de resposta |
+|---|---|---|
+| 11.3 | Com que frequência esta unidade recebe visitas de médicos especialistas que não estão afectos a ela? *Considerar os últimos 12 meses.* | 1 Nunca recebe · 2 Diária ou semanalmente · 3 Pelo menos uma vez por mês · 4 Pelo menos uma vez por trimestre · 5 Com menor frequência |
+| 11.4 a 11.7 | *Enunciado:* "Para cada um dos cargos seguintes, diga-me se a pessoa que o ocupa tem formação específica em gestão — um curso, uma pós-graduação ou uma qualificação reconhecida em gestão de serviços de saúde ou em administração."<br>11.4 Director da unidade · 11.5 Administrador · 11.6 Director clínico · 11.7 Director de enfermagem | Para cada: 1 Sim · 2 Não · 97 O cargo não existe nesta unidade · 98 Não sabe |
+| 11.8 | Esta unidade tem profissionais que trabalham em regime de voluntariado, sem vínculo remunerado? Se sim, de que categorias?<br>11.8.a Médico generalista · 11.8.b Médico especialista · 11.8.c Enfermeiro ou parteira | Para cada: 1 Sim · 2 Não |
+
+---
+
+*Fim do questionário.*
