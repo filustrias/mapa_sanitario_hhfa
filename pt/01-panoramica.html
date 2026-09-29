@@ -1,0 +1,1053 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt" xml:lang="pt"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.25">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>1&nbsp; Panorâmica – Análise comparativa entre o Mapa Sanitário do MINSA e o Harmonized Health Facility Assessment</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./02-formulacao.html" rel="next">
+<link href="./index.html" rel="prev">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-707d8167ce6003fca903bfe2be84ab7f.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-4d091dc1b1f655aa3f6f43fc4cc4ca42.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-d75d73574caadaa5e63e9cb958cfa0ff.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-4d091dc1b1f655aa3f6f43fc4cc4ca42.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "Nenhum resultado",
+    "search-matching-documents-text": "documentos correspondentes",
+    "search-copy-link-title": "Copiar link para a busca",
+    "search-hide-matches-text": "Esconder correspondências adicionais",
+    "search-more-match-text": "mais correspondência neste documento",
+    "search-more-matches-text": "mais correspondências neste documento",
+    "search-clear-button-title": "Limpar",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar",
+    "search-label": "Procurar"
+  }
+}</script>
+<style>html{ scroll-behavior: smooth; }</style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&amp;family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&amp;family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&amp;display=swap" rel="stylesheet">
+<script>
+  // Apply the reader's saved typeface and size before the page paints.
+  (function () {
+    try {
+      var d = document.documentElement;
+      var f = localStorage.getItem("reader-font");
+      var s = localStorage.getItem("reader-fontsize");
+      if (f && f !== "sans") d.setAttribute("data-font", f);
+      if (s && s !== "0") d.setAttribute("data-fontsize", s);
+    } catch (e) {}
+  })();
+</script>
+
+
+</head>
+
+<body class="nav-sidebar floating quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const queryPrefersDark = window.matchMedia('(prefers-color-scheme: dark)');
+    const darkModeDefault = queryPrefersDark.matches;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    queryPrefersDark.addEventListener("change", e => {
+      if(window.localStorage.getItem("quarto-color-scheme") !== null)
+        return;
+      const alternate = e.matches
+      toggleColorMode(alternate);
+      localAlternateSentinel = e.matches ? 'alternate' : 'default'; // this is used alongside local storage!
+      toggleGiscusIfUsed(alternate, darkModeDefault);
+    });
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01-panoramica.html"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Panorâmica</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Procurar" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
+      <a href="./index.html" class="sidebar-logo-link">
+      </a>
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Análise comparativa entre o Mapa Sanitário do MINSA e o Harmonized Health Facility Assessment</a> 
+        <div class="sidebar-tools-main">
+    <a href="https://github.com/filustrias/mapa_sanitario_hhfa/tree/main/pt/" title="Código fonte" class="quarto-navigation-tool px-1" aria-label="Código fonte"><i class="bi bi-github"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Alternar modo escuro"><i class="bi"></i></a>
+</div>
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Procurar"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Abertura</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./01-panoramica.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Panorâmica</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./02-formulacao.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Nota sobre a formulação e apresentação das perguntas e opções de resposta</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./03-cobertura.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">O que cada instrumento capta sobre a realidade das unidades sanitárias</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./04-incrementos.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Como podemos incrementar a Ficha do Mapa Sanitário usando o HHFA</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./05-decisoes.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Decisões que teremos que tomar para avançarmos juntos</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./06-ficha-revista.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Ficha revista</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Apêndices</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Alternar seção">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./anexo-1.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Anexo 1 — Proposta de questionário</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Índice</h2>
+   
+  <ul>
+  <li><a href="#leia-primeiro-o-âmbito-desta-análise" id="toc-leia-primeiro-o-âmbito-desta-análise" class="nav-link active" data-scroll-target="#leia-primeiro-o-âmbito-desta-análise">⚠ LEIA PRIMEIRO: o âmbito desta análise</a></li>
+  <li><a href="#o-padrão-do-mapa-sanitário" id="toc-o-padrão-do-mapa-sanitário" class="nav-link" data-scroll-target="#o-padrão-do-mapa-sanitário">O padrão do Mapa Sanitário</a></li>
+  <li><a href="#o-que-a-ficha-do-mapa-sanitário-capta-e-o-hhfa-não-capta" id="toc-o-que-a-ficha-do-mapa-sanitário-capta-e-o-hhfa-não-capta" class="nav-link" data-scroll-target="#o-que-a-ficha-do-mapa-sanitário-capta-e-o-hhfa-não-capta">O que a ficha do Mapa Sanitário capta e o HHFA não capta</a></li>
+  <li><a href="#o-que-o-hhfa-acrescenta-nos-mesmos-domínios" id="toc-o-que-o-hhfa-acrescenta-nos-mesmos-domínios" class="nav-link" data-scroll-target="#o-que-o-hhfa-acrescenta-nos-mesmos-domínios">O que o HHFA acrescenta nos mesmos domínios</a></li>
+  <li><a href="#domínios-que-o-mapa-sanitário-não-cobre-e-que-são-explorados-pelo-hhfa" id="toc-domínios-que-o-mapa-sanitário-não-cobre-e-que-são-explorados-pelo-hhfa" class="nav-link" data-scroll-target="#domínios-que-o-mapa-sanitário-não-cobre-e-que-são-explorados-pelo-hhfa">Domínios que o Mapa Sanitário não cobre e que são explorados pelo HHFA</a></li>
+  <li><a href="#conclusão-o-que-o-hhfa-pode-trazer-à-ficha-do-mapa-sanitário" id="toc-conclusão-o-que-o-hhfa-pode-trazer-à-ficha-do-mapa-sanitário" class="nav-link" data-scroll-target="#conclusão-o-que-o-hhfa-pode-trazer-à-ficha-do-mapa-sanitário">Conclusão: o que o HHFA pode trazer à ficha do Mapa Sanitário</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/filustrias/mapa_sanitario_hhfa/blob/main/pt/01-panoramica.qmd" class="toc-action"><i class="bi bi-github"></i>Ver o código fonte</a></li><li><a href="https://github.com/filustrias/mapa_sanitario_hhfa/issues/new" class="toc-action"><i class="bi empty"></i>Criar uma issue</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Panorâmica</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div style="border-left:6px solid #0b6e99;background:#eaf4f9;padding:14px 18px;border-radius:6px;">
+<p>Comparação entre a <strong>Ficha de Cadastramento de Unidades Sanitárias</strong> do Mapa Sanitário (Ministério da Saúde, Gabinete de Estudos, Planeamento e Estatística, versão 19_01) com o respetivo <strong>Guião de Preenchimento</strong> (abril de 2019), e o <strong>Harmonized Health Facility Assessment</strong> (HHFA, avaliação harmonizada de unidades sanitárias, da Organização Mundial da Saúde).</p>
+<p>O propósito é identificar onde o HHFA pode ajudar a fortalecer o Mapa Sanitário, que já é um instrumento maduro, com quatro edições e cobertura nacional.</p>
+</div>
+<section id="leia-primeiro-o-âmbito-desta-análise" class="level2" style="border:3px solid #c0392b;background:#fdecea;padding:18px 20px;border-radius:8px;margin:18px 0;">
+<h2 class="anchored" data-anchor-id="leia-primeiro-o-âmbito-desta-análise">⚠ LEIA PRIMEIRO: o âmbito desta análise</h2>
+<p style="font-size:1.15em;line-height:1.55;margin:0 0 10px 0;"><strong style="color:#c0392b;">Este é o primeiro de três documentos.</strong> Aqui fica a panorâmica: o que cada instrumento pergunta e onde um acrescenta ao outro.</p>
+<ol style="font-size:1.05em;line-height:1.55;">
+<li><strong>Panorâmica</strong> (este documento).</li>
+<li><strong>Formulação das perguntas:</strong> como a redação de cada pergunta e as suas opções de resposta condicionam o que se consegue captar.</li>
+<li><strong>Panorama de cobertura:</strong> quesito a quesito, onde há sobreposição completa, sobreposição parcial e ausência de sobreposição.</li>
+</ol>
+<hr style="border:none;border-top:2px dashed #c0392b;margin:16px 0;">
+<p style="font-size:1.05em;line-height:1.55;margin:0 0 10px 0;"><strong style="color:#c0392b;">Agora comparamos perguntas com perguntas.</strong> A análise anterior usava a informação publicada no relatório de Luanda de 2024. Esta assenta na ficha de recolha e no guião de preenchimento, que é onde se vê o que foi de facto perguntado, a quem e com que critério.</p>
+<p style="font-size:1.05em;line-height:1.55;margin:0;"><strong>Uma ressalva de leitura:</strong> a ficha é de cadastramento anual das unidades do Serviço Nacional de Saúde e tem um propósito próprio, que não é o mesmo do HHFA. As diferenças apontadas aqui não são falhas; são oportunidades de acrescentar informação onde ela custa pouco a recolher.</p>
+</section>
+<section id="o-padrão-do-mapa-sanitário" class="level2" style="border-left:6px solid #1e8449;background:#eafaf1;padding:14px 18px;border-radius:6px;">
+<h2 class="anchored" data-anchor-id="o-padrão-do-mapa-sanitário">O padrão do Mapa Sanitário</h2>
+<p>A ficha tem 12 secções e cerca de 108 caixas de serviço, e responde sempre à mesma pergunta: <strong>o serviço existe e está a funcionar?</strong> Marca-se sim ou não.</p>
+<p>A regra de recolha está no guião: a informação é obtida por entrevista com o responsável da unidade ou com o seu substituto, e por consulta às estatísticas e a outros documentos da unidade (guião, folha 3).</p>
+<p><strong>Uma nota importante sobre a verificação.</strong> Na prática, a recolha do Mapa Sanitário faz-se em duas etapas: o responsável informa, e a equipa depois verifica no local. Esta informação foi-nos transmitida pela direção do Mapa Sanitário e não consta da ficha nem do guião. Ou seja, a verificação existe no terreno, mas não fica registada: a caixa marcada não distingue o que foi confirmado do que foi apenas declarado, e essa distinção perde-se na base de dados e no relatório.</p>
+<p>Há três exceções, em que a ficha vai além do sim ou não:</p>
+<ul>
+<li><strong>Recursos cama:</strong> conta camas de observação, de internamento, marquesas de parto, cadeiras de estomatologia e berços.</li>
+<li><strong>Aparelhos médico-cirúrgicos</strong> (só para centros e postos de saúde): conta 15 tipos de aparelho habitualmente em funcionamento.</li>
+<li><strong>Meios de transporte:</strong> conta separadamente os funcionantes e os não funcionantes.</li>
+</ul>
+<p>O HHFA parte da mesma pergunta e acrescenta três camadas:</p>
+<ol type="1">
+<li><strong>Verificação:</strong> distingue o que o inquiridor observou do que lhe foi referido.</li>
+<li><strong>Prontidão:</strong> normas, pessoal formado, equipamento, testes e medicamentos de cada serviço.</li>
+<li><strong>Continuidade:</strong> ruturas de abastecimento nos últimos três meses.</li>
+</ol>
+<p>O HHFA prepara o terreno e permite passar à etapa seguinte, que é obter evidências sobre quantas pessoas são atendidas e com que resultado.</p>
+</section>
+<section id="o-que-a-ficha-do-mapa-sanitário-capta-e-o-hhfa-não-capta" class="level2" style="border-left:6px solid #b7950b;background:#fdf6e3;padding:14px 18px;border-radius:6px;">
+<h2 class="anchored" data-anchor-id="o-que-a-ficha-do-mapa-sanitário-capta-e-o-hhfa-não-capta">O que a ficha do Mapa Sanitário capta e o HHFA não capta</h2>
+<p>Este bloco é o material de adaptação que o HHFA exige a cada país e não traz consigo.</p>
+<ul>
+<li><strong>Identidade e distância da unidade de referência</strong> (3.2): categoria, nome, distância em minutos, quilómetros totais, quilómetros de alcatrão e de picada. O HHFA pergunta se existe mecanismo de referência, protocolos, registos e retorno de informação (Q1227 a Q1231), mas não regista para onde se refere nem a que distância.</li>
+<li><strong>Superfície dos edifícios em metros quadrados</strong>, número de edifícios e residências dos técnicos (4.1 a 4.4).</li>
+<li><strong>Ano, período e material de construção</strong> (4.5 a 4.7).</li>
+<li><strong>Estado físico do edifício numa de quatro categorias de intervenção</strong>, com critérios detalhados por elemento construtivo no guião — fundação, estrutura, pavimento, parede, cobertura, tecto falso e latrina (5.1, guião, folha 8) — e os metros quadrados em cada estado, que permitem custear a obra. O HHFA regista defeitos sala a sala, mas não emite esse juízo nem mede áreas.</li>
+<li><strong>Estação de tratamento de águas residuais, e se funciona</strong> (6.7). O HHFA só toca no tema pela manutenção do sistema de saneamento.</li>
+<li><strong>Inventário da frota por tipo, com funcionantes e não funcionantes</strong> (10.1).</li>
+<li><strong>Função formadora da unidade</strong> (7.4.8 e 7.4.9): escola de formação técnica de saúde e núcleo de formação permanente, com campo de estágio para medicina e para enfermagem.</li>
+<li><strong>Número de gavetas mortuárias</strong> (7.5.5).</li>
+</ul>
+<div style="background:#fff8e1;border:1px solid #d4ac0d;padding:10px 14px;border-radius:5px;">
+<p><strong>Atenção a uma confusão fácil de fazer.</strong> Vários temas que parecem exclusivos da ficha estão no HHFA, mas no módulo 4 (gestão e finanças) e entre as perguntas adicionais, não nas nucleares:</p>
+<ul>
+<li><strong>população adstrita:</strong> 4.5.2.6.1 a 4.5.2.6.9 — área de abrangência definida, estimativa da população, fonte da estimativa, número de grávidas, de lactentes e de crianças com menos de 5 anos, e lista de utentes registados;</li>
+<li><strong>cozinha, lavandaria e limpeza, manutenção do edifício, recursos humanos, assistência social e administração geral:</strong> 4.1.1.2.1 a 4.1.1.2.8;</li>
+<li><strong>morgue:</strong> 4.1.1.2.7;</li>
+<li><strong>órgãos de gestão:</strong> 4.1.1.1.1 a 4.1.1.1.4 (conselho de direção reunido nos últimos 6 meses, comité de gestão nos últimos 3, comité de finanças, presença de membro da comunidade) e 4.1.1.3.1 (comissão de aquisições);</li>
+<li><strong>viaturas:</strong> 2.7.1.1.6 (viatura e motorista disponíveis 24 horas) e 4.1.2.3.1 e 4.1.2.3.2 (plano de manutenção e seu cumprimento);</li>
+<li><strong>fontes secundárias de água e energia:</strong> 2.1.1.2.4 e as perguntas sobre interrupções nos últimos 7 dias.</li>
+</ul>
+<p>Numa aplicação só com os questionários nucleares de disponibilidade e prontidão, nada disto é recolhido. É uma decisão de desenho, não uma característica do instrumento.</p>
+</div>
+</section>
+<section id="o-que-o-hhfa-acrescenta-nos-mesmos-domínios" class="level2">
+<h2 class="anchored" data-anchor-id="o-que-o-hhfa-acrescenta-nos-mesmos-domínios">O que o HHFA acrescenta nos mesmos domínios</h2>
+<p><strong>1. A verificação fica registada na resposta.</strong> Onde a ficha tem uma caixa de sim ou não, o HHFA tem três respostas: <em>observado</em>; <em>referido, não visto</em>; <em>não disponível</em>. A instrução ao inquiridor está na própria pergunta (“se sim, peça para ver”). A verificação que a equipa do Mapa já faz no terreno passaria assim a ficar no dado, e não apenas na memória de quem recolheu.</p>
+<p><strong>2. Disponibilidade e funcionamento são duas perguntas.</strong> Para cada item de equipamento, o HHFA pergunta primeiro (A) se está disponível, com as três opções acima, e depois (B) se está a funcionar. A ficha já usa esta lógica nos meios de transporte, ao separar funcionantes de não funcionantes.</p>
+<p><strong>3. Prontidão, organizada em quatro domínios.</strong> Para cada serviço que a unidade declara oferecer, o HHFA verifica:</p>
+<ul>
+<li><strong>pessoal e normas:</strong> normas nacionais ou outras, disponíveis no local, e pessoal formado nos últimos 2 anos;</li>
+<li><strong>equipamento:</strong> os aparelhos necessários àquele serviço;</li>
+<li><strong>diagnóstico:</strong> os testes necessários, distinguindo o que é feito no local do que é enviado para fora com devolução de resultado;</li>
+<li><strong>medicamentos e produtos:</strong> os traçadores daquele serviço, observados e dentro do prazo de validade.</li>
+</ul>
+<p>Na diabetes, por exemplo, são 12 itens; na tuberculose e no pré-natal, mais de 20 em cada.</p>
+<p><strong>4. Os componentes do serviço, um a um.</strong> O guião do Mapa já define com precisão vários serviços. O HHFA transforma essas definições em perguntas separadas:</p>
+<ul>
+<li><strong>consulta pré-natal:</strong> o guião define a consulta completa por uma lista (cartão, anamnese, peso, edemas, altura uterina, mucosas, tensão arterial, manobras de Leopold, tratamento intermitente da malária, ferro e ácido fólico, desparasitação, aconselhamento) e a ficha resolve tudo numa caixa; o HHFA pergunta item a item;</li>
+<li><strong>parto:</strong> onde a ficha tem CONU-B e CONU-C, o HHFA pergunta pelas funções-sinal uma a uma (antibiótico parentérico, ocitócico, anticonvulsivante, remoção manual da placenta, esvaziamento uterino, parto instrumentado, reanimação neonatal);</li>
+<li><strong>esterilização:</strong> o HHFA pergunta que tipo de equipamento existe (autoclave elétrica, estufa, autoclave não elétrica, fonte de calor), se funciona e onde fica o local central de reprocessamento.</li>
+</ul>
+<p><strong>5. Desagregação da oferta.</strong> Por escalão etário (menos de 5 anos, 5 a 14 anos, adolescentes e adultos) e por função dentro do serviço: diagnosticar, tratar, aconselhar, referir e fazer seguimento. A ficha regista o serviço como um todo.</p>
+<p><strong>6. Continuidade do abastecimento.</strong> Ruturas de stock nos últimos 3 meses para os itens traçadores, e ruturas por vacina no programa de vacinação. Distingue a falta pontual da falha estrutural de abastecimento.</p>
+<p><strong>7. Período de referência explícito.</strong> Cada pergunta diz a que momento se refere: hoje, últimos 7 dias, últimos 3 meses, últimos 2 anos. Na ficha, a expressão “em funcionamento” não fixa um período.</p>
+<p><strong>8. Onde se procura o item.</strong> O HHFA diz ao inquiridor em que sala verificar (local do serviço, laboratório, farmácia, armazém) e, em vários itens, aceita a presença em qualquer local da unidade. A ficha não especifica o local de verificação.</p>
+<p><strong>9. Denominador explícito.</strong> O HHFA separa o que se calcula sobre todas as unidades (a oferta) do que se calcula só sobre as unidades que oferecem o serviço (a prontidão). Isso evita comparar percentagens com bases diferentes.</p>
+</section>
+<section id="domínios-que-o-mapa-sanitário-não-cobre-e-que-são-explorados-pelo-hhfa" class="level2">
+<h2 class="anchored" data-anchor-id="domínios-que-o-mapa-sanitário-não-cobre-e-que-são-explorados-pelo-hhfa">Domínios que o Mapa Sanitário não cobre e que são explorados pelo HHFA</h2>
+<p>Os domínios em falta separam-se pelos módulos do HHFA, e cada módulo tem um custo de recolha e uma utilidade diferentes.</p>
+<p><strong>Disponibilidade e prontidão de serviços específicos (módulos 1 e 2).</strong> É o bloco mais próximo do que a ficha já faz. A ficha regista o serviço; o HHFA regista também o que é preciso para o prestar:</p>
+<ul>
+<li>tuberculose (a ficha tem o tratamento observado directamente, DOTS), malária, infeções sexualmente transmissíveis e doenças tropicais negligenciadas;</li>
+<li>doenças não transmissíveis: doença cardiovascular, diabetes, doença respiratória crónica e cancro;</li>
+<li>saúde mental e serviços neurológicos, para além da existência de consulta de psiquiatria e de psicologia;</li>
+<li>saúde do adolescente;</li>
+<li>cuidados relacionados com o aborto e cuidados ao recém-nascido pequeno ou doente.</li>
+</ul>
+<p><strong>Prontidão geral da unidade (módulo 2).</strong> Itens verificados uma só vez por unidade, quaisquer que sejam os serviços que ofereça:</p>
+<ul>
+<li>precauções-padrão de prevenção de infeção e equipamento de proteção individual;</li>
+<li>medicamentos essenciais, consumíveis e condições de armazenamento farmacêutico;</li>
+<li>preparação para emergências e resiliência dos serviços;</li>
+<li>acessibilidade das instalações para pessoas com mobilidade reduzida.</li>
+</ul>
+<p><strong>Gestão e finanças (módulo 4).</strong> A ficha regista a existência dos órgãos de gestão; o HHFA olha para o seu funcionamento:</p>
+<ul>
+<li>reuniões do comité de gestão e supervisão recebida;</li>
+<li>orçamento, fontes de financiamento e taxas de utilização;</li>
+<li>sistemas de manutenção de equipamento e de instalações;</li>
+<li>apoio ao pessoal: credenciais, formação, benefícios;</li>
+<li>sistemas de informação, registos individuais e notificação de mortalidade e morbilidade;</li>
+<li>sistemas de garantia e de monitorização da qualidade.</li>
+</ul>
+<p><strong>Qualidade clínica (módulo 3).</strong> É o único bloco que olha para o que foi feito ao doente, pela revisão de processos clínicos, com metodologia e amostra próprias. É também o mais exigente em tempo e em qualificação dos inquiridores.</p>
+</section>
+<section id="conclusão-o-que-o-hhfa-pode-trazer-à-ficha-do-mapa-sanitário" class="level2" style="border-left:6px solid #6c3483;background:#f4ecf7;padding:14px 18px;border-radius:6px;">
+<h2 class="anchored" data-anchor-id="conclusão-o-que-o-hhfa-pode-trazer-à-ficha-do-mapa-sanitário">Conclusão: o que o HHFA pode trazer à ficha do Mapa Sanitário</h2>
+<p>Os dois instrumentos não competem, e nenhum substitui o outro. O HHFA é padronizado e internacional, o que permite comparar Angola consigo própria ao longo do tempo e com outros países. Mas não funciona sem adaptação ao país: as suas próprias regras dizem que a recolha é conduzida pelos indicadores de que o país precisa e que as listas e categorias marcadas para adaptação — tipos de unidade, categorias profissionais, medicamentos essenciais, normas nacionais — têm de ser substituídas pelas nacionais. A ficha do Mapa e o seu guião são a fonte desse material.</p>
+<p>Na direção inversa, a ficha pode ganhar precisão com acréscimos curtos, sem mudar a sua lógica nem alongar muito a visita:</p>
+<ol type="1">
+<li><strong>Registar a verificação que já se faz.</strong> A recolha já passa por informação do responsável e verificação no local. Basta que a caixa passe a ter três respostas — observado; referido, não visto; não disponível — para que essa verificação fique no dado.</li>
+<li><strong>Verificar o funcionamento no dia da visita</strong> para os aparelhos, como a ficha já faz para os meios de transporte.</li>
+<li><strong>Acrescentar três perguntas de prontidão</strong> aos serviços já listados: normas disponíveis, pessoal formado nos últimos dois anos e medicamento traçador em stock.</li>
+<li><strong>Registar as ruturas de stock nos últimos três meses</strong> dos itens traçadores.</li>
+<li><strong>Desdobrar em caixas separadas as definições que o guião já traz</strong>, por exemplo a consulta pré-natal completa e incompleta, que hoje partilham uma só caixa.</li>
+<li><strong>Fixar o período de referência</strong> em cada pergunta.</li>
+</ol>
+<p>São acréscimos de observação direta, aplicáveis na mesma visita e pela mesma equipa, que tornam o Mapa mais específico e mais preciso para aquilo que ele já se propõe fazer: apoiar a decisão sobre a rede sanitária.</p>
+</section>
+
+
+
+</main> <!-- /main -->
+<script>
+(function () {
+  var html = document.documentElement;
+  var pt = (html.lang || "pt").toLowerCase().indexOf("pt") === 0;
+  var L = pt
+    ? { font: "Tipo de letra", size: "Tamanho", sans: "Sans", serif: "Serifa", legible: "Legível",
+        smaller: "Diminuir letra", larger: "Aumentar letra", reset: "Tamanho normal",
+        lang: "Idioma", other: "English", otherTitle: "Read this page in English", tools: "Leitura" }
+    : { font: "Typeface", size: "Size", sans: "Sans", serif: "Serif", legible: "Legible",
+        smaller: "Smaller text", larger: "Larger text", reset: "Normal size",
+        lang: "Language", other: "Português", otherTitle: "Ler esta página em português", tools: "Reading" };
+
+  function get(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+  function set(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+
+  function el(tag, attrs, text) {
+    var n = document.createElement(tag);
+    for (var a in attrs) n.setAttribute(a, attrs[a]);
+    if (text) n.textContent = text;
+    return n;
+  }
+
+  // Counterpart page in the other language: same file name in the sibling folder.
+  function otherLangUrl() {
+    var from = pt ? "/pt/" : "/en/", to = pt ? "/en/" : "/pt/";
+    var p = location.pathname, i = p.lastIndexOf(from);
+    if (i < 0) return null;
+    return p.slice(0, i) + to + p.slice(i + from.length) + location.hash;
+  }
+
+  function build() {
+    var box = el("div", { "class": "reader-tools", role: "group", "aria-label": L.tools });
+
+    box.appendChild(el("span", { "class": "reader-label" }, L.font));
+    var fonts = el("div", { "class": "reader-group" });
+    var cur = get("reader-font") || "sans";
+    [["sans", L.sans], ["serif", L.serif], ["legible", L.legible]].forEach(function (f) {
+      var b = el("button", { type: "button", "aria-pressed": String(cur === f[0]) }, f[1]);
+      b.addEventListener("click", function () {
+        if (f[0] === "sans") html.removeAttribute("data-font"); else html.setAttribute("data-font", f[0]);
+        set("reader-font", f[0]);
+        fonts.querySelectorAll("button").forEach(function (x) {
+          x.setAttribute("aria-pressed", String(x === b));
+        });
+      });
+      fonts.appendChild(b);
+    });
+    box.appendChild(fonts);
+
+    box.appendChild(el("span", { "class": "reader-label" }, L.size));
+    var sizes = el("div", { "class": "reader-group" });
+    function size() { return parseInt(html.getAttribute("data-fontsize") || "0", 10); }
+    function applySize(n) {
+      n = Math.max(-1, Math.min(2, n));
+      if (n === 0) html.removeAttribute("data-fontsize"); else html.setAttribute("data-fontsize", String(n));
+      set("reader-fontsize", String(n));
+    }
+    [["A−", L.smaller, -1], ["A", L.reset, 0], ["A+", L.larger, 1]].forEach(function (s) {
+      var b = el("button", { type: "button", title: s[1], "aria-label": s[1] }, s[0]);
+      b.addEventListener("click", function () { applySize(s[2] === 0 ? 0 : size() + s[2]); });
+      sizes.appendChild(b);
+    });
+    box.appendChild(sizes);
+
+    var url = otherLangUrl();
+    if (url) {
+      box.appendChild(el("span", { "class": "reader-label" }, L.lang));
+      box.appendChild(el("a", { "class": "reader-lang", href: url, title: L.otherTitle, hreflang: pt ? "en" : "pt" }, L.other));
+    }
+    return box;
+  }
+
+  function mount() {
+    var host = document.querySelector("#quarto-sidebar .sidebar-menu-container");
+    if (!host) return;
+    host.parentNode.insertBefore(build(), host);
+  }
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", mount);
+  else mount();
+})();
+</script>
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copiada");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copiada");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./index.html" class="pagination-link" aria-label="Abertura">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Abertura</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./02-formulacao.html" class="pagination-link" aria-label="Nota sobre a formulação e apresentação das perguntas e opções de resposta">
+        <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Nota sobre a formulação e apresentação das perguntas e opções de resposta</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/filustrias/mapa_sanitario_hhfa/blob/main/pt/01-panoramica.qmd" class="toc-action"><i class="bi bi-github"></i>Ver o código fonte</a></li><li><a href="https://github.com/filustrias/mapa_sanitario_hhfa/issues/new" class="toc-action"><i class="bi empty"></i>Criar uma issue</a></li></ul></div></div></div></footer><script src="site_libs/quarto-html/zenscroll-min.js"></script>
+</body></html>

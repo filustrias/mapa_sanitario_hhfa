@@ -1,0 +1,1574 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt" xml:lang="pt"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.25">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>4&nbsp; Como podemos incrementar a Ficha do Mapa Sanitário usando o HHFA – Análise comparativa entre o Mapa Sanitário do MINSA e o Harmonized Health Facility Assessment</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./05-decisoes.html" rel="next">
+<link href="./03-cobertura.html" rel="prev">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-707d8167ce6003fca903bfe2be84ab7f.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-4d091dc1b1f655aa3f6f43fc4cc4ca42.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-d75d73574caadaa5e63e9cb958cfa0ff.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-4d091dc1b1f655aa3f6f43fc4cc4ca42.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "Nenhum resultado",
+    "search-matching-documents-text": "documentos correspondentes",
+    "search-copy-link-title": "Copiar link para a busca",
+    "search-hide-matches-text": "Esconder correspondências adicionais",
+    "search-more-match-text": "mais correspondência neste documento",
+    "search-more-matches-text": "mais correspondências neste documento",
+    "search-clear-button-title": "Limpar",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar",
+    "search-label": "Procurar"
+  }
+}</script>
+<style>html{ scroll-behavior: smooth; }</style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&amp;family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&amp;family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&amp;display=swap" rel="stylesheet">
+<script>
+  // Apply the reader's saved typeface and size before the page paints.
+  (function () {
+    try {
+      var d = document.documentElement;
+      var f = localStorage.getItem("reader-font");
+      var s = localStorage.getItem("reader-fontsize");
+      if (f && f !== "sans") d.setAttribute("data-font", f);
+      if (s && s !== "0") d.setAttribute("data-fontsize", s);
+    } catch (e) {}
+  })();
+</script>
+
+
+</head>
+
+<body class="nav-sidebar floating quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const queryPrefersDark = window.matchMedia('(prefers-color-scheme: dark)');
+    const darkModeDefault = queryPrefersDark.matches;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    queryPrefersDark.addEventListener("change", e => {
+      if(window.localStorage.getItem("quarto-color-scheme") !== null)
+        return;
+      const alternate = e.matches
+      toggleColorMode(alternate);
+      localAlternateSentinel = e.matches ? 'alternate' : 'default'; // this is used alongside local storage!
+      toggleGiscusIfUsed(alternate, darkModeDefault);
+    });
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./04-incrementos.html"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Como podemos incrementar a Ficha do Mapa Sanitário usando o HHFA</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Procurar" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
+      <a href="./index.html" class="sidebar-logo-link">
+      </a>
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Análise comparativa entre o Mapa Sanitário do MINSA e o Harmonized Health Facility Assessment</a> 
+        <div class="sidebar-tools-main">
+    <a href="https://github.com/filustrias/mapa_sanitario_hhfa/tree/main/pt/" title="Código fonte" class="quarto-navigation-tool px-1" aria-label="Código fonte"><i class="bi bi-github"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Alternar modo escuro"><i class="bi"></i></a>
+</div>
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Procurar"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Abertura</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./01-panoramica.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Panorâmica</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./02-formulacao.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Nota sobre a formulação e apresentação das perguntas e opções de resposta</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./03-cobertura.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">O que cada instrumento capta sobre a realidade das unidades sanitárias</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./04-incrementos.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Como podemos incrementar a Ficha do Mapa Sanitário usando o HHFA</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./05-decisoes.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Decisões que teremos que tomar para avançarmos juntos</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./06-ficha-revista.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Ficha revista</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Apêndices</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Alternar seção">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./anexo-1.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Anexo 1 — Proposta de questionário</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Índice</h2>
+   
+  <ul>
+  <li><a href="#leia-primeiro-a-lógica-deste-catálogo" id="toc-leia-primeiro-a-lógica-deste-catálogo" class="nav-link active" data-scroll-target="#leia-primeiro-a-lógica-deste-catálogo">⚠ LEIA PRIMEIRO: a lógica deste catálogo</a></li>
+  <li><a href="#os-dois-eixos-do-catálogo" id="toc-os-dois-eixos-do-catálogo" class="nav-link" data-scroll-target="#os-dois-eixos-do-catálogo">Os dois eixos do catálogo</a></li>
+  <li><a href="#tipo-1-identificar-os-indicadores-presentes-e-reformatar-as-perguntas-que-os-criam" id="toc-tipo-1-identificar-os-indicadores-presentes-e-reformatar-as-perguntas-que-os-criam" class="nav-link" data-scroll-target="#tipo-1-identificar-os-indicadores-presentes-e-reformatar-as-perguntas-que-os-criam">Tipo 1 — Identificar os indicadores presentes e reformatar as perguntas que os criam</a>
+  <ul class="collapse">
+  <li><a href="#fonte-de-água" id="toc-fonte-de-água" class="nav-link" data-scroll-target="#fonte-de-água">1.1 Fonte de água</a></li>
+  <li><a href="#fonte-de-energia" id="toc-fonte-de-energia" class="nav-link" data-scroll-target="#fonte-de-energia">1.2 Fonte de energia</a></li>
+  <li><a href="#saneamento" id="toc-saneamento" class="nav-link" data-scroll-target="#saneamento">1.3 Saneamento</a></li>
+  <li><a href="#comunicação" id="toc-comunicação" class="nav-link" data-scroll-target="#comunicação">1.4 Comunicação</a></li>
+  <li><a href="#transporte-de-emergência" id="toc-transporte-de-emergência" class="nav-link" data-scroll-target="#transporte-de-emergência">1.5 Transporte de emergência</a></li>
+  <li><a href="#tratamento-de-resíduos" id="toc-tratamento-de-resíduos" class="nav-link" data-scroll-target="#tratamento-de-resíduos">1.6 Tratamento de resíduos</a></li>
+  <li><a href="#aparelhos" id="toc-aparelhos" class="nav-link" data-scroll-target="#aparelhos">1.7 Aparelhos</a></li>
+  </ul></li>
+  <li><a href="#tipo-2-indicadores-latentes-na-definição-do-guião" id="toc-tipo-2-indicadores-latentes-na-definição-do-guião" class="nav-link" data-scroll-target="#tipo-2-indicadores-latentes-na-definição-do-guião">Tipo 2 — Indicadores latentes na definição do Guião</a>
+  <ul class="collapse">
+  <li><a href="#laboratório" id="toc-laboratório" class="nav-link" data-scroll-target="#laboratório">2.1 Laboratório</a></li>
+  <li><a href="#partos" id="toc-partos" class="nav-link" data-scroll-target="#partos">2.2 Partos</a></li>
+  <li><a href="#outros-desdobramentos-de-definição" id="toc-outros-desdobramentos-de-definição" class="nav-link" data-scroll-target="#outros-desdobramentos-de-definição">2.3 Outros desdobramentos de definição</a></li>
+  </ul></li>
+  <li><a href="#tipo-3-indicadores-de-prontidão-com-o-denominador-já-garantido" id="toc-tipo-3-indicadores-de-prontidão-com-o-denominador-já-garantido" class="nav-link" data-scroll-target="#tipo-3-indicadores-de-prontidão-com-o-denominador-já-garantido">Tipo 3 — Indicadores de prontidão, com o denominador já garantido</a>
+  <ul class="collapse">
+  <li><a href="#o-trio-de-prontidão" id="toc-o-trio-de-prontidão" class="nav-link" data-scroll-target="#o-trio-de-prontidão">3.1 O trio de prontidão</a></li>
+  <li><a href="#consulta-pré-natal-a-título-de-exemplo-completo" id="toc-consulta-pré-natal-a-título-de-exemplo-completo" class="nav-link" data-scroll-target="#consulta-pré-natal-a-título-de-exemplo-completo">3.2 Consulta pré-natal, a título de exemplo completo</a></li>
+  <li><a href="#os-serviços-onde-a-ficha-já-garante-o-denominador" id="toc-os-serviços-onde-a-ficha-já-garante-o-denominador" class="nav-link" data-scroll-target="#os-serviços-onde-a-ficha-já-garante-o-denominador">3.3 Os serviços onde a Ficha já garante o denominador</a></li>
+  </ul></li>
+  <li><a href="#tipo-4-indicadores-que-exigem-bloco-novo" id="toc-tipo-4-indicadores-que-exigem-bloco-novo" class="nav-link" data-scroll-target="#tipo-4-indicadores-que-exigem-bloco-novo">Tipo 4 — Indicadores que exigem bloco novo</a>
+  <ul class="collapse">
+  <li><a href="#quadro-de-pessoal-e-força-de-trabalho" id="toc-quadro-de-pessoal-e-força-de-trabalho" class="nav-link" data-scroll-target="#quadro-de-pessoal-e-força-de-trabalho">4.1 Quadro de pessoal e força de trabalho</a></li>
+  <li><a href="#medicamentos-essenciais-e-as-âncoras-que-a-ficha-já-tem" id="toc-medicamentos-essenciais-e-as-âncoras-que-a-ficha-já-tem" class="nav-link" data-scroll-target="#medicamentos-essenciais-e-as-âncoras-que-a-ficha-já-tem">4.2 Medicamentos essenciais, e as âncoras que a Ficha já tem</a></li>
+  <li><a href="#precauções-padrão-e-prevenção-de-infeção" id="toc-precauções-padrão-e-prevenção-de-infeção" class="nav-link" data-scroll-target="#precauções-padrão-e-prevenção-de-infeção">4.3 Precauções-padrão e prevenção de infeção</a></li>
+  <li><a href="#condições-crónicas" id="toc-condições-crónicas" class="nav-link" data-scroll-target="#condições-crónicas">4.4 Condições crónicas</a></li>
+  <li><a href="#outros-blocos-a-considerar" id="toc-outros-blocos-a-considerar" class="nav-link" data-scroll-target="#outros-blocos-a-considerar">4.5 Outros blocos a considerar</a></li>
+  </ul></li>
+  <li><a href="#quadro-síntese-dos-incrementos" id="toc-quadro-síntese-dos-incrementos" class="nav-link" data-scroll-target="#quadro-síntese-dos-incrementos">Quadro-síntese dos incrementos</a></li>
+  <li><a href="#como-ler-este-catálogo" id="toc-como-ler-este-catálogo" class="nav-link" data-scroll-target="#como-ler-este-catálogo">Como ler este catálogo</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/filustrias/mapa_sanitario_hhfa/blob/main/pt/04-incrementos.qmd" class="toc-action"><i class="bi bi-github"></i>Ver o código fonte</a></li><li><a href="https://github.com/filustrias/mapa_sanitario_hhfa/issues/new" class="toc-action"><i class="bi empty"></i>Criar uma issue</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Como podemos incrementar a Ficha do Mapa Sanitário usando o HHFA</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div style="border-left:6px solid #0b6e99;background:#eaf4f9;padding:14px 18px;border-radius:6px;">
+<p>Catálogo de propostas de melhoria à <strong>Ficha de Cadastramento de Unidades Sanitárias</strong> (versão 19_01) e ao respetivo <strong>Guião de Preenchimento</strong> (abril de 2019), a partir do inventário de indicadores do <strong>Harmonized Health Facility Assessment</strong> (HHFA, avaliação harmonizada de unidades sanitárias, da Organização Mundial da Saúde).</p>
+<p>Os três documentos anteriores descreveram o que cada instrumento capta. Este propõe o que fazer com essa leitura: um conjunto de incrementos concretos à Ficha, cada um com o seu ganho, o seu custo e o modo de recolha que exige, para que a escolha de quais adotar possa ser feita quesito a quesito.</p>
+</div>
+<section id="leia-primeiro-a-lógica-deste-catálogo" class="level3" style="border:3px solid #c0392b;background:#fdecea;padding:18px 20px;border-radius:8px;margin:18px 0;">
+<h3 class="anchored" data-anchor-id="leia-primeiro-a-lógica-deste-catálogo">⚠ LEIA PRIMEIRO: a lógica deste catálogo</h3>
+<p style="font-size:1.08em;line-height:1.55;margin:0 0 10px 0;"><strong style="color:#c0392b;">O HHFA não se organiza por perguntas. Organiza-se por indicadores.</strong> As perguntas existem porque há um indicador que precisa delas, e não o contrário. Este catálogo segue a mesma ordem, e é isso que o distingue de uma lista de perguntas a acrescentar.</p>
+<p style="font-size:1.03em;line-height:1.5;margin:0 0 10px 0;">Cada proposta parte de um indicador do HHFA e responde a três perguntas: <strong>esse indicador já está latente na Ficha?</strong> Se está, <strong>o que falta à pergunta e às opções de resposta para que ele possa ser calculado?</strong> Se não está, <strong>o que custa trazê-lo?</strong></p>
+<p style="font-size:1.03em;line-height:1.5;margin:0 0 6px 0;"><strong>Cada incremento é descrito pelos mesmos seis campos:</strong></p>
+<ol style="font-size:1.0em;line-height:1.45;margin:0 0 12px 0;">
+<li><strong>Indicador identificado</strong> — qual, e porque se considera latente ou ausente.</li>
+<li><strong>Ficha hoje</strong> — o quesito, a escala de resposta e o que falta para o cálculo.</li>
+<li><strong>Forma de captar do HHFA</strong> — a pergunta e as opções, no texto original.</li>
+<li><strong>Indicador do HHFA que passa a existir</strong> — com a regra de cálculo.</li>
+<li><strong>Custo e modo de recolha</strong>.</li>
+<li><strong>O que se ganha</strong> — para a saúde pública, para o planeamento da rede e para o cuidado prestado. É o campo que justifica o incremento, e nenhuma proposta entra neste catálogo sem o ter.</li>
+</ol>
+<hr style="border:none;border-top:2px dashed #c0392b;margin:14px 0;">
+<p style="font-size:1.03em;line-height:1.5;margin:0 0 8px 0;"><strong style="color:#c0392b;">Este catálogo não é um formulário.</strong> Não propõe uma versão fechada da Ficha nem um pacote a adotar em bloco. Apresenta peças comparáveis entre si, para que a montagem — o que entra, em que ordem e em que unidades — seja uma decisão do GEPE, tomada com o custo e o ganho de cada peça à vista.</p>
+<p style="font-size:1.0em;line-height:1.45;margin:0;"><strong>Nota de propósito.</strong> A Ficha do Mapa Sanitário responde bem àquilo para que foi desenhada, e nada neste documento propõe substituí-la por outra coisa. O que se propõe é tornar mais preciso o registo daquilo que a equipa do Mapa já recolhe, e acrescentar, onde compensa, o que permite ler a rede não apenas pelo que existe mas pelo que está em condições de funcionar.</p>
+</section>
+<section id="os-dois-eixos-do-catálogo" class="level3" style="border-left:6px solid #1e8449;background:#eafaf1;padding:16px 18px;border-radius:6px;">
+<h3 class="anchored" data-anchor-id="os-dois-eixos-do-catálogo">Os dois eixos do catálogo</h3>
+<section id="eixo-1-o-tipo-de-mudança-que-se-faz-à-ficha" class="level4">
+<h4 class="anchored" data-anchor-id="eixo-1-o-tipo-de-mudança-que-se-faz-à-ficha">Eixo 1 — o tipo de mudança que se faz à Ficha</h4>
+<p>Ordenados do menos ao mais intrusivo. A ordem é de perturbação, não de importância.</p>
+<p><strong>Tipo 1 — Identificar os indicadores presentes e reformatar as perguntas e opções de resposta que os criam.</strong> O indicador já está lá em substância: a Ficha pergunta pela mesma realidade, mas as opções de resposta não permitem o cálculo. Não se acrescenta tema nenhum.</p>
+<p><strong>Tipo 2 — Indicadores latentes na definição do Guião, colapsados numa só marcação.</strong> O indicador não está na pergunta, está na definição que o Guião dá ao serviço. A reformatação consiste em dar a cada componente da definição o seu próprio campo.</p>
+<p><strong>Tipo 3 — Indicadores de prontidão, com o denominador já garantido pela Ficha.</strong> Os indicadores de prontidão calculam-se entre as unidades que oferecem o serviço. A Ficha já produz esse denominador. O que falta é o numerador.</p>
+<p><strong>Tipo 4 — Indicadores que exigem bloco novo.</strong> Sem latência. A discussão passa a ser de prioridade e de custo.</p>
+</section>
+<section id="eixo-2-o-modo-de-recolha-que-o-incremento-exige" class="level4">
+<h4 class="anchored" data-anchor-id="eixo-2-o-modo-de-recolha-que-o-incremento-exige">Eixo 2 — o modo de recolha que o incremento exige</h4>
+<p><strong>Rende em modo autorreferido.</strong> Informação que a unidade tem no seu próprio arquivo e responde sem que ninguém verifique: comodidades básicas, mapa de pessoal, ruturas registadas, desdobramentos de definição, funções realizadas.</p>
+<p><strong>Exige inquiridor com observação.</strong> Tudo o que tenha uma escala do género <em>observado / referido, não visto</em>, e tudo o que tenha uma coluna de funcionamento ou de validade. Acrescentar estas perguntas a um formulário autopreenchido produz uma autodeclaração com aparência de verificação, o que não é melhor do que a caixa única de hoje.</p>
+<p>Vários incrementos rendem nos dois modos, com resultados diferentes. Nesses casos o campo <em>Modo</em> diz o que se obtém em cada um, porque a escolha do modo pode ser feita por província, por tipo de unidade ou por edição.</p>
+</section>
+</section>
+<section id="tipo-1-identificar-os-indicadores-presentes-e-reformatar-as-perguntas-que-os-criam" class="level2">
+<h2 class="anchored" data-anchor-id="tipo-1-identificar-os-indicadores-presentes-e-reformatar-as-perguntas-que-os-criam">Tipo 1 — Identificar os indicadores presentes e reformatar as perguntas que os criam</h2>
+<p>Sete incrementos. É o grupo mais barato e o de maior retorno imediato, e a maior parte dele não depende de observação.</p>
+<section id="fonte-de-água" class="level3">
+<h3 class="anchored" data-anchor-id="fonte-de-água">1.1 Fonte de água</h3>
+<p><strong>Indicador identificado:</strong> 2.1.1.1.2, percentagem de unidades com fonte de água melhorada. Está latente: a Ficha já pergunta pela fonte de água, e a classificação em melhorada ou não é uma convenção aplicada sobre a categoria da fonte.</p>
+<p><strong>Ficha hoje:</strong> quesito 6.1, cinco categorias de fonte principal — rede, furo ou poço, camião cisterna, não tem, outra — e fontes secundárias em 6.1.2. Com cinco categorias não é possível separar poço protegido de poço não protegido, nem nascente protegida de não protegida, e é exatamente aí que passa a linha do melhorado.</p>
+<p><strong>Forma de captar do HHFA:</strong></p>
+<ul>
+<li>Q1210: a mesma pergunta, com treze categorias, classificadas em melhorada e não melhorada.</li>
+<li>Q1211: <em>“Há água desta fonte no recinto da unidade? Se sim: posso ver a água disponível hoje?”</em> Sim, observada dentro do edifício / Sim, observada no recinto / Sim, referida e não vista / Não, ou só fora do recinto.</li>
+</ul>
+<p><strong>Indicador do HHFA que passa a existir:</strong> 2.1.1.1.2 = fonte numa das categorias melhoradas <strong>e</strong> <code>Q1211</code> diferente de 3 e de 4.</p>
+<p><strong>Custo e modo:</strong> reescrever as categorias de 6.1, de cinco para treze, mais uma caixa nova. Q1210 é autorreferida; Q1211 é o ponto de observação. Em modo autorreferido o indicador ainda sai, mas com a categoria 3 indistinguível da 1 e da 2 — e a diferença fica registada, que é o essencial.</p>
+<p><strong>O que se ganha.</strong> Água melhorada e presente no dia é condição de qualquer ato clínico seguro: higiene das mãos, assistência ao parto, reprocessamento de instrumentos. Distinguir o poço protegido do não protegido muda a leitura do risco de doença transmitida pela água numa unidade que atende doentes. Para o planeamento, a lista de unidades onde a fonte é não melhorada — ou onde a água existe mas não chega ao recinto — é diretamente uma lista de intervenções em furos, depósitos e canalização, ordenável por volume de atendimento.</p>
+</section>
+<section id="fonte-de-energia" class="level3">
+<h3 class="anchored" data-anchor-id="fonte-de-energia">1.2 Fonte de energia</h3>
+<p><strong>Indicador identificado:</strong> 2.1.1.1.1, percentagem de unidades com energia. Latente: a Ficha pergunta pela fonte principal e pela fonte de reserva.</p>
+<p><strong>Ficha hoje:</strong> quesito 6.2, quatro categorias de fonte principal e fontes secundárias em 6.2.2. Não há nada sobre o funcionamento, e é o funcionamento que define o indicador.</p>
+<p><strong>Forma de captar do HHFA:</strong></p>
+<ul>
+<li>Q1206: <em>“Esta unidade tem electricidade de alguma fonte — rede, gerador, solar ou outra, incluindo para aparelhos autónomos como os da cadeia de frio do PAV?”</em> Sim / Não.</li>
+<li>Q1209: <em>“Nos últimos 7 dias, houve electricidade, da fonte principal ou de reserva, em todos os momentos em que a unidade esteve aberta?”</em> Sempre, sem interrupções / Muitas vezes, interrupções de menos de 2 horas por dia / Algumas vezes, interrupções frequentes ou de mais de 2 horas por dia.</li>
+</ul>
+<p><strong>Indicador do HHFA que passa a existir:</strong> 2.1.1.1.1 = <code>Q1206==1 AND (Q1209==1 OR Q1209==2)</code>.</p>
+<p><strong>Custo e modo:</strong> uma caixa nova. Inteiramente autorreferido.</p>
+<p><strong>Nota.</strong> O indicador não define “ter energia” como ter fonte: define-o como ter fonte <strong>e</strong> menos de duas horas de corte por dia. É a mesma realidade que a Ficha já regista, com um limiar declarado — e é esse limiar que torna o número comparável entre províncias e entre anos.</p>
+<p><strong>O que se ganha.</strong> A continuidade da energia sustenta três coisas que decidem desfechos: a cadeia de frio das vacinas, a assistência ao parto durante a noite e o funcionamento de concentradores de oxigénio. Uma unidade com gerador avariado e uma unidade com energia estável aparecem hoje da mesma maneira no Mapa. Separá-las permite dirigir o investimento em energia solar para onde o retorno é imediato e mensurável — em vacinas conservadas, partos assistidos com luz e oxigénio disponível.</p>
+</section>
+<section id="saneamento" class="level3">
+<h3 class="anchored" data-anchor-id="saneamento">1.3 Saneamento</h3>
+<p><strong>Indicador identificado:</strong> 2.1.1.1.3, percentagem de unidades com saneamento melhorado acessível a utentes e pessoal.</p>
+<p><strong>Ficha hoje:</strong> quesito 6.3, três categorias — casa de banho ou sanita, latrina, e a terceira. Três categorias não distinguem autoclismo ligado a esgoto de autoclismo para destino aberto, nem latrina melhorada de latrina de fossa aberta.</p>
+<p><strong>Forma de captar do HHFA — Q1306:</strong> <em>“Há sanitário no recinto acessível aos utentes da consulta externa ou ao pessoal? Se sim: de que tipo? Posso vê-lo? Se houver vários, considerar o mais moderno.”</em> Onze categorias de tipo.</p>
+<p><strong>Indicador do HHFA que passa a existir:</strong> 2.1.1.1.3 = <code>Q1306</code> numa de quatro categorias específicas.</p>
+<p><strong>Custo e modo:</strong> apenas reescrever as categorias, zero caixas novas. Autorreferido serve.</p>
+<p><strong>O que se ganha.</strong> O saneamento acessível a utentes e a pessoal pesa na prevenção de infeção associada aos cuidados e na procura de serviços, em particular por mulheres e por pessoas com mobilidade reduzida. Com a categoria correta, a unidade que tem latrina de fossa aberta deixa de ser contada ao lado da que tem sanita ligada a fossa séptica, e a lista de reabilitações sanitárias sai do próprio cadastro.</p>
+</section>
+<section id="comunicação" class="level3">
+<h3 class="anchored" data-anchor-id="comunicação">1.4 Comunicação</h3>
+<p><strong>Indicadores identificados:</strong> 2.1.1.1.5 (sistema de comunicação) e 2.1.1.1.6 (computador com internet).</p>
+<p><strong>Ficha hoje:</strong> quesito 7.5.7, uma caixa de 0-1. Não separa o telefone da unidade do telefone pessoal de quem lá trabalha, que é a distinção de que o indicador depende.</p>
+<p><strong>Forma de captar do HHFA:</strong></p>
+<ul>
+<li>Q1201: <em>“A unidade tem meio de comunicação com o exterior — telefone ou rádio — suportado pela unidade?”</em> Sim, a funcionar / Sim, avariado / Não, só telefones privados / Não tem comunicação com o exterior.</li>
+<li>Q1202: computador a funcionar? · Q1203: acesso a e-mail ou internet hoje? · Q1205: o tempo de ligação é pago ou reembolsado pela gestão?</li>
+</ul>
+<p><strong>Indicadores do HHFA que passam a existir:</strong> 2.1.1.1.5 = <code>Q1201==1</code>; 2.1.1.1.6 = <code>Q1202==1 &amp; Q1203==1 &amp; Q1205==1</code>.</p>
+<p><strong>Custo e modo:</strong> três caixas novas. Autorreferido.</p>
+<p><strong>O que se ganha.</strong> O meio de comunicação da unidade — e não o telemóvel pessoal de quem lá trabalha — é o que sustenta a referência de emergência, a notificação de doenças de declaração obrigatória e o envio do reporte estatístico mensal. A distinção revela as unidades onde o sistema de referência e a vigilância epidemiológica dependem do bolso de um funcionário, que é uma vulnerabilidade concreta e corrigível.</p>
+</section>
+<section id="transporte-de-emergência" class="level3">
+<h3 class="anchored" data-anchor-id="transporte-de-emergência">1.5 Transporte de emergência</h3>
+<p><strong>Indicador identificado:</strong> 2.1.1.1.7, percentagem de unidades com sistema de transporte de emergência para doentes.</p>
+<p><strong>Ficha hoje:</strong> o serviço de transporte em 7.5.1 e a frota contada em 10.1. A Ficha sabe quantos veículos existem e se estão a funcionar, mas não se há um disponível para uma emergência hoje, com combustível e motorista — nem regista o caso, comum, de a unidade não ter viatura mas poder chamar uma.</p>
+<p><strong>Forma de captar do HHFA:</strong></p>
+<ul>
+<li>Q1232: <em>“A unidade tem acesso a ambulância ou outro veículo em funcionamento para transporte de emergência de utentes, estacionado nesta unidade ou que a unidade possa chamar?”</em> Sim, ambulância / Sim, outro tipo de veículo / Não.</li>
+<li>Q1234: <em>“O veículo está disponível, em condições de funcionamento, com combustível e com motorista, hoje?”</em></li>
+</ul>
+<p><strong>Indicador do HHFA que passa a existir:</strong> 2.1.1.1.7 = <code>(Q1232==1 OR Q1232==2) AND Q1234==1</code>.</p>
+<p><strong>Custo e modo:</strong> duas caixas novas. Autorreferido — o próprio HHFA instrui o inquiridor a perguntar a quem saiba, não a ir ver.</p>
+<p><strong>O que se ganha.</strong> É o indicador que mais diretamente toca a mortalidade materna e neonatal, porque mede a existência de via de evacuação <strong>hoje</strong>, e não a existência de uma viatura no inventário. Combinado com a distância à unidade de referência que a Ficha já regista em 3.2 — em minutos e em quilómetros de alcatrão e de picada —, permite identificar as zonas onde a evacuação obstétrica não é exequível dentro do tempo útil. É das leituras mais valiosas que os dois instrumentos juntos podem produzir.</p>
+</section>
+<section id="tratamento-de-resíduos" class="level3">
+<h3 class="anchored" data-anchor-id="tratamento-de-resíduos">1.6 Tratamento de resíduos</h3>
+<p><strong>Indicadores identificados:</strong> 2.5.1.1.12 e 2.5.1.1.13, destino final seguro dos resíduos cortantes e dos resíduos infecciosos não cortantes.</p>
+<p><strong>Ficha hoje:</strong> quesitos 6.5 e 6.6, tratamento do lixo geral e hospitalar. O tema está coberto; o que falta é a categoria do destino final e a verificação de que o meio de tratamento funciona.</p>
+<p><strong>Forma de captar do HHFA:</strong> Q1214 a Q1220 — destino final com onze categorias, observação do local, e duas perguntas que decidem o indicador: o incinerador está a funcionar hoje, e tem combustível.</p>
+<p><strong>Indicadores do HHFA que passam a existir:</strong> 2.5.1.1.12 e 2.5.1.1.13, ambos exigindo destino final adequado <strong>e</strong> <code>Q1219==1 AND Q1220==1</code>.</p>
+<p><strong>Custo e modo:</strong> reescrever as categorias de 6.5 e 6.6, mais duas caixas. As categorias rendem autorreferidas; as duas perguntas sobre o incinerador exigem observação.</p>
+<p><strong>O que se ganha.</strong> O destino final dos resíduos protege três grupos ao mesmo tempo: o pessoal que os manuseia, os utentes e a comunidade vizinha da unidade. A pergunta sobre o incinerador estar aceso e com combustível transforma um dado de infraestrutura numa lista de manutenção — quase sempre barata — que hoje ninguém consegue extrair do Mapa.</p>
+</section>
+<section id="aparelhos" class="level3">
+<h3 class="anchored" data-anchor-id="aparelhos">1.7 Aparelhos</h3>
+<p><strong>Indicadores identificados:</strong> a tabela 2.2.1.1, equipamento básico da área principal de atendimento. Quatro dos itens da Ficha correspondem diretamente a indicadores: balança de adulto (2.2.1.1.8), esfigmomanómetro (2.2.1.1.3), estetoscópio clínico (2.2.1.1.2) e balança de bebé (2.2.1.1.10).</p>
+<p><strong>Ficha hoje:</strong> quesito 9.1, contagem de quinze tipos de aparelhos “habitualmente em funcionamento”, para centros e postos de saúde. A contagem responde a uma pergunta de logística — quantos aparelhos existem na rede —, não à pergunta do indicador, que é qual a proporção de unidades que tem o aparelho disponível e a funcionar no dia da visita.</p>
+<p><strong>Forma de captar do HHFA — Q1322,</strong> uma grelha com duas colunas: <em>“Para cada item que eu perguntar, mostre-me o item e diga-me, quando aplicável, se está a funcionar.”</em></p>
+<ul>
+<li><ol type="A">
+<li>disponível: observado / referido, não visto / não</li>
+</ol></li>
+<li><ol start="2" type="A">
+<li>funcional: sim / não / não sabe</li>
+</ol></li>
+</ul>
+<p><strong>Indicadores do HHFA que passam a existir:</strong> um por item, no formato <code>Q1322_nA==1 &amp; Q1322_nB==1</code>, com denominador de todas as unidades.</p>
+<p><strong>Custo e modo:</strong> duas caixas por linha. Exige observação — a coluna B não sobrevive ao autopreenchimento.</p>
+<p><strong>Nota de desenho.</strong> A contagem da Ficha não deve ser substituída pela grelha. As duas informações servem decisões diferentes e a recomendação é mantê-las lado a lado: a contagem para a distribuição de equipamento, a coluna de funcionamento para saber onde estão as falhas.</p>
+<p><strong>O que se ganha.</strong> A balança, o esfigmomanómetro e o estetoscópio são o mínimo para vigiar uma gravidez, detetar hipertensão e acompanhar uma criança desnutrida — sem eles, a consulta acontece sem medida. A contagem diz quantos aparelhos existem na rede; a coluna de funcionamento diz em que unidades o cuidado está comprometido hoje. <strong>A diferença entre os dois números é a dimensão do problema de manutenção</strong>, que atualmente não é visível em lado nenhum e que costuma ser mais barato de resolver do que comprar equipamento novo.</p>
+<div style="border-left:6px solid #b7950b;background:#fdf6e3;padding:12px 16px;border-radius:5px;">
+<p><strong>Síntese do Tipo 1.</strong> Sete incrementos, cerca de doze caixas novas e a reescrita das categorias de quatro quesitos. Cinco dos sete indicadores de comodidades básicas do HHFA passam a poder ser calculados sem qualquer visita adicional. É o grupo a considerar em primeiro lugar, porque melhora a Ficha sem alterar o processo de recolha.</p>
+</div>
+</section>
+</section>
+<section id="tipo-2-indicadores-latentes-na-definição-do-guião" class="level2">
+<h2 class="anchored" data-anchor-id="tipo-2-indicadores-latentes-na-definição-do-guião">Tipo 2 — Indicadores latentes na definição do Guião</h2>
+<p>Este grupo tem uma propriedade que convém tornar explícita: <strong>não se está a pedir à Ficha que passe a perguntar outra coisa, está-se a pedir que registe o que já decidiu perguntar.</strong> O Guião de Preenchimento define vários serviços com precisão; a Ficha resolve cada definição numa só marcação, e as componentes perdem-se.</p>
+<section id="laboratório" class="level3">
+<h3 class="anchored" data-anchor-id="laboratório">2.1 Laboratório</h3>
+<p><strong>Indicadores identificados:</strong> a tabela 2.3.1.1, capacidade básica de diagnóstico — em particular 2.3.1.1.1 (hemoglobina no local) e 2.3.1.1.8 (diagnóstico de malária no local).</p>
+<p><strong>Ficha hoje:</strong> quesito 7.2.1, uma caixa. O Guião exige, para a marcar, a realização no mínimo de gota espessa, hemoglobina ou hematócrito, e análises simples de fezes e urina. A definição contém os indicadores; a marcação única perde-os, porque uma unidade que faça dois dos quatro é registada exatamente como a que faz os quatro.</p>
+<p><strong>Forma de captar do HHFA:</strong> grelhas de testes disponíveis no próprio local de atendimento, teste a teste, com verificação de que o reagente está válido e de que os itens necessários para executar o teste estão disponíveis e a funcionar.</p>
+<p><strong>Indicadores do HHFA que passam a existir:</strong> um por teste, no formato 2.3.1.1.x, com denominador de todas as unidades.</p>
+<p><strong>Custo e modo:</strong> quatro caixas onde hoje há uma, se se ficar pela definição do Guião. A regra de cálculo do HHFA conta o teste apenas se o reagente estiver válido, pelo que o indicador completo exige observação. Em modo autorreferido o desdobramento continua a valer a pena — separa quem faz dois exames de quem faz quatro —, mas produz uma versão declarada do indicador, e isso deve ficar escrito na documentação para que não haja confusão na análise.</p>
+<p><strong>O que se ganha.</strong> Os quatro exames que o Guião já exige não são uma lista arbitrária: a gota espessa sustenta o diagnóstico da malária, a hemoglobina deteta a anemia na grávida e na criança, e a sumária de urina é o rastreio da pré-eclâmpsia e da infeção urinária na gravidez. Saber quais deles cada unidade realiza permite duas coisas que hoje não são possíveis: dirigir reagentes e formação para as lacunas concretas, e estimar em que parte da rede o tratamento da malária está a ser feito sem confirmação laboratorial — informação central para o programa nacional.</p>
+</section>
+<section id="partos" class="level3">
+<h3 class="anchored" data-anchor-id="partos">2.2 Partos</h3>
+<p><strong>Indicadores identificados:</strong> as funções-sinal dos cuidados obstétricos de emergência, 3.1.3.2.1 a 3.1.3.2.7, e os indicadores compostos 3.1.3.1.3 (cuidados obstétricos básicos) e o equivalente para cuidados completos.</p>
+<p><strong>Ficha hoje:</strong> quesitos 7.3.7.1 e 7.3.7.2, duas caixas, CONU-B e CONU-C. O Guião define CONU-B como <em>“Antibióticos, Oxitocina e Anticonvulsivante parenteral, remoção manual da placenta e restos ovulares”</em> — cinco das sete funções-sinal internacionais, já escritas — e CONU-C como <em>“Todo o B e cirurgia (cesarianas e transfusão sanguínea)”</em>. Faltam à definição duas funções: parto vaginal assistido e reanimação neonatal.</p>
+<p><strong>Forma de captar do HHFA:</strong> cada função-sinal é uma pergunta, com o período de referência declarado.</p>
+<p><strong>Indicadores do HHFA que passam a existir:</strong> um por função-sinal, mais os indicadores compostos — que passam a ser <strong>calculados a partir das componentes</strong> em vez de declarados pelo respondente. É uma mudança importante: hoje, marcar CONU-B é um juízo de quem preenche; com as componentes separadas, passa a ser um resultado.</p>
+<p><strong>Custo e modo:</strong> nove caixas onde hoje há duas. Rende autorreferido, porque a pergunta é sobre o que a unidade realiza, não sobre um objeto a observar.</p>
+<p><strong>Nota.</strong> Este incremento alinha a Ficha com o padrão internacional de cuidados obstétricos de emergência e dá a qualquer avaliação EmONC em curso uma base de amostragem muito melhor do que a que teria de outro modo.</p>
+<p><strong>O que se ganha.</strong> As funções-sinal são a medida internacionalmente aceite da capacidade de uma unidade salvar uma mulher em hemorragia, em eclâmpsia ou em trabalho de parto obstruído, e de reanimar um recém-nascido que não respira. O ganho prático está na granularidade: hoje sabemos que uma unidade não tem cuidados obstétricos básicos, mas não sabemos <strong>qual das cinco funções lhe falta</strong>. Com as componentes separadas passamos a saber — e na maioria dos casos falta uma só, frequentemente por ausência de um medicamento ou de uma formação curta. É uma das intervenções de maior impacto por unidade de custo em toda a rede.</p>
+</section>
+<section id="outros-desdobramentos-de-definição" class="level3">
+<h3 class="anchored" data-anchor-id="outros-desdobramentos-de-definição">2.3 Outros desdobramentos de definição</h3>
+<p>O mesmo raciocínio aplica-se a mais quatro quesitos em que o Guião já é preciso e a Ficha guarda uma marcação única.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Quesito da Ficha</th>
+<th>O que o Guião já define</th>
+<th>Indicadores do HHFA que passam a existir</th>
+<th>O que se ganha</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>7.3.6 Consulta pré-natal</td>
+<td>Doze componentes: cartão, história, peso, edemas, altura uterina, mucosas, tensão arterial, manobras de Leopold, tratamento intermitente preventivo da malária, ferro e ácido fólico, desparasitação, aconselhamento</td>
+<td>3.1.2.1.x, componentes do pré-natal, um a um</td>
+<td>Distingue o pré-natal completo do pré-natal de registo, e identifica que componente falta em cada unidade — a base de qualquer plano de melhoria da saúde materna</td>
+</tr>
+<tr class="even">
+<td>7.3.9 Planeamento familiar</td>
+<td>Pelo menos um método moderno — injetável, pílula, DIU, diafragma — excluindo o preservativo</td>
+<td>3.1.1.1.x, oferta por método</td>
+<td>Mostra a amplitude real de escolha oferecida à mulher, que é o que determina a adesão ao método e a continuidade</td>
+</tr>
+<tr class="odd">
+<td>7.3.5 Puericultura</td>
+<td>Critério do peso e do cartão</td>
+<td>3.1.8.1.2 e componentes</td>
+<td>Permite ligar a vigilância do crescimento à deteção precoce da desnutrição, em vez de a tratar apenas quando já é grave</td>
+</tr>
+<tr class="even">
+<td>7.2.12 Banco de urgência</td>
+<td>Diurno ou 24 horas</td>
+<td>3.5.1.1.x, unidade dedicada, pessoal presente 24 horas, laboratório, radiologia e farmácia 24 horas</td>
+<td>Revela onde a urgência é uma porta aberta e onde é uma urgência com meios — distinção decisiva para o desenho da rede de referência</td>
+</tr>
+</tbody>
+</table>
+<p>Todos rendem em modo autorreferido.</p>
+<div style="border-left:6px solid #b7950b;background:#fdf6e3;padding:12px 16px;border-radius:5px;">
+<p><strong>Síntese do Tipo 2.</strong> Seis incrementos. O ganho é desproporcionado face ao custo, porque converte marcações que dependem do juízo de quem preenche em factos verificáveis, e quase tudo rende em modo autorreferido. É também o grupo mais fácil de justificar junto das unidades, porque nada de novo lhes é perguntado.</p>
+</div>
+</section>
+</section>
+<section id="tipo-3-indicadores-de-prontidão-com-o-denominador-já-garantido" class="level2">
+<h2 class="anchored" data-anchor-id="tipo-3-indicadores-de-prontidão-com-o-denominador-já-garantido">Tipo 3 — Indicadores de prontidão, com o denominador já garantido</h2>
+<div style="border-left:6px solid #1e8449;background:#eafaf1;padding:14px 18px;border-radius:6px;">
+<p><strong>O argumento central deste catálogo está aqui.</strong> Os indicadores de prontidão do HHFA têm denominador restrito: calculam-se <strong>entre as unidades que oferecem o serviço</strong>. A Ficha do Mapa Sanitário já produz esse denominador — é exatamente o que as caixas da secção 7.3 fazem, serviço a serviço, em todas as unidades do país.</p>
+<p><strong>O que falta não é o denominador. É o numerador.</strong> E o numerador, na sua forma mínima, são três perguntas iguais para todos os serviços.</p>
+</div>
+<section id="o-trio-de-prontidão" class="level3">
+<h3 class="anchored" data-anchor-id="o-trio-de-prontidão">3.1 O trio de prontidão</h3>
+<p>Sendo sempre as mesmas três perguntas, a formação do inquiridor é breve e a estrutura de dados é regular.</p>
+<p><strong>Normas disponíveis</strong> — forma de captar do HHFA, no caso do pré-natal, Q1817: <em>“Para cada documento que eu perguntar, mostre-mo.”</em> Observado / Referido, não visto / Não disponível.</p>
+<p><strong>Pessoal formado</strong> — Q1818: <em>“Nos últimos 2 anos, o senhor ou algum prestador de cuidados pré-natais recebeu formação em algum dos seguintes temas?”</em> Sim / Não.</p>
+<p><strong>Medicamento ou produto traçador</strong> — um item por serviço, com a escala de validade descrita no Tipo 4.</p>
+</section>
+<section id="consulta-pré-natal-a-título-de-exemplo-completo" class="level3">
+<h3 class="anchored" data-anchor-id="consulta-pré-natal-a-título-de-exemplo-completo">3.2 Consulta pré-natal, a título de exemplo completo</h3>
+<p><strong>Indicadores identificados:</strong> 3.1.2.2.1 (normas de pré-natal disponíveis) e 3.1.2.2.5 (pessoal formado em pré-natal), entre os 46 indicadores da subárea.</p>
+<p><strong>Ficha hoje:</strong> a caixa 7.3.6 marca que a unidade presta consulta pré-natal. Essa caixa é, sem que a Ficha o tenha pretendido, o filtro exato dos indicadores de prontidão do pré-natal do HHFA.</p>
+<p><strong>Indicadores do HHFA que passam a existir:</strong> 3.1.2.2.1 = <code>Q1817_1==1 OR Q1817_2==1</code>, entre as unidades que oferecem o serviço; 3.1.2.2.5 = <code>Q1818_1==1</code>, com o mesmo denominador.</p>
+<p><strong>Custo e modo:</strong> duas caixas por serviço, três se se incluir o traçador. A formação rende autorreferida; as normas só produzem o indicador do HHFA com observação.</p>
+<p><strong>O que se ganha.</strong> A disponibilidade de normas no local e a formação recente de quem presta o cuidado são dois dos fatores mais consistentemente associados à qualidade do pré-natal. O ganho é passar de <em>“a consulta pré-natal existe”</em> para <em>“a consulta existe, quem a faz foi formado nos últimos dois anos e tem a norma à mão”</em> — que é exatamente a pergunta a que um plano nacional de formação precisa de responder para saber onde investir. Multiplicado pelos serviços escolhidos, este trio é o que transforma o Mapa Sanitário de um inventário da rede num instrumento de planeamento da qualidade.</p>
+</section>
+<section id="os-serviços-onde-a-ficha-já-garante-o-denominador" class="level3">
+<h3 class="anchored" data-anchor-id="os-serviços-onde-a-ficha-já-garante-o-denominador">3.3 Os serviços onde a Ficha já garante o denominador</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Caixa da Ficha que fornece o denominador</th>
+<th>Subárea de prontidão do HHFA que se abre</th>
+<th>Indicadores na subárea</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>7.3.6 Consulta pré-natal</td>
+<td>3.1.2.2</td>
+<td>46 na subárea</td>
+</tr>
+<tr class="even">
+<td>7.3.7 Partos</td>
+<td>3.1.3.2</td>
+<td>24 na tabela de funções-sinal</td>
+</tr>
+<tr class="odd">
+<td>7.3.9 Planeamento familiar</td>
+<td>3.1.1.2</td>
+<td>13 na tabela de prontidão</td>
+</tr>
+<tr class="even">
+<td>7.3.1 Vacinação</td>
+<td>3.2.1.2</td>
+<td>31 na tabela de prontidão</td>
+</tr>
+<tr class="odd">
+<td>7.3.13 DOTS</td>
+<td>3.2.3.2</td>
+<td>12 na tabela</td>
+</tr>
+<tr class="even">
+<td>7.3.11 e 7.3.12 TARV</td>
+<td>3.2.5 e 3.2.7</td>
+<td>prontidão do tratamento antirretroviral</td>
+</tr>
+<tr class="odd">
+<td>7.3.4.2 e 7.3.4.3 Centros nutricionais</td>
+<td>3.1.8.2</td>
+<td>35 na tabela</td>
+</tr>
+<tr class="even">
+<td>7.1.26 Psiquiatria</td>
+<td>3.3.6.2</td>
+<td>prontidão da saúde mental</td>
+</tr>
+<tr class="odd">
+<td>7.2.9 Bloco cirúrgico</td>
+<td>3.4.1 e 3.4.2</td>
+<td>prontidão cirúrgica e anestésica</td>
+</tr>
+</tbody>
+</table>
+<p>Não se propõe abrir todas. Propõe-se que a escolha seja feita entre estas, porque em qualquer uma delas o trabalho de definir a quem se pergunta já está feito.</p>
+<div style="border-left:6px solid #b7950b;background:#fdf6e3;padding:12px 16px;border-radius:5px;">
+<p><strong>Síntese do Tipo 3.</strong> Três caixas por serviço escolhido. É o grupo que mais muda a natureza da informação, porque é o que introduz a prontidão — a diferença entre a unidade oferecer o serviço e estar em condições de o prestar. É também aquele em que o investimento anterior do Mapa Sanitário mais se rentabiliza, porque aproveita um denominador nacional que já existe.</p>
+</div>
+</section>
+</section>
+<section id="tipo-4-indicadores-que-exigem-bloco-novo" class="level2">
+<h2 class="anchored" data-anchor-id="tipo-4-indicadores-que-exigem-bloco-novo">Tipo 4 — Indicadores que exigem bloco novo</h2>
+<p>Sem latência na Ficha. A discussão passa a ser de prioridade e de custo. Apresentam-se por ordem crescente de esforço.</p>
+<section id="quadro-de-pessoal-e-força-de-trabalho" class="level3">
+<h3 class="anchored" data-anchor-id="quadro-de-pessoal-e-força-de-trabalho">4.1 Quadro de pessoal e força de trabalho</h3>
+<p><strong>Indicadores identificados:</strong> 1.2.1.1.1, percentagem de unidades com quadro de pessoal aprovado com números atribuídos por qualificação; e a tabela 1.2.1, contagem de profissionais por categoria.</p>
+<p><strong>Ficha hoje:</strong> nada. A Ficha regista quem dirige a unidade — direção geral, clínica, pedagógica, chefias — mas não quantas pessoas lá trabalham nem em que categorias.</p>
+<p><strong>Forma de captar do HHFA — Q301:</strong> <em>“Esta unidade tem um quadro de pessoal, com números autorizados por qualificação?”</em> Sim / Não — seguida da contagem por categoria profissional.</p>
+<p><strong>Indicadores do HHFA que passam a existir:</strong> 1.2.1.1.1 = <code>Q301==1</code>, e os indicadores de contagem da subárea 1.2.1.</p>
+<p><strong>Custo e modo:</strong> uma caixa para o indicador acima, mais uma linha por categoria profissional. Inteiramente autorreferido — sai do mapa de pessoal da unidade e não exige verificação física.</p>
+<p><strong>Nota, e é a mais importante deste catálogo.</strong> A Ficha já recolhe a <strong>população adstrita</strong> (quesito 3.1). Com a contagem de pessoal, a subárea 1.2.2 do HHFA — densidades de profissionais por 10 000 habitantes — passa a ser calculável a partir de dois campos que ficam na mesma ficha. É o único ponto de todo o catálogo em que um acréscimo autorreferido e barato produz indicadores de nível de sistema, e não apenas de unidade.</p>
+<p><strong>É o bloco novo mais barato e o que fecha a maior assimetria identificada no documento 3.</strong></p>
+<p><strong>O que se ganha.</strong> A densidade de profissionais por 10 000 habitantes é o indicador que sustenta qualquer decisão de afetação e de concurso de pessoal, e é o que Angola precisa de reportar nos compromissos internacionais de recursos humanos para a saúde. O ganho maior, porém, é interno: a contagem provincial esconde a distribuição dentro da província, e é dentro da província que estão as desigualdades que se conseguem corrigir por transferência. Saber que unidades não têm um único profissional de uma categoria é, por si só, uma decisão de gestão.</p>
+</section>
+<section id="medicamentos-essenciais-e-as-âncoras-que-a-ficha-já-tem" class="level3">
+<h3 class="anchored" data-anchor-id="medicamentos-essenciais-e-as-âncoras-que-a-ficha-já-tem">4.2 Medicamentos essenciais, e as âncoras que a Ficha já tem</h3>
+<p><strong>Indicadores identificados:</strong> a tabela 2.4.1.1, um indicador por medicamento.</p>
+<p><strong>Ficha hoje:</strong> o quesito 7.2.10 regista <em>“Farmácia — existe, em funcionamento”</em>. É uma pergunta sobre o <strong>serviço</strong>: há um local, com responsável, que dispensa medicamentos. Nada é dito sobre o que lá está dentro, e nenhum indicador da tabela 2.4.1.1 é obtenível a partir dela.</p>
+<p>Mas há quatro pontos da Ficha em que um medicamento concreto já é perguntado, sem que a Ficha o assuma como tal: a <strong>distribuição de vitamina A</strong> (7.3.2), a <strong>distribuição de albendazol</strong> (7.3.3), a <strong>reidratação oral</strong> (7.3.4.1) e o <strong>centro nutricional terapêutico</strong> (7.3.4.2) — este último porque o Guião define o serviço pelo alimento terapêutico que ele dispensa. Nesses quatro casos, marcar a caixa já implica afirmar que o produto está disponível.</p>
+<p>Chamam-se âncoras porque são o ponto natural por onde começar. Tornar o item explícito nesses quatro sítios não introduz tema novo, apenas escreve o que a pergunta já pressupõe — é, na prática, um incremento de Tipo 2 dentro de um bloco de Tipo 4. Uma lista de quarenta medicamentos é outra conversa, e é justo que seja discutida como tal.</p>
+<p><strong>Forma de captar do HHFA — a escala de Q3102,</strong> que é a mais bem desenhada do instrumento: <em>“Para cada medicamento que eu perguntar, mostre-mo. Verificar se pelo menos uma unidade do tipo não está fora da validade.”</em></p>
+<ol type="1">
+<li>Pelo menos uma dentro da validade</li>
+<li>Disponível, mas fora da validade</li>
+<li>Referido disponível, não visto</li>
+<li>Não disponível hoje</li>
+<li>Nunca disponível</li>
+</ol>
+<p>Os indicadores contam <strong>apenas o código 1</strong>. A distinção entre 1, 2 e 3 é exatamente a diferença entre a unidade ter metformina e a unidade poder dar metformina a alguém hoje.</p>
+<p><strong>Custo e modo:</strong> uma caixa por medicamento. Só com observação — em autopreenchimento a escala perde todo o sentido, porque toda a informação está na distinção entre as três primeiras categorias.</p>
+<p><strong>Aviso metodológico, a registar na documentação.</strong> Vários indicadores da tabela 2.4.1.1 contam o medicamento se ele for visto na farmácia <strong>ou</strong> na sala de partos <strong>ou</strong> no carro de urgência. Uma recolha que olhe apenas para a farmácia subestima esses itens — oxitocina, sulfato de magnésio, clorexidina, adrenalina, dexametasona e morfina. Não é razão para não recolher; é razão para declarar a restrição junto do número.</p>
+<p><strong>O que se ganha.</strong> A disponibilidade efetiva do medicamento no dia é o determinante mais direto de o doente sair da consulta com tratamento. Separar <em>tem</em>, de <em>tem mas fora da validade</em>, de <em>diz que tem e não mostra</em>, identifica falhas de gestão de stock que nenhum sistema de requisição consegue mostrar — porque o sistema de requisição regista o que foi enviado, não o que está na prateleira. Começando pelas quatro âncoras, o ganho é imediato e barato: passa-se a saber se a vitamina A, o albendazol, os sais de reidratação oral e o alimento terapêutico estão realmente disponíveis nas unidades que declaram oferecer esses serviços.</p>
+</section>
+<section id="precauções-padrão-e-prevenção-de-infeção" class="level3">
+<h3 class="anchored" data-anchor-id="precauções-padrão-e-prevenção-de-infeção">4.3 Precauções-padrão e prevenção de infeção</h3>
+<p><strong>Indicadores identificados:</strong> a tabela 2.5.1.1.</p>
+<p><strong>Ficha hoje:</strong> ausente, com duas exceções importantes — os quesitos 6.5 e 6.6 já cobrem o tratamento dos resíduos (ver 1.6), e a esterilização é registada em 7.2.14.</p>
+<p><strong>Forma de captar do HHFA — Q1320,</strong> uma grelha de dezassete linhas com escala de três níveis: <em>“Para cada item que eu perguntar, mostre-me o item.”</em> Observado / Referido, não visto / Não disponível. Inclui água corrente limpa, sabão, solução alcoólica, luvas descartáveis, seringas de uso único, recipientes de resíduos cortantes e não cortantes, e desinfetante ambiental.</p>
+<p><strong>Indicadores do HHFA que passam a existir:</strong> higiene das mãos (2.5.1.1.5), luvas (2.5.1.1.6), seringas (2.5.1.1.7), desinfetante (2.5.1.1.9), armazenamento de resíduos cortantes (2.5.1.1.10) e não cortantes (2.5.1.1.11) — seis indicadores de uma só grelha. Duas perguntas avulsas acrescentam as normas de gestão de resíduos (2.5.1.1.2) e o pessoal formado (2.5.1.1.4).</p>
+<p><strong>Custo e modo:</strong> cerca de vinte caixas. Exige observação.</p>
+<p><strong>O que se ganha.</strong> A prevenção de infeção protege simultaneamente os doentes e os profissionais, e é o alicerce sobre o qual assenta qualquer programa de segurança do doente. O que torna este bloco atrativo é a natureza dos itens: sabão, solução alcoólica, luvas, caixa de cortantes e desinfetante são produtos baratos, de aquisição local, cuja ausência tem consequência desproporcionada. É um dos poucos domínios em que medir conduz quase automaticamente a uma correção exequível no curto prazo.</p>
+</section>
+<section id="condições-crónicas" class="level3">
+<h3 class="anchored" data-anchor-id="condições-crónicas">4.4 Condições crónicas</h3>
+<p><strong>Indicadores identificados:</strong> 3.3.1 (doenças cardiovasculares, 46 indicadores), 3.3.2 (diabetes, 26) e 3.3.3 (doença respiratória crónica, 26).</p>
+<p><strong>Ficha hoje:</strong> as caixas de especialidade hospitalar — cardiologia (7.1.7), endocrinologia (7.1.9), pneumologia (7.1.25) — registam a organização da unidade, não a capacidade de manejar a condição. Como se descreveu no documento 3, são perguntas diferentes: a especialidade diz como a unidade está organizada, a condição diz o que a unidade consegue resolver. Nos cuidados de saúde primários, onde a hipertensão, a diabetes e a asma são manejadas sem especialista, a segunda é a que decide.</p>
+<p><strong>Forma de captar do HHFA:</strong> para cada condição, a oferta separada por função — diagnóstico, tratamento, seguimento, aconselhamento para o autocuidado — seguida do trio de prontidão e dos itens traçadores.</p>
+<p><strong>Indicadores do HHFA que passam a existir:</strong> a oferta por função rende autorreferida e é barata: quatro caixas por condição. Os itens traçadores exigem observação.</p>
+<p><strong>Custo e modo:</strong> propõe-se começar pela oferta por função, em três condições, doze caixas, modo autorreferido. Os traçadores entram com o bloco de medicamentos, se este avançar.</p>
+<p><strong>O que se ganha.</strong> A hipertensão e a diabetes representam uma carga crescente de doença, sobretudo no meio urbano, e são condições manejáveis no nível primário — desde que a unidade diagnostique, trate e acompanhe. Medir a capacidade <strong>por condição</strong> e não por especialidade é precisamente o que permite planear a descentralização do manejo das doenças crónicas para os centros e postos de saúde, que é uma das decisões estruturantes da reforma dos cuidados de saúde primários. Sem este dado, essa descentralização é planeada às escuras.</p>
+</section>
+<section id="outros-blocos-a-considerar" class="level3">
+<h3 class="anchored" data-anchor-id="outros-blocos-a-considerar">4.5 Outros blocos a considerar</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Bloco</th>
+<th>Indicadores do HHFA</th>
+<th>Custo e modo</th>
+<th>O que se ganha</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Malária, diagnóstico e tratamento</td>
+<td>3.2.2.1.1 a 3.2.2.1.8 — a Ficha regista a distribuição de redes mosquiteiras, mas não o serviço de malária</td>
+<td>8 caixas, autorreferido na oferta</td>
+<td>Dá ao programa nacional o mapa da capacidade de diagnóstico e tratamento na principal causa de procura de cuidados do país</td>
+</tr>
+<tr class="even">
+<td>Ruturas de stock nos últimos 3 meses</td>
+<td>Transversal, um indicador por produto traçador</td>
+<td>1 caixa por traçador, autorreferido, sai do registo da farmácia</td>
+<td>Separa a falha pontual da falha estrutural de abastecimento — a primeira resolve-se na unidade, a segunda na cadeia logística</td>
+</tr>
+<tr class="odd">
+<td>Acessibilidade para pessoas com mobilidade reduzida</td>
+<td>1.1.3.1.1 a 1.1.3.1.5 — rampas, corrimãos, sanitário acessível</td>
+<td>5 caixas, observação</td>
+<td>Torna mensurável o acesso de pessoas idosas, com deficiência e em cadeira de rodas, hoje invisível no planeamento de obras</td>
+</tr>
+<tr class="even">
+<td>Orçamento e fontes de financiamento</td>
+<td>4.2.1.1.1, autonomia para gerir conta bancária própria, e seguintes. A Ficha tem o quesito 0.2, uma caixa sobre ter orçamento próprio — é a âncora natural</td>
+<td>6 a 8 caixas, autorreferido</td>
+<td>Liga o Mapa Sanitário ao trabalho de modernização da gestão das finanças públicas da saúde, dando-lhe pela primeira vez uma base ao nível da unidade</td>
+</tr>
+<tr class="odd">
+<td>Supervisão recebida</td>
+<td>4.1.1 e 4.3.1</td>
+<td>3 caixas, autorreferido</td>
+<td>Mostra que parte da rede está efetivamente coberta pela supervisão municipal e provincial, que é o principal mecanismo de melhoria contínua existente</td>
+</tr>
+</tbody>
+</table>
+<div style="border-left:6px solid #b7950b;background:#fdf6e3;padding:12px 16px;border-radius:5px;">
+<p><strong>Síntese do Tipo 4.</strong> Dez blocos. Não se propõe adotá-los em conjunto. Dois deles — o quadro de pessoal e a oferta por função nas condições crónicas — são autorreferidos, baratos e de grande retorno, e podem ser considerados ao lado dos Tipos 1 e 2. Os restantes exigem observação e devem ser decididos em função do modo de recolha que o Mapa Sanitário venha a adotar.</p>
+</div>
+</section>
+</section>
+<section id="quadro-síntese-dos-incrementos" class="level2" style="border-left:6px solid #1e8449;background:#eafaf1;padding:14px 18px;border-radius:6px;">
+<h2 class="anchored" data-anchor-id="quadro-síntese-dos-incrementos">Quadro-síntese dos incrementos</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>#</th>
+<th>Incremento</th>
+<th>Tipo</th>
+<th>Quesito da Ficha</th>
+<th>Modo</th>
+<th>Caixas</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Fonte de água</td>
+<td>1</td>
+<td>6.1</td>
+<td>Misto</td>
+<td>~1 + categorias</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Fonte de energia</td>
+<td>1</td>
+<td>6.2</td>
+<td>Autorreferido</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Saneamento</td>
+<td>1</td>
+<td>6.3</td>
+<td>Autorreferido</td>
+<td>0 + categorias</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Comunicação</td>
+<td>1</td>
+<td>7.5.7</td>
+<td>Autorreferido</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Transporte de emergência</td>
+<td>1</td>
+<td>7.5.1, 10.1</td>
+<td>Autorreferido</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Tratamento de resíduos</td>
+<td>1</td>
+<td>6.5, 6.6</td>
+<td>Misto</td>
+<td>2 + categorias</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>Aparelhos, coluna de funcionamento</td>
+<td>1</td>
+<td>9.1</td>
+<td>Observação</td>
+<td>1 por linha</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>Laboratório</td>
+<td>2</td>
+<td>7.2.1</td>
+<td>Misto</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>Partos, funções-sinal</td>
+<td>2</td>
+<td>7.3.7</td>
+<td>Autorreferido</td>
+<td>7</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>Pré-natal, componentes</td>
+<td>2</td>
+<td>7.3.6</td>
+<td>Autorreferido</td>
+<td>até 12</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td>Planeamento familiar, métodos</td>
+<td>2</td>
+<td>7.3.9</td>
+<td>Autorreferido</td>
+<td>4</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td>Puericultura</td>
+<td>2</td>
+<td>7.3.5</td>
+<td>Autorreferido</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>13</td>
+<td>Banco de urgência</td>
+<td>2</td>
+<td>7.2.12</td>
+<td>Autorreferido</td>
+<td>4</td>
+</tr>
+<tr class="even">
+<td>14–21</td>
+<td>Trio de prontidão, por serviço escolhido</td>
+<td>3</td>
+<td>7.3.x</td>
+<td>Misto</td>
+<td>3 por serviço</td>
+</tr>
+<tr class="odd">
+<td>22</td>
+<td>Quadro de pessoal e força de trabalho</td>
+<td>4</td>
+<td>—</td>
+<td>Autorreferido</td>
+<td>~13</td>
+</tr>
+<tr class="even">
+<td>23</td>
+<td>Medicamentos, a partir das quatro âncoras</td>
+<td>4</td>
+<td>7.2.10, 7.3.2–7.3.4</td>
+<td>Observação</td>
+<td>4 a 48</td>
+</tr>
+<tr class="odd">
+<td>24</td>
+<td>Precauções-padrão</td>
+<td>4</td>
+<td>—</td>
+<td>Observação</td>
+<td>~20</td>
+</tr>
+<tr class="even">
+<td>25</td>
+<td>Condições crónicas, oferta por função</td>
+<td>4</td>
+<td>7.1.7, 7.1.9, 7.1.25</td>
+<td>Autorreferido</td>
+<td>12</td>
+</tr>
+<tr class="odd">
+<td>26</td>
+<td>Malária</td>
+<td>4</td>
+<td>—</td>
+<td>Autorreferido</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>27</td>
+<td>Ruturas de stock</td>
+<td>4</td>
+<td>—</td>
+<td>Autorreferido</td>
+<td>1 por traçador</td>
+</tr>
+<tr class="odd">
+<td>28</td>
+<td>Acessibilidade</td>
+<td>4</td>
+<td>—</td>
+<td>Observação</td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td>29</td>
+<td>Orçamento e financiamento</td>
+<td>4</td>
+<td>0.2</td>
+<td>Autorreferido</td>
+<td>6 a 8</td>
+</tr>
+<tr class="odd">
+<td>30</td>
+<td>Supervisão recebida</td>
+<td>4</td>
+<td>—</td>
+<td>Autorreferido</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="como-ler-este-catálogo" class="level2" style="border-left:6px solid #6c3483;background:#f4ecf7;padding:14px 18px;border-radius:6px;">
+<h2 class="anchored" data-anchor-id="como-ler-este-catálogo">Como ler este catálogo</h2>
+<p><strong>Os incrementos não se somam numa ordem única.</strong> Podem ser agrupados por tipo, por modo de recolha, por área temática ou por unidade a que se aplicam. Três leituras parecem úteis:</p>
+<p><strong>Pela latência.</strong> Os Tipos 1 e 2 tornam calculáveis indicadores que a Ficha já persegue sem os produzir. Não introduzem temas novos e, na maior parte, não exigem visita. É a leitura que menos custa defender junto das unidades e a que menos altera o processo atual.</p>
+<p><strong>Pelo modo de recolha.</strong> Há um conjunto de incrementos — os Tipos 1 e 2 quase por inteiro, o quadro de pessoal, a oferta por função nas condições crónicas, as ruturas, o orçamento — que rende em modo autorreferido e pode entrar numa edição da Ficha sem alterar nada na recolha. E há outro que só faz sentido onde houver inquiridor e observação. Esta separação permite que as duas coisas avancem a ritmos diferentes.</p>
+<p><strong>Pelo denominador.</strong> O Tipo 3 é o que melhor aproveita o que já existe. O Mapa Sanitário construiu, ao longo de quatro edições, um denominador nacional serviço a serviço — a informação sobre que unidades oferecem o quê. Esse denominador é precisamente o que os indicadores de prontidão do HHFA exigem e o que um inquérito por amostra não consegue produzir com a mesma cobertura. Três perguntas por serviço transformam-no em prontidão medida.</p>
+<p><strong>Pelo ganho.</strong> É a leitura que melhor serve uma discussão com os programas nacionais, porque é a que fala a linguagem deles. Agrupados pelo que produzem, os incrementos concentram-se em quatro áreas: <strong>saúde materna e neonatal</strong> — funções-sinal do parto, componentes do pré-natal, transporte de emergência, hemoglobina e sumária de urina; <strong>saúde da criança e nutrição</strong> — puericultura, vitamina A, alimento terapêutico, balanças a funcionar, cadeia de frio sustentada por energia contínua; <strong>doenças crónicas</strong> — capacidade por condição em vez de por especialidade; e <strong>segurança do doente e do profissional</strong> — precauções-padrão, resíduos, água e esterilização. Cada programa reconhece nesta lista aquilo de que precisa, e isso torna a adoção dos incrementos uma conversa partilhada em vez de uma exigência externa.</p>
+<p><strong>O que fica por decidir</strong> não é técnico. É saber que indicadores Angola quer produzir, sobre que unidades, e com que periodicidade. Esse é o objeto do documento seguinte.</p>
+</section>
+
+
+
+</main> <!-- /main -->
+<script>
+(function () {
+  var html = document.documentElement;
+  var pt = (html.lang || "pt").toLowerCase().indexOf("pt") === 0;
+  var L = pt
+    ? { font: "Tipo de letra", size: "Tamanho", sans: "Sans", serif: "Serifa", legible: "Legível",
+        smaller: "Diminuir letra", larger: "Aumentar letra", reset: "Tamanho normal",
+        lang: "Idioma", other: "English", otherTitle: "Read this page in English", tools: "Leitura" }
+    : { font: "Typeface", size: "Size", sans: "Sans", serif: "Serif", legible: "Legible",
+        smaller: "Smaller text", larger: "Larger text", reset: "Normal size",
+        lang: "Language", other: "Português", otherTitle: "Ler esta página em português", tools: "Reading" };
+
+  function get(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+  function set(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+
+  function el(tag, attrs, text) {
+    var n = document.createElement(tag);
+    for (var a in attrs) n.setAttribute(a, attrs[a]);
+    if (text) n.textContent = text;
+    return n;
+  }
+
+  // Counterpart page in the other language: same file name in the sibling folder.
+  function otherLangUrl() {
+    var from = pt ? "/pt/" : "/en/", to = pt ? "/en/" : "/pt/";
+    var p = location.pathname, i = p.lastIndexOf(from);
+    if (i < 0) return null;
+    return p.slice(0, i) + to + p.slice(i + from.length) + location.hash;
+  }
+
+  function build() {
+    var box = el("div", { "class": "reader-tools", role: "group", "aria-label": L.tools });
+
+    box.appendChild(el("span", { "class": "reader-label" }, L.font));
+    var fonts = el("div", { "class": "reader-group" });
+    var cur = get("reader-font") || "sans";
+    [["sans", L.sans], ["serif", L.serif], ["legible", L.legible]].forEach(function (f) {
+      var b = el("button", { type: "button", "aria-pressed": String(cur === f[0]) }, f[1]);
+      b.addEventListener("click", function () {
+        if (f[0] === "sans") html.removeAttribute("data-font"); else html.setAttribute("data-font", f[0]);
+        set("reader-font", f[0]);
+        fonts.querySelectorAll("button").forEach(function (x) {
+          x.setAttribute("aria-pressed", String(x === b));
+        });
+      });
+      fonts.appendChild(b);
+    });
+    box.appendChild(fonts);
+
+    box.appendChild(el("span", { "class": "reader-label" }, L.size));
+    var sizes = el("div", { "class": "reader-group" });
+    function size() { return parseInt(html.getAttribute("data-fontsize") || "0", 10); }
+    function applySize(n) {
+      n = Math.max(-1, Math.min(2, n));
+      if (n === 0) html.removeAttribute("data-fontsize"); else html.setAttribute("data-fontsize", String(n));
+      set("reader-fontsize", String(n));
+    }
+    [["A−", L.smaller, -1], ["A", L.reset, 0], ["A+", L.larger, 1]].forEach(function (s) {
+      var b = el("button", { type: "button", title: s[1], "aria-label": s[1] }, s[0]);
+      b.addEventListener("click", function () { applySize(s[2] === 0 ? 0 : size() + s[2]); });
+      sizes.appendChild(b);
+    });
+    box.appendChild(sizes);
+
+    var url = otherLangUrl();
+    if (url) {
+      box.appendChild(el("span", { "class": "reader-label" }, L.lang));
+      box.appendChild(el("a", { "class": "reader-lang", href: url, title: L.otherTitle, hreflang: pt ? "en" : "pt" }, L.other));
+    }
+    return box;
+  }
+
+  function mount() {
+    var host = document.querySelector("#quarto-sidebar .sidebar-menu-container");
+    if (!host) return;
+    host.parentNode.insertBefore(build(), host);
+  }
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", mount);
+  else mount();
+})();
+</script>
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copiada");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copiada");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./03-cobertura.html" class="pagination-link" aria-label="O que cada instrumento capta sobre a realidade das unidades sanitárias">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">O que cada instrumento capta sobre a realidade das unidades sanitárias</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./05-decisoes.html" class="pagination-link" aria-label="Decisões que teremos que tomar para avançarmos juntos">
+        <span class="nav-page-text">Decisões que teremos que tomar para avançarmos juntos</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/filustrias/mapa_sanitario_hhfa/blob/main/pt/04-incrementos.qmd" class="toc-action"><i class="bi bi-github"></i>Ver o código fonte</a></li><li><a href="https://github.com/filustrias/mapa_sanitario_hhfa/issues/new" class="toc-action"><i class="bi empty"></i>Criar uma issue</a></li></ul></div></div></div></footer><script src="site_libs/quarto-html/zenscroll-min.js"></script>
+</body></html>
